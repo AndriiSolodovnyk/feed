@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-09T20:49:23.486Z">
+<yml_catalog date="2026-04-09T21:05:40.449Z">
   <shop>
     <name>Fiskars Shop</name>
     <company>Fiskars</company>
@@ -22,661 +22,661 @@
       <offer id="1052043" available="true">
         <name><![CDATA[Сокира колун Fiskars Solid A26 (1052043)]]></name>
         <vendor>Fiskars</vendor>
-        <price>4499.00</price>
+        <price>4499</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/14/sokyra-kolun-fiskars-solid-a26-1052043-55904097946960_+f27011cb57.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <description><![CDATA[Сокира колун Fiskars Solid A26 (1052043)]]></description>
       </offer>
       <offer id="1052045" available="true">
         <name><![CDATA[Сокира-колун Fiskars Solid A18 (1052045)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2999.00</price>
+        <price>2999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-kolun-solid-a18-32081552193963_+eed79a03b8.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Сокира-колун Fiskars Solid A18 (1052045)]]></description>
       </offer>
       <offer id="1015641" available="true">
         <name><![CDATA[Сокира-колун Fiskars M Х17 (1015641)]]></name>
         <vendor>Fiskars</vendor>
-        <price>3299.00</price>
+        <price>3299</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/sokyra-kolun-m-kh17-52859822826753_+c3712f0c9d.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Сокира-колун Fiskars M Х17 (1015641)]]></description>
       </offer>
       <offer id="1015643" available="true">
         <name><![CDATA[Сокира-колун Fiskars X25 XL (1015643)]]></name>
         <vendor>Fiskars</vendor>
-        <price>3999.00</price>
+        <price>3999</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/sokyra-kolun-xl-kh25-91633830371666_+7b8fe1663b.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Сокира-колун Fiskars X25 XL (1015643)]]></description>
       </offer>
       <offer id="1015640" available="true">
         <name><![CDATA[Сокира-колун Fiskars S Х11 (1015640)]]></name>
         <vendor>Fiskars</vendor>
-        <price>3667.00</price>
+        <price>3667</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/sokyra-kolun-s-kh11-68872749063855_+c2abb2f971.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Сокира-колун Fiskars S Х11 (1015640)]]></description>
       </offer>
       <offer id="1015642" available="true">
         <name><![CDATA[Сокира-колун Fiskars L Х21 (1015642)]]></name>
         <vendor>Fiskars</vendor>
-        <price>3599.00</price>
+        <price>3599</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/sokyra-kolun-l-kh21-f-22103199446323_+a1993e600f.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Сокира-колун Fiskars L Х21 (1015642)]]></description>
       </offer>
-      <offer id="1015619" available="true">
+      <offer id="1015619" available="false">
         <name><![CDATA[Сокира теслярська Fiskars S-X10 (1015619)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2399.00</price>
+        <price>2399</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/21300699254584_+4582d99142.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <description><![CDATA[Сокира теслярська Fiskars S-X10 (1015619)]]></description>
       </offer>
       <offer id="1051085" available="true">
         <name><![CDATA[Сокира теслярськаFiskars Solid A10 (1051085)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2499.00</price>
+        <price>2499</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/sokyra-tesliarskafiskars-solid-a10-1051085-32349492837763_+2f75112269.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>149</stock_quantity>
         <description><![CDATA[Сокира теслярськаFiskars Solid A10 (1051085)]]></description>
       </offer>
       <offer id="1028376" available="true">
         <name><![CDATA[Пилка садова ручна Fiskars Solid SW 16 (1028376)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1599.00</price>
+        <price>1599</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>119</stock_quantity>
         <description><![CDATA[Пилка садова ручна Fiskars Solid SW 16 (1028376)]]></description>
       </offer>
       <offer id="1028375" available="true">
         <name><![CDATA[Пила садова ручна Fiskars SW47 (1028375)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2199.00</price>
+        <price>2199</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/pyla-sadova-ruchna-fiskars-sw47-1028375-44541458516724_+cd6d06146d.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <description><![CDATA[Пила садова ручна Fiskars SW47 (1028375)]]></description>
       </offer>
       <offer id="1028374" available="true">
         <name><![CDATA[Пила садова ручна Fiskars SW37 (1028374)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2099.00</price>
+        <price>2099</price>
         <currencyId>UAH</currencyId>
         <categoryId>3</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/pyla-sadova-ruchna-fiskars-sw37-1028374-77726564668057_+8552072805.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <description><![CDATA[Пила садова ручна Fiskars SW37 (1028374)]]></description>
       </offer>
       <offer id="1066715" available="true">
         <name><![CDATA[Лопата туристична Fiskars Solid Metal (1066715)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1199.00</price>
+        <price>1199</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-38348334293020_+adfab19384.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <description><![CDATA[Лопата туристична Fiskars Solid Metal (1066715)]]></description>
       </offer>
       <offer id="1066716" available="true">
         <name><![CDATA[Лопата штикова Fiskars Solid (1066716)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1299.00</price>
+        <price>1299</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-19043015980887_+d5fe7262ca.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <description><![CDATA[Лопата штикова Fiskars Solid (1066716)]]></description>
       </offer>
       <offer id="1067540" available="true">
         <name><![CDATA[Лопата мала Fiskars White S (1067540)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1749.00</price>
+        <price>1749</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/7/lopata-mala-fiskars-white-s-1067540-41347606308531_+4c043b7635.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <description><![CDATA[Лопата мала Fiskars White S (1067540)]]></description>
       </offer>
       <offer id="1014776" available="true">
         <name><![CDATA[Лопата загострена Fiskars ClassicPro червона FSC (1014776)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1600.00</price>
+        <price>1600</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/lopata-zahostrena-fiskars-classicpro-chervona-fsc-1014776-62107306863773_+98e9bf6697.jpeg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Лопата загострена Fiskars ClassicPro червона FSC (1014776)]]></description>
       </offer>
       <offer id="1005016" available="true">
         <name><![CDATA[Лопата совкова будівельна Fiskars (1005016)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2300.00</price>
+        <price>2300</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sovkova-budivelna-fiskars-1005016-69407303738447_+40a2392cd0.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Лопата совкова будівельна Fiskars (1005016)]]></description>
       </offer>
       <offer id="1014823" available="true">
         <name><![CDATA[Лопата совкова FISKARS PARK FSC (1014823)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1860.00</price>
+        <price>1860</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/lopata-sovkova-fiskars-park-fsc-1014823-25032102955162_+d14f29a5a1.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Лопата совкова FISKARS PARK FSC (1014823)]]></description>
       </offer>
       <offer id="1014773" available="true">
         <name><![CDATA[Лопата садова штикова Fiskars Classic FSC (1014773)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2000.00</price>
+        <price>2000</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/lopata-sadova-shtykova-fiskars-classic-fsc-1014773-68987635325854_+259fdc7151.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>86</stock_quantity>
         <description><![CDATA[Лопата садова штикова Fiskars Classic FSC (1014773)]]></description>
       </offer>
       <offer id="1024472" available="true">
         <name><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name>
         <vendor>Fiskars</vendor>
-        <price>899.00</price>
+        <price>899</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-sadova-klasychna-fiskars-fsc-1024472-57800540377835_+bcbde5a5fc.jpeg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <description><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></description>
       </offer>
       <offer id="1070715" available="true">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2099.00</price>
+        <price>2099</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/vyla-sadovi-white-60988540014067_+db5cb4a77e.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Вила садові Fiskars White (1070715)]]></description>
       </offer>
       <offer id="1014810" available="true">
         <name><![CDATA[Вила короткі Fiskars Solid (1014810)]]></name>
         <vendor>Fiskars</vendor>
-        <price>649.00</price>
+        <price>649</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/vyla-korotki-solid-30245336963469_+61b3f9a06d.jpeg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <description><![CDATA[Вила короткі Fiskars Solid (1014810)]]></description>
       </offer>
       <offer id="1001577" available="true">
         <name><![CDATA[Вила для сіна Fiskars ErgoComfort (1001577)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1069.00</price>
+        <price>1069</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-dlia-sina-ergocomfort-90489817686205_+145949ee90.png</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <description><![CDATA[Вила для сіна Fiskars ErgoComfort (1001577)]]></description>
       </offer>
       <offer id="1011570" available="true">
         <name><![CDATA[Вила для компосту Fiskars пластикові (1011570)]]></name>
         <vendor>Fiskars</vendor>
-        <price>349.00</price>
+        <price>349</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/vyla-dlia-kompostu-fiskars-plastykovi-1011570-47215227791569_+49c9b09729.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <description><![CDATA[Вила для компосту Fiskars пластикові (1011570)]]></description>
       </offer>
       <offer id="1004814" available="true">
         <name><![CDATA[Вила садові полегшені Fiskars Ergo (1004814)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1680.00</price>
+        <price>1680</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/vyla-sadovi-polehsheni-fiskars-ergo-1004814-93572176974926_+737ccf4302.jpeg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Вила садові полегшені Fiskars Ergo (1004814)]]></description>
       </offer>
       <offer id="1004808" available="true">
         <name><![CDATA[Мотика ергономічна Fiskars Skuffejern (1004808)]]></name>
         <vendor>Fiskars</vendor>
-        <price>999.00</price>
+        <price>999</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/motyka-erhonomichna-fiskars-skuffejern-1004808-96674185505548_+122d0a1dd6.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Мотика ергономічна Fiskars Skuffejern (1004808)]]></description>
       </offer>
       <offer id="1014815" available="true">
         <name><![CDATA[Мотига Fiskars Solid L30 (1014815)]]></name>
         <vendor>Fiskars</vendor>
-        <price>999.00</price>
+        <price>999</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/motyha-fiskars-solid-l30-1014815-64947874520294_+32915254de.jpeg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Мотига Fiskars Solid L30 (1014815)]]></description>
       </offer>
       <offer id="1005044" available="true">
         <name><![CDATA[Сапка Fiskars Dutch Red FSC (1005044)]]></name>
         <vendor>Fiskars</vendor>
-        <price>999.00</price>
+        <price>999</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/sapka-fiskars-dutch-red-fsc-1005044-71739665626535_+256a2a5d30.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Сапка Fiskars Dutch Red FSC (1005044)]]></description>
       </offer>
       <offer id="1014792" available="true">
         <name><![CDATA[Сапа FISKARS для картоплі FSC (1014792)]]></name>
         <vendor>Fiskars</vendor>
-        <price>999.00</price>
+        <price>999</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/38/sapa-fiskars-dlia-kartopli-fsc-1014792-29878055929711_+3bb42e01a2.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Сапа FISKARS для картоплі FSC (1014792)]]></description>
       </offer>
       <offer id="1052090" available="true">
         <name><![CDATA[Набір садовий Fiskars лопатка, культиватор (1052090)]]></name>
         <vendor>Fiskars</vendor>
-        <price>298.00</price>
+        <price>298</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/nabir-sadovyi-fiskars-lopatka-kultyvator-1052090-80101712747137_+bc1c79f3c3.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <description><![CDATA[Набір садовий Fiskars лопатка, культиватор (1052090)]]></description>
       </offer>
       <offer id="1025564" available="true">
         <name><![CDATA[Лопатка для пересадки Fiskars Solid (1025564)]]></name>
         <vendor>Fiskars</vendor>
-        <price>277.00</price>
+        <price>277</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/lopatka-dlia-peresadky-fiskars-solid-1025564-47156608600942_+ea51128c87.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Лопатка для пересадки Fiskars Solid (1025564)]]></description>
       </offer>
       <offer id="1025563" available="true">
         <name><![CDATA[Лопатка Fiskars Solid (1025563)]]></name>
         <vendor>Fiskars</vendor>
-        <price>277.00</price>
+        <price>277</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/lopatka-fiskars-solid-1025563-57182449374359_+48018cd8f5.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Лопатка Fiskars Solid (1025563)]]></description>
       </offer>
       <offer id="1025565" available="true">
         <name><![CDATA[Культиватор Fiskars Solid (1025565)]]></name>
         <vendor>Fiskars</vendor>
-        <price>377.00</price>
+        <price>377</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/kultyvator-fiskars-solid-1025565-53478953591333_+015e3a76d4.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Культиватор Fiskars Solid (1025565)]]></description>
       </offer>
       <offer id="1027034" available="true">
         <name><![CDATA[Вилка для посадки Fiskars White (1027034)]]></name>
         <vendor>Fiskars</vendor>
-        <price>377.00</price>
+        <price>377</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/vylka-dlia-posadky-fiskars-white-1027034-32452138324249_+24496c2ede.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>16</stock_quantity>
         <description><![CDATA[Вилка для посадки Fiskars White (1027034)]]></description>
       </offer>
       <offer id="1025567" available="true">
         <name><![CDATA[Сапка Fiskars Solid Planter (1025567)]]></name>
         <vendor>Fiskars</vendor>
-        <price>549.00</price>
+        <price>549</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/23/sapka-fiskars-solid-planter-1025567-47332315461069_+84c2d4b930.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Сапка Fiskars Solid Planter (1025567)]]></description>
       </offer>
       <offer id="1027033" available="true">
         <name><![CDATA[Лопатка для розсади Fiskars White (1027033)]]></name>
         <vendor>Fiskars</vendor>
-        <price>277.00</price>
+        <price>277</price>
         <currencyId>UAH</currencyId>
         <categoryId>2</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/lopatka-dlia-rozsady-fiskars-white-1027033-86885566409648_+ea5a4b42ec.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>16</stock_quantity>
         <description><![CDATA[Лопатка для розсади Fiskars White (1027033)]]></description>
       </offer>
-      <offer id="1025566" available="true">
+      <offer id="1025566" available="false">
         <name><![CDATA[Вила для бур'янів Fiskars Solid (1025566)]]></name>
         <vendor>Fiskars</vendor>
-        <price>219.00</price>
+        <price>219</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/vyla-dlia-burianiv-fiskars-solid-1025566-83309651957586_+8ab0a3898c.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <description><![CDATA[Вила для бур'янів Fiskars Solid (1025566)]]></description>
       </offer>
       <offer id="1018608" available="true">
         <name><![CDATA[Культиватор Fiskars Ergonomic (1018608)]]></name>
         <vendor>Fiskars</vendor>
-        <price>899.00</price>
+        <price>899</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/kultyvator-fiskars-ergonomic-1018608-57386601387864_+4b087052e4.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Культиватор Fiskars Ergonomic (1018608)]]></description>
       </offer>
       <offer id="1001530" available="true">
         <name><![CDATA[Секатор професійний Fiskars Pro P90 (1001530)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1399.00</price>
+        <price>1399</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-67228565350612_+3651437728.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <description><![CDATA[Секатор професійний Fiskars Pro P90 (1001530)]]></description>
       </offer>
       <offer id="1026916" available="true">
         <name><![CDATA[Секатор площинний Fiskars White P57 (1026916)]]></name>
         <vendor>Fiskars</vendor>
-        <price>999.00</price>
+        <price>999</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-86012777730212_+d64300a136.png</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>149</stock_quantity>
         <description><![CDATA[Секатор площинний Fiskars White P57 (1026916)]]></description>
       </offer>
-      <offer id="1057162" available="true">
+      <offer id="1057162" available="false">
         <name><![CDATA[Секатор площинний Fiskars Solid M P321 (1057162)]]></name>
         <vendor>Fiskars</vendor>
-        <price>699.00</price>
+        <price>699</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/sekator-ploshchynnyi-fiskars-solid-m-p321-1057162-98393035338109_+022dbe4bcb.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <description><![CDATA[Секатор площинний Fiskars Solid M P321 (1057162)]]></description>
       </offer>
       <offer id="1057169" available="true">
         <name><![CDATA[Секатор площинний Fiskars SmartFit P541 (1057169)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1049.00</price>
+        <price>1049</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/1/sekator-ploshchynnyi-fiskars-smartfit-p541-1057169-69400811095303_+90e650892c.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <description><![CDATA[Секатор площинний Fiskars SmartFit P541 (1057169)]]></description>
       </offer>
       <offer id="1000567" available="true">
         <name><![CDATA[Секатор площинний Fiskars SingleStep P26 (1000567)]]></name>
         <vendor>Fiskars</vendor>
-        <price>599.00</price>
+        <price>599</price>
         <currencyId>UAH</currencyId>
         <categoryId>4</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-27487367778769_+1137de4d65.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <description><![CDATA[Секатор площинний Fiskars SingleStep P26 (1000567)]]></description>
       </offer>
       <offer id="1000660" available="true">
         <name><![CDATA[Граблі для листя Fiskars Ergonomic XL (1000660)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1228.00</price>
+        <price>1228</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/hrabli-dlia-lystia-fiskars-ergonomic-xl-1000660-38160386573897_+c708c18211.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <description><![CDATA[Граблі для листя Fiskars Ergonomic XL (1000660)]]></description>
       </offer>
       <offer id="1023492" available="true">
         <name><![CDATA[Граблі великі для листя Fiskars М помаранчеві (1023492)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1400.00</price>
+        <price>1400</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492-98820689201740_+9388495fc8.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Граблі великі для листя Fiskars М помаранчеві (1023492)]]></description>
       </offer>
       <offer id="1024720" available="true">
         <name><![CDATA[Граблі Fiskars Solid (1024720)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1377.00</price>
+        <price>1377</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/29/hrabli-fiskars-solid-1024720-46645498261926_+f3e1a2f52e.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Граблі Fiskars Solid (1024720)]]></description>
       </offer>
       <offer id="1056927" available="true">
         <name><![CDATA[Набір Fiskars мітла дворова М + Граблі Solid (1056927)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1199.00</price>
+        <price>1199</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/nabir-fiskars-mitla-dvorova-m-hrabli-solid-1056927-82433085609314_+55060e055c.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Набір Fiskars мітла дворова М + Граблі Solid (1056927)]]></description>
       </offer>
       <offer id="1019608" available="true">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
         <vendor>Fiskars</vendor>
-        <price>899.00</price>
+        <price>899</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/hrabli-dlia-gruntu-polehsheni-fiskars-white-1019608-39495851024710_+1cf62f0792.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <description><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></description>
       </offer>
       <offer id="1001587" available="true">
         <name><![CDATA[Граблі для грунту універсальні Fiskars FSC (1001587)]]></name>
         <vendor>Fiskars</vendor>
-        <price>799.00</price>
+        <price>799</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/hrabli-dlia-hruntu-universalni-fiskars-fsc-1001587-14393508411534_+89c2a58089.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Граблі для грунту універсальні Fiskars FSC (1001587)]]></description>
       </offer>
       <offer id="1011611" available="true">
         <name><![CDATA[Граблі для листя Fiskars Prima FSC (1011611)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1600.00</price>
+        <price>1600</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/hrabli-dlia-lystia-fiskars-prima-fsc-1011611-71858912883553_+7120b776c5.jpeg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Граблі для листя Fiskars Prima FSC (1011611)]]></description>
       </offer>
       <offer id="1014828" available="true">
         <name><![CDATA[Граблі для грунту FISKARS PARK FSC (1014828)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1749.00</price>
+        <price>1749</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/hrabli-dlia-hruntu-fiskars-park-fsc-1014828-12996443831099_+7e4669c0b9.png</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Граблі для грунту FISKARS PARK FSC (1014828)]]></description>
       </offer>
       <offer id="1026931" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars White HS53 (1026931)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2099.00</price>
+        <price>2099</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-kushchiv-white-hs53-36546715681451_+52c8a0d24a.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>148</stock_quantity>
         <description><![CDATA[Ножиці для кущів Fiskars White HS53 (1026931)]]></description>
       </offer>
       <offer id="1026827" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars Solid HS21 (1026827)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1499.00</price>
+        <price>1499</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nozhytsi-dlia-kushchiv-solid-hs21-53203319405827_+1fcb36e454.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Ножиці для кущів Fiskars Solid HS21 (1026827)]]></description>
       </offer>
       <offer id="1001433" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars SingleStep HS22 (1001433)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1899.00</price>
+        <price>1899</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-dlia-kushchiv-singlestep-hs22-63454915878333_+eb5770e006.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <description><![CDATA[Ножиці для кущів Fiskars SingleStep HS22 (1001433)]]></description>
       </offer>
       <offer id="1026917" available="true">
         <name><![CDATA[Ножиці для трави Fiskars White GS41 (1026917)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1549.00</price>
+        <price>1549</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/nozhytsi-dlia-travy-fiskars-white-gs41-1026917-71445211644230_+2ce1ec7dae.jpeg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>150</stock_quantity>
         <description><![CDATA[Ножиці для трави Fiskars White GS41 (1026917)]]></description>
       </offer>
       <offer id="1061193" available="true">
         <name><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1949.00</price>
+        <price>1949</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/nizh-skladanyi-fiskars-carbonmax-1061193-67692062142256_+1f8cb32340.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>120</stock_quantity>
         <description><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></description>
       </offer>
       <offer id="1061192" available="true">
         <name><![CDATA[Ніж з висувним лезом Fiskars CarbonMax (1061192)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1949.00</price>
+        <price>1949</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/14/nizh-z-vysuvnym-lezom-fiskars-carbonmax-1061192-39961808361976_+e5208f1a2a.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <description><![CDATA[Ніж з висувним лезом Fiskars CarbonMax (1061192)]]></description>
       </offer>
       <offer id="1001622" available="true">
         <name><![CDATA[Ніж загального призначення K40 Fiskars (1001622)]]></name>
         <vendor>Fiskars</vendor>
-        <price>999.00</price>
+        <price>999</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-zahalnoho-pryznachennia-k40-fiskars-1001622-38969493694733_+aa39636bec.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>149</stock_quantity>
         <description><![CDATA[Ніж загального призначення K40 Fiskars (1001622)]]></description>
       </offer>
-      <offer id="1027216" available="true">
+      <offer id="1027216" available="false">
         <name><![CDATA[Болторіз Fiskars PowerGear 91см (1027216)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1799.00</price>
+        <price>1799</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/boltoriz-fiskars-powergear-91sm-1027216-76365900175027_+fb3ebd6634.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <description><![CDATA[Болторіз Fiskars PowerGear 91см (1027216)]]></description>
       </offer>
       <offer id="1027215" available="true">
         <name><![CDATA[Болторіз Fiskars PowerGear 76см (1027215)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1699.00</price>
+        <price>1699</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/boltoriz-fiskars-powergear-76sm-1027215-41556772701657_+16b2cb2dc0.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <description><![CDATA[Болторіз Fiskars PowerGear 76см (1027215)]]></description>
       </offer>
-      <offer id="1000601" available="true">
+      <offer id="1000601" available="false">
         <name><![CDATA[Точило для сокир та ножів Fiskars Xsharp (1000601)]]></name>
         <vendor>Fiskars</vendor>
-        <price>799.00</price>
+        <price>799</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/29/tochylo-dlia-sokyr-ta-nozhiv-xsharp-59972761299982_+3c6707bfc4.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <description><![CDATA[Точило для сокир та ножів Fiskars Xsharp (1000601)]]></description>
       </offer>
       <offer id="1026797" available="true">
         <name><![CDATA[Точило для сокир та ножів Fiskars Solid (1026797)]]></name>
         <vendor>Fiskars</vendor>
-        <price>849.00</price>
+        <price>849</price>
         <currencyId>UAH</currencyId>
         <categoryId>1</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-26347769480417_+dbde59df1f.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <description><![CDATA[Точило для сокир та ножів Fiskars Solid (1026797)]]></description>
       </offer>
       <offer id="1001317" available="true">
         <name><![CDATA[Точило для ножів Fiskars Kitchen Devils (1001317)]]></name>
         <vendor>Fiskars</vendor>
-        <price>699.00</price>
+        <price>699</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/tochylo-dlia-nozhiv-fiskars-kitchen-devils-1001317-13605935195027_+7be8f52585.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <description><![CDATA[Точило для ножів Fiskars Kitchen Devils (1001317)]]></description>
       </offer>
       <offer id="1027528" available="true">
         <name><![CDATA[Гілкоріз площинний телескопічний Fiskars Solid L13 (1027528)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2300.00</price>
+        <price>2300</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-35773768022595_+e04fe55b4f.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <description><![CDATA[Гілкоріз площинний телескопічний Fiskars Solid L13 (1027528)]]></description>
       </offer>
       <offer id="1026930" available="true">
         <name><![CDATA[Гілкоріз Fiskars White L32 (1026930)]]></name>
         <vendor>Fiskars</vendor>
-        <price>2699.00</price>
+        <price>2699</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/hilkoriz-fiskars-white-l32-1026930-92647425246952_+3548994504.jpeg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>119</stock_quantity>
         <description><![CDATA[Гілкоріз Fiskars White L32 (1026930)]]></description>
       </offer>
       <offer id="1001553" available="true">
         <name><![CDATA[Гілкоріз площинний із загнутим лезом Fiskars PowerGear L76 (1001553)]]></name>
         <vendor>Fiskars</vendor>
-        <price>1699.00</price>
+        <price>1699</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553-41850968687303_+a0e0f8cd43.jpg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>32</stock_quantity>
         <description><![CDATA[Гілкоріз площинний із загнутим лезом Fiskars PowerGear L76 (1001553)]]></description>
       </offer>
       <offer id="1073084" available="true">
         <name><![CDATA[Гілкоріз телескопічний Fiskars UPN86 (1073084)]]></name>
         <vendor>Fiskars</vendor>
-        <price>5999.00</price>
+        <price>5999</price>
         <currencyId>UAH</currencyId>
         <categoryId>5</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-76659777716621_+c5315c786b.jpeg</picture>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <description><![CDATA[Гілкоріз телескопічний Fiskars UPN86 (1073084)]]></description>
       </offer>
     </offers>
