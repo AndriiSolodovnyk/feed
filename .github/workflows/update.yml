@@ -1,0 +1,28 @@
+name: Update Feed
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - run: npm install
+
+      - run: node index.js
+
+      - run: |
+          git config user.name "bot"
+          git config user.email "bot@github.com"
+          git add rozetka.xml
+          git commit -m "auto update" || echo "no changes"
+          git push
