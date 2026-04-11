@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-10T23:54:50.147Z">
+<yml_catalog date="2026-04-11T05:19:43.469Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -56,14 +56,14 @@
         <price>2499</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/sokyra-tesliarskafiskars-solid-a10-1051085-32349492837763_+2f75112269.jpg</picture>
-        <stock_quantity>149</stock_quantity>
+        <stock_quantity>66</stock_quantity>
       </offer>
       <offer id="1028376" available="true">
         <name><![CDATA[Пилка садова ручна Fiskars Solid SW 16 (1028376)]]></name>
         <price>1599</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
-        <stock_quantity>119</stock_quantity>
+        <stock_quantity>59</stock_quantity>
       </offer>
       <offer id="1028375" available="true">
         <name><![CDATA[Пила садова ручна Fiskars SW47 (1028375)]]></name>
@@ -121,12 +121,12 @@
         <picture>https://fiskars-gratis.com.ua/content/images/47/lopata-sovkova-fiskars-park-fsc-1014823-25032102955162_+d14f29a5a1.jpg</picture>
         <stock_quantity>4</stock_quantity>
       </offer>
-      <offer id="1014773" available="true">
+      <offer id="1014773" available="false">
         <name><![CDATA[Лопата садова штикова Fiskars Classic FSC (1014773)]]></name>
         <price>2000</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/lopata-sadova-shtykova-fiskars-classic-fsc-1014773-68987635325854_+259fdc7151.jpg</picture>
-        <stock_quantity>86</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1024472" available="true">
         <name><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name>
@@ -135,12 +135,12 @@
         <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-sadova-klasychna-fiskars-fsc-1024472-57800540377835_+bcbde5a5fc.jpeg</picture>
         <stock_quantity>2</stock_quantity>
       </offer>
-      <offer id="1070715" available="true">
+      <offer id="1070715" available="false">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
         <price>2099</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/vyla-sadovi-white-60988540014067_+db5cb4a77e.jpg</picture>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1014810" available="true">
         <name><![CDATA[Вила короткі Fiskars Solid (1014810)]]></name>
@@ -308,7 +308,7 @@
         <price>1400</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492-98820689201740_+9388495fc8.jpg</picture>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1024720" available="true">
         <name><![CDATA[Граблі Fiskars Solid (1024720)]]></name>
@@ -350,21 +350,21 @@
         <price>1749</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/hrabli-dlia-hruntu-fiskars-park-fsc-1014828-12996443831099_+7e4669c0b9.png</picture>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1026931" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars White HS53 (1026931)]]></name>
         <price>2099</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-kushchiv-white-hs53-36546715681451_+52c8a0d24a.jpg</picture>
-        <stock_quantity>148</stock_quantity>
+        <stock_quantity>118</stock_quantity>
       </offer>
       <offer id="1026827" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars Solid HS21 (1026827)]]></name>
         <price>1499</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nozhytsi-dlia-kushchiv-solid-hs21-53203319405827_+1fcb36e454.jpg</picture>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1001433" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars SingleStep HS22 (1001433)]]></name>
@@ -378,7 +378,7 @@
         <price>1549</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/nozhytsi-dlia-travy-fiskars-white-gs41-1026917-71445211644230_+2ce1ec7dae.jpeg</picture>
-        <stock_quantity>150</stock_quantity>
+        <stock_quantity>80</stock_quantity>
       </offer>
       <offer id="1061193" available="true">
         <name><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></name>
@@ -436,33 +436,33 @@
         <picture>https://fiskars-gratis.com.ua/content/images/42/tochylo-dlia-nozhiv-fiskars-kitchen-devils-1001317-13605935195027_+7be8f52585.jpg</picture>
         <stock_quantity>5</stock_quantity>
       </offer>
-      <offer id="1027528" available="true">
+      <offer id="1027528" available="false">
         <name><![CDATA[Гілкоріз площинний телескопічний Fiskars Solid L13 (1027528)]]></name>
         <price>2300</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-35773768022595_+e04fe55b4f.jpg</picture>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1026930" available="true">
         <name><![CDATA[Гілкоріз Fiskars White L32 (1026930)]]></name>
         <price>2699</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/hilkoriz-fiskars-white-l32-1026930-92647425246952_+3548994504.jpeg</picture>
-        <stock_quantity>119</stock_quantity>
+        <stock_quantity>89</stock_quantity>
       </offer>
       <offer id="1001553" available="true">
         <name><![CDATA[Гілкоріз площинний із загнутим лезом Fiskars PowerGear L76 (1001553)]]></name>
         <price>1699</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553-41850968687303_+a0e0f8cd43.jpg</picture>
-        <stock_quantity>32</stock_quantity>
+        <stock_quantity>34</stock_quantity>
       </offer>
-      <offer id="1073084" available="true">
+      <offer id="1073084" available="false">
         <name><![CDATA[Гілкоріз телескопічний Fiskars UPN86 (1073084)]]></name>
         <price>5999</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-76659777716621_+c5315c786b.jpeg</picture>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
     </offers>
   </shop>
