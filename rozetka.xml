@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-13T00:03:24.957Z">
+<yml_catalog date="2026-04-13T07:29:07.961Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -196,7 +196,7 @@
         <price>999</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/38/sapa-fiskars-dlia-kartopli-fsc-1014792-29878055929711_+3bb42e01a2.jpg</picture>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1052090" available="true">
         <name><![CDATA[Набір садовий Fiskars лопатка, культиватор (1052090)]]></name>
@@ -336,7 +336,7 @@
         <price>799</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/hrabli-dlia-hruntu-universalni-fiskars-fsc-1001587-14393508411534_+89c2a58089.jpg</picture>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1011611" available="true">
         <name><![CDATA[Граблі для листя Fiskars Prima FSC (1011611)]]></name>
