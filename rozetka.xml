@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-15T00:06:33.228Z">
+<yml_catalog date="2026-04-15T03:47:51.590Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -324,12 +324,12 @@
         <picture>https://fiskars-gratis.com.ua/content/images/30/nabir-fiskars-mitla-dvorova-m-hrabli-solid-1056927-82433085609314_+55060e055c.jpg</picture>
         <stock_quantity>4</stock_quantity>
       </offer>
-      <offer id="1019608" available="true">
+      <offer id="1019608" available="false">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
         <price>899</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/hrabli-dlia-gruntu-polehsheni-fiskars-white-1019608-39495851024710_+1cf62f0792.jpg</picture>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1001587" available="true">
         <name><![CDATA[Граблі для грунту універсальні Fiskars FSC (1001587)]]></name>
@@ -413,7 +413,7 @@
         <price>1699</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/boltoriz-fiskars-powergear-76sm-1027215-41556772701657_+16b2cb2dc0.jpg</picture>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1000601" available="false">
         <name><![CDATA[Точило для сокир та ножів Fiskars Xsharp (1000601)]]></name>
