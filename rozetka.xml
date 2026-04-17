@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-17T00:05:11.125Z">
+<yml_catalog date="2026-04-17T03:50:58.230Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -133,7 +133,7 @@
         <price>899</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-sadova-klasychna-fiskars-fsc-1024472-57800540377835_+bcbde5a5fc.jpeg</picture>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1070715" available="false">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
