@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-18T23:35:03.322Z">
+<yml_catalog date="2026-04-19T02:40:18.051Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -161,7 +161,7 @@
         <price>349</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/vyla-dlia-kompostu-fiskars-plastykovi-1011570-47215227791569_+49c9b09729.jpg</picture>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1004814" available="true">
         <name><![CDATA[Вила садові полегшені Fiskars Ergo (1004814)]]></name>
@@ -231,7 +231,7 @@
         <price>377</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/vylka-dlia-posadky-fiskars-white-1027034-32452138324249_+24496c2ede.jpg</picture>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="1025567" available="true">
         <name><![CDATA[Сапка Fiskars Solid Planter (1025567)]]></name>
@@ -245,7 +245,7 @@
         <price>277</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/lopatka-dlia-rozsady-fiskars-white-1027033-86885566409648_+ea5a4b42ec.jpg</picture>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="1025566" available="false">
         <name><![CDATA[Вила для бур'янів Fiskars Solid (1025566)]]></name>
@@ -422,12 +422,12 @@
         <picture>https://fiskars-gratis.com.ua/content/images/29/tochylo-dlia-sokyr-ta-nozhiv-xsharp-59972761299982_+3c6707bfc4.jpg</picture>
         <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="1026797" available="true">
+      <offer id="1026797" available="false">
         <name><![CDATA[Точило для сокир та ножів Fiskars Solid (1026797)]]></name>
         <price>849</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-26347769480417_+dbde59df1f.jpg</picture>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1001317" available="true">
         <name><![CDATA[Точило для ножів Fiskars Kitchen Devils (1001317)]]></name>
@@ -436,12 +436,12 @@
         <picture>https://fiskars-gratis.com.ua/content/images/42/tochylo-dlia-nozhiv-fiskars-kitchen-devils-1001317-13605935195027_+7be8f52585.jpg</picture>
         <stock_quantity>5</stock_quantity>
       </offer>
-      <offer id="1027528" available="false">
+      <offer id="1027528" available="true">
         <name><![CDATA[Гілкоріз площинний телескопічний Fiskars Solid L13 (1027528)]]></name>
         <price>2300</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-35773768022595_+e04fe55b4f.jpg</picture>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1026930" available="true">
         <name><![CDATA[Гілкоріз Fiskars White L32 (1026930)]]></name>
