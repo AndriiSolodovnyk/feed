@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-19T23:36:29.803Z">
+<yml_catalog date="2026-04-20T02:41:02.801Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -189,7 +189,7 @@
         <price>999</price>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/sapka-fiskars-dutch-red-fsc-1005044-71739665626535_+256a2a5d30.jpg</picture>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1014792" available="true">
         <name><![CDATA[Сапа FISKARS для картоплі FSC (1014792)]]></name>
