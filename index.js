@@ -50,8 +50,10 @@ function buildRozetka(products) {
       <offer id="${p.sku}" available="${p.available}">
         <name><![CDATA[${p.name}]]></name>
         <price>${p.price}</price>
+        <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>${p.image}</picture>
+        <description><![CDATA[${p.name}]]></description>
         <stock_quantity>${p.stock}</stock_quantity>
       </offer>`;
   }
