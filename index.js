@@ -18,7 +18,7 @@ async function parseProducts() {
   for (const row of rows) {
     const sku = row['Артикул'];
     const name = row['Название(UA)'];
-    const description = row['Описание'] || row['Опис'] || '';
+    const description = row['Описание товара(UA)'] || '';
     const price = Number(row['Цена']) || 0;
     const photos = row['Фото'];
     const quantity = Number(row['Количество']) || 0;
