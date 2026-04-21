@@ -18,6 +18,7 @@ async function parseProducts() {
   for (const row of rows) {
     const sku = row['Артикул'];
     const name = row['Название(UA)'];
+    const description = row['Описание'] || row['Опис'] || '';
     const price = Number(row['Цена']) || 0;
     const photos = row['Фото'];
     const quantity = Number(row['Количество']) || 0;
@@ -32,8 +33,9 @@ async function parseProducts() {
       price,
       stock: quantity,
       available: quantity > 0,
-      image: firstImage
-    });
+      image: firstImage,
+      description
+});
   }
 
   return products;
@@ -53,7 +55,7 @@ function buildRozetka(products) {
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>${p.image}</picture>
-        <description><![CDATA[${p.name}]]></description>
+        <description><![CDATA[${p.description || p.name}]]></description>
         <stock_quantity>${p.stock}</stock_quantity>
       </offer>`;
   }
