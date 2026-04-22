@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-22T00:01:26.890Z">
+<yml_catalog date="2026-04-22T03:46:59.743Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -898,7 +898,7 @@
 <p data-end="1255" data-is-last-node="" data-is-only-node="" data-start="1045"><span style="font-size:18px;"><strong data-end="1061" data-start="1045">Особливості:</strong></span><span style="font-size:14px;"> інструмент вироблений із сертифікованої деревини FSC і належить до серії бренду Fiskars, призначений для широкого спектра ґрунтообробних задач у саду та на городі.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1011611" available="true">
         <name><![CDATA[Граблі для листя Fiskars Prima FSC (1011611)]]></name>
