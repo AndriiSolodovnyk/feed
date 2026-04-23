@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-23T00:09:45.273Z">
+<yml_catalog date="2026-04-23T03:53:47.117Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -584,7 +584,7 @@
 
 <p data-end="1108" data-is-last-node="" data-is-only-node="" data-start="945"><span style="font-size:18px;"><strong data-end="961" data-start="945">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичних дрібних садових і городніх робіт.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1025565" available="true">
         <name><![CDATA[Культиватор Fiskars Solid (1025565)]]></name>
@@ -770,7 +770,7 @@
 ]]></description>
         <stock_quantity>3</stock_quantity>
       </offer>
-      <offer id="1000567" available="true">
+      <offer id="1000567" available="false">
         <name><![CDATA[Секатор площинний Fiskars SingleStep P26 (1000567)]]></name>
         <price>599</price>
         <categoryId>1</categoryId>
@@ -786,7 +786,7 @@
 
 <p data-end="997" data-is-last-node="" data-is-only-node="" data-start="840"><span style="font-size:18px;"><strong data-end="856" data-start="840">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії SingleStep бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1000660" available="true">
         <name><![CDATA[Граблі для листя Fiskars Ergonomic XL (1000660)]]></name>
