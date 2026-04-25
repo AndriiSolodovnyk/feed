@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-25T00:04:26.339Z">
+<yml_catalog date="2026-04-25T03:39:41.487Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -120,7 +120,7 @@
 
 <p data-end="1068" data-is-last-node="" data-is-only-node="" data-start="899"><span style="font-size:18px;"><strong data-end="915" data-start="899">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії L бренду Fiskars та призначений для систематичного розколювання деревини середнього діаметру.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1015619" available="false">
         <name><![CDATA[Сокира теслярська Fiskars S-X10 (1015619)]]></name>
@@ -732,7 +732,7 @@
 <p data-end="971" data-is-last-node="" data-is-only-node="" data-start="819"><span style="font-size:18px;"><strong data-end="835" data-start="819">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>149</stock_quantity>
+        <stock_quantity>119</stock_quantity>
       </offer>
       <offer id="1057162" available="false">
         <name><![CDATA[Секатор площинний Fiskars Solid M P321 (1057162)]]></name>
@@ -1064,7 +1064,7 @@
 
 <p data-end="1055" data-is-last-node="" data-is-only-node="" data-start="908"><span style="font-size:18px;"><strong data-end="924" data-start="908">Особливості:</strong> </span><span style="font-size:14px;">інструмент вироблений брендом Fiskars та призначений для широкого спектра загальних різальних задач.</span></p>
 ]]></description>
-        <stock_quantity>149</stock_quantity>
+        <stock_quantity>119</stock_quantity>
       </offer>
       <offer id="1027216" available="false">
         <name><![CDATA[Болторіз Fiskars PowerGear 91см (1027216)]]></name>
@@ -1196,7 +1196,7 @@
 <p data-end="1055" data-is-last-node="" data-is-only-node="" data-start="886"><span style="font-size:18px;"><strong data-end="902" data-start="886">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для догляду за деревними насадженнями середнього розміру.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>89</stock_quantity>
+        <stock_quantity>119</stock_quantity>
       </offer>
       <offer id="1001553" available="true">
         <name><![CDATA[Гілкоріз площинний із загнутим лезом Fiskars PowerGear L76 (1001553)]]></name>
@@ -1234,7 +1234,7 @@
 
 <p data-end="1514" data-start="1167"><span style="font-size:18px;"><strong data-end="1183" data-start="1167">Особливості:</strong></span><span style="font-size:14px;"> механізм обрізання забезпечує ефективну передачу зусилля для різання товстих гілок, а конструкція дозволяє працювати як на висоті, так і на рівні землі без нахилів або зайвого фізичного навантаження. Інструмент також сумісний з додатковими насадками, такими як садова пилка або плодознімач</span></p>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
     </offers>
   </shop>
