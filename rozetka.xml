@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-27T23:53:28.345Z">
+<yml_catalog date="2026-04-28T02:53:09.866Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -472,7 +472,7 @@
 
 <p data-end="1196" data-is-last-node="" data-is-only-node="" data-start="968"><span style="font-size:18px;"><strong data-end="984" data-start="968">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії ергономічних інструментів бренду Fiskars та призначений для систематичного догляду за ґрунтом і боротьби з бур&rsquo;янами із зниженим фізичним навантаженням.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1014815" available="true">
         <name><![CDATA[Мотига Fiskars Solid L30 (1014815)]]></name>
@@ -490,7 +490,7 @@
 
 <p data-end="1073" data-is-last-node="" data-is-only-node="" data-start="896"><span style="font-size:18px;"><strong data-end="912" data-start="896">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом і полегшення садових робіт.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1005044" available="true">
         <name><![CDATA[Сапка Fiskars Dutch Red FSC (1005044)]]></name>
