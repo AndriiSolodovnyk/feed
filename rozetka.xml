@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-28T23:55:05.966Z">
+<yml_catalog date="2026-04-29T02:52:08.627Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -216,7 +216,7 @@
 ]]></description>
         <stock_quantity>6</stock_quantity>
       </offer>
-      <offer id="1066715" available="true">
+      <offer id="1066715" available="false">
         <name><![CDATA[Лопата туристична Fiskars Solid Metal (1066715)]]></name>
         <price>1199</price>
         <categoryId>1</categoryId>
@@ -232,9 +232,9 @@
 
 <p data-end="1001" data-is-last-node="" data-is-only-node="" data-start="826"><span style="font-size:18px;"><strong data-end="842" data-start="826">Особливості:</strong></span><span style="font-size:14px;"> лопата належить до серії Solid Metal бренду Fiskars та розрахована на регулярне використання в туристичних і польових сценаріях.</span></p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="1066716" available="true">
+      <offer id="1066716" available="false">
         <name><![CDATA[Лопата штикова Fiskars Solid (1066716)]]></name>
         <price>1299</price>
         <categoryId>1</categoryId>
@@ -250,7 +250,7 @@
 
 <p data-end="987" data-is-last-node="" data-is-only-node="" data-start="824"><span style="font-size:18px;"><strong data-end="840" data-start="824">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для повсякденних земляних робіт у побутових умовах.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1067540" available="true">
         <name><![CDATA[Лопата мала Fiskars White S (1067540)]]></name>
@@ -286,7 +286,7 @@
 
 <p data-end="1011" data-is-last-node="" data-is-only-node="" data-start="845"><span style="font-size:18px;"><strong data-end="861" data-start="845">Особливості:</strong></span> <span style="font-size:14px;">лопата належить до професійної серії ClassicPro бренду Fiskars та призначена для регулярного інтенсивного використання.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1005016" available="true">
         <name><![CDATA[Лопата совкова будівельна Fiskars (1005016)]]></name>
@@ -342,7 +342,7 @@
 ]]></description>
         <stock_quantity>30</stock_quantity>
       </offer>
-      <offer id="1024472" available="true">
+      <offer id="1024472" available="false">
         <name><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name>
         <price>899</price>
         <categoryId>1</categoryId>
@@ -358,7 +358,7 @@
 
 <p data-end="1300" data-is-last-node="" data-is-only-node="" data-start="1084"><span style="font-size:18px;"><strong data-end="1100" data-start="1084">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії класичних садових інструментів бренду Fiskars та призначений для широкого спектра ручних земляних робіт у саду, на городі та в господарстві.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1070715" available="true">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
