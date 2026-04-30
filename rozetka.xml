@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-29T23:54:41.767Z">
+<yml_catalog date="2026-04-30T02:53:34.167Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -156,7 +156,7 @@
 
 <p data-end="1178" data-is-last-node="" data-is-only-node="" data-start="1022"><span style="font-size:18px;"><strong data-end="1038" data-start="1022">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для акуратних теслярських і столярних робіт.</span></p>
 ]]></description>
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1028376" available="true">
         <name><![CDATA[Пилка садова ручна Fiskars Solid SW 16 (1028376)]]></name>
@@ -376,7 +376,7 @@
 
 <p data-end="948" data-is-last-node="" data-is-only-node="" data-start="800"><span style="font-size:18px;"><strong data-end="816" data-start="800">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до лінійки White бренду Fiskars та орієнтований на регулярне садове використання.</span></p>
 ]]></description>
-        <stock_quantity>23</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1014810" available="true">
         <name><![CDATA[Вила короткі Fiskars Solid (1014810)]]></name>
@@ -806,7 +806,7 @@
 ]]></description>
         <stock_quantity>3</stock_quantity>
       </offer>
-      <offer id="1023492" available="true">
+      <offer id="1023492" available="false">
         <name><![CDATA[Граблі великі для листя Fiskars М помаранчеві (1023492)]]></name>
         <price>1400</price>
         <categoryId>1</categoryId>
@@ -822,7 +822,7 @@
 
 <p data-end="1241" data-is-last-node="" data-is-only-node="" data-start="1058"><span style="font-size:18px;"><strong data-end="1074" data-start="1058">Особливості:</strong></span><span style="font-size:14px;"> інструмент вироблений брендом Fiskars та призначений для регулярного збору листя й рослинних відходів на присадибних ділянках і газонах.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1024720" available="true">
         <name><![CDATA[Граблі Fiskars Solid (1024720)]]></name>
@@ -918,7 +918,7 @@
 ]]></description>
         <stock_quantity>4</stock_quantity>
       </offer>
-      <offer id="1014828" available="true">
+      <offer id="1014828" available="false">
         <name><![CDATA[Граблі для грунту FISKARS PARK FSC (1014828)]]></name>
         <price>1749</price>
         <categoryId>1</categoryId>
@@ -934,7 +934,7 @@
 
 <p data-end="1329" data-is-last-node="" data-is-only-node="" data-start="1156"><span style="font-size:18px;"><strong data-end="1172" data-start="1156">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Park бренду Fiskars та призначений для систематичної обробки ґрунту і догляду за садовими зонами.</span></p>
 ]]></description>
-        <stock_quantity>14</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1026931" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars White HS53 (1026931)]]></name>
