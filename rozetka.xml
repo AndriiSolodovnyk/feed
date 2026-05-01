@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-04-30T23:53:14.615Z">
+<yml_catalog date="2026-05-01T03:22:57.881Z">
   <shop>
     <offers>
       <offer id="1052043" available="true">
@@ -376,7 +376,7 @@
 
 <p data-end="948" data-is-last-node="" data-is-only-node="" data-start="800"><span style="font-size:18px;"><strong data-end="816" data-start="800">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до лінійки White бренду Fiskars та орієнтований на регулярне садове використання.</span></p>
 ]]></description>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>32</stock_quantity>
       </offer>
       <offer id="1014810" available="true">
         <name><![CDATA[Вила короткі Fiskars Solid (1014810)]]></name>
@@ -918,7 +918,7 @@
 ]]></description>
         <stock_quantity>4</stock_quantity>
       </offer>
-      <offer id="1014828" available="false">
+      <offer id="1014828" available="true">
         <name><![CDATA[Граблі для грунту FISKARS PARK FSC (1014828)]]></name>
         <price>1749</price>
         <categoryId>1</categoryId>
@@ -934,7 +934,7 @@
 
 <p data-end="1329" data-is-last-node="" data-is-only-node="" data-start="1156"><span style="font-size:18px;"><strong data-end="1172" data-start="1156">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Park бренду Fiskars та призначений для систематичної обробки ґрунту і догляду за садовими зонами.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1026931" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars White HS53 (1026931)]]></name>
@@ -954,7 +954,7 @@
 ]]></description>
         <stock_quantity>118</stock_quantity>
       </offer>
-      <offer id="1026827" available="false">
+      <offer id="1026827" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars Solid HS21 (1026827)]]></name>
         <price>1499</price>
         <categoryId>1</categoryId>
@@ -970,7 +970,7 @@
 
 <p data-end="1028" data-is-last-node="" data-is-only-node="" data-start="864"><span style="font-size:18px;"><strong data-end="880" data-start="864">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за кущовими насадженнями.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1001433" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars SingleStep HS22 (1001433)]]></name>
