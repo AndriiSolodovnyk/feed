@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-01T23:26:52.462Z">
+<yml_catalog date="2026-05-02T01:11:58.049Z">
   <shop>
     <offers>
-      <offer id="1052043" available="true">
+      <offer id="1052043" available="false">
         <name><![CDATA[Сокира колун Fiskars Solid A26 (1052043)]]></name>
         <price>4499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <picture>https://fiskars-gratis.com.ua/content/images/14/sokyra-kolun-fiskars-solid-a26-1052043-55904097946960_+f27011cb57.jpg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/14/sokyra-kolun-fiskars-solid-a26-1052043-80829392597977_+988b3fc239.png</picture>
         <description><![CDATA[<p data-end="289" data-start="0"><span style="font-size:18px;"><strong data-end="44" data-start="0">Сокира‑колун Fiskars Solid A26 (1052043)</strong></span><span style="font-size:14px;"> &mdash; ручний інструмент для розколювання та оброблення деревини під час господарських та польових робіт. Використовується для розколювання колод, дров, сухої та напівсухої деревини, підготовки палива для опалення та заготівлі матеріалу для вогнища.</span></p>
 
 <p data-end="465" data-start="291"><span style="font-size:18px;"><strong data-end="307" data-start="291">Призначення:</strong></span><span style="font-size:14px;"> підходить для заготівлі дров, розколювання великих та середніх колод, очищення деревини від сучків і підготовки палива в побутових і напівпрофесійних умовах.</span></p>
@@ -18,7 +18,7 @@
 
 <p data-end="1026" data-is-last-node="" data-is-only-node="" data-start="850"><span style="font-size:18px;"><strong data-end="866" data-start="850">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного розколювання деревини у господарських умовах.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1052045" available="true">
         <name><![CDATA[Сокира-колун Fiskars Solid A18 (1052045)]]></name>
@@ -216,7 +216,7 @@
 ]]></description>
         <stock_quantity>6</stock_quantity>
       </offer>
-      <offer id="1066715" available="false">
+      <offer id="1066715" available="true">
         <name><![CDATA[Лопата туристична Fiskars Solid Metal (1066715)]]></name>
         <price>1199</price>
         <categoryId>1</categoryId>
@@ -232,7 +232,7 @@
 
 <p data-end="1001" data-is-last-node="" data-is-only-node="" data-start="826"><span style="font-size:18px;"><strong data-end="842" data-start="826">Особливості:</strong></span><span style="font-size:14px;"> лопата належить до серії Solid Metal бренду Fiskars та розрахована на регулярне використання в туристичних і польових сценаріях.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1066716" available="false">
         <name><![CDATA[Лопата штикова Fiskars Solid (1066716)]]></name>
@@ -858,7 +858,7 @@
 
 <p data-end="1318" data-is-last-node="" data-is-only-node="" data-start="1124"><span style="font-size:18px;"><strong data-end="1140" data-start="1124">Особливості:</strong></span><span style="font-size:14px;"> набір належить до серії Solid бренду Fiskars та призначений для систематичного прибирання та догляду за прибудинковою територією і садовими зонами.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1019608" available="false">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
