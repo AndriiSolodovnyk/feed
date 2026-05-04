@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-03T23:45:15.013Z">
+<yml_catalog date="2026-05-04T02:50:45.397Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -342,7 +342,7 @@
 ]]></description>
         <stock_quantity>7</stock_quantity>
       </offer>
-      <offer id="1024472" available="false">
+      <offer id="1024472" available="true">
         <name><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name>
         <price>899</price>
         <categoryId>1</categoryId>
@@ -358,7 +358,7 @@
 
 <p data-end="1300" data-is-last-node="" data-is-only-node="" data-start="1084"><span style="font-size:18px;"><strong data-end="1100" data-start="1084">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії класичних садових інструментів бренду Fiskars та призначений для широкого спектра ручних земляних робіт у саду, на городі та в господарстві.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1070715" available="true">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
@@ -376,7 +376,7 @@
 
 <p data-end="948" data-is-last-node="" data-is-only-node="" data-start="800"><span style="font-size:18px;"><strong data-end="816" data-start="800">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до лінійки White бренду Fiskars та орієнтований на регулярне садове використання.</span></p>
 ]]></description>
-        <stock_quantity>43</stock_quantity>
+        <stock_quantity>42</stock_quantity>
       </offer>
       <offer id="1014810" available="true">
         <name><![CDATA[Вила короткі Fiskars Solid (1014810)]]></name>
@@ -472,7 +472,7 @@
 
 <p data-end="1196" data-is-last-node="" data-is-only-node="" data-start="968"><span style="font-size:18px;"><strong data-end="984" data-start="968">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії ергономічних інструментів бренду Fiskars та призначений для систематичного догляду за ґрунтом і боротьби з бур&rsquo;янами із зниженим фізичним навантаженням.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1014815" available="true">
         <name><![CDATA[Мотига Fiskars Solid L30 (1014815)]]></name>
@@ -490,7 +490,7 @@
 
 <p data-end="1073" data-is-last-node="" data-is-only-node="" data-start="896"><span style="font-size:18px;"><strong data-end="912" data-start="896">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом і полегшення садових робіт.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1005044" available="true">
         <name><![CDATA[Сапка Fiskars Dutch Red FSC (1005044)]]></name>
@@ -638,7 +638,7 @@
 
 <p data-end="1077" data-is-last-node="" data-is-only-node="" data-start="903"><span style="font-size:18px;"><strong data-end="919" data-start="903">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом на присадибних ділянках.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1027033" available="true">
         <name><![CDATA[Лопатка для розсади Fiskars White (1027033)]]></name>
@@ -952,7 +952,7 @@
 
 <p data-end="996" data-is-last-node="" data-is-only-node="" data-start="839"><span style="font-size:18px;"><strong data-end="855" data-start="839">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для ручного догляду за кущовими насадженнями.</span></p>
 ]]></description>
-        <stock_quantity>118</stock_quantity>
+        <stock_quantity>18</stock_quantity>
       </offer>
       <offer id="1026827" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars Solid HS21 (1026827)]]></name>
@@ -1196,9 +1196,9 @@
 <p data-end="1055" data-is-last-node="" data-is-only-node="" data-start="886"><span style="font-size:18px;"><strong data-end="902" data-start="886">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для догляду за деревними насадженнями середнього розміру.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>119</stock_quantity>
+        <stock_quantity>19</stock_quantity>
       </offer>
-      <offer id="1001553" available="true">
+      <offer id="1001553" available="false">
         <name><![CDATA[Гілкоріз площинний із загнутим лезом Fiskars PowerGear L76 (1001553)]]></name>
         <price>1699</price>
         <categoryId>1</categoryId>
@@ -1216,7 +1216,7 @@
 <p data-end="1190" data-is-last-node="" data-is-only-node="" data-start="977"><span style="font-size:18px;"><strong data-end="993" data-start="977">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії PowerGear бренду Fiskars та призначений для систематичного догляду за деревними насадженнями із застосуванням механічної переваги важеля.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>34</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1073084" available="true">
         <name><![CDATA[Гілкоріз телескопічний Fiskars UPN86 (1073084)]]></name>
@@ -1234,7 +1234,7 @@
 
 <p data-end="1514" data-start="1167"><span style="font-size:18px;"><strong data-end="1183" data-start="1167">Особливості:</strong></span><span style="font-size:14px;"> механізм обрізання забезпечує ефективну передачу зусилля для різання товстих гілок, а конструкція дозволяє працювати як на висоті, так і на рівні землі без нахилів або зайвого фізичного навантаження. Інструмент також сумісний з додатковими насадками, такими як садова пилка або плодознімач</span></p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
     </offers>
   </shop>
