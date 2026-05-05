@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-04T23:26:49.839Z">
+<yml_catalog date="2026-05-05T01:11:32.789Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -157,6 +157,27 @@
 <p data-end="1178" data-is-last-node="" data-is-only-node="" data-start="1022"><span style="font-size:18px;"><strong data-end="1038" data-start="1022">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для акуратних теслярських і столярних робіт.</span></p>
 ]]></description>
         <stock_quantity>39</stock_quantity>
+      </offer>
+      <offer id="1075437" available="true">
+        <name><![CDATA[Набір сокира універсальна Fiskars Х13 + точило 1075437]]></name>
+        <price>1699</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/47/nabir-sokyra-universalna-fiskars-kh13-tochylo-1075437-60907396189436_+bbe4044b8b.png</picture>
+        <description><![CDATA[<p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
+</style>
+<strong>Набір сокира універсальна Fiskars X13 + точило 1075437</strong> &mdash; комплект інструментів для рубки та догляду за лезом.</p>
+
+<p><strong>Призначення: </strong>використовується для заготівлі дров і робіт на природі.</p>
+
+<p><strong>Конструкція:</strong> універсальна сокира з компактними розмірами у комплекті з точилом для підтримки ефективності.</p>
+
+<p><strong>Матеріали: </strong>виготовлені з міцних матеріалів, стійких до навантажень і зношування.</p>
+
+<p><strong>Особливості:</strong> належить до продукції бренду Fiskars, забезпечує зручність і функціональність у використанні.</p>
+]]></description>
+        <stock_quantity>16</stock_quantity>
       </offer>
       <offer id="1028376" available="true">
         <name><![CDATA[Пилка садова ручна Fiskars Solid SW 16 (1028376)]]></name>
@@ -456,6 +477,46 @@
 ]]></description>
         <stock_quantity>4</stock_quantity>
       </offer>
+      <offer id="1071936" available="true">
+        <name><![CDATA[Вила для компосту Fiskars Solid 1071936]]></name>
+        <price>2449</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/42/vyla-dlia-kompostu-fiskars-solid-1071936-48033550256360_+0e1b6bfaec.png</picture>
+        <description><![CDATA[<p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
+</style>
+<strong>Вила для компосту Fiskars Solid </strong>&mdash; <span style="font-size:16px;">садовий інструмент для роботи з компостом, листям та сипучими матеріалами. Забезпечує ефективну обробку та переміщення органічних мас.</span></p>
+
+<p><strong>Призначення: </strong><span style="font-size:16px;">використовується для розпушування, перемішування та перенесення компосту, сіна або листя.</span></p>
+
+<p><strong>Конструкція:</strong> <span style="font-size:16px;">міцні зубці дозволяють легко проникати в матеріал, а продумана форма забезпечує ефективність роботи.</span></p>
+
+<p><strong>Матеріали:</strong> <span style="font-size:16px;">виготовлені з міцної сталі, стійкої до навантажень та корозії.</span></p>
+
+<p><strong>Особливості: </strong><span style="font-size:16px;">належить до серії Solid бренду Fiskars, розрахована на інтенсивне використання та довгий термін служби.</span></p>
+]]></description>
+        <stock_quantity>8</stock_quantity>
+      </offer>
+      <offer id="1070675" available="true">
+        <name><![CDATA[Вила садові Prima U-Grip FSC 1070675]]></name>
+        <price>899</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/44/vyla-sadovi-prima-u-grip-fsc-1070675-65346996310946_+e902645c12.png</picture>
+        <description><![CDATA[<p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
+</style>
+<strong>Вила садові Fiskars Prima U-Grip FSC 1070675</strong> &mdash; <span style="font-size:16px;">садовий інструмент для роботи з ґрунтом, компостом та органічними матеріалами.</span></p>
+
+<p><strong>Призначення:</strong> <span style="font-size:16px;">використовується для розпушування, перемішування та перенесення ґрунту, листя або сіна.</span></p>
+
+<p><strong>Конструкція: </strong><span style="font-size:16px;">міцні зубці забезпечують легке проникнення в матеріал і ефективну роботу. Матеріали: виготовлені зі сталі, стійкої до навантажень і зношування.</span></p>
+
+<p><strong>Особливості: </strong><span style="font-size:16px;">належить до серії Prima бренду Fiskars, забезпечує надійність і довговічність при щоденному використанні.</span></p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
       <offer id="1004808" available="true">
         <name><![CDATA[Мотика ергономічна Fiskars Skuffejern (1004808)]]></name>
         <price>999</price>
@@ -694,6 +755,46 @@
 ]]></description>
         <stock_quantity>4</stock_quantity>
       </offer>
+      <offer id="1020125" available="true">
+        <name><![CDATA[Інструмент для видалення бур'янів телескопичний SmartFit 1020125]]></name>
+        <price>3999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-60543114460376_+dbb5ab6faf.png</picture>
+        <description><![CDATA[<p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
+</style>
+<strong>Інструмент для видалення бур&#39;янів телескопічний Fiskars SmartFit</strong> &mdash; <span style="font-size:16px;">садовий інструмент для швидкого та ефективного видалення бур&rsquo;янів разом із корінням без нахилів.</span></p>
+
+<p><strong>Призначення: </strong><span style="font-size:16px;">підходить для догляду за газоном і садом, дозволяючи легко видаляти бур&rsquo;яни без пошкодження ґрунту.</span></p>
+
+<p><strong>Конструкція: </strong><span style="font-size:16px;">телескопічна ручка регулюється по довжині, забезпечуючи комфортну роботу для користувачів різного зросту.</span></p>
+
+<p><strong>Матеріали:</strong> виготовлений з міцних матеріалів, стійких до навантажень і зовнішніх умов. Особливості: належить до серії SmartFit бренду Fiskars, забезпечує зручність, ергономіку та ефективність у використанні.</p>
+]]></description>
+        <stock_quantity>12</stock_quantity>
+      </offer>
+      <offer id="1020126" available="true">
+        <name><![CDATA[Інструмент для видалення бур'янів Xact 1020126]]></name>
+        <price>1999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-51741053469699_+53665dd558.png</picture>
+        <description><![CDATA[<p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
+</style>
+<strong>Інструмент для видалення бур&#39;янів Fiskars Xact 1020126 </strong>&mdash; садовий інструмент для ефективного видалення бур&rsquo;янів разом із корінням.</p>
+
+<p><strong>Призначення: </strong>підходить для догляду за газоном і садом без пошкодження ґрунту.</p>
+
+<p><strong>Конструкція:</strong> загострена робоча частина дозволяє точно захоплювати коріння бур&rsquo;янів.</p>
+
+<p><strong>Матеріали: </strong>виготовлений із міцної сталі, яка стійка до навантажень і зовнішніх умов.</p>
+
+<p><strong>Особливості:</strong> належить до серії Xact бренду Fiskars, забезпечує комфорт і точність у роботі.</p>
+]]></description>
+        <stock_quantity>12</stock_quantity>
+      </offer>
       <offer id="1001530" available="true">
         <name><![CDATA[Секатор професійний Fiskars Pro P90 (1001530)]]></name>
         <price>1399</price>
@@ -788,6 +889,27 @@
 ]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
+      <offer id="1052276" available="true">
+        <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
+        <price>3999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-41276274993577_+8061d7a49a.png</picture>
+        <description><![CDATA[<p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
+</style>
+Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276 &mdash; комплект інструментів для рубки деревини та догляду за лезом.У цей набір також входять сокира Fiskars та точила для ножів. Керамічний брусок має чітко позначені канавки як для сокир, так ножів.&nbsp;</p>
+
+<p>Призначення: підходить для заготівлі дров, туристичних задач і використання на природі.</p>
+
+<p>Конструкція: сокира компактного розміру з точилом для підтримки гостроти леза.</p>
+
+<p>Матеріали: виготовлені з високоякісних матеріалів, стійких до зношування та навантажень.</p>
+
+<p>Особливості: належить до серії Norden бренду Fiskars, ідеально підходить як подарунковий набір.</p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
       <offer id="1000660" available="true">
         <name><![CDATA[Граблі для листя Fiskars Ergonomic XL (1000660)]]></name>
         <price>1228</price>
@@ -858,7 +980,7 @@
 
 <p data-end="1318" data-is-last-node="" data-is-only-node="" data-start="1124"><span style="font-size:18px;"><strong data-end="1140" data-start="1124">Особливості:</strong></span><span style="font-size:14px;"> набір належить до серії Solid бренду Fiskars та призначений для систематичного прибирання та догляду за прибудинковою територією і садовими зонами.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1019608" available="false">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
@@ -1066,7 +1188,7 @@
 ]]></description>
         <stock_quantity>119</stock_quantity>
       </offer>
-      <offer id="1027216" available="false">
+      <offer id="1027216" available="true">
         <name><![CDATA[Болторіз Fiskars PowerGear 91см (1027216)]]></name>
         <price>1799</price>
         <categoryId>1</categoryId>
@@ -1082,7 +1204,7 @@
 
 <p data-end="1322" data-is-last-node="" data-is-only-node="" data-start="1111"><span style="font-size:18px;"><strong data-end="1127" data-start="1111">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії PowerGear бренду Fiskars та призначений для систематичного ручного перерізання металевих елементів із мінімальними фізичними витратами.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1027215" available="true">
         <name><![CDATA[Болторіз Fiskars PowerGear 76см (1027215)]]></name>
