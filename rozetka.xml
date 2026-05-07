@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-07T00:12:35.434Z">
+<yml_catalog date="2026-05-07T04:12:04.569Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -832,7 +832,7 @@
 
 <p data-end="1030" data-is-last-node="" data-is-only-node="" data-start="851"><span style="font-size:18px;"><strong data-end="867" data-start="851">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Pro бренду Fiskars та призначений для професійних і напівпрофесійних садових робіт із обрізання рослин.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1026916" available="true">
         <name><![CDATA[Секатор площинний Fiskars White P57 (1026916)]]></name>
@@ -982,7 +982,7 @@
 ]]></description>
         <stock_quantity>3</stock_quantity>
       </offer>
-      <offer id="1019608" available="false">
+      <offer id="1019608" available="true">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
         <price>899</price>
         <categoryId>1</categoryId>
@@ -998,7 +998,7 @@
 
 <p data-end="1192" data-is-last-node="" data-is-only-node="" data-start="1002"><span style="font-size:18px;"><strong data-end="1018" data-start="1002">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за ґрунтом і підготовки поверхні до посадки рослин.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>66</stock_quantity>
       </offer>
       <offer id="1001587" available="true">
         <name><![CDATA[Граблі для грунту універсальні Fiskars FSC (1001587)]]></name>
