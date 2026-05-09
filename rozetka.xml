@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-09T01:17:20.744Z">
+<yml_catalog date="2026-05-09T04:47:46.799Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -62,7 +62,7 @@
 <p data-end="1095" data-is-last-node="" data-is-only-node="" data-start="908"><span style="font-size:18px;"><strong data-end="924" data-start="908">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії M бренду Fiskars та призначений для систематичного розколювання деревини в побутових і напівпрофесійних умовах.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1015643" available="true">
         <name><![CDATA[Сокира-колун Fiskars X25 XL (1015643)]]></name>
@@ -1056,7 +1056,7 @@
 
 <p data-end="1329" data-is-last-node="" data-is-only-node="" data-start="1156"><span style="font-size:18px;"><strong data-end="1172" data-start="1156">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Park бренду Fiskars та призначений для систематичної обробки ґрунту і догляду за садовими зонами.</span></p>
 ]]></description>
-        <stock_quantity>36</stock_quantity>
+        <stock_quantity>35</stock_quantity>
       </offer>
       <offer id="1026931" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars White HS53 (1026931)]]></name>
