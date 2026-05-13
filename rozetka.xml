@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-12T23:01:12.059Z">
+<yml_catalog date="2026-05-13T01:23:31.746Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -156,7 +156,7 @@
 
 <p data-end="1178" data-is-last-node="" data-is-only-node="" data-start="1022"><span style="font-size:18px;"><strong data-end="1038" data-start="1022">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для акуратних теслярських і столярних робіт.</span></p>
 ]]></description>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>39</stock_quantity>
       </offer>
       <offer id="1075437" available="true">
         <name><![CDATA[Набір сокира універсальна Fiskars Х13 + точило 1075437]]></name>
@@ -177,7 +177,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду Fiskars, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -418,7 +418,7 @@
 
 <p data-end="948" data-is-last-node="" data-is-only-node="" data-start="800"><span style="font-size:18px;"><strong data-end="816" data-start="800">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до лінійки White бренду Fiskars та орієнтований на регулярне садове використання.</span></p>
 ]]></description>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>43</stock_quantity>
       </offer>
       <offer id="1014810" available="true">
         <name><![CDATA[Вила короткі Fiskars Solid (1014810)]]></name>
@@ -476,7 +476,7 @@
 
 <p data-end="970" data-is-last-node="" data-is-only-node="" data-start="812"><span style="font-size:18px;"><strong data-end="828" data-start="812">Особливості:</strong></span><span style="font-size:14px;"> інструмент розроблений брендом Fiskars для побутового садового використання під час сезонних робіт з органікою.</span></p>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1004814" available="true">
         <name><![CDATA[Вила садові полегшені Fiskars Ergo (1004814)]]></name>
@@ -814,7 +814,7 @@
 
 <p><strong>Особливості:</strong> належить до серії Xact бренду Fiskars, забезпечує комфорт і точність у роботі.</p>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1001530" available="true">
         <name><![CDATA[Секатор професійний Fiskars Pro P90 (1001530)]]></name>
