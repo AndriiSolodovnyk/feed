@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-14T23:28:28.688Z">
+<yml_catalog date="2026-05-15T01:22:37.730Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -384,7 +384,7 @@
 ]]></description>
         <stock_quantity>107</stock_quantity>
       </offer>
-      <offer id="1024472" available="true">
+      <offer id="1024472" available="false">
         <name><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name>
         <price>899</price>
         <categoryId>1</categoryId>
@@ -400,7 +400,7 @@
 
 <p data-end="1300" data-is-last-node="" data-is-only-node="" data-start="1084"><span style="font-size:18px;"><strong data-end="1100" data-start="1084">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії класичних садових інструментів бренду Fiskars та призначений для широкого спектра ручних земляних робіт у саду, на городі та в господарстві.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1070715" available="true">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
@@ -590,7 +590,7 @@
 
 <p data-end="1246" data-is-last-node="" data-is-only-node="" data-start="1055"><span style="font-size:18px;"><strong data-end="1071" data-start="1055">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Dutch Red бренду Fiskars та призначений для систематичного догляду за ґрунтом і контролю бур&rsquo;янів у садових умовах.</span></p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1014792" available="true">
         <name><![CDATA[Сапа FISKARS для картоплі FSC (1014792)]]></name>
@@ -610,7 +610,7 @@
 ]]></description>
         <stock_quantity>3</stock_quantity>
       </offer>
-      <offer id="1052090" available="true">
+      <offer id="1052090" available="false">
         <name><![CDATA[Набір садовий Fiskars лопатка, культиватор (1052090)]]></name>
         <price>298</price>
         <categoryId>1</categoryId>
@@ -630,7 +630,7 @@
 <p data-end="1313" data-is-last-node="" data-is-only-node="" data-start="1114"><span style="font-size:18px;"><strong data-end="1130" data-start="1114">Особливості:</strong></span><span style="font-size:14px;"> комплект належить до серії бренду Fiskars та призначений для дрібних садових і городніх робіт, де потрібен контроль над ґрунтом і доглядом за рослинами.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1025564" available="true">
         <name><![CDATA[Лопатка для пересадки Fiskars Solid (1025564)]]></name>
