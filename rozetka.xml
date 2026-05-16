@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-15T23:04:29.038Z">
+<yml_catalog date="2026-05-16T01:14:48.549Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -177,7 +177,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду Fiskars, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -328,7 +328,7 @@
 
 <p data-end="1011" data-is-last-node="" data-is-only-node="" data-start="845"><span style="font-size:18px;"><strong data-end="861" data-start="845">Особливості:</strong></span> <span style="font-size:14px;">лопата належить до професійної серії ClassicPro бренду Fiskars та призначена для регулярного інтенсивного використання.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1005016" available="true">
         <name><![CDATA[Лопата совкова будівельна Fiskars (1005016)]]></name>
@@ -384,7 +384,7 @@
 ]]></description>
         <stock_quantity>107</stock_quantity>
       </offer>
-      <offer id="1024472" available="false">
+      <offer id="1024472" available="true">
         <name><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name>
         <price>899</price>
         <categoryId>1</categoryId>
@@ -400,7 +400,7 @@
 
 <p data-end="1300" data-is-last-node="" data-is-only-node="" data-start="1084"><span style="font-size:18px;"><strong data-end="1100" data-start="1084">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії класичних садових інструментів бренду Fiskars та призначений для широкого спектра ручних земляних робіт у саду, на городі та в господарстві.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1070715" available="true">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
