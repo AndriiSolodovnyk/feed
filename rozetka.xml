@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-16T23:52:49.425Z">
+<yml_catalog date="2026-05-17T03:26:01.940Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -738,7 +738,7 @@
 
 <p data-end="1132" data-is-last-node="" data-is-only-node="" data-start="959"><span style="font-size:18px;"><strong data-end="975" data-start="959">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для точних садових операцій із розсадою й молодими рослинами.</span></p>
 ]]></description>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1025566" available="false">
         <name><![CDATA[Вила для бур'янів Fiskars Solid (1025566)]]></name>
@@ -814,7 +814,7 @@
 
 <p><strong>Особливості:</strong> належить до серії Xact бренду Fiskars, забезпечує комфорт і точність у роботі.</p>
 ]]></description>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>8</stock_quantity>
       </offer>
       <offer id="1001530" available="true">
         <name><![CDATA[Секатор професійний Fiskars Pro P90 (1001530)]]></name>
@@ -980,9 +980,9 @@
 
 <p data-end="1318" data-is-last-node="" data-is-only-node="" data-start="1124"><span style="font-size:18px;"><strong data-end="1140" data-start="1124">Особливості:</strong></span><span style="font-size:14px;"> набір належить до серії Solid бренду Fiskars та призначений для систематичного прибирання та догляду за прибудинковою територією і садовими зонами.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
-      <offer id="1019608" available="true">
+      <offer id="1019608" available="false">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
         <price>899</price>
         <categoryId>1</categoryId>
@@ -998,9 +998,9 @@
 
 <p data-end="1192" data-is-last-node="" data-is-only-node="" data-start="1002"><span style="font-size:18px;"><strong data-end="1018" data-start="1002">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за ґрунтом і підготовки поверхні до посадки рослин.</span></p>
 ]]></description>
-        <stock_quantity>66</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="1001587" available="true">
+      <offer id="1001587" available="false">
         <name><![CDATA[Граблі для грунту універсальні Fiskars FSC (1001587)]]></name>
         <price>799</price>
         <categoryId>1</categoryId>
@@ -1020,7 +1020,7 @@
 <p data-end="1255" data-is-last-node="" data-is-only-node="" data-start="1045"><span style="font-size:18px;"><strong data-end="1061" data-start="1045">Особливості:</strong></span><span style="font-size:14px;"> інструмент вироблений із сертифікованої деревини FSC і належить до серії бренду Fiskars, призначений для широкого спектра ґрунтообробних задач у саду та на городі.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1011611" available="true">
         <name><![CDATA[Граблі для листя Fiskars Prima FSC (1011611)]]></name>
