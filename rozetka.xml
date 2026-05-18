@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-17T23:30:53.226Z">
+<yml_catalog date="2026-05-18T03:39:39.930Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -177,7 +177,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду Fiskars, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>14</stock_quantity>
+        <stock_quantity>13</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -964,7 +964,7 @@
 ]]></description>
         <stock_quantity>24</stock_quantity>
       </offer>
-      <offer id="1056927" available="true">
+      <offer id="1056927" available="false">
         <name><![CDATA[Набір Fiskars мітла дворова М + Граблі Solid (1056927)]]></name>
         <price>1199</price>
         <categoryId>1</categoryId>
@@ -980,7 +980,7 @@
 
 <p data-end="1318" data-is-last-node="" data-is-only-node="" data-start="1124"><span style="font-size:18px;"><strong data-end="1140" data-start="1124">Особливості:</strong></span><span style="font-size:14px;"> набір належить до серії Solid бренду Fiskars та призначений для систематичного прибирання та догляду за прибудинковою територією і садовими зонами.</span></p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1019608" available="false">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
@@ -1147,7 +1147,7 @@
 
 <p><strong>Особливості: </strong>належать до серії Classic бренду Fiskars, забезпечують надійність і довговічність.</p>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1061193" available="true">
         <name><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></name>
@@ -1207,7 +1207,7 @@
 ]]></description>
         <stock_quantity>119</stock_quantity>
       </offer>
-      <offer id="1027216" available="true">
+      <offer id="1027216" available="false">
         <name><![CDATA[Болторіз Fiskars PowerGear 91см (1027216)]]></name>
         <price>1799</price>
         <categoryId>1</categoryId>
@@ -1223,7 +1223,7 @@
 
 <p data-end="1322" data-is-last-node="" data-is-only-node="" data-start="1111"><span style="font-size:18px;"><strong data-end="1127" data-start="1111">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії PowerGear бренду Fiskars та призначений для систематичного ручного перерізання металевих елементів із мінімальними фізичними витратами.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1027215" available="true">
         <name><![CDATA[Болторіз Fiskars PowerGear 76см (1027215)]]></name>
