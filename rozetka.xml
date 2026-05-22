@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-22T00:01:49.395Z">
+<yml_catalog date="2026-05-22T04:43:35.016Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -177,7 +177,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду Fiskars, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>13</stock_quantity>
+        <stock_quantity>11</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -198,7 +198,7 @@
 
 <p>Особливості: належить до серії Norden бренду Fiskars, ідеально підходить як подарунковий набір.</p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1028376" available="true">
         <name><![CDATA[Пилка садова ручна Fiskars Solid SW 16 (1028376)]]></name>
