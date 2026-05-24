@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-23T23:57:21.105Z">
+<yml_catalog date="2026-05-24T04:08:41.335Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -908,7 +908,7 @@
 
 <p data-end="997" data-is-last-node="" data-is-only-node="" data-start="840"><span style="font-size:18px;"><strong data-end="856" data-start="840">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії SingleStep бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 ]]></description>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>19</stock_quantity>
       </offer>
       <offer id="1000660" available="false">
         <name><![CDATA[Граблі для листя Fiskars Ergonomic XL (1000660)]]></name>
