@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-28T00:00:01.959Z">
+<yml_catalog date="2026-05-28T04:23:04.405Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -908,9 +908,9 @@
 
 <p data-end="997" data-is-last-node="" data-is-only-node="" data-start="840"><span style="font-size:18px;"><strong data-end="856" data-start="840">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії SingleStep бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 ]]></description>
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>20</stock_quantity>
       </offer>
-      <offer id="1000660" available="false">
+      <offer id="1000660" available="true">
         <name><![CDATA[Граблі для листя Fiskars Ergonomic XL (1000660)]]></name>
         <price>1228</price>
         <categoryId>1</categoryId>
@@ -926,7 +926,7 @@
 
 <p data-end="1210" data-is-last-node="" data-is-only-node="" data-start="1013"><span style="font-size:18px;"><strong data-end="1029" data-start="1013">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Ergonomic бренду Fiskars та призначений для систематичного прибирання листя й рослинних залишків на присадибних ділянках.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1023492" available="false">
         <name><![CDATA[Граблі великі для листя Fiskars М помаранчеві (1023492)]]></name>
