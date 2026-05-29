@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-28T23:16:22.709Z">
+<yml_catalog date="2026-05-29T01:31:15.835Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -40,7 +40,7 @@
 <p data-end="1060" data-is-last-node="" data-is-only-node="" data-start="875"><span style="font-size:18px;"><strong data-end="891" data-start="875">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для регулярного розколювання деревини у господарських та польових умовах.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1015641" available="true">
         <name><![CDATA[Сокира-колун Fiskars M Х17 (1015641)]]></name>
@@ -177,7 +177,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду Fiskars, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -400,7 +400,7 @@
 
 <p data-end="1300" data-is-last-node="" data-is-only-node="" data-start="1084"><span style="font-size:18px;"><strong data-end="1100" data-start="1084">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії класичних садових інструментів бренду Fiskars та призначений для широкого спектра ручних земляних робіт у саду, на городі та в господарстві.</span></p>
 ]]></description>
-        <stock_quantity>101</stock_quantity>
+        <stock_quantity>100</stock_quantity>
       </offer>
       <offer id="1070715" available="true">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
@@ -610,7 +610,7 @@
 ]]></description>
         <stock_quantity>3</stock_quantity>
       </offer>
-      <offer id="1052090" available="true">
+      <offer id="1052090" available="false">
         <name><![CDATA[Набір садовий Fiskars лопатка, культиватор (1052090)]]></name>
         <price>298</price>
         <categoryId>1</categoryId>
@@ -630,7 +630,7 @@
 <p data-end="1313" data-is-last-node="" data-is-only-node="" data-start="1114"><span style="font-size:18px;"><strong data-end="1130" data-start="1114">Особливості:</strong></span><span style="font-size:14px;"> комплект належить до серії бренду Fiskars та призначений для дрібних садових і городніх робіт, де потрібен контроль над ґрунтом і доглядом за рослинами.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1025564" available="true">
         <name><![CDATA[Лопатка для пересадки Fiskars Solid (1025564)]]></name>
@@ -908,7 +908,7 @@
 
 <p data-end="997" data-is-last-node="" data-is-only-node="" data-start="840"><span style="font-size:18px;"><strong data-end="856" data-start="840">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії SingleStep бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 ]]></description>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>19</stock_quantity>
       </offer>
       <offer id="1000660" available="true">
         <name><![CDATA[Граблі для листя Fiskars Ergonomic XL (1000660)]]></name>
@@ -1057,6 +1057,15 @@
 <p data-end="1329" data-is-last-node="" data-is-only-node="" data-start="1156"><span style="font-size:18px;"><strong data-end="1172" data-start="1156">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Park бренду Fiskars та призначений для систематичної обробки ґрунту і догляду за садовими зонами.</span></p>
 ]]></description>
         <stock_quantity>35</stock_quantity>
+      </offer>
+      <offer id="1003466" available="false">
+        <name><![CDATA[Універсальні граблі Fiskars Solid (1003466)]]></name>
+        <price>1377</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-78110306972162_+c520d25b83.jpg</picture>
+        <description><![CDATA[Універсальні граблі Fiskars Solid (1003466)]]></description>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1026931" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars White HS53 (1026931)]]></name>
