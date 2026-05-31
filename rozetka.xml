@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-05-31T00:04:33.710Z">
+<yml_catalog date="2026-05-31T04:59:54.876Z">
   <shop>
     <offers>
       <offer id="1052043" available="false">
@@ -80,7 +80,7 @@
 
 <p data-end="1052" data-is-last-node="" data-is-only-node="" data-start="884"><span style="font-size:18px;"><strong data-end="900" data-start="884">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії X XL бренду Fiskars та призначений для інтенсивного розколювання деревини великого діаметру.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1015640" available="true">
         <name><![CDATA[Сокира-колун Fiskars S Х11 (1015640)]]></name>
@@ -177,7 +177,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду <strong data-end="40" data-start="0">Фіскарс</strong>, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -815,7 +815,7 @@
 
 <p><strong>Матеріали:</strong> виготовлений з міцних матеріалів, стійких до навантажень і зовнішніх умов. Особливості: належить до серії SmartFit бренду Fiskars, забезпечує зручність, ергономіку та ефективність у використанні.</p>
 ]]></description>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>11</stock_quantity>
       </offer>
       <offer id="1020126" available="true">
         <name><![CDATA[Інструмент для видалення бур'янів Xact 1020126]]></name>
