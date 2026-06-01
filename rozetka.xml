@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-01T00:12:36.581Z">
+<yml_catalog date="2026-06-01T05:24:59.177Z">
   <shop>
     <offers>
-      <offer id="1052043" available="false">
-        <name><![CDATA[Сокира колун Fiskars Solid A26 (1052043)]]></name>
-        <price>4499</price>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <picture>https://fiskars-gratis.com.ua/content/images/14/sokyra-kolun-fiskars-solid-a26-1052043-80829392597977_+988b3fc239.png</picture>
-        <description><![CDATA[<p data-end="289" data-start="0"><span style="font-size:18px;"><strong data-end="44" data-start="0">Сокира‑колун Fiskars Solid A26 (1052043)</strong></span><span style="font-size:14px;"> &mdash; ручний інструмент для розколювання та оброблення деревини під час господарських та польових робіт. Використовується для розколювання колод, дров, сухої та напівсухої деревини, підготовки палива для опалення та заготівлі матеріалу для вогнища.</span></p>
-
-<p data-end="465" data-start="291"><span style="font-size:18px;"><strong data-end="307" data-start="291">Призначення:</strong></span><span style="font-size:14px;"> підходить для заготівлі дров, розколювання великих та середніх колод, очищення деревини від сучків і підготовки палива в побутових і напівпрофесійних умовах.</span></p>
-
-<p data-end="651" data-start="467"><span style="font-size:18px;"><strong data-end="483" data-start="467">Конструкція:</strong> </span><span style="font-size:14px;">клиноподібне лезо оптимальної геометрії сприяє ефективному розколюванню деревини за один‑два удари. Баланс між головою та держаком створює контроль при замаху й ударі.</span></p>
-
-<p data-end="848" data-start="653"><span style="font-size:18px;"><strong data-end="667" data-start="653">Матеріали:</strong></span><span style="font-size:14px;"> </span><span style="font-size:14px;">ріжуча частина виготовлена зі сталі, стійкої до ударних навантажень і зношування. Держак адаптований для тривалого ручного використання і забезпечує надійний захват під час роботи</span>.<span style="font-size:14px;">&nbsp;В&nbsp;комплекті&nbsp;захисний&nbsp;пластиковий чохол для зберігання та транспортування</span></p>
-
-<p data-end="1026" data-is-last-node="" data-is-only-node="" data-start="850"><span style="font-size:18px;"><strong data-end="866" data-start="850">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного розколювання деревини у господарських умовах.</span></p>
-]]></description>
-        <stock_quantity>0</stock_quantity>
-      </offer>
       <offer id="1052045" available="true">
         <name><![CDATA[Сокира-колун Fiskars Solid A18 (1052045)]]></name>
         <price>2999</price>
@@ -38,6 +20,8 @@
 <p data-end="873" data-start="690"><span style="font-size:18px;"><strong data-end="704" data-start="690">Матеріали:</strong> </span><span style="font-size:14px;">ріжуча частина виготовлена зі сталі, стійкої до ударних навантажень і зношування. Держак розрахований на ручну експлуатацію і забезпечує надійний захват під час роботи.&nbsp;В&nbsp;комплекті&nbsp;захисний&nbsp;пластиковий чохол для зберігання та транспортування</span></p>
 
 <p data-end="1060" data-is-last-node="" data-is-only-node="" data-start="875"><span style="font-size:18px;"><strong data-end="891" data-start="875">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для регулярного розколювання деревини у господарських та польових умовах.</span></p>
+
+<p data-end="1060" data-is-last-node="" data-is-only-node="" data-start="875"><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;топор та колун&nbsp;Фискарс напевно, є найкращими у світі.</p>
 </article>
 ]]></description>
         <stock_quantity>4</stock_quantity>
@@ -62,7 +46,7 @@
 <p data-end="1095" data-is-last-node="" data-is-only-node="" data-start="908"><span style="font-size:18px;"><strong data-end="924" data-start="908">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії M бренду Fiskars та призначений для систематичного розколювання деревини в побутових і напівпрофесійних умовах.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1015643" available="true">
         <name><![CDATA[Сокира-колун Fiskars X25 XL (1015643)]]></name>
@@ -80,7 +64,7 @@
 
 <p data-end="1052" data-is-last-node="" data-is-only-node="" data-start="884"><span style="font-size:18px;"><strong data-end="900" data-start="884">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії X XL бренду Fiskars та призначений для інтенсивного розколювання деревини великого діаметру.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1015640" available="true">
         <name><![CDATA[Сокира-колун Fiskars S Х11 (1015640)]]></name>
@@ -100,6 +84,8 @@
 <p data-end="862" data-start="699"><span style="font-size:18px;"><strong data-end="713" data-start="699">Матеріали:</strong></span><span style="font-size:14px;"> ріжуча частина виготовлена зі сталі, стійкої до ударних навантажень і зношування. Держак адаптований для ручної роботи й забезпечує надійний захват.&nbsp;В&nbsp;комплекті&nbsp;захисний&nbsp;пластиковий чохол для зберігання та транспортування</span></p>
 
 <p data-end="1026" data-is-last-node="" data-is-only-node="" data-start="864"><span style="font-size:18px;"><strong data-end="880" data-start="864">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії S бренду Fiskars та призначений для регулярного розколювання деревини малого діаметру.</span></p>
+
+<p data-end="1026" data-is-last-node="" data-is-only-node="" data-start="864"><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;топор та колун&nbsp;Фискарс напевно, є найкращими у світі.</p>
 </article>
 ]]></description>
         <stock_quantity>4</stock_quantity>
@@ -119,6 +105,8 @@
 <p data-end="897" data-start="723"><span style="font-size:18px;"><strong data-end="737" data-start="723">Матеріали:</strong> </span><span style="font-size:14px;">ріжуча частина виготовлена зі сталі, стійкої до ударних навантажень і зношування. Руків&rsquo;я адаптоване для регулярного ручного використання та надійного захвату.&nbsp;В&nbsp;комплекті&nbsp;захисний&nbsp;пластиковий чохол для зберігання та транспортування</span></p>
 
 <p data-end="1068" data-is-last-node="" data-is-only-node="" data-start="899"><span style="font-size:18px;"><strong data-end="915" data-start="899">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії L бренду Fiskars та призначений для систематичного розколювання деревини середнього діаметру.</span></p>
+
+<p data-end="1068" data-is-last-node="" data-is-only-node="" data-start="899"><span style="font-size:18px;"><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;т</span><span style="font-size:14px;">опор та колун&nbsp;Фискарс напевно, є найкращими у світі.</span></p>
 ]]></description>
         <stock_quantity>54</stock_quantity>
       </offer>
@@ -155,6 +143,8 @@
 <p data-end="1020" data-start="815"><span style="font-size:18px;"><strong data-end="829" data-start="815">Матеріали:</strong></span> <span style="font-size:14px;">ріжуча частина виготовлена зі сталі, стійкої до зношування при обробці деревини. Руків&rsquo;я адаптоване для тривалого ручного утримання і забезпечує надійний захват під час різьблення й обробки. В&nbsp;комплекті&nbsp;захисний&nbsp;пластиковий чохол для зберігання та транспортування</span></p>
 
 <p data-end="1178" data-is-last-node="" data-is-only-node="" data-start="1022"><span style="font-size:18px;"><strong data-end="1038" data-start="1022">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для акуратних теслярських і столярних робіт.</span></p>
+
+<p data-end="1178" data-is-last-node="" data-is-only-node="" data-start="1022"><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;топор та колун&nbsp;Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
         <stock_quantity>179</stock_quantity>
       </offer>
@@ -854,7 +844,7 @@
 
 <p data-end="1030" data-is-last-node="" data-is-only-node="" data-start="851"><span style="font-size:18px;"><strong data-end="867" data-start="851">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Pro бренду Fiskars та призначений для професійних і напівпрофесійних садових робіт із обрізання рослин.</span></p>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1026916" available="true">
         <name><![CDATA[Секатор площинний Fiskars White P57 (1026916)]]></name>
