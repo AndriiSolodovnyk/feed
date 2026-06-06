@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-06T00:05:49.784Z">
+<yml_catalog date="2026-06-06T04:36:12.058Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -167,7 +167,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду <strong data-end="40" data-start="0">Фіскарс</strong>, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -228,7 +228,7 @@
 <p data-end="1055" data-is-last-node="" data-is-only-node="" data-start="893"><span style="font-size:18px;"><strong data-end="909" data-start="893">Особливості:</strong></span><span style="font-size:14px;"><strong data-end="909" data-start="893">&nbsp;</strong>інструмент належить до серії SW бренду Fiskars та призначений для систематичного догляду за деревними насадженнями.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1028374" available="true">
         <name><![CDATA[Пила садова ручна Fiskars SW37 (1028374)]]></name>
@@ -394,7 +394,7 @@
       </offer>
       <offer id="1066708" available="false">
         <name><![CDATA[Лопата штикова Fiskars Ergonomic (1066708)]]></name>
-        <price>1599</price>
+        <price>1999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-22538686036885_+6d958097a4.jpg</picture>
@@ -602,7 +602,7 @@
 
 <p data-end="1196" data-is-last-node="" data-is-only-node="" data-start="968"><span style="font-size:18px;"><strong data-end="984" data-start="968">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії ергономічних інструментів бренду Fiskars та призначений для систематичного догляду за ґрунтом і боротьби з бур&rsquo;янами із зниженим фізичним навантаженням.</span></p>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1014815" available="true">
         <name><![CDATA[Мотига Fiskars Solid L30 (1014815)]]></name>
@@ -994,7 +994,7 @@
 
 <p data-end="1210" data-is-last-node="" data-is-only-node="" data-start="1013"><span style="font-size:18px;"><strong data-end="1029" data-start="1013">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Ergonomic бренду Fiskars та призначений для систематичного прибирання листя й рослинних залишків на присадибних ділянках.</span></p>
 ]]></description>
-        <stock_quantity>104</stock_quantity>
+        <stock_quantity>27</stock_quantity>
       </offer>
       <offer id="1023492" available="false">
         <name><![CDATA[Граблі великі для листя Fiskars М помаранчеві (1023492)]]></name>
