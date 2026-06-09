@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-08T23:45:54.342Z">
+<yml_catalog date="2026-06-09T07:03:12.512Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -282,7 +282,7 @@
 
 <p data-end="987" data-is-last-node="" data-is-only-node="" data-start="824"><span style="font-size:18px;"><strong data-end="840" data-start="824">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для повсякденних земляних робіт у побутових умовах.</span></p>
 ]]></description>
-        <stock_quantity>18</stock_quantity>
+        <stock_quantity>17</stock_quantity>
       </offer>
       <offer id="1067540" available="true">
         <name><![CDATA[Лопата мала Fiskars White S (1067540)]]></name>
@@ -884,7 +884,45 @@
 ]]></description>
         <stock_quantity>20</stock_quantity>
       </offer>
-      <offer id="1001530" available="true">
+      <offer id="1072103" available="true">
+        <name><![CDATA[Вила для бур'янів Solid (1072103)]]></name>
+        <price>377</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/21/vyla-dlia-burianiv-solid-1072103-95562995986357_+f06220616e.jpg</picture>
+        <description><![CDATA[<section data-scroll-anchor="false" data-testid="conversation-turn-44" data-turn="assistant" data-turn-id="request-6991d59e-77d0-8331-9a3e-37e6d60cd0ba-2" data-turn-id-container="request-6991d59e-77d0-8331-9a3e-37e6d60cd0ba-2" dir="auto">
+<p data-end="342" data-start="0"><span style="font-size:18px;"><strong data-end="37" data-start="0">Вила для бур&#39;янів Solid (1072103)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для видалення бур&rsquo;янів, розпушування ґрунту та догляду за рослинами на клумбах, грядках і в контейнерах. Використовуються для акуратного вилучення коренів бур&rsquo;янів, аерації землі та роботи на невеликих ділянках із щільною посадкою рослин.</span></p>
+
+<p data-end="556" data-start="344"><span style="font-size:18px;"><strong data-end="360" data-start="344">Призначення:</strong></span><span style="font-size:14px;"> підходять для прополювання, видалення дрібного каміння, розпушування верхнього шару ґрунту, пересаджування рослин і розподілу компосту на обмежених ділянках.</span></p>
+
+<p data-end="823" data-start="558"><span style="font-size:18px;"><strong data-end="574" data-start="558">Конструкція:</strong></span><span style="font-size:14px;"> оснащені трьома вузькими вигнутими зубцями, які забезпечують точну роботу біля кореневої системи культурних рослин. Компактна форма дозволяє виконувати роботи у квітниках, теплицях, вазонах і вузьких міжряддях.</span></p>
+
+<p data-end="1108" data-start="825"><span style="font-size:18px;"><strong data-end="839" data-start="825">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена з армованого скловолокном композитного матеріалу з вмістом переробленого пластику. Конструкція стійка до впливу вологи, ультрафіолетового випромінювання та регулярного використання на відкритому повітрі.</span></p>
+
+<p data-end="1379" data-is-last-node="" data-is-only-node="" data-start="1110"><span style="font-size:18px;"><strong data-end="1126" data-start="1110">Особливості:</strong></span><span style="font-size:14px;"> модель входить до серії Solid бренду Fiskars та призначена для точного догляду за ґрунтом і видалення бур&rsquo;янів у садових умовах. Передбачений отвір для зручного зберігання інструмента.<button aria-describedby="_r_6m_" aria-label="Запустити голосовий режим" interestfor="_r_6m_" type="button"></button></span></p>
+</section>
+]]></description>
+        <stock_quantity>16</stock_quantity>
+      </offer>
+      <offer id="1027019" available="true">
+        <name><![CDATA[Культиватор Ergo (1027019)]]></name>
+        <price>699</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/22/kultyvator-ergo-1027019-84073823826176_+2e4ca3b2f6.jpg</picture>
+        <description><![CDATA[<p data-end="299" data-start="0"><span style="font-size:18px;"><strong data-end="30" data-start="0">Культиватор Ergo (1027019)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для розпушування ґрунту, аерації та догляду за рослинами на грядках, клумбах і в теплицях. Використовується для підготовки землі до висаджування, видалення дрібних бур&rsquo;янів і покращення доступу повітря та вологи до кореневої системи рослин.</span></p>
+
+<p data-end="499" data-start="301"><span style="font-size:18px;"><strong data-end="317" data-start="301">Призначення:</strong></span><span style="font-size:14px;"> підходить для розпушування верхнього шару ґрунту, обробки міжрядь, перемішування добрив і компосту, а також для підтримання належної структури ґрунту під час сезонних садових робіт.</span></p>
+
+<p data-end="721" data-start="501"><span style="font-size:18px;"><strong data-end="517" data-start="501">Конструкція:</strong></span><span style="font-size:14px;"> оснащений міцними зубцями для ефективного проникнення в ґрунт і його розпушування. Ергономічна форма ручки забезпечує зручне утримання інструмента та точний контроль під час роботи на невеликих ділянках.</span></p>
+
+<p data-end="892" data-start="723"><span style="font-size:18px;"><strong data-end="737" data-start="723">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до механічних навантажень і корозії. Рукоятка адаптована до регулярного використання в умовах саду та городу.</span></p>
+
+<p data-end="1111" data-is-last-node="" data-is-only-node="" data-start="894"><span style="font-size:18px;"><strong data-end="910" data-start="894">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії Ergo бренду Fiskars та призначена для регулярного догляду за ґрунтом, де потрібна точність роботи та ефективне розпушування землі навколо рослин.</span></p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1001530" available="false">
         <name><![CDATA[Секатор професійний Fiskars Pro P90 (1001530)]]></name>
         <price>1399</price>
         <categoryId>1</categoryId>
@@ -900,7 +938,7 @@
 
 <p data-end="1030" data-is-last-node="" data-is-only-node="" data-start="851"><span style="font-size:18px;"><strong data-end="867" data-start="851">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Pro бренду Fiskars та призначений для професійних і напівпрофесійних садових робіт із обрізання рослин.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1026916" available="true">
         <name><![CDATA[Секатор площинний Fiskars White P57 (1026916)]]></name>
@@ -978,6 +1016,24 @@
 ]]></description>
         <stock_quantity>18</stock_quantity>
       </offer>
+      <offer id="1024711" available="true">
+        <name><![CDATA[Секатор Fiskars SoftGrip M (1024711)]]></name>
+        <price>999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/19/sekator-fiskars-softgrip-m-1024711-33272296243147_+9fe0140605.jpg</picture>
+        <description><![CDATA[<p data-end="430" data-start="0"><span style="font-size:18px;"><strong data-end="40" data-start="0">Секатор Fiskars SoftGrip M (1024711)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для обрізання свіжих гілок, пагонів і стебел рослин. Використовується під час догляду за плодовими деревами, декоративними кущами, трояндами та багаторічними рослинами для формування крони, видалення зайвих пагонів і санітарної обрізки. Максимальний діаметр різу становить до 24&ndash;26 мм залежно від типу рослинного матеріалу.</span></p>
+
+<p data-end="628" data-start="432"><span style="font-size:18px;"><strong data-end="448" data-start="432">Призначення:</strong></span><span style="font-size:14px;"> підходить для обрізання молодих гілок, квітконосів і свіжих пагонів, видалення відцвілих частин рослин та виконання регулярних садових робіт.</span></p>
+
+<p data-end="919" data-start="630"><span style="font-size:18px;"><strong data-end="646" data-start="630">Конструкція:</strong></span><span style="font-size:14px;"> секатор оснащений площинним (bypass) механізмом різання, який забезпечує чистий зріз живих гілок. Ергономічні рукоятки з покриттям SoftGrip покращують контроль інструмента під час роботи, а блокування леза підвищує безпеку зберігання.</span></p>
+
+<p data-end="1153" data-start="921"><span style="font-size:18px;"><strong data-end="935" data-start="921">Матеріали:</strong></span><span style="font-size:14px;"> леза виготовлені із загартованої сталі з покриттям, що зменшує тертя та налипання рослинного соку. Рукоятки виконані з легкого композитного матеріалу з м&rsquo;якими вставками SoftGrip.</span></p>
+
+<p data-end="1406" data-is-last-node="" data-is-only-node="" data-start="1155"><span style="font-size:18px;"><strong data-end="1171" data-start="1155">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії SoftGrip бренду Fiskars та призначена для регулярного догляду за садовими рослинами з акцентом на точність різання та зручність використання.</span></p>
+]]></description>
+        <stock_quantity>166</stock_quantity>
+      </offer>
       <offer id="1000660" available="true">
         <name><![CDATA[Граблі для листя Fiskars Ergonomic XL (1000660)]]></name>
         <price>899</price>
@@ -994,7 +1050,7 @@
 
 <p data-end="1210" data-is-last-node="" data-is-only-node="" data-start="1013"><span style="font-size:18px;"><strong data-end="1029" data-start="1013">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Ergonomic бренду Fiskars та призначений для систематичного прибирання листя й рослинних залишків на присадибних ділянках.</span></p>
 ]]></description>
-        <stock_quantity>28</stock_quantity>
+        <stock_quantity>26</stock_quantity>
       </offer>
       <offer id="1023492" available="false">
         <name><![CDATA[Граблі великі для листя Fiskars М помаранчеві (1023492)]]></name>
@@ -1254,6 +1310,24 @@
 <p><strong>Особливості: </strong>належать до серії Classic бренду Fiskars, забезпечують надійність і довговічність.</p>
 ]]></description>
         <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1026826" available="true">
+        <name><![CDATA[Ножиці для трави Solid GS21 (1026826)]]></name>
+        <price>1477</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-travy-solid-gs21-1026826-57945662742617_+8b7fd2e4ea.jpg</picture>
+        <description><![CDATA[<p data-end="292" data-start="0"><span style="font-size:18px;"><strong data-end="41" data-start="0">Ножиці для трави Solid GS21 (1026826)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для точного підрізання трави у важкодоступних місцях, де використання газонокосарки або тримера є незручним. Використовуються для догляду за краями газону, ділянками навколо дерев, кущів, клумб, бордюрів і садових доріжок.</span></p>
+
+<p data-end="473" data-start="294"><span style="font-size:18px;"><strong data-end="310" data-start="294">Призначення:</strong></span><span style="font-size:14px;"> підходять для підстригання трави вздовж квітників, огорож, сходинок та інших елементів ландшафту, а також для коригування контурів газону після основного косіння.</span></p>
+
+<p data-end="716" data-start="475"><span style="font-size:18px;"><strong data-end="491" data-start="475">Конструкція:</strong></span><span style="font-size:14px;"> оснащені лезами для точного та контрольованого різання трави. Ергономічні рукоятки забезпечують зручне утримання інструмента під час виконання тривалих робіт і дозволяють виконувати акуратне підрізання на обмежених ділянках.</span></p>
+
+<p data-end="916" data-start="718"><span style="font-size:18px;"><strong data-end="732" data-start="718">Матеріали:</strong></span><span style="font-size:14px;"> леза виготовлені із загартованої сталі, стійкої до зношування та регулярного використання. Рукоятки виконані з міцного композитного матеріалу, адаптованого до роботи в садових умовах.</span></p>
+
+<p data-end="1137" data-is-last-node="" data-is-only-node="" data-start="918"><span style="font-size:18px;"><strong data-end="934" data-start="918">Особливості:</strong></span><span style="font-size:14px;"> модель входить до серії Solid бренду Fiskars та призначена для регулярного догляду за газонами й декоративними насадженнями, де потрібна висока точність підстригання трави.</span></p>
+]]></description>
+        <stock_quantity>30</stock_quantity>
       </offer>
       <offer id="1061193" available="true">
         <name><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></name>
