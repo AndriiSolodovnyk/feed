@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-18T00:18:31.042Z">
+<yml_catalog date="2026-06-18T05:16:18.516Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -282,7 +282,7 @@
 
 <p data-end="987" data-is-last-node="" data-is-only-node="" data-start="824"><span style="font-size:18px;"><strong data-end="840" data-start="824">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для повсякденних земляних робіт у побутових умовах.</span></p>
 ]]></description>
-        <stock_quantity>18</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="1067540" available="true">
         <name><![CDATA[Лопата мала Fiskars White S (1067540)]]></name>
@@ -484,7 +484,7 @@
 
 <p data-end="926" data-is-last-node="" data-is-only-node="" data-start="761"><span style="font-size:18px;"><strong data-end="777" data-start="761">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars і розрахований на регулярне використання в побутових садових умовах.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1001577" available="true">
         <name><![CDATA[Вила для сіна Fiskars ErgoComfort (1001577)]]></name>
@@ -506,7 +506,7 @@
 <div class="gtx-trans-icon">&nbsp;</div>
 </div>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1011570" available="true">
         <name><![CDATA[Вила для компосту Fiskars пластикові (1011570)]]></name>
@@ -620,7 +620,7 @@
 
 <p data-end="1073" data-is-last-node="" data-is-only-node="" data-start="896"><span style="font-size:18px;"><strong data-end="912" data-start="896">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом і полегшення садових робіт.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1005044" available="true">
         <name><![CDATA[Сапка Fiskars Dutch Red FSC (1005044)]]></name>
@@ -862,7 +862,7 @@
 
 <p><strong>Особливості:</strong> належить до серії Xact бренду Fiskars, забезпечує комфорт і точність у роботі.</p>
 ]]></description>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>8</stock_quantity>
       </offer>
       <offer id="1000728" available="true">
         <name><![CDATA[Культивар Fiskars Premium Planters (1000728)]]></name>
@@ -960,7 +960,7 @@
 <p data-end="971" data-is-last-node="" data-is-only-node="" data-start="819"><span style="font-size:18px;"><strong data-end="835" data-start="819">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>118</stock_quantity>
+        <stock_quantity>119</stock_quantity>
       </offer>
       <offer id="1057162" available="false">
         <name><![CDATA[Секатор площинний Fiskars Solid M P321 (1057162)]]></name>
@@ -1050,11 +1050,11 @@
 
 <p data-end="1210" data-is-last-node="" data-is-only-node="" data-start="1013"><span style="font-size:18px;"><strong data-end="1029" data-start="1013">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Ergonomic бренду Fiskars та призначений для систематичного прибирання листя й рослинних залишків на присадибних ділянках.</span></p>
 ]]></description>
-        <stock_quantity>26</stock_quantity>
+        <stock_quantity>25</stock_quantity>
       </offer>
       <offer id="1023492" available="false">
         <name><![CDATA[Граблі великі для листя Fiskars М помаранчеві (1023492)]]></name>
-        <price>1400</price>
+        <price>1399</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492-98820689201740_+9388495fc8.jpg</picture>
@@ -1345,7 +1345,7 @@
 
 <p data-end="1239" data-is-last-node="" data-is-only-node="" data-start="1056"><span style="font-size:18px;"><strong data-end="1072" data-start="1056">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії CarbonMax бренду Fiskars та призначений для широкого спектра різальних задач у польових і побутових умовах.</span></p>
 ]]></description>
-        <stock_quantity>89</stock_quantity>
+        <stock_quantity>90</stock_quantity>
       </offer>
       <offer id="1061192" available="true">
         <name><![CDATA[Ніж з висувним лезом Fiskars CarbonMax (1061192)]]></name>
@@ -1421,7 +1421,7 @@
 
 <p data-end="1251" data-is-last-node="" data-is-only-node="" data-start="1055"><span style="font-size:18px;"><strong data-end="1071" data-start="1055">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії PowerGear бренду Fiskars та призначений для ручного перерізання металевих елементів із мінімальними фізичними затратами.</span></p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1057585" available="true">
         <name><![CDATA[Тримач для інструментів Fiskars Solid 2 гачками 5 шт (1057585)]]></name>
@@ -1539,7 +1539,7 @@
 <p data-end="1055" data-is-last-node="" data-is-only-node="" data-start="886"><span style="font-size:18px;"><strong data-end="902" data-start="886">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для догляду за деревними насадженнями середнього розміру.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>59</stock_quantity>
       </offer>
       <offer id="1001553" available="true">
         <name><![CDATA[Гілкоріз площинний із загнутим лезом Fiskars PowerGear L76 (1001553)]]></name>
