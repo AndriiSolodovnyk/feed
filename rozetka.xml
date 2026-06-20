@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-20T00:13:29.811Z">
+<yml_catalog date="2026-06-20T04:50:58.994Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -167,7 +167,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду <strong data-end="40" data-start="0">Фіскарс</strong>, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -602,7 +602,7 @@
 
 <p data-end="1196" data-is-last-node="" data-is-only-node="" data-start="968"><span style="font-size:18px;"><strong data-end="984" data-start="968">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії ергономічних інструментів бренду Fiskars та призначений для систематичного догляду за ґрунтом і боротьби з бур&rsquo;янами із зниженим фізичним навантаженням.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1014815" available="true">
         <name><![CDATA[Мотига Fiskars Solid L30 (1014815)]]></name>
