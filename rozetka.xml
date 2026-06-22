@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-21T23:50:30.424Z">
+<yml_catalog date="2026-06-22T04:12:32.348Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -300,7 +300,7 @@
 
 <p data-end="939" data-is-last-node="" data-is-only-node="" data-start="789"><span style="font-size:18px;"><strong data-end="805" data-start="789">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для акуратних допоміжних робіт у саду.</span></p>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1014776" available="true">
         <name><![CDATA[Лопата загострена Fiskars ClassicPro червона FSC (1014776)]]></name>
@@ -449,6 +449,152 @@
 <p data-end="1148" data-is-last-node="" data-is-only-node="" data-start="916"><span style="font-size:18px;"><strong data-end="932" data-start="916">Особливості:</strong></span><span style="font-size:14px;"> модель входить до серії Solid бренду Fiskars та призначена для регулярного використання під час будівельних, садових і господарських робіт, пов&rsquo;язаних із переміщенням сипких матеріалів.</span></p>
 ]]></description>
         <stock_quantity>40</stock_quantity>
+      </offer>
+      <offer id="1001569" available="true">
+        <name><![CDATA[Лопата штикова довга Fiskars ErgoComfort (1001569)]]></name>
+        <price>1299</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/38/lopata-shtykova-dovha-fiskars-ergocomfort-1001569-15337467945695_+52b6a43dfc.jpg</picture>
+        <description><![CDATA[<p data-end="317" data-start="0"><span style="font-size:18px;"><strong data-end="54" data-start="0">Лопата штикова довга Fiskars ErgoComfort (1001569)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для копання, перекопування та обробки ґрунту на присадибних ділянках, у садах і городах. Використовується для підготовки ґрунту до посадки, створення посадкових ям, пересаджування рослин і виконання земляних робіт різної складності.</span></p>
+
+<p data-end="520" data-start="319"><span style="font-size:18px;"><strong data-end="335" data-start="319">Призначення:</strong></span><span style="font-size:14px;"> підходить для перекопування щільного та середньої щільності ґрунту, підготовки грядок, висаджування дерев і кущів, а також для переміщення землі, компосту та інших сипких матеріалів.</span></p>
+
+<p data-end="821" data-start="522"><span style="font-size:18px;"><strong data-end="538" data-start="522">Конструкція:</strong></span><span style="font-size:14px;"> подовжений держак дозволяє працювати у вертикальному положенні та зменшує навантаження на спину під час тривалого використання. Загострене штикове полотно полегшує проникнення в ґрунт і забезпечує ефективне виконання земляних робіт. Конструкція адаптована для роботи двома руками.</span></p>
+
+<p data-end="1030" data-start="823"><span style="font-size:18px;"><strong data-end="837" data-start="823">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до деформації при регулярних навантаженнях. Держак має міцну конструкцію, розраховану на систематичне використання у садово-господарських умовах.</span></p>
+
+<p data-end="1208" data-is-last-node="" data-is-only-node="" data-start="1032"><span style="font-size:18px;"><strong data-end="1048" data-start="1032">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії ErgoComfort бренду Fiskars та призначений для регулярного виконання робіт із догляду за садом, городом і прибудинковою територією.</span></p>
+]]></description>
+        <stock_quantity>3</stock_quantity>
+      </offer>
+      <offer id="1001580" available="true">
+        <name><![CDATA[Лопата совкова для бетону Fiskars ErgoComfort (1001580)]]></name>
+        <price>1199</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/39/lopata-sovkova-dlia-betonu-fiskars-ergocomfort-1001580-52489955146930_+1eab5f3626.jpg</picture>
+        <description><![CDATA[<p data-end="330" data-start="0"><span style="font-size:18px;"><strong data-end="59" data-start="0">Лопата совкова для бетону Fiskars ErgoComfort (1001580)</strong></span><span style="font-size:14px;"> &mdash; ручний інструмент для переміщення важких сипких і напіввологих будівельних матеріалів під час ремонтних, будівельних та господарських робіт. Використовується для роботи з бетоном, цементними сумішами, піском, щебенем, гравієм та іншими матеріалами високої щільності.</span></p>
+
+<p data-end="546" data-start="332"><span style="font-size:18px;"><strong data-end="348" data-start="332">Призначення:</strong></span><span style="font-size:14px;"> підходить для приготування та переміщення бетонних сумішей, завантаження будівельних матеріалів, очищення робочих зон, а також виконання робіт на будівельних майданчиках і присадибних територіях.</span></p>
+
+<p data-end="864" data-start="548"><span style="font-size:18px;"><strong data-end="564" data-start="548">Конструкція:</strong> </span><span style="font-size:14px;">совкове полотно збільшеної глибини дозволяє захоплювати значний об&rsquo;єм матеріалу за один рух. Подовжений держак забезпечує роботу у вертикальному положенні та сприяє рівномірному розподілу навантаження під час тривалого використання. Конструкція розрахована на роботу з матеріалами підвищеної ваги.</span></p>
+
+<p data-end="1091" data-start="866"><span style="font-size:18px;"><strong data-end="880" data-start="866">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до механічних навантажень і регулярного контакту з абразивними матеріалами. Держак адаптований до систематичного використання в будівельних і господарських умовах.</span></p>
+
+<p data-end="1254" data-is-last-node="" data-is-only-node="" data-start="1093"><span style="font-size:18px;"><strong data-end="1109" data-start="1093">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії ErgoComfort бренду Fiskars та призначений для регулярного виконання будівельних і вантажно-розвантажувальних робіт.</span></p>
+]]></description>
+        <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="1057179" available="true">
+        <name><![CDATA[Лопата ролер для снігу Fiskars SnowXpert Roller X-series (1057179)]]></name>
+        <price>3099</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/40/lopata-roler-dlia-snihu-fiskars-snowxpert-roller-x-series-1057179-40568881200832_+88acb7e4e6.jpg</picture>
+        <description><![CDATA[<p data-end="339" data-start="0"><span style="font-size:18px;"><strong data-end="70" data-start="0">Лопата-ролер для снігу Fiskars SnowXpert Roller X-series (1057179)</strong> </span><span style="font-size:14px;">&mdash; ручний інструмент для швидкого прибирання снігу на прибудинкових територіях, пішохідних доріжках, під&rsquo;їздах і майданчиках із твердим покриттям. Використовується для переміщення та відштовхування свіжого й помірно ущільненого снігу без необхідності його піднімання.</span></p>
+
+<p data-end="571" data-start="341"><span style="font-size:18px;"><strong data-end="357" data-start="341">Призначення:</strong></span><span style="font-size:14px;"> підходить для очищення тротуарів, дворів, терас, паркувальних зон, доріжок навколо будинку та інших ділянок із регулярним накопиченням снігу. Ефективна для щоденного зимового догляду за прибудинковою територією.</span></p>
+
+<p data-end="921" data-start="573"><span style="font-size:18px;"><strong data-end="589" data-start="573">Конструкція:</strong></span><span style="font-size:14px;"> інструмент виконаний у форматі ролера з широкою робочою частиною, що дозволяє переміщувати значний об&rsquo;єм снігу за один прохід. Подовжений держак забезпечує роботу у вертикальному положенні та сприяє зменшенню навантаження на спину під час тривалого використання. Конструкція адаптована для плавного ковзання по твердих поверхнях.</span></p>
+
+<p data-end="1119" data-start="923"><span style="font-size:18px;"><strong data-end="937" data-start="923">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена з ударостійкого морозостійкого полімеру, розрахованого на експлуатацію в зимових умовах. Держак має міцну конструкцію, стійку до регулярних навантажень.</span></p>
+
+<p data-end="1305" data-is-last-node="" data-is-only-node="" data-start="1121"><span style="font-size:18px;"><strong data-end="1137" data-start="1121">Особливості:</strong></span><span style="font-size:14px;"> модель належить до зимової серії SnowXpert Roller X-series бренду Fiskars і призначена для систематичного використання під час прибирання снігу в холодний період року.</span></p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1062473" available="true">
+        <name><![CDATA[Лопата та граблі MyFirst Fiskars Essentials (1062473)]]></name>
+        <price>1299</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/41/lopata-ta-hrabli-myfirst-fiskars-essentials-1062473-91359860498999_+f5eced6d89.jpg</picture>
+        <description><![CDATA[<p data-end="336" data-start="0"><span style="font-size:18px;"><strong data-end="57" data-start="0">Лопата та граблі MyFirst Fiskars Essentials (1062473)</strong> </span><span style="font-size:14px;">&mdash; дитячий набір садових інструментів для ознайомлення з базовими роботами на присадибній ділянці та участі у простих господарських завданнях. Використовується для роботи з ґрунтом, піском, листям та іншими легкими природними матеріалами під час дозвілля на відкритому повітрі.</span></p>
+
+<p data-end="601" data-start="338"><span style="font-size:18px;"><strong data-end="354" data-start="338">Призначення:</strong> </span><span style="font-size:14px;">підходить для розпушування землі, збирання листя, вирівнювання поверхні ґрунту, ігор у пісочниці та виконання нескладних садових робіт разом із дорослими. Набір допомагає формувати базові навички догляду за рослинами та навколишнім середовищем.</span></p>
+
+<p data-end="834" data-start="603"><span style="font-size:18px;"><strong data-end="619" data-start="603">Конструкція:</strong> </span><span style="font-size:14px;">комплект складається з компактної лопати та граблів, адаптованих до дитячого використання. Розміри інструментів дозволяють зручно тримати їх у руках і виконувати прості рухи без надмірного фізичного навантаження.</span></p>
+
+<p data-end="1053" data-start="836"><span style="font-size:18px;"><strong data-end="850" data-start="836">Матеріали:</strong> </span><span style="font-size:14px;">робочі частини та корпус виготовлені з легких і міцних матеріалів, стійких до регулярного використання на відкритому повітрі. Поверхні розраховані на контакт із ґрунтом, піском і рослинними залишками.</span></p>
+
+<p data-end="1238" data-is-last-node="" data-is-only-node="" data-start="1055"><span style="font-size:18px;"><strong data-end="1071" data-start="1055">Особливості:</strong> </span><span style="font-size:14px;">набір належить до серії MyFirst Fiskars Essentials і призначений для використання дітьми під наглядом дорослих під час занять у саду, на подвір&rsquo;ї або в ігрових зонах.</span></p>
+]]></description>
+        <stock_quantity>12</stock_quantity>
+      </offer>
+      <offer id="1071921" available="true">
+        <name><![CDATA[Лопата дренажна класична Fiskars FSC (1071921)]]></name>
+        <price>799</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/42/lopata-drenazhna-klasychna-fiskars-fsc-1071921-86449683880347_+878831c293.jpg</picture>
+        <description><![CDATA[<p data-end="308" data-start="0"><span style="font-size:18px;"><strong data-end="50" data-start="0">Лопата дренажна класична Fiskars FSC (1071921)</strong> </span><span style="font-size:14px;">&mdash; ручний інструмент для виконання вузьких земляних робіт, пов&rsquo;язаних із прокладанням дренажних каналів, траншей та посадкових заглиблень. Використовується у садівництві, ландшафтних роботах і під час облаштування інженерних систем на присадибних ділянках.</span></p>
+
+<p data-end="521" data-start="310"><span style="font-size:18px;"><strong data-end="326" data-start="310">Призначення:</strong></span><span style="font-size:14px;"> підходить для створення дренажних канав, прокладання вузьких траншей для кабелів і труб, висаджування саджанців, встановлення опор та виконання точкових земляних робіт у важкодоступних місцях.</span></p>
+
+<p data-end="799" data-start="523"><span style="font-size:18px;"><strong data-end="539" data-start="523">Конструкція:</strong> </span><span style="font-size:14px;">вузьке видовжене штикове полотно дозволяє ефективно проникати у ґрунт і формувати акуратні заглиблення без зайвого розширення країв. Подовжений держак забезпечує роботу у вертикальному положенні та сприяє рівномірному розподілу навантаження під час копання.</span></p>
+
+<p data-end="1026" data-start="801"><span style="font-size:18px;"><strong data-end="815" data-start="801">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до регулярних механічних навантажень і контакту з ґрунтом. Держак має міцну конструкцію, розраховану на систематичне використання у садових і господарських умовах.</span></p>
+
+<p data-end="1250" data-is-last-node="" data-is-only-node="" data-start="1028"><span style="font-size:18px;"><strong data-end="1044" data-start="1028">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії FSC бренду Fiskars і призначена для регулярного виконання спеціалізованих земляних робіт, що потребують точності та контролю під час формування вузьких траншей і дренажних каналів.</span></p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1071927" available="true">
+        <name><![CDATA[Лопата штикова загострена Fiskars (1071927)]]></name>
+        <price>599</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/43/lopata-shtykova-zahostrena-fiskars-1071927-20380707249706_+d458073775.jpg</picture>
+        <description><![CDATA[<p data-end="303" data-start="0"><span style="font-size:18px;"><strong data-end="47" data-start="0">Лопата штикова загострена Fiskars (1071927)</strong> </span><span style="font-size:14px;">&mdash; ручний інструмент для копання, перекопування та обробки ґрунту на присадибних ділянках, у садах і городах. Використовується для виконання земляних робіт, підготовки ділянок до посадки рослин, створення посадкових ям і роботи зі щільними типами ґрунту.</span></p>
+
+<p data-end="521" data-start="305"><span style="font-size:18px;"><strong data-end="321" data-start="305">Призначення:</strong></span><span style="font-size:14px;"> підходить для перекопування ущільненого ґрунту, підготовки грядок, висаджування дерев і кущів, пересаджування рослин, а також для видалення коренів і виконання загальних садово-господарських робіт.</span></p>
+
+<p data-end="838" data-start="523"><span style="font-size:18px;"><strong data-end="539" data-start="523">Конструкція:</strong></span><span style="font-size:14px;"> загострене штикове полотно полегшує проникнення у ґрунт і забезпечує ефективне розрізання верхнього шару землі. Подовжений держак дозволяє працювати у вертикальному положенні та сприяє зменшенню навантаження на спину під час тривалого використання. Конструкція адаптована для роботи двома руками.</span></p>
+
+<p data-end="1066" data-start="840"><span style="font-size:18px;"><strong data-end="854" data-start="840">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до механічних навантажень і регулярного контакту з ґрунтом. Держак має міцну конструкцію, розраховану на систематичне використання у садових і господарських умовах.</span></p>
+
+<p data-end="1239" data-is-last-node="" data-is-only-node="" data-start="1068"><span style="font-size:18px;"><strong data-end="1084" data-start="1068">Особливості:</strong></span><span style="font-size:14px;"> інструмент призначений для регулярного виконання земляних робіт на присадибних територіях та використовується для комплексного догляду за садом і городом.</span></p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1071929" available="true">
+        <name><![CDATA[Лопата садова класична фіскарс FSC (1071929)]]></name>
+        <price>699</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</picture>
+        <description><![CDATA[<section data-testid="conversation-turn-45" data-turn="user" data-turn-id="d43088e6-ad13-4ed7-a91c-78aaeaf9e2bd" data-turn-id-container="d43088e6-ad13-4ed7-a91c-78aaeaf9e2bd" dir="auto"><span style="font-size: 18px;"><strong data-end="48" data-start="0">Лопата садова класична Fiskars FSC (1071929)</strong> </span><span style="font-size: 14px;">&mdash; ручний садовий інструмент для виконання базових земляних робіт на присадибних ділянках, у садах і городах. Використовується для копання, перекопування ґрунту, підготовки посадкових місць, пересаджування рослин і догляду за зеленими насадженнями.</span></section>
+
+<section data-testid="conversation-turn-46" data-turn="assistant" data-turn-id="request-69b34cbf-a33c-8331-8c2a-2d7e0ab1d4ae-8" data-turn-id-container="request-69b34cbf-a33c-8331-8c2a-2d7e0ab1d4ae-8" dir="auto">
+<p data-end="513" data-start="300"><span style="font-size:18px;"><strong data-end="316" data-start="300">Призначення:</strong> </span><span style="font-size:14px;">підходить для підготовки грядок, висаджування дерев, кущів і багаторічних рослин, розпушування ґрунту, переміщення землі та виконання загальних садово-господарських робіт протягом усього сезону.</span></p>
+
+<p data-end="842" data-start="515"><span style="font-size:18px;"><strong data-end="531" data-start="515">Конструкція:</strong></span><span style="font-size:14px;"> робоча частина класичної форми забезпечує ефективне проникнення у ґрунт і зручне виконання різних видів земляних робіт. Подовжений держак дозволяє працювати у вертикальному положенні та сприяє рівномірному розподілу навантаження під час тривалого використання. Конструкція адаптована для роботи двома руками.</span></p>
+
+<p data-end="1067" data-start="844"><span style="font-size:18px;"><strong data-end="858" data-start="844">Матеріали:</strong></span><span style="font-size:14px;"> робоче полотно виготовлене зі сталі, стійкої до механічних навантажень і регулярного контакту з ґрунтом. Держак має міцну конструкцію, розраховану на систематичне використання в садово-господарських умовах.</span></p>
+
+<p data-end="1233" data-is-last-node="" data-is-only-node="" data-start="1069"><span style="font-size:18px;"><strong data-end="1085" data-start="1069">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії FSC бренду Fiskars і призначена для регулярного використання під час догляду за садом, городом і прибудинковою територією.</span></p>
+</section>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1073725" available="true">
+        <name><![CDATA[Лопата чорна совкова T-Grip FSC Fiskars (1073725)]]></name>
+        <price>2300</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/45/lopata-chorna-sovkova-t-grip-fsc-fiskars-1073725-65375117345304_+ee1bc9d716.jpeg</picture>
+        <description><![CDATA[<p data-end="327" data-start="0"><span style="font-size:18px;"><strong data-end="53" data-start="0">Лопата чорна совкова T-Grip FSC Fiskars (1073725)</strong></span><span style="font-size:14px;"> &mdash; ручний інструмент для переміщення сипких, гранульованих і насипних матеріалів під час садових, господарських і будівельних робіт. Використовується для роботи із землею, піском, гравієм, компостом, мульчею, снігом та іншими матеріалами на присадибних і робочих ділянках.</span></p>
+
+<p data-end="527" data-start="329"><span style="font-size:18px;"><strong data-end="345" data-start="329">Призначення:</strong> </span><span style="font-size:14px;">підходить для завантаження та переміщення ґрунту, прибирання рослинних залишків, розподілу компосту, роботи з будівельними матеріалами та виконання сезонних господарських завдань.</span></p>
+
+<p data-end="848" data-start="529"><span style="font-size:18px;"><strong data-end="545" data-start="529">Конструкція:</strong></span><span style="font-size:14px;"> глибоке совкове полотно дозволяє захоплювати значний об&rsquo;єм матеріалу за один рух. Подовжений держак із Т-подібним руків&rsquo;ям (T-Grip) забезпечує надійне утримання інструмента та контроль під час роботи. Конструкція адаптована для тривалого використання та рівномірного розподілу фізичного навантаження.</span></p>
+
+<p data-end="1092" data-start="850"><span style="font-size:18px;"><strong data-end="864" data-start="850">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до механічних навантажень і регулярного контакту з абразивними матеріалами. Держак має міцну конструкцію, розраховану на систематичне використання у садових і господарських умовах.</span></p>
+
+<p data-end="1290" data-is-last-node="" data-is-only-node="" data-start="1094"><span style="font-size:18px;"><strong data-end="1110" data-start="1094">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії FSC бренду Fiskars і призначена для регулярного виконання робіт із переміщення сипких матеріалів на присадибних територіях, у садах і господарських зонах.</span></p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1070715" available="true">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
@@ -960,7 +1106,7 @@
 <p data-end="971" data-is-last-node="" data-is-only-node="" data-start="819"><span style="font-size:18px;"><strong data-end="835" data-start="819">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>119</stock_quantity>
+        <stock_quantity>118</stock_quantity>
       </offer>
       <offer id="1057162" available="false">
         <name><![CDATA[Секатор площинний Fiskars Solid M P321 (1057162)]]></name>
@@ -1052,7 +1198,7 @@
 ]]></description>
         <stock_quantity>25</stock_quantity>
       </offer>
-      <offer id="1023492" available="false">
+      <offer id="1023492" available="true">
         <name><![CDATA[Граблі великі для листя Fiskars М помаранчеві (1023492)]]></name>
         <price>1399</price>
         <categoryId>1</categoryId>
@@ -1068,7 +1214,7 @@
 
 <p data-end="1241" data-is-last-node="" data-is-only-node="" data-start="1058"><span style="font-size:18px;"><strong data-end="1074" data-start="1058">Особливості:</strong></span><span style="font-size:14px;"> інструмент вироблений брендом Fiskars та призначений для регулярного збору листя й рослинних відходів на присадибних ділянках і газонах.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>100</stock_quantity>
       </offer>
       <offer id="1024720" available="true">
         <name><![CDATA[Граблі Fiskars Solid (1024720)]]></name>
@@ -1219,6 +1365,86 @@
 </section>
 ]]></description>
         <stock_quantity>60</stock_quantity>
+      </offer>
+      <offer id="1004809" available="true">
+        <name><![CDATA[Граблі садові Ergonomic (1004809)]]></name>
+        <price>999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture></picture>
+        <description><![CDATA[<section data-testid="conversation-turn-49" data-turn="user" data-turn-id="3a45d3ab-0a45-4780-bd85-efb2b1633b86" data-turn-id-container="3a45d3ab-0a45-4780-bd85-efb2b1633b86" dir="auto"><span style="font-size: 18px;"><strong data-end="45" data-start="0">Граблі садові Fiskars Ergonomic (1004809)</strong> </span><span style="font-size: 14px;">&mdash; ручний садовий інструмент для вирівнювання, розпушування та підготовки верхнього шару ґрунту під час робіт у саду та на присадибній ділянці. Використовуються для обробки грядок, збирання рослинних залишків і догляду за ґрунтом перед висаджуванням рослин.</span></section>
+
+<section data-testid="conversation-turn-50" data-turn="assistant" data-turn-id="request-69b34cbf-a33c-8331-8c2a-2d7e0ab1d4ae-10" data-turn-id-container="request-69b34cbf-a33c-8331-8c2a-2d7e0ab1d4ae-10" dir="auto">
+<p data-end="505" data-start="306"><span style="font-size:18px;"><strong data-end="322" data-start="306">Призначення:</strong> </span><span style="font-size:14px;">підходять для розпушування землі, вирівнювання поверхні грядок, розподілу компосту, мульчі та добрив, а також для прибирання дрібного листя, сухої трави й інших рослинних залишків.</span></p>
+
+<p data-end="863" data-start="507"><span style="font-size:18px;"><strong data-end="523" data-start="507">Конструкція:</strong></span><span style="font-size:14px;"> робоча частина оснащена рядом міцних зубців, які забезпечують рівномірну обробку верхнього шару ґрунту та ефективне збирання матеріалу. Подовжений держак дозволяє працювати у вертикальному положенні та сприяє зменшенню навантаження на спину під час тривалого використання. Конструкція адаптована для виконання повторюваних садових робіт.</span></p>
+
+<p data-end="1088" data-start="865"><span style="font-size:18px;"><strong data-end="879" data-start="865">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до механічних навантажень і регулярного контакту з ґрунтом. Держак має міцну конструкцію, розраховану на систематичне використання у садово-господарських умовах.</span></p>
+
+<p data-end="1253" data-is-last-node="" data-is-only-node="" data-start="1090"><span style="font-size:18px;"><strong data-end="1106" data-start="1090">Особливості:</strong></span><span style="font-size:14px;"> модель належить до ергономічної серії Ergonomic бренду Fiskars та призначена для регулярного догляду за садом, городом і прибудинковою територією.</span></p>
+</section>
+]]></description>
+        <stock_quantity>31</stock_quantity>
+      </offer>
+      <offer id="1014812" available="true">
+        <name><![CDATA[Граблі для листя Fiskars Solid FSC (1014812)]]></name>
+        <price>1299</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture></picture>
+        <description><![CDATA[<p data-end="280" data-start="0"><span style="font-size:18px;"><strong data-end="48" data-start="0">Граблі для листя Fiskars Solid FSC (1014812)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для збирання листя, сухої трави та інших рослинних залишків на присадибних ділянках, у садах і на газонах. Використовуються для сезонного прибирання території та підтримання охайного стану зелених зон.</span></p>
+
+<p data-end="480" data-start="282"><span style="font-size:18px;"><strong data-end="298" data-start="282">Призначення:</strong></span><span style="font-size:14px;"> підходять для збирання опалого листя, сухої трави, дрібних гілок і рослинних залишків, а також для очищення газонів, квітників, садових доріжок і територій навколо дерев та кущів.</span></p>
+
+<p data-end="843" data-start="482"><span style="font-size:18px;"><strong data-end="498" data-start="482">Конструкція:</strong></span><span style="font-size:14px;"> широка віялоподібна робоча частина оснащена гнучкими зубцями, які дозволяють охоплювати значну площу поверхні за один прохід і делікатно збирати легкі органічні матеріали без пошкодження газонного покриття. Подовжений держак забезпечує роботу у вертикальному положенні та сприяє зменшенню навантаження на спину під час тривалого використання.</span></p>
+
+<p data-end="1076" data-start="845"><span style="font-size:18px;"><strong data-end="859" data-start="845">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена з міцного полімерного матеріалу, стійкого до вологи, ультрафіолетового випромінювання та регулярних навантажень. Держак має надійну конструкцію, адаптовану до систематичного використання.</span></p>
+
+<p data-end="1255" data-is-last-node="" data-is-only-node="" data-start="1078"><span style="font-size:18px;"><strong data-end="1094" data-start="1078">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії Solid FSC бренду Fiskars і призначена для регулярного виконання сезонних робіт із догляду за садом, газоном і прибудинковою територією.</span></p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1016036" available="true">
+        <name><![CDATA[Граблі для ґрунту Solid (1016036)]]></name>
+        <price>1377</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture></picture>
+        <description><![CDATA[<section data-testid="conversation-turn-53" data-turn="user" data-turn-id="5f45b0e2-f935-4db6-a6b3-0bc303914471" data-turn-id-container="5f45b0e2-f935-4db6-a6b3-0bc303914471" dir="auto">&nbsp;</section>
+
+<section data-testid="conversation-turn-54" data-turn="assistant" data-turn-id="request-69b34cbf-a33c-8331-8c2a-2d7e0ab1d4ae-12" data-turn-id-container="request-69b34cbf-a33c-8331-8c2a-2d7e0ab1d4ae-12" dir="auto">
+<p data-end="286" data-start="0"><span style="font-size:18px;"><strong data-end="45" data-start="0">Граблі для ґрунту Fiskars Solid (1016036)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для розпушування, вирівнювання та підготовки верхнього шару ґрунту перед посадковими роботами. Використовуються на присадибних ділянках, у садах і городах для догляду за грядками та обробки земельних поверхонь.</span></p>
+
+<p data-end="569" data-start="288"><span style="font-size:18px;"><strong data-end="304" data-start="288">Призначення:</strong></span><span style="font-size:14px;"> підходять для розпушування землі, вирівнювання грядок, розподілу компосту, мульчі та добрив, а також для збирання дрібних рослинних залишків після обробки ділянки. Застосовуються під час підготовки ґрунту до висаджування овочевих, декоративних і садових культур.</span></p>
+
+<p data-end="930" data-start="571"><span style="font-size:18px;"><strong data-end="587" data-start="571">Конструкція:</strong></span><span style="font-size:14px;"> робоча частина оснащена рядом міцних зубців, які забезпечують рівномірну обробку верхнього шару ґрунту та ефективне переміщення матеріалу. Подовжений держак дозволяє працювати у вертикальному положенні та сприяє зменшенню навантаження на спину під час тривалого використання. Конструкція адаптована для виконання повторюваних садових робіт.</span></p>
+
+<p data-end="1155" data-start="932"><span style="font-size:18px;"><strong data-end="946" data-start="932">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до механічних навантажень і регулярного контакту з ґрунтом. Держак має міцну конструкцію, розраховану на систематичне використання у садово-господарських умовах.</span></p>
+
+<p data-end="1302" data-is-last-node="" data-is-only-node="" data-start="1157"><span style="font-size:18px;"><strong data-end="1173" data-start="1157">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії Solid бренду Fiskars і призначена для регулярного догляду за садом, городом і прибудинковою територією.</span></p>
+</section>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1025578" available="true">
+        <name><![CDATA[Граблі класичні для листя XL FSC (1025578)]]></name>
+        <price>1600</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture></picture>
+        <description><![CDATA[<section data-testid="conversation-turn-55" data-turn="user" data-turn-id="62cba976-c263-41cb-8d10-5629e9c791e4" data-turn-id-container="62cba976-c263-41cb-8d10-5629e9c791e4" dir="auto"><span style="font-size: 18px;"><strong data-end="54" data-start="0">Граблі класичні для листя XL Fiskars FSC (1025578)</strong> </span><span style="font-size: 14px;">&mdash; ручний садовий інструмент для збирання листя, сухої трави та інших рослинних залишків на великих відкритих ділянках. Використовуються для сезонного прибирання саду, газону та прибудинкової території, де необхідно швидко очищати значні площі поверхні.</span></section>
+
+<section data-testid="conversation-turn-56" data-turn="assistant" data-turn-id="request-69b34cbf-a33c-8331-8c2a-2d7e0ab1d4ae-13" data-turn-id-container="request-69b34cbf-a33c-8331-8c2a-2d7e0ab1d4ae-13" dir="auto">
+<p data-end="512" data-start="311"><span style="font-size:18px;"><strong data-end="327" data-start="311">Призначення:</strong></span><span style="font-size:14px;"> підходять для збирання опалого листя, скошеної трави, дрібних гілок і сухих рослинних залишків, а також для очищення газонів, садових доріжок, квітників і зон навколо дерев та кущів.</span></p>
+
+<p data-end="884" data-start="514"><span style="font-size:18px;"><strong data-end="530" data-start="514">Конструкція:</strong> </span><span style="font-size:14px;">збільшена віялоподібна робоча частина формату XL оснащена гнучкими зубцями, які дозволяють охоплювати широку площу за один прохід і делікатно збирати легкі органічні матеріали без пошкодження газонного покриття. Подовжений держак забезпечує роботу у вертикальному положенні та сприяє рівномірному розподілу навантаження під час тривалого використання.</span></p>
+
+<p data-end="1135" data-start="886"><span style="font-size:18px;"><strong data-end="900" data-start="886">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена з міцного полімерного матеріалу, стійкого до вологи, ультрафіолетового випромінювання та регулярних навантажень. Держак має надійну конструкцію, розраховану на систематичне використання у зовнішніх умовах.</span></p>
+
+<p data-end="1314" data-is-last-node="" data-is-only-node="" data-start="1137"><span style="font-size:18px;"><strong data-end="1153" data-start="1137">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії FSC бренду Fiskars і призначена для регулярного виконання сезонних робіт із догляду за великими садовими та прибудинковими територіями.</span></p>
+</section>
+]]></description>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1026931" available="false">
         <name><![CDATA[Ножиці для кущів Fiskars White HS53 (1026931)]]></name>
