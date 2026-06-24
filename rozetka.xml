@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-23T23:09:59.258Z">
+<yml_catalog date="2026-06-24T01:25:04.620Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -450,6 +450,28 @@
 ]]></description>
         <stock_quantity>40</stock_quantity>
       </offer>
+      <offer id="1071919" available="true">
+        <name><![CDATA[Лопата класична дренажна Fiskars (1071919)]]></name>
+        <price>1799</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-23079016218628_+d0c7269f36.jpg</picture>
+        <description><![CDATA[<section data-scroll-anchor="false" data-testid="conversation-turn-19" data-turn="user" data-turn-id="94eacb09-fa79-4577-b9b4-d3be14088cac" data-turn-id-container="94eacb09-fa79-4577-b9b4-d3be14088cac" dir="auto">&nbsp;</section>
+
+<section data-scroll-anchor="false" data-testid="conversation-turn-20" data-turn="assistant" data-turn-id="request-6991d59e-77d0-8331-9a3e-37e6d60cd0ba-5" data-turn-id-container="request-6991d59e-77d0-8331-9a3e-37e6d60cd0ba-5" dir="auto">
+<p data-end="309" data-start="0"><span style="font-size:18px;"><strong data-end="46" data-start="0">Лопата класична дренажна Fiskars (1071919)</strong> </span><span style="font-size:14px;">&mdash; спеціалізований ручний інструмент для копання вузьких і глибоких траншей, дренажних каналів та посадкових ям. Використовується під час монтажу систем водовідведення, прокладання кабелів, встановлення бордюрів, садових конструкцій і виконання ландшафтних робіт.</span></p>
+
+<p data-end="539" data-start="311"><span style="font-size:18px;"><strong data-end="327" data-start="311">Призначення:</strong></span><span style="font-size:14px;"> підходить для формування дренажних канав, підготовки траншей під труби та комунікації, висаджування дерев і кущів у вузьких посадкових ямах, а також для точкових земляних робіт на ділянках з обмеженим простором.</span></p>
+
+<p data-end="776" data-start="541"><span style="font-size:18px;"><strong data-end="557" data-start="541">Конструкція:</strong></span><span style="font-size:14px;"> вузьке подовжене полотно забезпечує точне заглиблення в ґрунт і дозволяє виконувати роботи там, де стандартна лопата займає надто багато місця. Подовжений держак сприяє ефективному контролю інструмента під час копання.</span></p>
+
+<p data-end="972" data-start="778"><span style="font-size:18px;"><strong data-end="792" data-start="778">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до механічних навантажень і контакту з твердим ґрунтом. Конструкція розрахована на регулярне використання в польових і садових умовах.</span></p>
+
+<p data-end="1167" data-is-last-node="" data-is-only-node="" data-start="974"><span style="font-size:18px;"><strong data-end="990" data-start="974">Особливості:</strong></span><span style="font-size:14px;"> модель належить до класичної лінійки бренду Fiskars та призначена для виконання дренажних і траншейних робіт, де потрібна висока точність копання.</span></p>
+</section>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
       <offer id="1001569" available="true">
         <name><![CDATA[Лопата штикова довга Fiskars ErgoComfort (1001569)]]></name>
         <price>1299</price>
@@ -538,7 +560,7 @@
 
 <p data-end="1250" data-is-last-node="" data-is-only-node="" data-start="1028"><span style="font-size:18px;"><strong data-end="1044" data-start="1028">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії FSC бренду Fiskars і призначена для регулярного виконання спеціалізованих земляних робіт, що потребують точності та контролю під час формування вузьких траншей і дренажних каналів.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1071927" available="true">
         <name><![CDATA[Лопата штикова загострена Fiskars (1071927)]]></name>
@@ -1008,7 +1030,7 @@
 
 <p><strong>Особливості:</strong> належить до серії Xact бренду Fiskars, забезпечує комфорт і точність у роботі.</p>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="1000728" available="true">
         <name><![CDATA[Культивар Fiskars Premium Planters (1000728)]]></name>
@@ -1290,7 +1312,7 @@
 <p data-end="1255" data-is-last-node="" data-is-only-node="" data-start="1045"><span style="font-size:18px;"><strong data-end="1061" data-start="1045">Особливості:</strong></span><span style="font-size:14px;"> інструмент вироблений із сертифікованої деревини FSC і належить до серії бренду Fiskars, призначений для широкого спектра ґрунтообробних задач у саду та на городі.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1011611" available="true">
         <name><![CDATA[Граблі для листя Fiskars Prima FSC (1011611)]]></name>
@@ -1571,7 +1593,7 @@
 
 <p data-end="1239" data-is-last-node="" data-is-only-node="" data-start="1056"><span style="font-size:18px;"><strong data-end="1072" data-start="1056">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії CarbonMax бренду Fiskars та призначений для широкого спектра різальних задач у польових і побутових умовах.</span></p>
 ]]></description>
-        <stock_quantity>90</stock_quantity>
+        <stock_quantity>89</stock_quantity>
       </offer>
       <offer id="1061192" available="true">
         <name><![CDATA[Ніж з висувним лезом Fiskars CarbonMax (1061192)]]></name>
