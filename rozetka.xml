@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-25T23:52:10.898Z">
+<yml_catalog date="2026-06-26T03:39:14.445Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -167,7 +167,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду <strong data-end="40" data-start="0">Фіскарс</strong>, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -392,7 +392,7 @@
 ]]></description>
         <stock_quantity>101</stock_quantity>
       </offer>
-      <offer id="1066708" available="true">
+      <offer id="1066708" available="false">
         <name><![CDATA[Лопата штикова Fiskars Ergonomic (1066708)]]></name>
         <price>1999</price>
         <categoryId>1</categoryId>
@@ -412,7 +412,7 @@
 <p data-end="1714" data-start="1341"><span style="font-size:18px;"><strong data-end="1357" data-start="1341">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Ergonomic бренду Fiskars та орієнтований на комфортну роботу з мінімальним фізичним навантаженням. Зварне з&rsquo;єднання між лезом і держаком підвищує жорсткість конструкції, а вага близько <strong data-end="1613" data-start="1602">2,06 кг</strong> забезпечує баланс між міцністю та керованістю під час копання.</span></p>
 </section>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1066713" available="true">
         <name><![CDATA[Лопата совкова будівельна Fiskars Ergonomic Pro (1066713)]]></name>
@@ -1272,7 +1272,7 @@
 
 <p data-end="1318" data-is-last-node="" data-is-only-node="" data-start="1124"><span style="font-size:18px;"><strong data-end="1140" data-start="1124">Особливості:</strong></span><span style="font-size:14px;"> набір належить до серії Solid бренду Fiskars та призначений для систематичного прибирання та догляду за прибудинковою територією і садовими зонами.</span></p>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1019608" available="true">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
