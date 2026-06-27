@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-27T00:06:03.161Z">
+<yml_catalog date="2026-06-27T04:34:14.042Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -392,7 +392,7 @@
 ]]></description>
         <stock_quantity>101</stock_quantity>
       </offer>
-      <offer id="1066708" available="false">
+      <offer id="1066708" available="true">
         <name><![CDATA[Лопата штикова Fiskars Ergonomic (1066708)]]></name>
         <price>1999</price>
         <categoryId>1</categoryId>
@@ -412,7 +412,7 @@
 <p data-end="1714" data-start="1341"><span style="font-size:18px;"><strong data-end="1357" data-start="1341">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Ergonomic бренду Fiskars та орієнтований на комфортну роботу з мінімальним фізичним навантаженням. Зварне з&rsquo;єднання між лезом і держаком підвищує жорсткість конструкції, а вага близько <strong data-end="1613" data-start="1602">2,06 кг</strong> забезпечує баланс між міцністю та керованістю під час копання.</span></p>
 </section>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1066713" available="true">
         <name><![CDATA[Лопата совкова будівельна Fiskars Ergonomic Pro (1066713)]]></name>
@@ -788,7 +788,7 @@
 
 <p data-end="1073" data-is-last-node="" data-is-only-node="" data-start="896"><span style="font-size:18px;"><strong data-end="912" data-start="896">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом і полегшення садових робіт.</span></p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1005044" available="true">
         <name><![CDATA[Сапка Fiskars Dutch Red FSC (1005044)]]></name>
@@ -1557,7 +1557,7 @@
 
 <p><strong>Особливості: </strong>належать до серії Classic бренду Fiskars, забезпечують надійність і довговічність.</p>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1026826" available="true">
         <name><![CDATA[Ножиці для трави Solid GS21 (1026826)]]></name>
