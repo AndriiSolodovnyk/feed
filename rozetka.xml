@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-28T23:37:43.785Z">
+<yml_catalog date="2026-06-29T03:53:50.179Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -882,7 +882,7 @@
 
 <p data-end="1108" data-is-last-node="" data-is-only-node="" data-start="945"><span style="font-size:18px;"><strong data-end="961" data-start="945">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичних дрібних садових і городніх робіт.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1025565" available="true">
         <name><![CDATA[Культиватор Fiskars Solid (1025565)]]></name>
@@ -900,7 +900,7 @@
 
 <p data-end="1188" data-is-last-node="" data-is-only-node="" data-start="1012"><span style="font-size:18px;"><strong data-end="1028" data-start="1012">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом у домашніх садових умовах.</span></p>
 ]]></description>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>24</stock_quantity>
       </offer>
       <offer id="1027034" available="true">
         <name><![CDATA[Вилка для посадки Fiskars White (1027034)]]></name>
@@ -936,7 +936,7 @@
 
 <p data-end="1077" data-is-last-node="" data-is-only-node="" data-start="903"><span style="font-size:18px;"><strong data-end="919" data-start="903">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом на присадибних ділянках.</span></p>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1027033" available="true">
         <name><![CDATA[Лопатка для розсади Fiskars White (1027033)]]></name>
