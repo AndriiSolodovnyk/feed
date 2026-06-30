@@ -17,15 +17,17 @@ async function parseProducts() {
 
   for (const row of rows) {
     const sku = row['Артикул'];
-    const name = row['Название(UA)'];
-    const description = row['Описание товара(UA)'] || '';
+    const name = row['Название (UA)'];
+    const description = row['Описание товара (UA)'] || row['Короткое описание (UA)'] || '';
     const price = Number(row['Цена']) || 0;
     const photos = row['Фото'];
     const quantity = Number(row['Количество']) || 0;
 
     if (!sku || !name || price <= 0) continue;
 
-    const firstImage = photos ? photos.split(';')[0].trim() : '';
+    const firstImage = photos
+      ? String(photos).split(';').map((photo) => photo.trim()).find(Boolean) || ''
+      : '';
 
     products.push({
       sku,
@@ -35,7 +37,7 @@ async function parseProducts() {
       available: quantity > 0,
       image: firstImage,
       description
-});
+    });
   }
 
   return products;
