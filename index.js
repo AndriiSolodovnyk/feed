@@ -2,7 +2,7 @@ const axios = require('axios');
 const XLSX = require('xlsx');
 const fs = require('fs');
 
-const FILE_URL = 'https://fiskars-gratis.com.ua/content/export/eb49a29eda1ed8152f24322544deb94c.xlsx';
+const FILE_URL = 'https://fiskars-gratis.com.ua/content/export/f21d2ef6d82a517fac09ea84c53cf5c9.xlsx';
 
 async function parseProducts() {
   const response = await axios.get(FILE_URL, {
