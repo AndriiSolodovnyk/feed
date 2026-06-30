@@ -25,9 +25,9 @@ async function parseProducts() {
 
     if (!sku || !name || price <= 0) continue;
 
-    const firstImage = photos
-      ? String(photos).split(';').map((photo) => photo.trim()).find(Boolean) || ''
-      : '';
+    const images = photos
+      ? String(photos).split(';').map((photo) => photo.trim()).filter(Boolean)
+      : [];
 
     products.push({
       sku,
@@ -35,7 +35,7 @@ async function parseProducts() {
       price,
       stock: quantity,
       available: quantity > 0,
-      image: firstImage,
+      images,
       description
     });
   }
@@ -50,14 +50,17 @@ function buildRozetka(products) {
     <offers>`;
 
   for (let p of products) {
+    const pictures = p.images
+      .map((image) => `        <picture>${image}</picture>`)
+      .join('\n');
+
     xml += `
       <offer id="${p.sku}" available="${p.available}">
         <name><![CDATA[${p.name}]]></name>
         <price>${p.price}</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <picture>${p.image}</picture>
-        <description><![CDATA[${p.description || p.name}]]></description>
+${pictures ? `${pictures}\n` : ''}        <description><![CDATA[${p.description || p.name}]]></description>
         <stock_quantity>${p.stock}</stock_quantity>
       </offer>`;
   }
