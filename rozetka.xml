@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-30T23:43:51.498Z">
+<yml_catalog date="2026-07-01T03:52:04.980Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -49,7 +49,7 @@
 <p data-end="1095" data-is-last-node="" data-is-only-node="" data-start="908"><span style="font-size:18px;"><strong data-end="924" data-start="908">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії M бренду Fiskars та призначений для систематичного розколювання деревини в побутових і напівпрофесійних умовах.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1015643" available="true">
         <name><![CDATA[Сокира-колун Fiskars X25 XL (1015643)]]></name>
@@ -879,7 +879,7 @@
 <p data-end="1313" data-is-last-node="" data-is-only-node="" data-start="1114"><span style="font-size:18px;"><strong data-end="1130" data-start="1114">Особливості:</strong></span><span style="font-size:14px;"> комплект належить до серії бренду Fiskars та призначений для дрібних садових і городніх робіт, де потрібен контроль над ґрунтом і доглядом за рослинами.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1025564" available="true">
         <name><![CDATA[Лопатка для пересадки Fiskars Solid (1025564)]]></name>
@@ -915,7 +915,7 @@
 
 <p data-end="1108" data-is-last-node="" data-is-only-node="" data-start="945"><span style="font-size:18px;"><strong data-end="961" data-start="945">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичних дрібних садових і городніх робіт.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1025565" available="true">
         <name><![CDATA[Культиватор Fiskars Solid (1025565)]]></name>
@@ -1362,7 +1362,7 @@
 ]]></description>
         <stock_quantity>5</stock_quantity>
       </offer>
-      <offer id="1019608" available="true">
+      <offer id="1019608" available="false">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
         <price>1399</price>
         <categoryId>1</categoryId>
@@ -1379,9 +1379,9 @@
 
 <p data-end="1192" data-is-last-node="" data-is-only-node="" data-start="1002"><span style="font-size:18px;"><strong data-end="1018" data-start="1002">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за ґрунтом і підготовки поверхні до посадки рослин.</span></p>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="1001587" available="false">
+      <offer id="1001587" available="true">
         <name><![CDATA[Граблі для грунту універсальні Fiskars FSC (1001587)]]></name>
         <price>799</price>
         <categoryId>1</categoryId>
@@ -1401,7 +1401,7 @@
 <p data-end="1255" data-is-last-node="" data-is-only-node="" data-start="1045"><span style="font-size:18px;"><strong data-end="1061" data-start="1045">Особливості:</strong></span><span style="font-size:14px;"> інструмент вироблений із сертифікованої деревини FSC і належить до серії бренду Fiskars, призначений для широкого спектра ґрунтообробних задач у саду та на городі.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1011611" available="true">
         <name><![CDATA[Граблі для листя Fiskars Prima FSC (1011611)]]></name>
@@ -1504,6 +1504,7 @@
         <price>1299</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/47/hrabli-dlia-lystia-fiskars-solid-fsc-1014812-90276819867918_+99fc1b9524.jpeg</picture>
         <description><![CDATA[<p data-end="280" data-start="0"><span style="font-size:18px;"><strong data-end="48" data-start="0">Граблі для листя Fiskars Solid FSC (1014812)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для збирання листя, сухої трави та інших рослинних залишків на присадибних ділянках, у садах і на газонах. Використовуються для сезонного прибирання території та підтримання охайного стану зелених зон.</span></p>
 
 <p data-end="480" data-start="282"><span style="font-size:18px;"><strong data-end="298" data-start="282">Призначення:</strong></span><span style="font-size:14px;"> підходять для збирання опалого листя, сухої трави, дрібних гілок і рослинних залишків, а також для очищення газонів, квітників, садових доріжок і територій навколо дерев та кущів.</span></p>
@@ -1781,7 +1782,7 @@
 
 <p data-end="1251" data-is-last-node="" data-is-only-node="" data-start="1002"><span style="font-size:18px;"><strong data-end="1018" data-start="1002">Особливості:</strong></span><span style="font-size:14px;"> набір розроблений брендом Fiskars для організації базових поливальних робіт у саду та на присадибній території, забезпечуючи сумісність із більшістю стандартних садових шлангів і поливальних аксесуарів.</span></p>
 ]]></description>
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>21</stock_quantity>
       </offer>
       <offer id="1065595" available="true">
         <name><![CDATA[Лопатка Fiskars Essential, 38 см 1065595]]></name>
@@ -1799,7 +1800,7 @@
 
 <p data-end="1108" data-is-last-node="" data-is-only-node="" data-start="923"><strong data-end="939" data-start="923">Особливості:</strong> <span style="font-size:14px;">інструмент належить до серії Essential бренду Fiskars та призначений для щоденного використання на кухні. Легко очищується та підходить для миття в посудомийній машині.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1014412" available="false">
         <name><![CDATA[Терка FF маленька для цедри лимону, імбиру, шоколаду]]></name>
@@ -2560,7 +2561,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>39</stock_quantity>
+        <stock_quantity>38</stock_quantity>
       </offer>
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
@@ -4001,7 +4002,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>113</stock_quantity>
+        <stock_quantity>112</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4757,7 +4758,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">ніж належить до серії Essential бренду Fiskars та призначений для широкого спектра кулінарних задач з контролем точності і ефективності різання.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1065599" available="true">
         <name><![CDATA[Ніж для чищення з поперечним лезом Fiskars Essential (1065599)]]></name>
@@ -4777,7 +4778,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> ніж належить до серії Essential бренду Fiskars та призначений для ефективної та контрольованої обробки овочів і фруктів у кулінарних задачах.</span></p>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1065586" available="true">
         <name><![CDATA[Ніж для чищення з рухомим лезом Fiskrs Essential, 6 см (1065586)]]></name>
@@ -5236,6 +5237,46 @@
 <p data-end="1453" data-is-last-node="" data-is-only-node="" data-start="1161"><span style="font-size:18px;"><strong data-end="1177" data-start="1161">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії Confidant бренду Gerber та орієнтована на повсякденне використання. Відрізняється поєднанням практичної конструкції, компактного формату та натуральної бамбукової вставки в руків&rsquo;ї.</span></p>
 ]]></description>
         <stock_quantity>6</stock_quantity>
+      </offer>
+      <offer id="1015987" available="true">
+        <name><![CDATA[Ніж FF для м'якого сиру]]></name>
+        <price>630</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-ff-dlia-miakoho-syru-29859177223056_+70b2739ef2.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-ff-dlia-miakoho-syru-44013081673304_+c45e5441ba.png</picture>
+        <description><![CDATA[<p><span style="font-size:16px;"><strong>Ніж FF для м&#39;якого сиру Fiskars Functional Form&nbsp;</strong></span></p>
+
+<p><span style="font-size:16px;"><strong>Призначення</strong></span></p>
+
+<p><span style="font-size:16px;">Ніж Fiskars Functional Form призначений для нарізання та сервірування м&#39;яких і напівтвердих сирів. Отвори в лезі зменшують прилипання продукту під час різання, а зубчастий кінчик дозволяє зручно підхоплювати та подавати скибочки сиру. Ергономічне руків&#39;я забезпечує комфортний і надійний хват.</span></p>
+
+<h2><span style="font-size:16px;">Короткий опис</span></h2>
+
+<p><span style="font-size:16px;">Призначений для нарізання та сервірування м&#39;яких і напівтвердих сирів, таких як брі, камамбер, гауда, едам та інших. Підходить для щоденного домашнього використання.</span></p>
+
+<h2><span style="font-size:16px;">Конструкція</span></h2>
+
+<p><span style="font-size:16px;">Ніж оснащений тонким лезом із отворами, що запобігають прилипанню сиру під час нарізання. Зубчастий кінчик дозволяє легко підхоплювати та подавати шматочки сиру. Ергономічне руків&#39;я забезпечує зручність і безпеку під час роботи.</span></p>
+
+<h2><span style="font-size:16px;">Матеріали</span></h2>
+
+<ul data-spread="false">
+	<li><span style="font-size:16px;">Лезо &mdash; нержавіюча сталь.</span></li>
+	<li><span style="font-size:16px;">Руків&#39;я &mdash; міцний харчовий пластик із покриттям SoftGrip.</span></li>
+</ul>
+
+<h2><span style="font-size:16px;">Особливості</span></h2>
+
+<ul data-spread="false">
+	<li><span style="font-size:16px;">Для нарізання та сервірування м&#39;яких сирів.</span></li>
+	<li><span style="font-size:16px;">Отвори в лезі зменшують прилипання продукту.</span></li>
+	<li><span style="font-size:16px;">Зубчастий кінчик для зручної подачі сиру.</span></li>
+	<li><span style="font-size:16px;">Ергономічне нековзке руків&#39;я.</span></li>
+	<li><span style="font-size:16px;">Можна мити в посудомийній машині.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>17</stock_quantity>
       </offer>
       <offer id="1023752" available="true">
         <name><![CDATA[Сотейник Fiskars Rotisser 26 см з кришкою (1023752)]]></name>
@@ -5822,7 +5863,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Armbar бренду Gerber та орієнтована на базові допоміжні задачі в компактному форматі.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>45</stock_quantity>
       </offer>
       <offer id="1052456" available="true">
         <name><![CDATA[Мультитул Gerber ArmBar Cork Shimmer Gold (1052456)]]></name>
@@ -5844,6 +5885,27 @@
 <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії ArmBar бренду Gerber та орієнтована на щоденні утилітарні операції в компактному форматі.</span></p>
 ]]></description>
         <stock_quantity>6</stock_quantity>
+      </offer>
+      <offer id="1021134" available="true">
+        <name><![CDATA[Мультитул Gerber брелок відкривачка Shard,E,Card,BLK (1021134)]]></name>
+        <price>499</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/41/multytul-gerber-brelok-vidkryvachka-shardecardblk-1021134-31746733684133_+c646288c9c.jpg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/41/multytul-gerber-brelok-vidkryvachka-shardecardblk-1021134-47910983383318_+8a9c570f2d.jpg</picture>
+        <description><![CDATA[<p><span style="font-size:18px;"><b>Мультитул‑брелок</b> <b>Gerber Shard, E, Card, BLK (1021134)</b></span><span style="font-size:14px;"> &mdash; компактний ручний інструмент у форматі брелока для базових щоденних задач без потреби у великому наборі інструментів. Поєднує декілька функцій у тонкій пласкій конструкції, яку можна носити на ключах або в гаманеці.</span></p>
+
+<p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> застосовується для відкривання упаковок і пробок, роботи з простими різьбовими з&rsquo;єднаннями, затискання дрібних предметів, базових побутових операцій у місті, подорожах чи на природі.</span></p>
+
+<p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">жорстка багатофункціональна пластина з фіксованими елементами не розкладається окремо, що забезпечує простоту та надійність використання. Компактна форма дозволяє легко носити інструмент у кишені, на ключах або в гаманці.</span></p>
+
+<p><span style="font-size:18px;"><b>Функції:</b> </span><span style="font-size:14px;">включає викруткові насадки різного профілю, відкривачку для пляшок/банок, різак для упаковок, напилок та інші базові елементи для швидких побутових дій.</span></p>
+
+<p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">виготовлений із міцних металевих сплавів, що поєднують стійкість до зносу з невеликою вагою для щоденного носіння.</span></p>
+
+<p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель із серії Shard бренду Gerber орієнтована на універсальні допоміжні задачі в компактному форматі без складних механізмів.</span></p>
+]]></description>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1059836" available="true">
         <name><![CDATA[Мультитул Gerber Lockdown Slim,16L,BOX (1059836)]]></name>
@@ -6308,7 +6370,7 @@
 
 <p data-end="1086" data-is-last-node="" data-is-only-node="" data-start="906"><span style="font-size:18px;"><strong>Особливості: </strong></span><span style="font-size:14px;">інструмент належить до серії Norden бренду Fiskars та призначений для приготування страв на відкритому вогні та кухні. Поєднує природний матеріал, міцність і естетику.</span></p>
 ]]></description>
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1066431" available="true">
         <name><![CDATA[Кошик для приготування на пару Fiskars Norden Grill 30см (1066431)]]></name>
@@ -6331,6 +6393,96 @@
 <p data-end="1214" data-is-last-node="" data-is-only-node="" data-start="989"><span style="font-size:18px;"><strong data-end="1005" data-start="989">Особливості:</strong></span><span style="font-size:14px;"> модель входить до серії Norden Grill бренду Fiskars та призначена для приготування продуктів на грилі з рівномірним розподілом тепла й мінімальним контактом із жаровою поверхнею.</span></p>
 ]]></description>
         <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1066552" available="true">
+        <name><![CDATA[Набір для гриля (лопатка та щипці) Fiskars Norden Grill]]></name>
+        <price>6962</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/12/nabir-dlia-hrylia-lopatka-ta-shchyptsi-fiskars-norden-grill-38973503970433_+06a6475e67.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/12/nabir-dlia-hrylia-lopatka-ta-shchyptsi-fiskars-norden-grill-23810768556758_+aff9c9e72e.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/12/nabir-dlia-hrylia-lopatka-ta-shchyptsi-fiskars-norden-grill-85923178622335_+639be4bfe8.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/12/nabir-dlia-hrylia-lopatka-ta-shchyptsi-fiskars-norden-grill-45028864744106_+bc3e3e8e63.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/12/nabir-dlia-hrylia-lopatka-ta-shchyptsi-fiskars-norden-grill-27247052570476_+6b2d9d121a.png</picture>
+        <description><![CDATA[<h1><span style="font-size:16px;">Набір для гриля (лопатка та щипці) Fiskars Norden Grill</span></h1>
+
+<h2><span style="font-size:16px;">Короткий опис</span></h2>
+
+<p><span style="font-size:16px;">Набір для гриля Fiskars Norden Grill складається з лопатки та щипців, які забезпечують зручне й безпечне приготування м&#39;яса, риби, овочів та інших страв на грилі або барбекю. Інструменти поєднують міцність, ергономічність та стильний скандинавський дизайн, що робить їх чудовим вибором як для домашнього, так і для професійного використання.</span></p>
+
+<h2><span style="font-size:16px;">Призначення</span></h2>
+
+<p><span style="font-size:16px;">Призначений для перевертання, захоплення та подачі продуктів під час приготування на грилі, мангалі або барбекю. Підходить для роботи з м&#39;ясом, рибою, овочами, ковбасками, бургерами та іншими продуктами.</span></p>
+
+<h2><span style="font-size:16px;">Конструкція</span></h2>
+
+<p><span style="font-size:16px;">До комплекту входять лопатка та щипці ергономічної форми. Подовжені ручки забезпечують безпечну відстань від джерела високої температури, а міцна конструкція гарантує комфортне використання та тривалий термін служби. На ручках передбачені отвори для зручного підвішування.</span></p>
+
+<h2><span style="font-size:16px;">Матеріали</span></h2>
+
+<ul data-spread="false">
+	<li><span style="font-size:16px;">Робочі частини &mdash; високоякісна нержавіюча сталь.</span></li>
+	<li><span style="font-size:16px;">Руків&#39;я &mdash; натуральна деревина.</span></li>
+	<li><span style="font-size:16px;">Кріплення &mdash; нержавіюча сталь.</span></li>
+</ul>
+
+<h2><span style="font-size:16px;">Особливості</span></h2>
+
+<ul data-spread="false">
+	<li><span style="font-size:16px;">Комплект із двох найнеобхідніших інструментів для гриля.</span></li>
+	<li><span style="font-size:16px;">Високоякісна нержавіюча сталь, стійка до корозії.</span></li>
+	<li><span style="font-size:16px;">Ергономічні дерев&#39;яні ручки для комфортного користування.</span></li>
+	<li><span style="font-size:16px;">Подовжена конструкція для безпечної роботи біля відкритого вогню.</span></li>
+	<li><span style="font-size:16px;">Скандинавський дизайн серії Norden.</span></li>
+	<li><span style="font-size:16px;">Отвори для підвішування та зручного зберігання.</span></li>
+	<li><span style="font-size:16px;">Підходить для використання на грилі, мангалі та барбекю.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1065250" available="true">
+        <name><![CDATA[Виделка для м'яса Norden]]></name>
+        <price>3865</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/13/vydelka-dlia-miasa-norden-74629045607814_+ae379f7084.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/13/vydelka-dlia-miasa-norden-11455190277885_+1cbae70436.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/13/vydelka-dlia-miasa-norden-67545340924729_+ac98e4282f.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/13/vydelka-dlia-miasa-norden-69466990059541_+8304e26e30.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/13/vydelka-dlia-miasa-norden-99593323781328_+799df49095.png</picture>
+        <description><![CDATA[<h1><span style="font-size:16px;">Виделка для м&#39;яса Fiskars Norden&nbsp;</span></h1>
+
+<h2><span style="font-size:16px;">Призначення</span></h2>
+
+<p><span style="font-size:16px;">Виделка для м&#39;яса Fiskars Norden призначена для надійного утримання великих шматків м&#39;яса під час нарізання або сервірування. Робоча частина з високоякісної нержавіючої сталі та ергономічне руків&#39;я з термічно обробленої берези забезпечують комфорт, точність і довговічність використання.</span></p>
+
+<p><span style="font-size:16px;">Підходить для фіксації м&#39;яса під час нарізання, подачі запечених страв, ростбіфу, птиці та інших великих шматків м&#39;яса. Може використовуватися як у домашній, так і в професійній кухні.</span></p>
+
+<h2><span style="font-size:16px;">Конструкція</span></h2>
+
+<p><span style="font-size:16px;">Виделка оснащена двома міцними зубцями з нержавіючої сталі, що забезпечують надійне утримання продуктів. Руків&#39;я виготовлене з термічно обробленої берези, має ергономічну форму та забезпечує оптимальний баланс інструмента.</span></p>
+
+<h2><span style="font-size:16px;">Матеріали</span></h2>
+
+<ul data-spread="false">
+	<li><span style="font-size:16px;">Робоча частина &mdash; високоякісна нержавіюча сталь.</span></li>
+	<li><span style="font-size:16px;">Руків&#39;я &mdash; натуральна термічно оброблена береза.</span></li>
+	<li><span style="font-size:16px;">Натуральні матеріали з відповідально керованих лісів.</span></li>
+</ul>
+
+<h2><span style="font-size:16px;">Особливості</span></h2>
+
+<ul data-spread="false">
+	<li><span style="font-size:16px;">Преміальна нержавіюча сталь.</span></li>
+	<li><span style="font-size:16px;">Ергономічне дерев&#39;яне руків&#39;я.</span></li>
+	<li><span style="font-size:16px;">Ідеальний баланс для комфортної роботи.</span></li>
+	<li><span style="font-size:16px;">Надійно утримує м&#39;ясо під час нарізання.</span></li>
+	<li><span style="font-size:16px;">Сучасний скандинавський дизайн серії Norden.</span></li>
+	<li><span style="font-size:16px;">Рекомендується ручне миття.</span></li>
+	<li><span style="font-size:16px;">Дизайн розроблений у Фінляндії.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>14</stock_quantity>
       </offer>
     </offers>
   </shop>
