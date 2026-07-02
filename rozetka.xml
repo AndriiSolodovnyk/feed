@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-02T00:06:38.391Z">
+<yml_catalog date="2026-07-02T04:39:01.407Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -433,7 +433,7 @@
 <p data-end="1714" data-start="1341"><span style="font-size:18px;"><strong data-end="1357" data-start="1341">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Ergonomic бренду Fiskars та орієнтований на комфортну роботу з мінімальним фізичним навантаженням. Зварне з&rsquo;єднання між лезом і держаком підвищує жорсткість конструкції, а вага близько <strong data-end="1613" data-start="1602">2,06 кг</strong> забезпечує баланс між міцністю та керованістю під час копання.</span></p>
 </section>
 ]]></description>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>17</stock_quantity>
       </offer>
       <offer id="1066713" available="true">
         <name><![CDATA[Лопата совкова будівельна Fiskars Ergonomic Pro (1066713)]]></name>
@@ -592,7 +592,7 @@
 
 <p data-end="1250" data-is-last-node="" data-is-only-node="" data-start="1028"><span style="font-size:18px;"><strong data-end="1044" data-start="1028">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії FSC бренду Fiskars і призначена для регулярного виконання спеціалізованих земляних робіт, що потребують точності та контролю під час формування вузьких траншей і дренажних каналів.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1071927" available="true">
         <name><![CDATA[Лопата штикова загострена Fiskars (1071927)]]></name>
@@ -1246,6 +1246,46 @@
 ]]></description>
         <stock_quantity>165</stock_quantity>
       </offer>
+      <offer id="1075314" available="true">
+        <name><![CDATA[Секатор площинний для кімнатних рослин]]></name>
+        <price>1477</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-87735988845479_+10b2260602.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-47929734743131_+bc4a3a2b51.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-14886014694608_+99db58e107.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-75459728545920_+c3c301b7f6.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-77270375312000_+26893fdcec.png</picture>
+        <description><![CDATA[<h2>Призначення</h2>
+
+<p>Призначений для обрізання кімнатних рослин, квітів, зелені, молодих пагонів, стебел і коренів. Підходить для регулярного догляду за домашніми рослинами та формування їх крони.</p>
+
+<h2>Конструкція</h2>
+
+<p>Площинний (обвідний) механізм забезпечує акуратний зріз живих гілок без пошкодження рослин. Ергономічні литі алюмінієві ручки комфортно лежать у руці, а надійний замок фіксує леза під час транспортування та зберігання. У комплект входить стильна підставка для зручного зберігання секатора.</p>
+
+<h2>Матеріали</h2>
+
+<ul data-spread="false">
+	<li>Леза &mdash; загартована сталь із антифрикційним покриттям.</li>
+	<li>Руків&#39;я &mdash; литий алюміній.</li>
+	<li>Підставка &mdash; пластик (50% переробленого матеріалу).</li>
+</ul>
+
+<h2>Особливості</h2>
+
+<ul data-spread="false">
+	<li>Площинний механізм для чистого зрізу живих рослин.</li>
+	<li>Максимальний діаметр різу &mdash; до 18 мм.</li>
+	<li>Загартовані леза з антифрикційним покриттям.</li>
+	<li>Ергономічні алюмінієві ручки.</li>
+	<li>Надійний механізм блокування лез.</li>
+	<li>Стильна підставка для безпечного зберігання в комплекті.</li>
+	<li>Підходить для кімнатних рослин, квітів, трав і молодих пагонів.</li>
+</ul>
+]]></description>
+        <stock_quantity>2</stock_quantity>
+      </offer>
       <offer id="1026680" available="true">
         <name><![CDATA[Котушка зі шлангом Fiskars Waterwheel S (1026680)]]></name>
         <price>2999</price>
@@ -1802,7 +1842,7 @@
 ]]></description>
         <stock_quantity>9</stock_quantity>
       </offer>
-      <offer id="1014412" available="false">
+      <offer id="1014412" available="true">
         <name><![CDATA[Терка FF маленька для цедри лимону, імбиру, шоколаду]]></name>
         <price>1515</price>
         <categoryId>1</categoryId>
@@ -1818,7 +1858,7 @@
 
 <p data-end="955" data-is-last-node="" data-is-only-node="" data-start="789"><span style="font-size:16px;"><strong data-end="805" data-start="789">Особливості:</strong>&nbsp;серія&nbsp;поєднує практичність і простоту використання. Терка легко очищується та підходить для щоденного кухонного застосування.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>11</stock_quantity>
       </offer>
       <offer id="1059096" available="true">
         <name><![CDATA[Сковорода Fiskars Steel 28 см (1059096)]]></name>
@@ -1940,7 +1980,7 @@
 
 <p data-end="1192" data-is-last-node="" data-is-only-node="" data-start="945"><strong>Особливості:<span style="font-size:14px;"> </span></strong><span style="font-size:14px;">інструмент належить до серії Norden бренду Fiskars та призначений для інтенсивного використання. Підходить для газових, електричних, склокерамічних та індукційних плит, а також для використання в духовці, на грилі та відкритому вогні.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>8</stock_quantity>
       </offer>
       <offer id="1026570" available="true">
         <name><![CDATA[Сковорода-гриль Fiskars чавунна Norden 26 см 1026570]]></name>
@@ -2021,7 +2061,7 @@
 
 <p data-end="1130" data-is-last-node="" data-is-only-node="" data-start="924"><strong>Особливості: </strong><span style="font-size:14px;">інструмент належить до серії Norden бренду Fiskars та призначений для інтенсивного використання. Підходить для газових, електричних, склокерамічних та індукційних плит, а також для використання в духовці та на грилі,&nbsp;</span><span style="font-size:14px;">дозволяє готувати страви з ефектом повільного приготування.</span></p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>10</stock_quantity>
       </offer>
       <offer id="1066952" available="true">
         <name><![CDATA[Каструля з кришкою Taiten 3,5 л 1066952]]></name>
@@ -2272,7 +2312,7 @@
 ]]></description>
         <stock_quantity>6</stock_quantity>
       </offer>
-      <offer id="1062547" available="false">
+      <offer id="1062547" available="true">
         <name><![CDATA[Ножиці для рукоділля Fiskars ReNew 13 cm]]></name>
         <price>960</price>
         <categoryId>1</categoryId>
@@ -2289,7 +2329,7 @@
 
 <p data-end="1007" data-start="842"><strong data-end="858" data-start="842">Особливості:</strong>&nbsp;серія Fiskars ReNew виготовлена з використанням перероблених та екологічних матеріалів. Ножиці легкі, зручні та призначені для точних творчих робіт.</p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1023819" available="false">
         <name><![CDATA[Ножниці для птиці Essential, 23 см]]></name>
@@ -2371,7 +2411,7 @@
 ]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="1020414" available="false">
+      <offer id="1020414" available="true">
         <name><![CDATA[Ножиці FF універсальні 24 см білі]]></name>
         <price>1760</price>
         <categoryId>1</categoryId>
@@ -2389,9 +2429,9 @@
 
 <p data-end="871" data-start="704"><span style="font-size:16px;"><strong data-end="720" data-start="704">Особливості:</strong>&nbsp;серія FF&nbsp;поєднує практичність і щоденну зручність. Ножиці легко очищуються та підходять для інтенсивного побутового використання.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
-      <offer id="1005153" available="false">
+      <offer id="1005153" available="true">
         <name><![CDATA[Ножиці для рукоділля Fiskars Classic Micro-Tip]]></name>
         <price>1085</price>
         <categoryId>1</categoryId>
@@ -2410,7 +2450,7 @@
 
 <p data-end="999" data-start="820"><span style="font-size:16px;"><strong data-end="836" data-start="820">Особливості:</strong>&nbsp;серія Fiskars Classic Micro-Tip створена для максимально точної та делікатної роботи. Підходить для правші та лівші, забезпечує високу точність у дрібних роботах.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1061193" available="true">
         <name><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></name>
@@ -2561,7 +2601,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>38</stock_quantity>
+        <stock_quantity>37</stock_quantity>
       </offer>
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
@@ -4002,7 +4042,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>112</stock_quantity>
+        <stock_quantity>110</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4050,7 +4090,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для поливу та догляду за газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>18</stock_quantity>
       </offer>
       <offer id="1057585" available="true">
         <name><![CDATA[Тримач для інструментів Fiskars Solid 2 гачками 5 шт (1057585)]]></name>
@@ -6316,7 +6356,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії Devour бренду Gerber і орієнтована на практичні завдання з організації прийому їжі поза домом без окремого набору столових приладів.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1028476" available="true">
         <name><![CDATA[Ножиці Gerber для плетеної ліски (1028476)]]></name>
@@ -6392,7 +6432,7 @@
 
 <p data-end="1214" data-is-last-node="" data-is-only-node="" data-start="989"><span style="font-size:18px;"><strong data-end="1005" data-start="989">Особливості:</strong></span><span style="font-size:14px;"> модель входить до серії Norden Grill бренду Fiskars та призначена для приготування продуктів на грилі з рівномірним розподілом тепла й мінімальним контактом із жаровою поверхнею.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>8</stock_quantity>
       </offer>
       <offer id="1066552" available="true">
         <name><![CDATA[Набір для гриля (лопатка та щипці) Fiskars Norden Grill]]></name>
