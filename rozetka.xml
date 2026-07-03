@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-02T23:36:32.150Z">
+<yml_catalog date="2026-07-03T02:55:46.985Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -2331,7 +2331,7 @@
 ]]></description>
         <stock_quantity>6</stock_quantity>
       </offer>
-      <offer id="1023819" available="false">
+      <offer id="1023819" available="true">
         <name><![CDATA[Ножниці для птиці Essential, 23 см]]></name>
         <price>1879</price>
         <categoryId>1</categoryId>
@@ -2347,7 +2347,7 @@
 
 <p data-end="991" data-is-last-node="" data-is-only-node="" data-start="826"><span style="font-size:16px;"><strong data-end="842" data-start="826">Особливості:</strong>&nbsp;серія Fiskars Essential поєднує простоту та функціональність. Ножиці підходять для інтенсивного щоденного використання на кухні та легко очищуються.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1067857" available="false">
         <name><![CDATA[Ножиці STUD 18 см пурпурні, 6/36, 16 л Fiskars]]></name>
@@ -4042,7 +4042,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>110</stock_quantity>
+        <stock_quantity>106</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4329,6 +4329,60 @@
 <p data-end="2173" data-is-last-node="" data-is-only-node="" data-start="1962"><span style="font-size:14px;">Набір Fiskars поєднує інструменти для сезонного прибирання та щоденного догляду за садовою ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
         <stock_quantity>0</stock_quantity>
+      </offer>
+      <offer id="1062940" available="true">
+        <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars, 20 шт]]></name>
+        <price>1360</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/18/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars-20-sht-83113213554776_+286060fcdc.png</picture>
+        <description><![CDATA[<p><span style="font-size:16px;"><strong>Набір лез Fiskars CarbonMax&nbsp;Fiskars, 20 шт&nbsp;</strong></span></p>
+
+<p><span style="font-size:16px;">Створений для тих, хто цінує максимальну продуктивність і тривалий ресурс інструменту. Завдяки запатентованій технології CarbonMax&nbsp;та спеціальному покриттю леза зберігають гостроту&nbsp;<strong>до 24 разів довше</strong>, ніж стандартні універсальні леза. Це дозволяє рідше змінювати леза, працювати швидше та отримувати стабільно чистий різ навіть під час інтенсивного використання.</span></p>
+
+<p><span style="font-size:16px;">Леза сумісні з більшістю стандартних універсальних ножів, що робить їх універсальним рішенням як для професійного, так і для побутового використання. Вони легко справляються з різанням картону, пакувальних матеріалів, пластику, гуми, плівки та інших матеріалів.</span></p>
+
+<h3><span style="font-size:16px;">Переваги</span></h3>
+
+<ul data-spread="false">
+	<li><span style="font-size:16px;">Технологія CarbonMaх&nbsp;&nbsp;забезпечує виняткову довговічність.</span></li>
+	<li><span style="font-size:16px;">Зберігають гостроту до&nbsp;<strong>24 разів довше</strong>&nbsp;за стандартні універсальні леза.</span></li>
+	<li><span style="font-size:16px;">Спеціальне покриття для тривалого утримання ріжучої кромки.</span></li>
+	<li><span style="font-size:16px;">Лабораторно протестовані та підтверджені показники зносостійкості.</span></li>
+	<li><span style="font-size:16px;">Сумісні з усіма універсальними ножами стандартного розміру.</span></li>
+	<li><span style="font-size:16px;">У комплекті&nbsp;<strong>20 змінних лез</strong></span></li>
+</ul>
+]]></description>
+        <stock_quantity>173</stock_quantity>
+      </offer>
+      <offer id="1000665" available="true">
+        <name><![CDATA[Тримач телескопічний QuikFit L]]></name>
+        <price>3299</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/19/trymach-teleskopichnyi-quikfit-l-62569400449206_+884747818f.jpeg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/19/trymach-teleskopichnyi-quikfit-l-60939471556537_+9d13a6d11f.png</picture>
+        <description><![CDATA[<p><span style="font-size:16px;"><strong>Телескопічний тримач Fiskars QuikFit&nbsp;L</strong>&nbsp;</span></p>
+
+<p><span style="font-size:16px;">Універсальна алюмінієва ручка для роботи з насадками системи QuikFit, яка дозволяє безпечно виконувати садові роботи на великій висоті без використання драбини. Завдяки регульованій довжині від&nbsp;<strong>230 до 400 см</strong>&nbsp;тримач забезпечує комфортну роботу та дозволяє досягати висоти&nbsp;<strong>до 6 метрів</strong>&nbsp;разом із користувачем.</span></p>
+
+<p><span style="font-size:16px;">Легка, але міцна конструкція з алюмінію зменшує навантаження на руки навіть під час тривалої роботи. Інноваційна система&nbsp;<strong>подвійного автоматичного блокування</strong>&nbsp;надійно фіксує як довжину тримача, так і насадку, гарантуючи максимальну безпеку під час експлуатації. Тримач сумісний з усіма робочими насадками серії&nbsp;<strong>Fiskars QuikFit</strong>, що робить його універсальним рішенням для обрізування гілок, очищення жолобів, збору фруктів, догляду за деревами та інших садових робіт.</span></p>
+
+<h3><span style="font-size:16px;">Переваги</span></h3>
+
+<ul data-spread="false">
+	<li><span style="font-size:16px;">Телескопічна конструкція з регулюванням довжини від&nbsp;<strong>230 до 400 см</strong>.</span></li>
+	<li><span style="font-size:16px;">Робоча висота до&nbsp;<strong>6 метрів</strong>&nbsp;разом із користувачем.</span></li>
+	<li><span style="font-size:16px;">Легка та міцна алюмінієва конструкція.</span></li>
+	<li><span style="font-size:16px;">Подвійна система автоматичного блокування для надійної фіксації.</span></li>
+	<li><span style="font-size:16px;">Сумісність з усіма насадками Fiskars QuikFit&trade;.</span></li>
+	<li><span style="font-size:16px;">Дозволяє працювати на висоті без використання драбини.</span></li>
+	<li><span style="font-size:16px;">Ергономічна конструкція для комфортної та безпечної роботи.</span></li>
+</ul>
+
+<h3>&nbsp;</h3>
+]]></description>
+        <stock_quantity>48</stock_quantity>
       </offer>
       <offer id="1000601" available="true">
         <name><![CDATA[Точило для сокир та ножів Fiskars Xsharp (1000601)]]></name>
@@ -5317,6 +5371,44 @@
 </ul>
 ]]></description>
         <stock_quantity>17</stock_quantity>
+      </offer>
+      <offer id="1016122" available="true">
+        <name><![CDATA[Ніж для чистки з поперечним рухомим лезом Functional Form]]></name>
+        <price>566</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-13914913650847_+804d1c9b68.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-97102682085611_+76435984c2.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-14055728689450_+6f520272c2.png</picture>
+        <description><![CDATA[<p><meta charset="UTF-8" /></p>
+
+<h3 data-end="69" data-section-id="5oqw87" data-start="0"><span style="font-size:16px;">Ніж для чистки з поперечним рухомим лезом Fiskars Functional Form</span></h3>
+
+<p data-end="365" data-start="81"><span style="font-size:16px;">Ніж для чистки з поперечним рухомим лезом&nbsp;<strong data-end="150" data-start="123">Fiskars Functional Form</strong>&nbsp;&mdash; практичний кухонний інструмент, який значно полегшує очищення овочів і фруктів. Поперечне рухоме лезо автоматично повторює контури продукту, забезпечуючи тонке та акуратне зрізання шкірки з мінімальними втратами.</span></p>
+
+<p data-end="693" data-start="367"><span style="font-size:16px;">Гостре лезо з високоякісної нержавіючої сталі легко справляється з картоплею, морквою, огірками, яблуками та іншими овочами й фруктами. Ергономічна рукоятка серії&nbsp;<strong data-end="549" data-start="530">Functional Form</strong>&nbsp;забезпечує надійний і комфортний хват навіть під час тривалого використання, а компактний розмір робить ніж зручним для щоденного використання.</span></p>
+
+<h3 data-end="708" data-section-id="hotu7e" data-start="695"><span style="font-size:16px;">Переваги:</span></h3>
+
+<ul data-end="1029" data-start="709">
+	<li data-end="769" data-section-id="1goz2y3" data-start="709"><span style="font-size:16px;">Поперечне рухоме лезо для швидкого та акуратного очищення.</span></li>
+	<li data-end="815" data-section-id="6007x3" data-start="770"><span style="font-size:16px;">Лезо адаптується до форми овочів і фруктів.</span></li>
+	<li data-end="866" data-section-id="5x9vnz" data-start="816"><span style="font-size:16px;">Виготовлений із високоякісної нержавіючої сталі.</span></li>
+	<li data-end="928" data-section-id="1tco43l" data-start="867"><span style="font-size:16px;">Ергономічна нековзка рукоятка для комфортного користування.</span></li>
+	<li data-end="971" data-section-id="1jnmhim" data-start="929"><span style="font-size:16px;">Компактний, легкий та зручний у догляді.</span></li>
+	<li data-end="1029" data-section-id="1w9re97" data-start="972"><span style="font-size:16px;">Підходить для щоденного використання на домашній кухні.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>3</stock_quantity>
+      </offer>
+      <offer id="1016472" available="true">
+        <name><![CDATA[Ніж для томатів та стейків Norr]]></name>
+        <price>1999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/21/nizh-dlia-tomativ-ta-steikiv-norr-99485269874005_+2b18d97e17.png</picture>
+        <description><![CDATA[Ніж для томатів та стейків Norr]]></description>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1023752" available="true">
         <name><![CDATA[Сотейник Fiskars Rotisser 26 см з кришкою (1023752)]]></name>
