@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-03T23:34:21.234Z">
+<yml_catalog date="2026-07-04T02:52:12.797Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -177,7 +177,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду <strong data-end="40" data-start="0">Фіскарс</strong>, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>8</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -1400,7 +1400,7 @@
 
 <p data-end="1318" data-is-last-node="" data-is-only-node="" data-start="1124"><span style="font-size:18px;"><strong data-end="1140" data-start="1124">Особливості:</strong></span><span style="font-size:14px;"> набір належить до серії Solid бренду Fiskars та призначений для систематичного прибирання та догляду за прибудинковою територією і садовими зонами.</span></p>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1019608" available="false">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
@@ -2272,7 +2272,7 @@
 
 <p><strong>Особливості: </strong>належать до серії Classic бренду Fiskars, забезпечують надійність і довговічність.</p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1026826" available="true">
         <name><![CDATA[Ножиці для трави Solid GS21 (1026826)]]></name>
@@ -2349,7 +2349,7 @@
 ]]></description>
         <stock_quantity>4</stock_quantity>
       </offer>
-      <offer id="1067857" available="false">
+      <offer id="1067857" available="true">
         <name><![CDATA[Ножиці STUD 18 см пурпурні, 6/36, 16 л Fiskars]]></name>
         <price>390</price>
         <categoryId>1</categoryId>
@@ -2366,9 +2366,9 @@
 
 <p data-end="855" data-start="701"><span style="font-size:16px;"><strong data-end="717" data-start="701">Особливості:</strong>&nbsp;модель Fiskars STUD розроблена для навчального використання, забезпечує безпечну та комфортну роботу з матеріалами.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
-      <offer id="1067858" available="false">
+      <offer id="1067858" available="true">
         <name><![CDATA[Ножиці STUD 18 см чорні, 6/36, 16 л Fiskars]]></name>
         <price>390</price>
         <categoryId>1</categoryId>
@@ -2387,9 +2387,9 @@
 
 <p data-end="850" data-start="663"><span style="font-size:16px;"><strong data-end="679" data-start="663">Особливості:</strong>&nbsp;модель Fiskars STUD розроблена для навчального використання. Підходить для щоденного застосування у школі та вдома, забезпечує комфортну та безпечну роботу з матеріалами.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
-      <offer id="1067851" available="false">
+      <offer id="1067851" available="true">
         <name><![CDATA[Ножиці дитячі Рожеві 15 см Fiskars]]></name>
         <price>250</price>
         <categoryId>1</categoryId>
@@ -2409,7 +2409,7 @@
 
 <p data-end="846" data-start="708"><span style="font-size:16px;"><strong data-end="724" data-start="708">Особливості:</strong>&nbsp;модель Fiskars розроблена спеціально для дітей шкільного віку, поєднує безпеку, комфорт і точність під час творчих робіт.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1020414" available="true">
         <name><![CDATA[Ножиці FF універсальні 24 см білі]]></name>
@@ -2601,7 +2601,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>37</stock_quantity>
+        <stock_quantity>45</stock_quantity>
       </offer>
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
@@ -2659,7 +2659,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для роботи з деревиною та догляду за газоном в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>26</stock_quantity>
+        <stock_quantity>25</stock_quantity>
       </offer>
       <offer id="1001622106119" available="true">
         <name><![CDATA[Набір Fiskars: ніж загального призначення K40 Fiskars + ніж складаний Fiskars CarbonMax ]]></name>
@@ -2707,7 +2707,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>34</stock_quantity>
+        <stock_quantity>35</stock_quantity>
       </offer>
       <offer id="1026931102693" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів Fiskars White HS53 + Гілкоріз білий White L32]]></name>
@@ -2752,7 +2752,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars забезпечує ефективний догляд за кущами та деревами в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>91</stock_quantity>
+        <stock_quantity>92</stock_quantity>
       </offer>
       <offer id="1023739100077" available="true">
         <name><![CDATA[Комплект Fiskars: Сковорода Rotisser 24 см + Набір ножів в дерев'яному блоці Kitchen Devil]]></name>
@@ -2901,7 +2901,7 @@
 
 <p>Набір Fiskars поєднує інструменти для обрізки рослин і роботи з ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>54</stock_quantity>
+        <stock_quantity>55</stock_quantity>
       </offer>
       <offer id="1000773105909" available="true">
         <name><![CDATA[Комплект FISKARS: Набір ножів в деревяному блоці  Kitchen Devil + Сковорода Steel 28 см ]]></name>
@@ -3137,7 +3137,7 @@
 
 <p>Набір Fiskars + Gerber поєднує практичність і універсальність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>25</stock_quantity>
+        <stock_quantity>24</stock_quantity>
       </offer>
       <offer id="1051085105983" available="true">
         <name><![CDATA[Набір Fiskars: Сокира Solid A10 + Мультитул Gerber Lockdown Slim 16L]]></name>
@@ -3274,7 +3274,7 @@
 
 <p>Набір Fiskars поєднує інструменти для обрізки рослин і роботи з ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>13</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="1027528102682" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз площинний телескопічний Fiskars Solid L13 + Ножиці для кущів Solid HS21]]></name>
@@ -3366,7 +3366,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує практичність і універсальність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>114</stock_quantity>
+        <stock_quantity>116</stock_quantity>
       </offer>
       <offer id="1024856105984" available="true">
         <name><![CDATA[Набір Мачете Gerber Compact Clearpath + Ніж-топірець Gerber DOWNWIND ULU]]></name>
@@ -3434,7 +3434,7 @@
 
 <p><span style="font-size:16px;">Набір Gerber &mdash; це практичне рішення для тих, хто хоче мати під рукою інструменти для роботи та відпочинку на природі в одному комплекті. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>26</stock_quantity>
+        <stock_quantity>29</stock_quantity>
       </offer>
       <offer id="1014773105108" available="true">
         <name><![CDATA[Набір Лопата садова штикова Fiskars Classic FSC+ Сокира теслярська Fiskars Solid A10]]></name>
@@ -3483,7 +3483,7 @@
 
 <p><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;топор та лопата Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
-        <stock_quantity>18</stock_quantity>
+        <stock_quantity>27</stock_quantity>
       </offer>
       <offer id="1070715105108" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White + Сокира теслярська Solid A10]]></name>
@@ -3553,7 +3553,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>182</stock_quantity>
+        <stock_quantity>186</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC ]]></name>
@@ -4042,7 +4042,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>106</stock_quantity>
+        <stock_quantity>105</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
