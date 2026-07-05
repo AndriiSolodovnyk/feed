@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-05T00:00:23.367Z">
+<yml_catalog date="2026-07-05T04:38:53.968Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -25,7 +25,7 @@
 <p data-end="1060" data-is-last-node="" data-is-only-node="" data-start="875"><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;топор та колун&nbsp;Фискарс напевно, є найкращими у світі.</p>
 </article>
 ]]></description>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1015641" available="true">
         <name><![CDATA[Сокира-колун Fiskars M Х17 (1015641)]]></name>
@@ -879,7 +879,7 @@
 <p data-end="1313" data-is-last-node="" data-is-only-node="" data-start="1114"><span style="font-size:18px;"><strong data-end="1130" data-start="1114">Особливості:</strong></span><span style="font-size:14px;"> комплект належить до серії бренду Fiskars та призначений для дрібних садових і городніх робіт, де потрібен контроль над ґрунтом і доглядом за рослинами.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1025564" available="true">
         <name><![CDATA[Лопатка для пересадки Fiskars Solid (1025564)]]></name>
@@ -969,7 +969,7 @@
 
 <p data-end="1077" data-is-last-node="" data-is-only-node="" data-start="903"><span style="font-size:18px;"><strong data-end="919" data-start="903">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом на присадибних ділянках.</span></p>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1027033" available="true">
         <name><![CDATA[Лопатка для розсади Fiskars White (1027033)]]></name>
@@ -2707,7 +2707,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>35</stock_quantity>
+        <stock_quantity>34</stock_quantity>
       </offer>
       <offer id="1026931102693" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів Fiskars White HS53 + Гілкоріз білий White L32]]></name>
@@ -2901,7 +2901,7 @@
 
 <p>Набір Fiskars поєднує інструменти для обрізки рослин і роботи з ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>55</stock_quantity>
+        <stock_quantity>54</stock_quantity>
       </offer>
       <offer id="1000773105909" available="true">
         <name><![CDATA[Комплект FISKARS: Набір ножів в деревяному блоці  Kitchen Devil + Сковорода Steel 28 см ]]></name>
@@ -3320,7 +3320,7 @@
 
 <p>Набір Fiskars поєднує інструменти для обрізки рослин і роботи з ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>42</stock_quantity>
+        <stock_quantity>41</stock_quantity>
       </offer>
       <offer id="1051085101477" available="true">
         <name><![CDATA[Набір Fiskars: Сокира теслярська Fiskars Solid A10 + Лопата садова штикова Fiskars Classic FSC]]></name>
@@ -3366,7 +3366,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує практичність і універсальність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>116</stock_quantity>
+        <stock_quantity>115</stock_quantity>
       </offer>
       <offer id="1024856105984" available="true">
         <name><![CDATA[Набір Мачете Gerber Compact Clearpath + Ніж-топірець Gerber DOWNWIND ULU]]></name>
@@ -3434,7 +3434,7 @@
 
 <p><span style="font-size:16px;">Набір Gerber &mdash; це практичне рішення для тих, хто хоче мати під рукою інструменти для роботи та відпочинку на природі в одному комплекті. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>29</stock_quantity>
+        <stock_quantity>28</stock_quantity>
       </offer>
       <offer id="1014773105108" available="true">
         <name><![CDATA[Набір Лопата садова штикова Fiskars Classic FSC+ Сокира теслярська Fiskars Solid A10]]></name>
