@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-06T23:07:01.075Z">
+<yml_catalog date="2026-07-07T01:16:07.184Z">
   <shop>
     <offers>
+      <offer id="1014860" available="true">
+        <name><![CDATA[Томагавк]]></name>
+        <price>18700</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-51337791712519_+130a721fd2.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-25956959800794_+b697e02de1.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-62125175070406_+7496d939cb.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-65720828777424_+775d947a7b.png</picture>
+        <description><![CDATA[<p data-path-to-node="4"><b data-index-in-node="0" data-path-to-node="4">Тактичний томагавк Gerber Downrange Tomahawk (1014860)</b>&nbsp;&mdash; це надпотужний багатофункціональний інструмент преміум-класу, розроблений у США спеціально для військових, рятувальників, спецпідрозділів та професійних тактичних завдань. Цей томагавк поєднує в собі три критично важливі інструменти для виживання та проникнення: сокиру, молот та важіль-лом (фомку). Завдяки монолітній конструкції, він здатний витримувати екстремальні механічні навантаження в найсуворіших умовах експлуатації.</p>
+
+<p data-path-to-node="5,0,0"><b data-index-in-node="0" data-path-to-node="5,0,0">Призначення:</b>&nbsp;розроблений для тактичних операцій, руйнування перешкод, вибивання дверей та замків, демонтажу конструкцій, евакуації з транспортних засобів, а також для виживання в диких умовах і облаштування табору.</p>
+
+<p data-path-to-node="5,1,0"><b data-index-in-node="0" data-path-to-node="5,1,0">Конструкція:</b>&nbsp;інструмент має монолітну конструкцію Full Tang (лезо, рукоятка та лом є єдиною суцільною деталлю з товстого сталевого листа), що повністю виключає злам або люфт. Головка інструмента поєднує гостре сокирище для рубання та масивний бойок-молот на зворотному боці для руйнування цегли чи бетону. На кінці рукоятки розташований міцний загнутий лом, а спеціальний отвір у головці сокири слугує зручною ручкою для максимального важеля під час підважування конструкцій. Постачається з професійним тактичним чохлом, сумісним із системою MOLLE.</p>
+
+<p data-path-to-node="5,2,0"><b data-index-in-node="0" data-path-to-node="5,2,0">Матеріали:</b>&nbsp;основа виготовлена з високоміцної американської вуглецевої сталі марки 420HC, яка має надзвичайну в&#39;язкість і стійкість до сколів. Поверхня металу покрита спеціальним чорним керамічним напиленням Cerakote&trade;, яке захищає від корозії, подряпин та не бликує на сонці. Накладки на рукоятку виготовлені зі зносостійкого композиту G-10 з глибокою текстуроюDesert Tan, що гарантує мертве захоплення навіть у тактичних рукавицях чи під дощем.</p>
+
+<p data-path-to-node="5,3,0"><b data-index-in-node="0" data-path-to-node="5,3,0">Розміри:</b>&nbsp;загальна довжина інструмента становить 640 мм. Вага без чохла &mdash; 862 г, вага разом із тактичним чохлом &mdash; 1133 г.</p>
+
+<p data-path-to-node="5,4,0"><b data-index-in-node="0" data-path-to-node="5,4,0">Особливості:</b>&nbsp;унікальний інструмент 3 в 1 (сокира, молот, лом). Повністю відповідає військовим стандартам міцності. Інноваційний чохол надійно фіксує томагавк і дозволяє кріпити його на бронежилет, розвантажувальний жилет або рюкзак.</p>
+
+<p data-path-to-node="5,5,0"><b data-index-in-node="0" data-path-to-node="5,5,0">Країна-виробник:</b>&nbsp;США&nbsp;</p>
+
+<p data-path-to-node="5,6,0"><b data-index-in-node="0" data-path-to-node="5,6,0">Гарантія:</b>&nbsp;25 років офіційної гарантії від виробника.</p>
+]]></description>
+        <stock_quantity>1</stock_quantity>
+      </offer>
       <offer id="1052045" available="true">
         <name><![CDATA[Сокира-колун Fiskars Solid A18 (1052045)]]></name>
         <price>2999</price>
@@ -177,7 +204,7 @@
 
 <p><strong>Особливості:</strong> належить до продукції бренду <strong data-end="40" data-start="0">Фіскарс</strong>, забезпечує зручність і функціональність у використанні.</p>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
@@ -199,6 +226,56 @@
 <p>Особливості: належить до серії Norden бренду Fiskars, ідеально підходить як подарунковий набір.</p>
 ]]></description>
         <stock_quantity>12</stock_quantity>
+      </offer>
+      <offer id="1075438" available="true">
+        <name><![CDATA[Сокира Fiskars Norden 375, ювілейне видання]]></name>
+        <price>9999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/34/sokyra-fiskars-norden-375-yuvileine-vydannia-25641113419331_+7d0e4a2fe7.png</picture>
+        <description><![CDATA[<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Сокира Fiskars Norden 375 Ювілейне видання (1075438)</b> &mdash; це ексклюзивний колекційний інструмент преміум-класу, випущений обмеженим тиражем на честь 375-річчя легендарного фінського бренду Fiskars. Ця модель уособлює бездоганне поєднання вікових традицій обробки металу та дерева з найсучаснішими інженерними технологіями. Сокира Norden 375 створена не лише як висококласний робочий інструмент для поціновувачів преміальної якості, але й як цінний подарунок для туристів, мисливців, колекціонерів та прихильників бренду.</p>
+
+<p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> розрахована на універсальне використання в польових та побутових умовах: заготівля трісок і дров для багаття, теслярські роботи, підрізання гілок, розчищення чагарників у походах, на кемпінгу, полюванні чи на присадибній ділянці.</p>
+
+<p data-path-to-node="4,1,0"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> має ідеально збалансовану геометрію для точного, глибокого та ефективного рубання. Обух надійно зафіксований у топорищі за запатентованою технологією тривалого лиття, що гарантує 100% безпеку та унеможливлює зрив леза. Інноваційний захист від промахів із матеріалу FiberComp&nbsp;захищає дерев&#39;яну рукоятку від пошкоджень у разі неправильного удару. Постачається зі спеціальним захисним чохлом для безпечного транспортування та зберігання.</p>
+
+<p data-path-to-node="4,2,0"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> сокирище виготовлене з добірної деревини преміального американського горіха (гікорі), яка проходить ретельну обробку, приємно лежить у руці та ефективно поглинає вібрацію від ударів. Лезо виготовлене з високоякісної вуглецевої сталі з подвійним загартуванням. Фірмове антифрикційне покриття захищає метал від корозії та значно зменшує тертя, не дозволяючи сокирі застрягати в деревині.</p>
+
+<p data-path-to-node="4,3,0"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> загальна довжина інструмента становить 386 мм, ширина робочої частини (леза) &mdash; 172 мм. Вага обуха &mdash; 470 г, загальна вага сокири в зборі &mdash; 791 г.</p>
+
+<p data-path-to-node="4,4,0"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> унікальне ювілейне видання (Anniversary Edition), присвячене 375-річчю Fiskars. Кожна сокира лімітованої серії Norden має неповторну природну текстуру дерева, індивідуальне гравіювання на лезі та постачається в особливій стильній упаковці. Інструмент повністю виготовляється безпосередньо у Фінляндії.</p>
+
+<p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Фінляндія.</p>
+]]></description>
+        <stock_quantity>12</stock_quantity>
+      </offer>
+      <offer id="1051146" available="true">
+        <name><![CDATA[Набір подарунковий 2 в 1 Fiskars Norden N7 та точило (1051146)]]></name>
+        <price>4749</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/38/nabir-podarunkovyi-2-v-1-fiskars-norden-n7-ta-tochylo-1051146-79552544014327_+fb727a1fe0.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/38/nabir-podarunkovyi-2-v-1-fiskars-norden-n7-ta-tochylo-1051146-97067670412665_+dcb30bbe42.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/38/nabir-podarunkovyi-2-v-1-fiskars-norden-n7-ta-tochylo-1051146-29296977943042_+c74b1c3ae3.png</picture>
+        <description><![CDATA[<h3 data-path-to-node="2">&nbsp;</h3>
+
+<p data-path-to-node="3"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="3">Подарунковий набір 2 в 1 Fiskars Norden N7 з точилом (1051146)</b> &mdash; це ексклюзивний комплект преміум-класу, який поєднує в собі столітні традиції фінської майстерності та сучасні технології. До набору входить легендарна туристична сокира Fiskars Norden N7 та універсальне точило для сокир і ножів. Це бездоганний, солідний та практичний подарунок для поціновувачів відпочинку на природі, туристів, мисливців та тих, хто цінує безкомпромісну якість інструментів.</span></p>
+
+<p data-path-to-node="4,0,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> призначений для заготівлі трісок для багаття, розчищення чагарників, обрубування невеликих гілок та виконання дрібних теслярських робіт під час походів, кемпінгу, полювання чи на присадибній ділянці. Точило в комплекті забезпечує регулярний догляд та підтримку ідеальної гостроти леза в польових і домашніх умовах.</span></p>
+
+<p data-path-to-node="4,1,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> сокира Norden N7 поєднує класичне дерев&#39;яне топорище з інноваційним захистом від промахів із матеріалу FiberComp&trade;. Лезо надійно зафіксоване в топорищі за технологією тривалого лиття, що повністю виключає його зрив. Кут заточування ріжучої крайки оптимізований для ефективного рубання. Точило має два режими роботи та керамічні шліфувальні круги, які забезпечують правильний кут заточування леза одним рухом.</span></p>
+
+<p data-path-to-node="4,2,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> топорище виготовлене з високоякісної деревини гікорі (інтенсивно оброблений американський горіх), що надає інструменту автентичного вигляду та чудово поглинає вібрацію від ударів. Лезо виготовлене з надміцної вуглецевої сталі з подвійним гартуванням та захисним антифрикційним покриттям, яке запобігає застряганню в деревині. Корпус точила виготовлений з міцного полімеру.</span></p>
+
+<p data-path-to-node="4,3,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> довжина сокири становить 386 мм, ширина робочої частини (леза) &mdash; 172 мм. Загальна вага сокири &mdash; 791 г, вага обуха &mdash; 470 г. Габарити упаковки набору: довжина &mdash; 445 мм, ширина &mdash; 230 мм, висота &mdash; 45 мм.</span></p>
+
+<p data-path-to-node="4,4,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> інструменти належать до флагманської дизайнерської серії <b data-index-in-node="70" data-path-to-node="4,4,0">Norden</b>, яка виготовляється безпосередньо у Фінляндії. Сокира має унікальний серійний номер та постачається в стильній подарунковій фірмовій коробці, яка підкреслює преміальний статус набору. Текстура дерева на кожній сокирі є унікальною.</span></p>
+
+<p data-path-to-node="4,5,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Фінляндія.</span></p>
+
+<p data-path-to-node="4,6,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,6,0">Гарантія:</b> 25 років офіційної гарантії від виробника</span></p>
+]]></description>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1028376" available="true">
         <name><![CDATA[Пилка садова ручна Fiskars Solid SW 16 (1028376)]]></name>
@@ -650,6 +727,28 @@
 <p data-end="1290" data-is-last-node="" data-is-only-node="" data-start="1094"><span style="font-size:18px;"><strong data-end="1110" data-start="1094">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії FSC бренду Fiskars і призначена для регулярного виконання робіт із переміщення сипких матеріалів на присадибних територіях, у садах і господарських зонах.</span></p>
 ]]></description>
         <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1027018" available="true">
+        <name><![CDATA[Лопата для розсади Ergo]]></name>
+        <price>299</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/41/lopata-dlia-rozsady-ergo-54589473311092_+7f8d28ad5a.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/41/lopata-dlia-rozsady-ergo-83406324739536_+a53dabefd3.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/41/lopata-dlia-rozsady-ergo-72783590107353_+02c3ddf572.png</picture>
+        <description><![CDATA[<h3 data-path-to-node="3"><span style="font-size:16px;">Лопата для розсади Fiskars Ergo (1027018)</span></h3>
+
+<p data-path-to-node="4"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4">Вузька лопатка Fiskars Ergo (1027018)</b> &mdash; компактний ручний садовий інструмент для акуратної посадки та пересадки рослин у відкритому ґрунті, теплицях чи горщиках. Завдяки звуженій формі вона дозволяє працювати у важкодоступних місцях, не пошкоджуючи делікатне коріння розсади та сусідні насадження.</span></p>
+
+<p data-path-to-node="5,0,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,0,0">Призначення:</b> підходить для точкового висаджування розсади, квітів, цибулин, проріджування грядок, а також для догляду за рослинами в контейнерах, вазонах та на невеликих клумбах.</span></p>
+
+<p data-path-to-node="5,1,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,1,0">Конструкція:</b> вузьке полотно совка розроблене для точного формування лунок та легкого проникнення в ґрунт. Ергономічна форма рукоятки знижує навантаження на зап&rsquo;ястя під час тривалої роботи. На кінці ручки передбачено спеціальний отвір для зручного підвішування інструмента під час зберігання.</span></p>
+
+<p data-path-to-node="5,2,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,2,0">Матеріали:</b> інструмент повністю виготовлений із фірмового композитного матеріалу FiberComp&trade; (поліамід, армований скловолокном). Це забезпечує мінімальну вагу лопатки (всього 70 г), абсолютну стійкість до корозії та високу міцність &mdash; інструмент не гнеться під навантаженням.</span></p>
+
+<p data-path-to-node="5,3,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,3,0">Особливості:</b> інструмент належить до ергономічної серії Ergo бренду Fiskars. Має монолітну конструкцію, легко очищується від землі, витримує екстремальні температури та розрахований на тривалу експлуатацію без втрати робочих властивостей.</span></p>
+]]></description>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1070715" available="true">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
@@ -1187,7 +1286,7 @@
 
 <p data-end="1004" data-is-last-node="" data-is-only-node="" data-start="835"><span style="font-size:18px;"><strong data-end="851" data-start="835">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за рослинами в садових умовах.</span></p>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1057169" available="true">
         <name><![CDATA[Секатор площинний Fiskars SmartFit P541 (1057169)]]></name>
@@ -2452,6 +2551,121 @@
 ]]></description>
         <stock_quantity>5</stock_quantity>
       </offer>
+      <offer id="1024882" available="true">
+        <name><![CDATA[Ножиці для шиття Fiskars Classic 25 см 1024882]]></name>
+        <price>2129</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/49/nozhytsi-dlia-shyttia-fiskars-classic-25-sm-1024882-38663242992983_+2fa25830d9.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/49/nozhytsi-dlia-shyttia-fiskars-classic-25-sm-1024882-68818282232697_+879493c091.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/49/nozhytsi-dlia-shyttia-fiskars-classic-25-sm-1024882-70203036794843_+623dc399a0.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/49/nozhytsi-dlia-shyttia-fiskars-classic-25-sm-1024882-21543992477374_+287ef83e79.png</picture>
+        <description><![CDATA[<p data-end="350" data-start="100"><span style="font-size:16px;">Професійні швейні ножиці <strong data-end="150" data-start="125">Fiskars Classic 25 см</strong> створені спеціально для точного та довгого різу тканин без &ldquo;зажовування&rdquo; матеріалу. Завдяки подовженим лезам вони легко працюють із великими відрізами тканини &mdash; від тонкого шифону до щільного деніму.</span></p>
+
+<p data-end="519" data-start="352"><span style="font-size:16px;">Ця модель використовується як у домашньому шитті, так і в професійних ательє, оскільки забезпечує рівний, контрольований і максимально чистий різ по всій довжині леза.</span></p>
+
+<p data-end="805" data-start="521"><span style="font-size:16px;">Леза виготовлені з загартованої нержавіючої сталі з фацетним заточуванням, що дозволяє довго зберігати гостроту навіть при інтенсивній роботі. Фірмова ергономічна ручка Fiskars з ударостійкого пластику забезпечує комфортний хват і стабільність під час різання великих полотен тканини.</span></p>
+
+<p data-end="965" data-start="807"><span style="font-size:16px;">Регулювальний гвинт дозволяє налаштовувати натяг лез під різні матеріали &mdash; від легких до щільних, що робить ножиці універсальними для будь-яких швейних задач.</span></p>
+
+<h3 data-end="984" data-section-id="1ytkeui" data-start="967"><span style="font-size:16px;"><strong data-end="984" data-start="971">Переваги:</strong></span></h3>
+
+<ul data-end="1287" data-start="985">
+	<li data-end="1032" data-section-id="12d13pw" data-start="985"><span style="font-size:16px;">Ідеальні для шиття, крою та роботи з тканиною</span></li>
+	<li data-end="1086" data-section-id="16xpidz" data-start="1033"><span style="font-size:16px;">Довгі леза 25 см &mdash; для рівного різу великих полотен</span></li>
+	<li data-end="1123" data-section-id="11n7w60" data-start="1087"><span style="font-size:16px;">Чистий різ без затягування тканини</span></li>
+	<li data-end="1195" data-section-id="1her5w7" data-start="1124"><span style="font-size:16px;">Підходять для тонких і щільних матеріалів (бавовна, джинс, синтетика)</span></li>
+	<li data-end="1234" data-section-id="181lr0x" data-start="1196"><span style="font-size:16px;">Ергономічна ручка для зручної роботи</span></li>
+	<li data-end="1259" data-section-id="16ofwws" data-start="1235"><span style="font-size:16px;">Регулювання натягу лез</span></li>
+	<li data-end="1287" data-section-id="ewjs5c" data-start="1260"><span style="font-size:16px;">Професійна якість Fiskars</span></li>
+</ul>
+]]></description>
+        <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="1024881" available="true">
+        <name><![CDATA[Ножиці класичні 17см]]></name>
+        <price>1360</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/50/nozhytsi-klasychni-17sm-82658124834221_+17c7022a05.png</picture>
+        <description><![CDATA[<h3 data-end="46" data-section-id="p9ten8" data-start="0"><span style="font-size:16px;"><strong data-end="46" data-start="4">Ножиці Fiskars Classic 17 см (1024881)</strong></span></h3>
+
+<p data-end="523" data-start="48"><span style="font-size:16px;">Універсальні ножиці <strong data-end="93" data-start="68">Fiskars Classic 17 см</strong> &mdash; це поєднання легендарної фінської якості, ергономічного дизайну та бездоганної точності різання. Завдяки компактному розміру вони чудово підходять для повсякденного використання вдома, в офісі, школі або творчій майстерні. Гострі леза легко та акуратно розрізають папір, картон, плівку, тканину, пакувальні матеріали, мотузку та інші легкі матеріали, забезпечуючи чистий зріз без розривів.</span></p>
+
+<p data-end="879" data-start="525"><span style="font-size:16px;">Леза виготовлені з високоякісної нержавіючої сталі з прецизійним заточуванням, що дозволяє ножицям довго зберігати гостроту навіть при інтенсивному використанні. Регульований гвинт дає можливість налаштувати натяг лез для максимально комфортної роботи та підтримувати ідеальну якість різання протягом багатьох років.</span></p>
+
+<p data-end="1292" data-start="881"><span style="font-size:16px;">Фірмові помаранчеві ручки Fiskars виготовлені з ударостійкого пластику та мають ергономічну форму, яка природно лежить у руці. Це значно зменшує втому під час тривалої роботи та забезпечує впевнений контроль над кожним рухом. Саме серія <strong data-end="1129" data-start="1118">Classic</strong> вже понад пів століття є символом надійності та якості Fiskars і користується довірою мільйонів користувачів у всьому світі.</span></p>
+
+<h3 data-end="1311" data-section-id="1ytkeui" data-start="1294"><span style="font-size:16px;"><strong data-end="1311" data-start="1298">Переваги:</strong></span></h3>
+
+<ul data-end="1603" data-start="1312">
+	<li data-end="1359" data-section-id="p916fd" data-start="1312"><span style="font-size:16px;">Ідеальні для дому, офісу, школи та творчості.</span></li>
+	<li data-end="1408" data-section-id="1vpwmer" data-start="1360"><span style="font-size:16px;">Гострі леза з високоякісної нержавіючої сталі.</span></li>
+	<li data-end="1449" data-section-id="1djc5ub" data-start="1409"><span style="font-size:16px;">Чистий і точний різ без зайвих зусиль.</span></li>
+	<li data-end="1500" data-section-id="16jm9xy" data-start="1450"><span style="font-size:16px;">Ергономічні фірмові ручки для комфортної роботи.</span></li>
+	<li data-end="1526" data-section-id="1mtg4j6" data-start="1501"><span style="font-size:16px;">Регулювання натягу лез.</span></li>
+	<li data-end="1566" data-section-id="1yueiej" data-start="1527"><span style="font-size:16px;">Довговічність і стійкість до корозії.</span></li>
+	<li data-end="1603" data-section-id="1st307d" data-start="1567"><span style="font-size:16px;">Легендарна фінська якість Fiskars.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1076541" available="true">
+        <name><![CDATA[Ножиці Фіскарс універсальні 21см]]></name>
+        <price>999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-fiskars-universalni-21sm-26148281432340_+8eb58a1b4d.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-fiskars-universalni-21sm-76114724909580_+4bc6e719da.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-fiskars-universalni-21sm-19933303783962_+abab02f5a5.png</picture>
+        <description><![CDATA[<h3 data-end="51" data-section-id="1hoq9c1" data-start="0"><strong data-end="51" data-start="4">Ножиці Fiskars універсальні 21 см (1076541)</strong></h3>
+
+<p data-end="472" data-start="53">Універсальні ножиці <strong data-end="90" data-start="73">Fiskars 21 см</strong> &mdash; це незамінний помічник для дому, офісу, творчості та рукоділля. Завдяки гострим лезам із високоякісної нержавіючої сталі вони забезпечують чистий, рівний та акуратний зріз без зайвих зусиль. Інструмент однаково добре справляється з папером, картоном, тканиною, плівкою, мотузкою, пакувальними матеріалами та іншими повсякденними матеріалами.</p>
+
+<p data-end="934" data-start="474">Ергономічні ручки зручно лежать у руці, зменшуючи втому навіть під час тривалої роботи. Оптимальна довжина <strong data-end="590" data-start="581">21 см</strong> робить ножиці універсальними: вони достатньо компактні для точних робіт і водночас забезпечують ефективне різання великих матеріалів. Леза довго залишаються гострими завдяки якісній заводській заточці, а регулювальний гвинт дозволяє підтримувати оптимальний натяг лез протягом усього терміну експлуатації.</p>
+
+<p data-end="1197" data-start="936">Fiskars понад 50 років є одним із світових лідерів у виробництві ножиць, тому ця модель поєднує перевірену якість, надійність і комфорт щоденного використання. Це чудовий вибір як для домашнього користування, так і для офісу, школи, майстерні чи творчої студії.</p>
+
+<p data-end="1212" data-start="1199"><strong data-end="1212" data-start="1199">Переваги:</strong></p>
+
+<ul data-end="1513" data-start="1213">
+	<li data-end="1270" data-section-id="6sa24q" data-start="1213">Універсальне використання для дому, офісу та творчості.</li>
+	<li data-end="1319" data-section-id="1vpwmer" data-start="1271">Гострі леза з високоякісної нержавіючої сталі.</li>
+	<li data-end="1365" data-section-id="1lfg6je" data-start="1320">Чистий і точний різ без розривів матеріалу.</li>
+	<li data-end="1408" data-section-id="fbwimt" data-start="1366">Ергономічні ручки для комфортного хвату.</li>
+	<li data-end="1434" data-section-id="1asruxq" data-start="1409">Регульований натяг лез.</li>
+	<li data-end="1484" data-section-id="10rl9tb" data-start="1435">Висока зносостійкість і тривалий термін служби.</li>
+	<li data-end="1513" data-section-id="c9ts4h" data-start="1485">Легендарна якість Fiskars.</li>
+</ul>
+]]></description>
+        <stock_quantity>3</stock_quantity>
+      </offer>
+      <offer id="1005150" available="true">
+        <name><![CDATA[Ножиці Classic для паперу 17 см]]></name>
+        <price>1360</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-classic-dlia-paperu-17-sm-42155182057320_+141d1c0c53.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-classic-dlia-paperu-17-sm-67862685105421_+cd2e92ec7e.png</picture>
+        <description><![CDATA[<p><span style="font-size:16px;">Ножиці <strong data-end="53" data-start="17">Fiskars Classic для паперу 17 см</strong> &mdash; зручний інструмент для щоденного використання вдома, в офісі чи школі. Гострі леза з високоякісної нержавіючої сталі забезпечують рівне та акуратне різання паперу, картону й інших легких матеріалів. Ергономічні ручки з фірмовим дизайном комфортно лежать у руці, зменшуючи втому навіть під час тривалої роботи. Завдяки надійній конструкції ножиці довго зберігають гостроту та стануть практичним вибором для навчання, творчості й повсякденних завдань.</span></p>
+
+<p data-end="648" data-start="358"><span style="font-size:16px;">Леза виготовлені з високоякісної нержавіючої сталі, що забезпечує чистий, рівний зріз без заминання паперу та зберігає гостроту протягом тривалого часу. Ергономічні ручки з ударостійкого пластику мають класичний дизайн Fiskars і забезпечують комфортне захоплення навіть при тривалій роботі.</span></p>
+
+<p data-end="810" data-start="650"><span style="font-size:16px;">Компактна довжина 17 см робить ножиці зручними для щоденного використання, а міцна конструкція гарантує довговічність та надійну роботу протягом багатьох років.</span></p>
+
+<h3 data-end="825" data-section-id="hotu7e" data-start="812"><span style="font-size:16px;">Переваги:</span></h3>
+
+<ul data-end="1096" data-start="826">
+	<li data-end="866" data-section-id="1yoi4yc" data-start="826"><span style="font-size:16px;">Високоякісні леза з нержавіючої сталі.</span></li>
+	<li data-end="919" data-section-id="643o2f" data-start="867"><span style="font-size:16px;">Чисте та точне різання паперу й легких матеріалів.</span></li>
+	<li data-end="962" data-section-id="16m1j42" data-start="920"><span style="font-size:16px;">Ергономічні ручки для комфортної роботи.</span></li>
+	<li data-end="997" data-section-id="1g0c33u" data-start="963"><span style="font-size:16px;">Леза довго залишаються гострими.</span></li>
+	<li data-end="1027" data-section-id="12ouv26" data-start="998"><span style="font-size:16px;">Легка та міцна конструкція.</span></li>
+	<li data-end="1096" data-section-id="fhqywj" data-start="1028"><span style="font-size:16px;">Підходять для використання вдома, в офісі, школі та для творчості.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>5</stock_quantity>
+      </offer>
       <offer id="1061193" available="true">
         <name><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></name>
         <price>1949</price>
@@ -2601,7 +2815,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>43</stock_quantity>
+        <stock_quantity>44</stock_quantity>
       </offer>
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
@@ -2957,7 +3171,7 @@
 
 <p>Набір Fiskars поєднує інструменти для повного процесу приготування їжі в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>48</stock_quantity>
+        <stock_quantity>47</stock_quantity>
       </offer>
       <offer id="1059836105536" available="true">
         <name><![CDATA[Набір Мультитул Gerber Lockdown Slim 16L + Ніж складаний Asada]]></name>
@@ -3320,7 +3534,7 @@
 
 <p>Набір Fiskars поєднує інструменти для обрізки рослин і роботи з ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>41</stock_quantity>
+        <stock_quantity>40</stock_quantity>
       </offer>
       <offer id="1051085101477" available="true">
         <name><![CDATA[Набір Fiskars: Сокира теслярська Fiskars Solid A10 + Лопата садова штикова Fiskars Classic FSC]]></name>
@@ -3483,7 +3697,7 @@
 
 <p><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;топор та лопата Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
-        <stock_quantity>27</stock_quantity>
+        <stock_quantity>26</stock_quantity>
       </offer>
       <offer id="1070715105108" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White + Сокира теслярська Solid A10]]></name>
@@ -3553,7 +3767,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>184</stock_quantity>
+        <stock_quantity>183</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC ]]></name>
@@ -4042,7 +4256,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>100</stock_quantity>
+        <stock_quantity>93</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4383,6 +4597,164 @@
 <h3>&nbsp;</h3>
 ]]></description>
         <stock_quantity>48</stock_quantity>
+      </offer>
+      <offer id="1057584" available="true">
+        <name><![CDATA[Тримач інструменту Фіскарс]]></name>
+        <price>299</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/37/trymach-instrumentu-fiskars-54255456404097_+ba4e1257c7.png</picture>
+        <description><![CDATA[<p data-path-to-node="3"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="3">Тримач інструменту Fiskars Solid (1057584)</b> &mdash; це практичне та надійне настінне кріплення, створене для компактного і впорядкованого зберігання садового та господарського інструменту. Завдяки простій системі фіксації він дозволяє навести лад у гаражі, сараї, майстерні чи коморі, звільняючи корисну площу на підлозі та забезпечуючи швидкий доступ до потрібного інвентарю.</span></p>
+
+<p data-path-to-node="4,0,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> призначений для вертикального зберігання лопат, грабель, вил, сапок, мітел, гілкорізів та іншого довгомірного інструменту насадної системи, що має круглі або овальні живці.</span></p>
+
+<p data-path-to-node="4,1,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> тримач оснащений надійною системою затискачів (гумових або пластикових фіксаторів), які міцно утримують живець під дією власної ваги інструмента. Кріпиться до стіни за допомогою кількох гвинтів або дюбелів. Конструкція дозволяє легко підвішувати та знімати інструмент однією рукою.</span></p>
+
+<p data-path-to-node="4,2,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> основа та затискні елементи виготовлені з високоякісного, ударостійкого пластику та зносостійких композитних матеріалів, які не деформуються з часом, не іржавіють та витримують постійні механічні навантаження.</span></p>
+
+<p data-path-to-node="4,3,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> довжина конструкції становить близько 220 мм, ширина &mdash; 60 мм, висота &mdash; 55 мм. Розрахований на фіксацію живців стандартного діаметру (від 20 до 35 мм). Вага інструмента &mdash; близько 210 г.</span></p>
+
+<p data-path-to-node="4,4,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> інструмент належить до практичної серії Solid бренду Fiskars. Має мінімалістичний дизайн, легко очищується від пилу та бруду, стійкий до підвищеної вологості у неопалювальних приміщеннях. Оптимально підходить для фіксації інструментів лінійок Solid та інших серій Fiskars.</span></p>
+]]></description>
+        <stock_quantity>12</stock_quantity>
+      </offer>
+      <offer id="1028372" available="true">
+        <name><![CDATA[Складаний садовий мішок для листя 175 літри Fiskars Solid]]></name>
+        <price>1949</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-72996207398300_+e582902888.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-22014061178414_+bb77ea2298.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-52477224865978_+d585a0137f.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-96380189170661_+ed4bf88b70.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-48124006012812_+fbc4c87de0.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-96114524475237_+624b83826b.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-63136348340368_+3a228635ff.png</picture>
+        <description><![CDATA[<p data-path-to-node="4"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="4">Складаний садовий мішок Fiskars Solid (1028372) об&#39;ємом 175 літрів</b> &mdash; це практичний та місткий помічник для прибирання саду, подвір&#39;я чи присадибної ділянки. Завдяки унікальній складаній конструкції він вирішує проблему громіздких садових відер та звичайних пакетів, які постійно рвуться та не тримають форму. Ідеально підходить для збору вологого листя, бур&#39;янів, скошеної трави та іншого садового сміття.</span></p>
+
+<p data-path-to-node="5,0,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,0,0">Призначення:</b> призначений для збору, транспортування та тимчасового зберігання садових відходів (листя, бур&#39;янів, гілок, сухостою, трави). Також може використовуватися для зберігання дитячих іграшок, білизни чи іншого побутового приладдя.</span></p>
+
+<p data-path-to-node="5,1,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,1,0">Конструкція:</b> мішок має розумний пружинний механізм (система Pop-up), завдяки якому він миттєво самостійно розгортається і чудово тримає вертикальну форму у відкритому вигляді. Це дозволяє звільнити обидві руки для роботи. Обладнаний міцними та зручними ручками для перенесення. У складеному стані товщина мішка становить всього кілька сантиметрів, що забезпечує максимальну економію місця при зберіганні.</span></p>
+
+<p data-path-to-node="5,2,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,2,0">Матеріали:</b> виготовлений із високоякісного, щільного та зносостійкого поліестеру. Матеріал стійкий до розривів, проколів (наприклад, від дрібних гілок чи шипів роз), не пропускає вологу, не гниє та легко миється звичайною водою зі шланга.</span></p>
+
+<p data-path-to-node="5,3,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,3,0">Розміри:</b> об&#39;єм &mdash; 175 літрів. Довжина у складеному вигляді (висота для зберігання) &mdash; близько 30 мм, висота у відкритому робочому стані &mdash; 700 мм, ширина (діаметр) &mdash; 560 мм. Вага інструмента &mdash; 1250 г.</span></p>
+
+<p data-path-to-node="5,4,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,4,0">Особливості:</b> належить до фірмової лінійки Solid бренду Fiskars. Головна особливість &mdash; екологічність та довговічність: мішок повністю очищений від ПВХ (полівінілхлориду), що робить його безпечним для довкілля. Має петлю для підвішування у складеному стані.</span></p>
+
+<p data-path-to-node="5,5,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,5,0">Країна-виробник:</b> Фінляндія&nbsp;</span></p>
+
+<p data-path-to-node="5,5,0"><span style="font-size:16px;"><b data-index-in-node="0" data-path-to-node="5,6,0">Гарантія:</b> 5 років офіційної гарантії від виробника (на текстильні вироби та аксесуари серії Solid).</span></p>
+]]></description>
+        <stock_quantity>16</stock_quantity>
+      </offer>
+      <offer id="1024706" available="true">
+        <name><![CDATA[Садовий совок Fiskars SRP]]></name>
+        <price>649</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/42/sadovyi-sovok-fiskars-srp-61537743632253_+a6e6f60eee.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/42/sadovyi-sovok-fiskars-srp-99730322247395_+7974c8d735.png</picture>
+        <description><![CDATA[<h1><span style="font-size:16px;">Садовий совок Fiskars SRP</span></h1>
+
+<p data-end="488" data-start="178"><span style="font-size:16px;">Компактний садовий совок <strong data-end="228" data-start="203">Fiskars SRP (1024706)</strong> &mdash; це точний і надійний інструмент для посадки, пересадки та роботи з ґрунтом у клумбах, горщиках і грядках. Завдяки вузькому металевому лезу він легко входить навіть у щільний ґрунт і дозволяє акуратно формувати лунки без пошкодження кореневої системи рослин.</span></p>
+
+<p data-end="799" data-start="490"><span style="font-size:16px;">Робоча частина виготовлена з міцної сталі, що забезпечує стабільність і довгий термін служби навіть при регулярному використанні. Загострена форма леза дозволяє швидко проникати в землю, а оптимальна ширина робить інструмент зручним для роботи в обмеженому просторі &mdash; квіткові горщики, теплиці, вузькі грядки.</span></p>
+
+<p data-end="958" data-start="801"><span style="font-size:16px;">Ергономічна ручка забезпечує впевнений хват і контроль під час роботи, зменшуючи навантаження на кисть. Легка вага дозволяє працювати тривалий час без втоми.</span></p>
+
+<h3 data-end="982" data-section-id="1ytkeui" data-start="965"><span style="font-size:16px;"><strong data-end="982" data-start="969">Переваги:</strong></span></h3>
+
+<ul data-end="1212" data-start="983">
+	<li data-end="1020" data-section-id="1jhqn80" data-start="983"><span style="font-size:16px;">Точна робота в клумбах і горщиках</span></li>
+	<li data-end="1054" data-section-id="z67in4" data-start="1021"><span style="font-size:16px;">Легко входить у щільний ґрунт</span></li>
+	<li data-end="1086" data-section-id="x0zbgk" data-start="1055"><span style="font-size:16px;">Не пошкоджує коріння рослин</span></li>
+	<li data-end="1109" data-section-id="1evtzdd" data-start="1087"><span style="font-size:16px;">Міцне сталеве лезо</span></li>
+	<li data-end="1141" data-section-id="5yjwtr" data-start="1110"><span style="font-size:16px;">Легка та зручна конструкція</span></li>
+	<li data-end="1173" data-section-id="1oyxygg" data-start="1142"><span style="font-size:16px;">Комфортна ергономічна ручка</span></li>
+	<li data-end="1212" data-section-id="1hfc0xk" data-start="1174"><span style="font-size:16px;">Ідеальний для посадки та пересадки</span></li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1023540" available="true">
+        <name><![CDATA[Кувалда 5кг Fiskars]]></name>
+        <price>5599</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/43/kuvalda-5kh-fiskars-70399750551618_+0059dfdded.png</picture>
+        <description><![CDATA[<p data-end="334" data-start="82"><span style="font-size:16px;">Кувалда <strong data-end="116" data-start="90">Fiskars 5 кг (1023540)</strong> &mdash; це професійний ударний інструмент для важких будівельних і демонтажних робіт. Вона ідеально підходить для розбивання бетону, каменю, цегли, демонтажу конструкцій та інших завдань, де потрібна максимальна сила удару.</span></p>
+
+<p data-end="572" data-start="336"><span style="font-size:16px;">Завдяки оптимальному балансу ваги та ергономічній рукоятці кувалда забезпечує контрольований і потужний удар з мінімальною втратою енергії. Спеціальна конструкція знижує вібрацію, що зменшує навантаження на руки під час тривалої роботи.</span></p>
+
+<p data-end="750" data-start="574"><span style="font-size:16px;">Міцна ударна голова виготовлена із загартованої сталі, що гарантує високу зносостійкість і довгий термін служби навіть при інтенсивному використанні на будівельних майданчиках.</span></p>
+
+<h3 data-end="774" data-section-id="1ytkeui" data-start="757"><span style="font-size:16px;"><strong data-end="774" data-start="761">Переваги:</strong></span></h3>
+
+<ul data-end="996" data-start="775">
+	<li data-end="813" data-section-id="1jdefd" data-start="775"><span style="font-size:16px;">Висока сила удару для важких робіт</span></li>
+	<li data-end="850" data-section-id="1l6xax7" data-start="814"><span style="font-size:16px;">Ергономічна антивібраційна ручка</span></li>
+	<li data-end="888" data-section-id="1qrghnx" data-start="851"><span style="font-size:16px;">Загартована сталь робочої частини</span></li>
+	<li data-end="929" data-section-id="1t9tkif" data-start="889"><span style="font-size:16px;">Стійкість до деформацій і зношування</span></li>
+	<li data-end="966" data-section-id="ieev40" data-start="930"><span style="font-size:16px;">Зручний баланс для точного удару</span></li>
+	<li data-end="996" data-section-id="zkpzr4" data-start="967"><span style="font-size:16px;">Професійна якість Fiskars</span></li>
+</ul>
+]]></description>
+        <stock_quantity>5</stock_quantity>
+      </offer>
+      <offer id="1003626" available="true">
+        <name><![CDATA[Ремінь для інструментів Fiskars WoodXpert]]></name>
+        <price>2399</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/46/remin-dlia-instrumentiv-fiskars-woodxpert-16438211816345_+9e452d0b62.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/46/remin-dlia-instrumentiv-fiskars-woodxpert-44595646728664_+8861b63afc.png</picture>
+        <description><![CDATA[<p data-end="372" data-start="103"><span style="font-size:16px;">Ремінь для інструментів <strong data-end="158" data-start="127">Fiskars WoodXpert (1003626)</strong> &mdash; це професійний пояс для зручного перенесення інструментів під час садових і лісових робіт. Він дозволяє тримати необхідне приладдя завжди під рукою, зменшує навантаження на спину та підвищує ефективність роботи.</span></p>
+
+<p data-end="645" data-start="374"><span style="font-size:16px;">Завдяки системі кріплення <strong data-end="422" data-start="400">QuikLock Tri-Glide</strong> інструменти швидко фіксуються та знімаються однією рукою, що особливо зручно під час активної роботи. Ергономічна конструкція пояса рівномірно розподіляє вагу інструментів, знижуючи втому навіть при тривалому використанні.</span></p>
+
+<p data-end="779" data-start="647"><span style="font-size:16px;">Пояс виготовлений із міцного зносостійкого нейлону, який витримує великі навантаження та складні умови роботи на відкритому повітрі.</span></p>
+
+<h3 data-end="803" data-section-id="1ytkeui" data-start="786"><span style="font-size:16px;"><strong data-end="803" data-start="790">Переваги:</strong></span></h3>
+
+<ul data-end="1045" data-start="804">
+	<li data-end="855" data-section-id="1ntl60k" data-start="804"><span style="font-size:16px;">Швидке кріплення інструментів системою QuikLock</span></li>
+	<li data-end="890" data-section-id="18p63vp" data-start="856"><span style="font-size:16px;">Ергономічна підтримка попереку</span></li>
+	<li data-end="926" data-section-id="1juc7ow" data-start="891"><span style="font-size:16px;">Міцний та зносостійкий матеріал</span></li>
+	<li data-end="966" data-section-id="10scmih" data-start="927"><span style="font-size:16px;">Зручність у роботі без зайвих рухів</span></li>
+	<li data-end="1006" data-section-id="voz0rl" data-start="967"><span style="font-size:16px;">Професійне рішення для саду та лісу</span></li>
+	<li data-end="1045" data-section-id="12rx6b6" data-start="1007"><span style="font-size:16px;">Сумісність з аксесуарами WoodXpert</span></li>
+</ul>
+]]></description>
+        <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="1000636" available="true">
+        <name><![CDATA[Бур садовий малий QuikDrill S]]></name>
+        <price>3399</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/47/bur-sadovyi-malyi-quikdrill-s-29738615906954_+f21ec47281.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/47/bur-sadovyi-malyi-quikdrill-s-69154242910241_+0023022a54.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/47/bur-sadovyi-malyi-quikdrill-s-52315204189235_+04ba4b9b7a.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/47/bur-sadovyi-malyi-quikdrill-s-75560698016074_+d40b829ec8.png</picture>
+        <description><![CDATA[<p data-end="431" data-start="93"><span style="font-size:16px;">Садовий бур <strong data-end="138" data-start="105">Fiskars QuikDrill S (1000636)</strong> &mdash; це компактний і дуже ефективний інструмент для швидкого створення акуратних отворів у ґрунті без зайвих зусиль. Завдяки двом гострим лезам, розташованим під оптимальним кутом, бур легко входить навіть у щільний ґрунт, не застряє на камінцях і корінні та формує рівні лунки з чистими краями.</span></p>
+
+<p data-end="650" data-start="433"><span style="font-size:16px;">Інструмент ідеально підходить для посадки рослин, цибулин, внесення добрив, а також встановлення невеликих садових опор. Ергономічна Т-подібна ручка забезпечує зручний хват і дозволяє працювати без перевантаження рук.</span></p>
+
+<p data-end="807" data-start="652"><span style="font-size:16px;">Конструкція серії <strong data-end="683" data-start="670">QuikDrill</strong> продумана так, щоб ґрунт виймався &ldquo;кружками&rdquo;, а не розсипався, що значно спрощує роботу і зменшує прибирання після посадки.</span></p>
+
+<h3 data-end="1292" data-section-id="1ytkeui" data-start="1275"><span style="font-size:16px;"><strong data-end="1292" data-start="1279">Переваги:</strong></span></h3>
+
+<ul data-end="1514" data-start="1293">
+	<li data-end="1333" data-section-id="1vapme6" data-start="1293"><span style="font-size:16px;">Легке буріння навіть щільного ґрунту</span></li>
+	<li data-end="1372" data-section-id="19mkmn0" data-start="1334"><span style="font-size:16px;">Не забивається камінням і корінням</span></li>
+	<li data-end="1419" data-section-id="1pn6z7h" data-start="1373"><span style="font-size:16px;">Акуратні рівні лунки без розсипання ґрунту</span></li>
+	<li data-end="1448" data-section-id="15xv0oz" data-start="1420"><span style="font-size:16px;">Зручна ергономічна ручка</span></li>
+	<li data-end="1484" data-section-id="m5578c" data-start="1449"><span style="font-size:16px;">Міцна та довговічна конструкція</span></li>
+	<li data-end="1514" data-section-id="zkpzr4" data-start="1485"><span style="font-size:16px;">Професійна якість Fiskars</span></li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1000601" available="true">
         <name><![CDATA[Точило для сокир та ножів Fiskars Xsharp (1000601)]]></name>
@@ -5410,6 +5782,125 @@
         <description><![CDATA[Ніж для томатів та стейків Norr]]></description>
         <stock_quantity>1</stock_quantity>
       </offer>
+      <offer id="1016480" available="true">
+        <name><![CDATA[Ніж для хліба Norr]]></name>
+        <price>2144</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/22/nizh-dlia-khliba-norr-97203532936389_+f57684d943.png</picture>
+        <description><![CDATA[Ніж для хліба Norr]]></description>
+        <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="1065134" available="true">
+        <name><![CDATA[Набір ножів Kaimano Italicus, 3 шт]]></name>
+        <price>1999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-nozhiv-kaimano-italicus-3-sht-77392863689982_+0ac01539cb.png</picture>
+        <description><![CDATA[<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Набір ножів Kaimano Italicus (1065134)</b> &mdash; це практичний та функціональний комплект із 3 ножів різного типу, створений для швидкого виконання більшості щоденних завдань на кухні. Поєднання різних типів лез (гладких та серрейторних) робить цей набір універсальним базовим інструментом для кожної кухні, дозволяючи з однаковою легкістю та точністю нарізати як м&#39;які соковиті овочі, так і тверді хлібобулочні чи м&#39;ясні вироби.</p>
+
+<p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> призначений для щоденного кулінарного процесу: очищення, шинкування та акуратного нарізання овочів, фруктів, зелені, хліба, ковбасних виробів, сирів та порційних страв безпосередньо під час готування чи сервірування столу.</p>
+
+<p data-path-to-node="4,1,0"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> до набору входять ножі з різною геометрією ріжучої крайки: ніж із гладким лезом для чищення та точного різу, а також ножі із серрейторною (зубчастою) заточкою для продуктів зі щільною шкіркою та м&#39;якою серцевиною. Анатомічна форма пластикових ручок забезпечує комфортне та безпечне утримання в руці під час тривалої роботи на кухні.</p>
+
+<p data-path-to-node="4,2,0"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> леза ножів виготовлені з якісної нержавіючої сталі, яка довго зберігає гостроту, стійка до затуплення, корозії та впливу харчових кислот. Рукоятки виготовлені з міцного, гігієнічного поліпропілену, який не ковзає в долоні та стійкий до зносу.</p>
+
+<p data-path-to-node="4,3,0"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> довжина лез варіюється залежно від типу ножа в наборі (оптимальні розміри 100-110 мм для універсальних завдань). Вага всього набору в упаковці &mdash; близько 120 г.</p>
+
+<p data-path-to-node="4,4,0"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> набір належить до стильної лінійки Italicus бренду Kaimano (Fiskars Group), що поєднує європейські стандарти ергономіки та лаконічний дизайн. Ножі максимально невибагливі у догляді, гігієнічні та підходять для миття в посудомийній машині.</p>
+
+<p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Італія.</p>
+]]></description>
+        <stock_quantity>3</stock_quantity>
+      </offer>
+      <offer id="1016474" available="true">
+        <name><![CDATA[Нож "Сантуко" Norr]]></name>
+        <price>3299</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/44/nozh-santuko-norr-74928608842305_+34900e504d.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/44/nozh-santuko-norr-70304619650646_+4e754f10c4.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/44/nozh-santuko-norr-78148628435658_+881d825e15.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/44/nozh-santuko-norr-61571919898960_+a1473d00e1.png</picture>
+        <description><![CDATA[<p data-end="371" data-start="86"><span style="font-size:16px;">Ніж <strong data-end="124" data-start="90">Fiskars Norr Сантоку (1016474)</strong> &mdash; це універсальний кухонний ніж у японському стилі, створений для швидкого та точного нарізання м&rsquo;яса, риби, овочів і зелені. Завдяки широкому та збалансованому лезу він забезпечує контрольований різ і зручність у щоденному використанні на кухні.</span></p>
+
+<p data-end="631" data-start="373"><span style="font-size:16px;">Лезо виготовлене з високоякісної нержавіючої німецької сталі твердістю близько <strong data-end="462" data-start="452">54 HRC</strong>, що гарантує хорошу гостроту, довговічність і стійкість до корозії. Форма сантоку дозволяє легко виконувати як нарізання, так і подрібнення продуктів без зайвих зусиль.</span></p>
+
+<p data-end="859" data-start="633"><span style="font-size:16px;">Руків&rsquo;я виконане з натуральної деревини (Kebony-обробка), що робить ніж приємним на дотик, ергономічним і добре збалансованим. Такий дизайн поєднує скандинавську простоту та практичність, характерну для серії <strong data-end="858" data-start="842">Fiskars Norr</strong>.</span></p>
+
+<h3 data-end="883" data-section-id="1ytkeui" data-start="866"><span style="font-size:16px;"><strong data-end="883" data-start="870">Переваги:</strong></span></h3>
+
+<ul data-end="1153" data-start="884">
+	<li data-end="921" data-section-id="284uf2" data-start="884"><span style="font-size:16px;">Універсальний ніж формату сантоку</span></li>
+	<li data-end="972" data-section-id="1fmjmo6" data-start="922"><span style="font-size:16px;">Широке лезо для точного контролю при нарізанні</span></li>
+	<li data-end="1008" data-section-id="1vhlqav" data-start="973"><span style="font-size:16px;">Нержавіюча сталь високої якості</span></li>
+	<li data-end="1043" data-section-id="ea5i6o" data-start="1009"><span style="font-size:16px;">Добре тримає заточку</span></li>
+	<li data-end="1077" data-section-id="1sjdmzp" data-start="1044"><span style="font-size:16px;">Ергономічне дерев&rsquo;яне руків&rsquo;я</span></li>
+	<li data-end="1115" data-section-id="6yxlr6" data-start="1078"><span style="font-size:16px;">Зручний для м&rsquo;яса, риби та овочів</span></li>
+	<li data-end="1153" data-section-id="lfuf5b" data-start="1116"><span style="font-size:16px;">Скандинавський преміальний дизайн</span></li>
+</ul>
+]]></description>
+        <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="1062001" available="true">
+        <name><![CDATA[Набір ножів 6 шт для стейку]]></name>
+        <price>1600</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <description><![CDATA[<p data-end="303" data-start="55"><span style="font-size:16px;">Набір ножів для стейку <strong data-end="89" data-start="78">Fiskars</strong> стане чудовим вибором для сервірування столу та комфортного нарізання стейків, запеченого м&#39;яса й інших готових страв. Кожен ніж має гостре лезо, яке легко розрізає м&#39;ясо, зберігаючи його структуру та соковитість.</span></p>
+
+<p data-end="600" data-start="305"><span style="font-size:16px;">Леза виготовлені з високоякісної нержавіючої сталі, що відзначається довговічністю, стійкістю до корозії та тривалим збереженням гостроти. Ергономічні руків&#39;я забезпечують зручний і надійний хват, завдяки чому ножі комфортно використовувати як під час сімейної вечері, так і святкового застілля.</span></p>
+
+<p data-end="757" data-start="602"><span style="font-size:16px;">Лаконічний сучасний дизайн дозволяє набору гармонійно поєднуватися з будь-яким сервіруванням, а висока якість виготовлення гарантує тривалий термін служби.</span></p>
+
+<h3 data-end="772" data-section-id="hotu7e" data-start="759"><span style="font-size:16px;">Переваги:</span></h3>
+
+<ul data-end="1052" data-start="773">
+	<li data-end="803" data-section-id="wgczg" data-start="773"><span style="font-size:16px;">Набір із 6 ножів для стейку.</span></li>
+	<li data-end="838" data-section-id="1sa97v8" data-start="804"><span style="font-size:16px;">Гострі леза з нержавіючої сталі.</span></li>
+	<li data-end="895" data-section-id="gjcb5u" data-start="839"><span style="font-size:16px;">Чистий та акуратний зріз без розривання волокон м&#39;яса.</span></li>
+	<li data-end="947" data-section-id="e8974h" data-start="896"><span style="font-size:16px;">Ергономічні руків&#39;я для комфортного користування.</span></li>
+	<li data-end="985" data-section-id="6p112n" data-start="948"><span style="font-size:16px;">Стійкість до корозії та зношування.</span></li>
+	<li data-end="1052" data-section-id="ih577x" data-start="986"><span style="font-size:16px;">Підходять для щоденного використання та святкового сервірування.</span></li>
+</ul>
+
+<h3 data-end="1073" data-section-id="pf9b3p" data-start="1054">&nbsp;</h3>
+]]></description>
+        <stock_quantity>1</stock_quantity>
+      </offer>
+      <offer id="1027873" available="true">
+        <name><![CDATA[Ніж складний Гербер FlatIron Folder - G10]]></name>
+        <price>3263</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-69264965826188_+ac6a5dbe8c.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-53713228255323_+0a8b481f39.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-82792887488946_+5f0e63959c.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-66978984975983_+cdac0202c6.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-84188805793472_+64784c41aa.png</picture>
+        <description><![CDATA[<h3 data-end="54" data-section-id="1a55w1m" data-start="0"><span style="font-size:16px;">Ніж складаний Gerber FlatIron Folder G10 (1027873)</span></h3>
+
+<p data-end="357" data-start="56"><span style="font-size:16px;"><strong data-end="86" data-start="56">Gerber FlatIron Folder G10</strong> &mdash; складаний ніж у стилі &laquo;cleaver&raquo; (сокироподібне лезо), створений для повсякденного носіння (EDC), активного відпочинку та туристичних завдань. Завдяки широкому лезу він однаково добре підходить для нарізання, стругання, відкривання упаковок та інших повсякденних робіт.</span></p>
+
+<p data-end="673" data-start="359"><span style="font-size:16px;">Лезо виготовлене з нержавіючої сталі , яка забезпечує гарний баланс між міцністю, стійкістю до корозії та простотою заточування. Великий отвір у клинку дозволяє легко відкривати ніж однією рукою, а надійний замок <strong data-end="598" data-start="584">Frame Lock</strong> безпечно фіксує лезо під час роботи.</span></p>
+
+<p data-end="848" data-start="675"><span style="font-size:16px;">Руків&#39;я виконане з міцного композитного матеріалу <strong data-end="732" data-start="725">G10</strong>, що забезпечує впевнений хват навіть у вологих умовах. Завдяки кишеньковій кліпсі ніж зручно носити із собою щодня.</span></p>
+
+<h3 data-end="863" data-section-id="hotu7e" data-start="850"><span style="font-size:16px;">Переваги:</span></h3>
+
+<ul data-end="1146" data-start="864">
+	<li data-end="902" data-section-id="hs2bep" data-start="864"><span style="font-size:16px;">Оригінальна форма леза типу cleaver.</span></li>
+	<li data-end="939" data-section-id="4lur4m" data-start="903"><span style="font-size:16px;">Лезо з нержавіючої сталі.</span></li>
+	<li data-end="967" data-section-id="txf42z" data-start="940"><span style="font-size:16px;">Відкривання однією рукою.</span></li>
+	<li data-end="1008" data-section-id="1qdynso" data-start="968"><span style="font-size:16px;">Надійний механізм фіксації Frame Lock.</span></li>
+	<li data-end="1043" data-section-id="19d5xfb" data-start="1009"><span style="font-size:16px;">Руків&#39;я з міцного композиту G10.</span></li>
+	<li data-end="1085" data-section-id="243vdd" data-start="1044"><span style="font-size:16px;">Кишенькова кліпса для зручного носіння.</span></li>
+	<li data-end="1146" data-section-id="7fhfat" data-start="1086"><span style="font-size:16px;">Підходить для щоденного використання, туризму та кемпінгу.</span></li>
+	<li data-end="1146" data-section-id="7fhfat" data-start="1086"><span style="font-size:16px;">Гарантія 25 років.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
       <offer id="1023752" available="true">
         <name><![CDATA[Сотейник Fiskars Rotisser 26 см з кришкою (1023752)]]></name>
         <price>2999</price>
@@ -5427,6 +5918,38 @@
 <p data-end="1418" data-is-last-node="" data-is-only-node="" data-start="1217"><span style="font-size:18px;"><strong data-end="1233" data-start="1217">Особливості:</strong> </span><span style="font-size:14px;">сотейник належить до серії Rotisser бренду Fiskars та призначений для універсальних кулінарних задач із комбінованою тепловою обробкою продуктів на плиті.</span></p>
 ]]></description>
         <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="1066951" available="true">
+        <name><![CDATA[Ківш з кришкою Taiten 1,6 л]]></name>
+        <price>6555</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/25/kivsh-z-kryshkoiu-taiten-16-l-69932659975587_+705d7ee37b.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/25/kivsh-z-kryshkoiu-taiten-16-l-51507792563516_+3840772db6.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/25/kivsh-z-kryshkoiu-taiten-16-l-51343003359652_+e8276fc711.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/25/kivsh-z-kryshkoiu-taiten-16-l-45233241380735_+a06552ba5a.png</picture>
+        <description><![CDATA[<p data-end="90" data-start="59"><span style="font-size:16px;"><strong data-end="90" data-start="59">Ківш з кришкою Taiten 1,6 л</strong></span></p>
+
+<p data-end="441" data-start="92"><span style="font-size:16px;">Ківш <strong data-end="121" data-start="97">Fiskars Taiten 1,6 л</strong> поєднує сучасний дизайн, інноваційні технології та преміальну якість для комфортного щоденного приготування. Корпус виготовлений зі <strong data-end="285" data-start="254">100% переробленого алюмінію</strong>, який швидко й рівномірно розподіляє тепло не лише по дну, а й по стінках, забезпечуючи ефективне приготування страв.</span></p>
+
+<p data-end="808" data-start="443"><span style="font-size:16px;">Внутрішнє покриття <strong data-end="474" data-start="462">Ceratec</strong>&nbsp;без вмісту пластику має чудові антипригарні властивості та дозволяє готувати навіть делікатні страви на основі молока, вершків чи сиру без ризику пригорання. Інноваційна технологія <strong data-end="671" data-start="656">Energy Base</strong> забезпечує швидший нагрів і допомагає економити енергію під час використання на керамічних плитах.</span></p>
+
+<p data-end="1170" data-start="810"><span style="font-size:16px;">Кришка та ергономічна ручка з нержавіючої сталі гарантують комфортне використання, а універсальна сумісність із усіма типами плит, включаючи індукційні, робить ківш практичним вибором для будь-якої кухні. Виріб також підходить для використання в духовці за температури до <strong data-end="1092" data-start="1082">270 &deg;C</strong>. Розроблено та виготовлено у Фінляндії.</span></p>
+
+<p data-end="1185" data-start="1172"><span style="font-size:16px;"><strong data-end="1185" data-start="1172">Переваги:</strong></span></p>
+
+<ul data-end="1559" data-is-last-node="" data-is-only-node="" data-start="1186">
+	<li data-end="1205" data-section-id="1mkcsa4" data-start="1186"><span style="font-size:16px;">Об&#39;єм: <strong data-end="1204" data-start="1195">1,6 л</strong>.</span></li>
+	<li data-end="1250" data-section-id="c7z5gw" data-start="1206"><span style="font-size:16px;">Корпус зі <strong data-end="1249" data-start="1218">100% переробленого алюмінію</strong>.</span></li>
+	<li data-end="1309" data-section-id="yya3k7" data-start="1251"><span style="font-size:16px;">Антипригарне покриття <strong data-end="1287" data-start="1275">Ceratec</strong>&nbsp;без пластику та PFAS.</span></li>
+	<li data-end="1375" data-section-id="cgk5cj" data-start="1310"><span style="font-size:16px;">Технологія <strong data-end="1338" data-start="1323">Energy Base</strong> для швидкого й рівномірного нагріву.</span></li>
+	<li data-end="1430" data-section-id="115o3ce" data-start="1376"><span style="font-size:16px;">Підходить для всіх типів плит, включаючи індукційні.</span></li>
+	<li data-end="1479" data-section-id="1hcmw4t" data-start="1431"><span style="font-size:16px;">Можна використовувати в духовці до <strong data-end="1478" data-start="1468">270 &deg;C</strong>.</span></li>
+	<li data-end="1518" data-section-id="1k7pgrd" data-start="1480"><span style="font-size:16px;">Кришка та ручка з нержавіючої сталі.</span></li>
+	<li data-end="1559" data-is-last-node="" data-section-id="1stm4sr" data-start="1519"><span style="font-size:16px;">Розроблено та виготовлено у Фінляндії.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1052185" available="true">
         <name><![CDATA[Штанга-розпилювач для поливу Fiskars (1052185)]]></name>
@@ -5683,6 +6206,98 @@
 </section>
 ]]></description>
         <stock_quantity>8</stock_quantity>
+      </offer>
+      <offer id="1070838" available="true">
+        <name><![CDATA[Пістолет-розпилювач Solid]]></name>
+        <price>1777</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-solid-92110497015491_+3972e29e92.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-solid-37278340588130_+d092b735ee.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-solid-62506202349839_+23de0584eb.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-solid-29305325445267_+5e2b180a37.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-solid-99406607291551_+46c4625c48.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-solid-81751331936019_+095f32ce53.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-solid-22693369085217_+3010181f42.png</picture>
+        <description><![CDATA[<h3 data-end="93" data-section-id="kjursj" data-start="42"><strong data-end="93" data-start="46">Пістолет-розпилювач Fiskars Solid (1070838)</strong></h3>
+
+<p data-end="515" data-start="95">Пістолет-розпилювач Fiskars Solid &mdash; легкий та ергономічний інструмент для щоденного поливу саду, клумб, газонів і рослин. Оснащений плавним регулюванням подачі води та зручним блокуванням курка для тривалої роботи без зайвого навантаження на руку. Поворотна насадка дозволяє швидко змінювати тип струменя відповідно до потреб поливу. Завдяки універсальному швидкороз&#39;ємному з&#39;єднанню сумісний із більшістю систем поливу.</p>
+
+<p data-end="536" data-start="517"><strong data-end="536" data-start="517">Характеристики:</strong></p>
+
+<ul data-end="795" data-start="537">
+	<li data-end="574" data-section-id="1a7i2sv" data-start="537">Тип: пістолет-розпилювач для поливу</li>
+	<li data-end="589" data-section-id="1uizuoy" data-start="575">Серія: Solid</li>
+	<li data-end="615" data-section-id="1ub1v75" data-start="590">Регулювання потоку води</li>
+	<li data-end="637" data-section-id="1on15re" data-start="616">2 режими розпилення</li>
+	<li data-end="680" data-section-id="sludsq" data-start="638">Блокування курка для безперервної роботи</li>
+	<li data-end="721" data-section-id="1h353la" data-start="681">Морозостійкий після повного зливу води</li>
+	<li data-end="761" data-section-id="1sdgzjb" data-start="722">Універсальне швидкороз&#39;ємне з&#39;єднання</li>
+	<li data-end="795" data-section-id="1g2jyi6" data-start="762">Матеріал: високоякісний пластик</li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1070836" available="true">
+        <name><![CDATA[Пістолет-розпилювач мультифунційний Solid]]></name>
+        <price>1777</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/3/pistolet-rozpyliuvach-multyfuntsiinyi-solid-38218152061062_+7031408d03.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/3/pistolet-rozpyliuvach-multyfuntsiinyi-solid-30405312417634_+903b7b0677.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/3/pistolet-rozpyliuvach-multyfuntsiinyi-solid-90875052077009_+db6111ba0d.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/3/pistolet-rozpyliuvach-multyfuntsiinyi-solid-64924499806338_+94a925b3d9.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/3/pistolet-rozpyliuvach-multyfuntsiinyi-solid-65914893113488_+bb26a1cf00.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/3/pistolet-rozpyliuvach-multyfuntsiinyi-solid-40112418456904_+eefcc7087d.png</picture>
+        <description><![CDATA[<h3 data-end="64" data-section-id="1ijan22" data-start="0"><span style="font-size:16px;">Пістолет-розпилювач мультифункційний Fiskars Solid (1070836)</span></h3>
+
+<p data-end="368" data-start="66"><span style="font-size:16px;"><strong data-end="89" data-start="66">Fiskars Solid Multi</strong> &mdash; універсальний пістолет-розпилювач, призначений для ефективного поливу саду, газону, клумб і городу, а також для очищення садового інвентарю, доріжок і меблів. Завдяки легкій конструкції та ергономічній ручці інструмент забезпечує комфорт навіть під час тривалого використання.</span></p>
+
+<p data-end="843" data-start="370"><span style="font-size:16px;">Пістолет оснащений плавним регулятором подачі води з можливістю фіксації потоку, що дозволяє працювати без постійного натискання на курок. Поворотна головка з нековзним покриттям дає змогу швидко обрати один із трьох режимів розпилення: <strong data-end="614" data-start="607">душ</strong>, <strong data-end="636" data-start="616">плоский струмінь</strong> або <strong data-end="662" data-start="641">потужний струмінь</strong>. Після зливу води інструмент є морозостійким, а універсальне швидкороз&#39;ємне з&#39;єднання сумісне з більшістю поливальних систем інших виробників.</span></p>
+
+<h3 data-end="858" data-section-id="hotu7e" data-start="845"><span style="font-size:16px;">Переваги:</span></h3>
+
+<ul data-end="1143" data-start="859">
+	<li data-end="898" data-section-id="9oamcx" data-start="859"><span style="font-size:16px;">Три режими поливу для різних завдань.</span></li>
+	<li data-end="946" data-section-id="1g9c9st" data-start="899"><span style="font-size:16px;">Плавне регулювання інтенсивності подачі води.</span></li>
+	<li data-end="985" data-section-id="h9sana" data-start="947"><span style="font-size:16px;">Фіксатор потоку для тривалої роботи.</span></li>
+	<li data-end="1018" data-section-id="1mv0zna" data-start="986"><span style="font-size:16px;">Ергономічна легка конструкція.</span></li>
+	<li data-end="1048" data-section-id="11cuqt8" data-start="1019"><span style="font-size:16px;">Нековзна поворотна насадка.</span></li>
+	<li data-end="1084" data-section-id="wx92md" data-start="1049"><span style="font-size:16px;">Морозостійкість після зливу води.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1065493" available="true">
+        <name><![CDATA[Пістолет-розпилювач регульований + конектор для шланга 13мм(1/2”) аквастоп CF]]></name>
+        <price>1899</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-39611419912780_+5b97a05091.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-72857547644534_+2f423bddbb.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-12878992665802_+90aee1d4ce.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-45992817854337_+cd579c94eb.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-73776699279579_+94ee5b010d.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-75369145514779_+c27cddab15.png</picture>
+        <description><![CDATA[<h3 data-end="101" data-section-id="1eld5ml" data-start="0">Пістолет-розпилювач регульований + конектор для шланга 13 мм (1/2&quot;) AquaStop CF Fiskars (1065493)</h3>
+
+<p data-end="472" data-start="103">Набір <strong data-end="128" data-start="109">Fiskars 1065493</strong> &mdash; це практичне рішення для поливу саду, городу, клумб і миття садового інвентарю. До комплекту входять регульований пістолет-розпилювач із плавним керуванням потоком води та конектор <strong data-end="324" data-start="312">AquaStop</strong> для шланга діаметром <strong data-end="370" data-start="346">13&ndash;15 мм (1/2&quot;&ndash;5/8&quot;)</strong>, який автоматично припиняє подачу води при від&#39;єднанні насадки.</p>
+
+<p data-end="913" data-start="474">Пістолет має ергономічну конструкцію та зручне керування великим пальцем, що дозволяє легко регулювати інтенсивність подачі води без зайвих зусиль. Доступні два режими роботи &mdash; потужний струмінь для очищення поверхонь і м&#39;яке ополіскування для делікатного поливу рослин. Корпус виготовлений із морозостійких матеріалів, а універсальне з&#39;єднання сумісне з більшістю поливальних систем інших виробників.</p>
+
+<h3 data-end="928" data-section-id="hotu7e" data-start="915">Переваги:</h3>
+
+<ul data-end="1279" data-start="929">
+	<li data-end="971" data-section-id="1v8v5ia" data-start="929">Комплект &laquo;пістолет + конектор AquaStop&raquo;.</li>
+	<li data-end="1021" data-section-id="wkr7ek" data-start="972">Плавне регулювання потоку води великим пальцем.</li>
+	<li data-end="1069" data-section-id="117pvmw" data-start="1022">Два режими поливу: струмінь та ополіскування.</li>
+	<li data-end="1142" data-section-id="1b2umgd" data-start="1070">Конектор AquaStop автоматично перекриває воду при від&#39;єднанні насадки.</li>
+	<li data-end="1197" data-section-id="1c4jvbv" data-start="1143">Ергономічна ручка із комфортним покриттям SoftGrip.</li>
+	<li data-end="1223" data-section-id="1ugd66l" data-start="1198">Морозостійкі матеріали.</li>
+	<li data-end="1279" data-section-id="1eonitj" data-start="1224">Універсальна сумісність із конекторами інших брендів.</li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1027528" available="true">
         <name><![CDATA[Гілкоріз площинний телескопічний Fiskars Solid L13 (1027528)]]></name>
@@ -6085,6 +6700,38 @@
 ]]></description>
         <stock_quantity>9</stock_quantity>
       </offer>
+      <offer id="1064416" available="true">
+        <name><![CDATA[Мультитул Гербер Armbar Trade,16L,Box,SLVR]]></name>
+        <price>3986</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-90399341751204_+c348fab381.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-57133371045814_+af0777f23b.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-98625650717046_+d9011e4770.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-34774590277334_+e12d31eeb2.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-32302284369456_+dc6250345e.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-89237275109905_+9d9888bbc7.png</picture>
+        <description><![CDATA[<h3 data-end="50" data-section-id="1501cf8" data-start="0"><span style="font-size:16px;">Мультитул Gerber Armbar Trade Silver (1064416)</span></h3>
+
+<p data-end="476" data-start="52"><span style="font-size:16px;"><strong data-end="75" data-start="52">Gerber Armbar Trade</strong> &mdash; компактний мультитул, який поєднує функціональність повнорозмірного інструмента з компактністю складаного ножа. Він стане надійним помічником для домашніх ремонтів, будівельних робіт, туризму, кемпінгу та повсякденного використання. Завдяки кишеньковому формату мультитул легко поміщається в кишені або рюкзаку, а кліпса дозволяє завжди тримати його під рукою.</span></p>
+
+<p data-end="907" data-start="478"><span style="font-size:16px;">Основне лезо з нержавіючої сталі відкривається однією рукою та надійно фіксується замком <strong data-end="581" data-start="567">Frame Lock</strong>. Корпус виконаний із міцного анодованого алюмінію, що забезпечує невелику вагу та високу зносостійкість. Мультитул оснащений змінним тримачем для біт, пилкою, шилом, відкривачкою для пляшок, ломиком і молотковою поверхнею, що робить його універсальним рішенням для різноманітних завдань.</span></p>
+
+<h3 data-end="922" data-section-id="hotu7e" data-start="909"><span style="font-size:16px;">Переваги:</span></h3>
+
+<ul data-end="1264" data-start="923">
+	<li data-end="974" data-section-id="1o31n7k" data-start="923"><span style="font-size:16px;">Компактний мультитул для щоденного носіння (EDC).</span></li>
+	<li data-end="1030" data-section-id="1kh4pw" data-start="975"><span style="font-size:16px;">Лезо з нержавіючої сталі з відкриванням однією рукою.</span></li>
+	<li data-end="1059" data-section-id="1vkubid" data-start="1031"><span style="font-size:16px;">Надійний замок Frame Lock.</span></li>
+	<li data-end="1097" data-section-id="11vttiy" data-start="1060"><span style="font-size:16px;">Тримач для стандартних змінних біт.</span></li>
+	<li data-end="1154" data-section-id="1kufzg1" data-start="1098"><span style="font-size:16px;">Вбудовані пилка, шило, ломик і відкривачка для пляшок.</span></li>
+	<li data-end="1193" data-section-id="8ynpds" data-start="1155"><span style="font-size:16px;">Молоткова поверхня на торці руків&#39;я.</span></li>
+	<li data-end="1222" data-section-id="17y8xnw" data-start="1194"><span style="font-size:16px;">Міцний алюмінієвий корпус.</span></li>
+	<li data-end="1264" data-section-id="243vdd" data-start="1223"><span style="font-size:16px;">Кишенькова кліпса для зручного носіння.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
       <offer id="1014053" available="true">
         <name><![CDATA[Мачете Gerber Gator чорний (1014053)]]></name>
         <price>1899</price>
@@ -6266,7 +6913,7 @@
 
 <p data-end="1106" data-is-last-node="" data-is-only-node="" data-start="940"><span style="font-size:18px;"><strong data-end="956" data-start="940">Особливості:</strong> </span><span style="font-size:14px;">інструмент призначений для систематичного грумінгу домашніх тварин і використовується для підтримання чистоти та структури шерсті у побутових умовах.</span></p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="2009144" available="true">
         <name><![CDATA[Сумка для зберігання інструментів для грумінгу FISKARS, 2/6, 19L (2009144)]]></name>
@@ -6615,6 +7262,351 @@
 </ul>
 ]]></description>
         <stock_quantity>14</stock_quantity>
+      </offer>
+      <offer id="1066426" available="true">
+        <name><![CDATA[Щипці для гриля Norden Grill]]></name>
+        <price>6865</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33434838095190_+9f34370262.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-60186051108908_+6f09f7c9f8.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33631942862025_+9ee1c696dc.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33602690571847_+61a34c723c.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-59828944735186_+d595095328.png</picture>
+        <description><![CDATA[<p data-end="32" data-start="0"><span style="font-size:16px;"><strong data-end="32" data-start="0">Щипці для гриля Norden Grill</strong></span></p>
+
+<p data-end="338" data-start="34"><span style="font-size:16px;">Щипці <strong data-end="64" data-start="40">Fiskars Norden Grill</strong> створені для комфортного та точного приготування страв на грилі. Вони поєднують преміальні матеріали, ергономічний дизайн і високу надійність, забезпечуючи впевнений контроль під час перевертання м&#39;яса, риби, овочів та інших продуктів.</span></p>
+
+<p data-end="789" data-start="340"><span style="font-size:16px;">Робоча частина виготовлена з <strong data-end="404" data-start="369">високоякісної нержавіючої сталі</strong> та оснащена міцним шарніром, що запобігає перекосу щипців і гарантує точність кожного руху. Зубчасті краї надійно утримують продукти, а ручка з <strong data-end="575" data-start="549">термообробленої берези</strong> забезпечує комфортне захоплення та має практичну петлю для підвішування. Деревина походить із відповідально керованих лісів, а природний малюнок робить кожен виріб унікальним.</span></p>
+
+<p data-end="1064" data-start="791"><span style="font-size:16px;">Щипці чудово збалансовані, приємні у використанні та стануть незамінним аксесуаром для приготування їжі на грилі або відкритому вогні. Розроблено у Фінляндії. Для збереження зовнішнього вигляду виробник рекомендує <strong data-end="1025" data-start="1005">лише ручне миття</strong>.</span></p>
+
+<p data-end="1079" data-start="1066"><span style="font-size:16px;"><strong data-end="1079" data-start="1066">Переваги:</strong></span></p>
+
+<ul data-end="1474" data-is-last-node="" data-is-only-node="" data-start="1080">
+	<li data-end="1112" data-section-id="l4cq6n" data-start="1080"><span style="font-size:16px;">Високоякісна нержавіюча сталь.</span></li>
+	<li data-end="1150" data-section-id="1ytyhzh" data-start="1113"><span style="font-size:16px;">Міцний шарнір, стійкий до перекосу.</span></li>
+	<li data-end="1202" data-section-id="1sl96b0" data-start="1151"><span style="font-size:16px;">Зубчасті краї для надійного захоплення продуктів.</span></li>
+	<li data-end="1248" data-section-id="smwx11" data-start="1203"><span style="font-size:16px;">Ергономічна ручка з термообробленої берези.</span></li>
+	<li data-end="1297" data-section-id="mb23nn" data-start="1249"><span style="font-size:16px;">Петля для зручного підвішування та зберігання.</span></li>
+	<li data-end="1348" data-section-id="vf4umz" data-start="1298"><span style="font-size:16px;">Ідеальний баланс і комфорт під час використання.</span></li>
+	<li data-end="1413" data-section-id="1212jyl" data-start="1349"><span style="font-size:16px;">Виготовлено з натуральних матеріалів, що підлягають переробці.</span></li>
+	<li data-end="1439" data-section-id="1tw87q5" data-start="1414"><span style="font-size:16px;">Розроблено у Фінляндії.</span></li>
+	<li data-end="1474" data-is-last-node="" data-section-id="1d17rqx" data-start="1440"><span style="font-size:16px;">Рекомендується лише ручне миття.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1066427" available="true">
+        <name><![CDATA[Виделка для гриля Norden Grill]]></name>
+        <price>3865</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-56405175162690_+ac66798614.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-64306798115102_+fee810cf32.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-12786823956196_+bd0076d4ad.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-69949535888120_+b55b613522.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-46380193767329_+b2a80e0f98.png</picture>
+        <description><![CDATA[<p data-end="34" data-start="0"><span style="font-size:16px;"><strong data-end="34" data-start="0">Виделка для гриля Norden Grill</strong></span></p>
+
+<p data-end="408" data-start="36"><span style="font-size:16px;">Виделка <strong data-end="68" data-start="44">Fiskars Norden Grill</strong> створена для зручного приготування та подачі страв на грилі. Вона поєднує міцність, точність і преміальну якість, дозволяючи легко утримувати, перевертати та подавати великі шматки м&#39;яса, риби й овочів. Завдяки продуманій конструкції виделка забезпечує максимальний контроль під час роботи біля гриля.</span></p>
+
+<p data-end="872" data-start="410"><span style="font-size:16px;">Робоча частина виготовлена з <strong data-end="474" data-start="439">високоякісної нержавіючої сталі</strong>, що відзначається довговічністю та стійкістю до високих температур. Ергономічна ручка з <strong data-end="589" data-start="563">термообробленої берези</strong>, отриманої з відповідально керованих лісів, комфортно лежить у руці та підкреслює скандинавський стиль серії Norden. Природний малюнок деревини робить кожен виріб унікальним. Для зручного зберігання передбачена практична петля для підвішування.</span></p>
+
+<p data-end="1194" data-start="874"><span style="font-size:16px;">Виделка ідеально збалансована, що забезпечує комфорт і точність під час використання. Вона стане незамінним аксесуаром для приготування страв на грилі, відкритому вогні або барбекю. Розроблено у Фінляндії. Для збереження зовнішнього вигляду виробник рекомендує <strong data-end="1155" data-start="1135">лише ручне миття</strong>.</span></p>
+
+<p data-end="1209" data-start="1196"><span style="font-size:16px;"><strong data-end="1209" data-start="1196">Переваги:</strong></span></p>
+
+<ul data-end="1533" data-is-last-node="" data-is-only-node="" data-start="1210">
+	<li data-end="1242" data-section-id="l4cq6n" data-start="1210"><span style="font-size:16px;">Високоякісна нержавіюча сталь.</span></li>
+	<li data-end="1299" data-section-id="10hhz7j" data-start="1243"><span style="font-size:16px;">Міцні зубці для надійного утримання великих продуктів.</span></li>
+	<li data-end="1345" data-section-id="smwx11" data-start="1300"><span style="font-size:16px;">Ергономічна ручка з термообробленої берези.</span></li>
+	<li data-end="1381" data-section-id="10x1wao" data-start="1346"><span style="font-size:16px;">Практична петля для підвішування.</span></li>
+	<li data-end="1425" data-section-id="1w07bmb" data-start="1382"><span style="font-size:16px;">Оптимальний баланс для комфортної роботи.</span></li>
+	<li data-end="1472" data-section-id="16ftgli" data-start="1426"><span style="font-size:16px;">Натуральні матеріали, придатні до переробки.</span></li>
+	<li data-end="1498" data-section-id="1tw87q5" data-start="1473"><span style="font-size:16px;">Розроблено у Фінляндії.</span></li>
+	<li data-end="1533" data-is-last-node="" data-section-id="1d17rqx" data-start="1499"><span style="font-size:16px;">Рекомендується лише ручне миття.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>8</stock_quantity>
+      </offer>
+      <offer id="1066425" available="true">
+        <name><![CDATA[Лопатка для гриля Norden Grill]]></name>
+        <price>3865</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/lopatka-dlia-hrylia-norden-grill-80221042841394_+5ff3bbb3df.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/lopatka-dlia-hrylia-norden-grill-95470705448960_+3d375c1d4b.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/lopatka-dlia-hrylia-norden-grill-87520282734816_+713152d968.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/lopatka-dlia-hrylia-norden-grill-88784916164267_+8424db1281.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/lopatka-dlia-hrylia-norden-grill-42813056445460_+24f0a30e4a.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/lopatka-dlia-hrylia-norden-grill-92793984497951_+1a96b0bba6.png</picture>
+        <description><![CDATA[<p data-end="34" data-start="0"><strong data-end="34" data-start="0">Лопатка для гриля Norden Grill</strong></p>
+
+<p data-end="359" data-start="36">Лопатка <strong data-end="68" data-start="44">Fiskars Norden Grill</strong> створена для зручного перевертання, переміщення та подачі страв під час приготування на грилі. Завдяки міцній конструкції та продуманому дизайну вона легко справляється зі стейками, котлетами, рибою, овочами та іншими продуктами, забезпечуючи максимальний контроль і комфорт у використанні.</p>
+
+<p data-end="837" data-start="361">Робоча частина виготовлена з <strong data-end="425" data-start="390">високоякісної нержавіючої сталі</strong>, що відзначається довговічністю, стійкістю до корозії та високих температур. Широка лопатка зі скошеним краєм дозволяє легко підхоплювати продукти, не пошкоджуючи їхню структуру. Ергономічна ручка з <strong data-end="651" data-start="625">термообробленої берези</strong>, отриманої з відповідально керованих лісів, забезпечує надійний хват і підкреслює елегантний скандинавський стиль серії Norden. Природний малюнок деревини робить кожен виріб унікальним.</p>
+
+<p data-end="1101" data-start="839">Для зручного зберігання передбачена практична петля для підвішування. Лопатка чудово збалансована, що робить її комфортною навіть під час тривалого використання. Розроблено у Фінляндії. Для збереження зовнішнього вигляду виробник рекомендує <strong data-end="1100" data-start="1080">лише ручне миття</strong>.</p>
+
+<p data-end="1116" data-start="1103"><strong data-end="1116" data-start="1103">Переваги:</strong></p>
+
+<ul data-end="1535" data-is-last-node="" data-is-only-node="" data-start="1117">
+	<li data-end="1174" data-section-id="2eat5w" data-start="1117">Міцна робоча частина з високоякісної нержавіючої сталі.</li>
+	<li data-end="1245" data-section-id="ugkh6h" data-start="1175">Широка лопатка зі скошеним краєм для легкого перевертання продуктів.</li>
+	<li data-end="1291" data-section-id="smwx11" data-start="1246">Ергономічна ручка з термообробленої берези.</li>
+	<li data-end="1340" data-section-id="mb23nn" data-start="1292">Петля для зручного підвішування та зберігання.</li>
+	<li data-end="1385" data-section-id="1yxb8b" data-start="1341">Стійкість до високих температур і корозії.</li>
+	<li data-end="1427" data-section-id="lvn09f" data-start="1386">Ідеальний баланс для комфортної роботи.</li>
+	<li data-end="1474" data-section-id="16ftgli" data-start="1428">Натуральні матеріали, придатні до переробки.</li>
+	<li data-end="1500" data-section-id="1tw87q5" data-start="1475">Розроблено у Фінляндії.</li>
+	<li data-end="1535" data-is-last-node="" data-section-id="1d17rqx" data-start="1501">Рекомендується лише ручне миття.</li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1065596" available="true">
+        <name><![CDATA[Вінчик спіральний Essential 35,5 см]]></name>
+        <price>555</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/29/vinchyk-spiralnyi-essential-355-sm-77268259416083_+c9f54d50d9.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/29/vinchyk-spiralnyi-essential-355-sm-96790732107795_+d04ca327c8.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/29/vinchyk-spiralnyi-essential-355-sm-84244866030706_+43fc6a8bbc.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/29/vinchyk-spiralnyi-essential-355-sm-80712313098245_+80a31adc53.png</picture>
+        <description><![CDATA[<p data-end="39" data-start="0"><span style="font-size:16px;"><strong data-end="39" data-start="0">Вінчик спіральний Essential 35,5 см</strong></span></p>
+
+<p data-end="313" data-start="41"><span style="font-size:16px;">Спіральний вінчик <strong data-end="80" data-start="59">Fiskars Essential</strong> довжиною <strong data-end="101" data-start="90">35,5 см</strong> стане практичним помічником для щоденного приготування страв. Він ідеально підходить для збивання соусів, кремів, рідкого тіста, яєць, заправок та інших інгредієнтів, забезпечуючи швидке й рівномірне змішування.</span></p>
+
+<p data-end="622" data-start="315"><span style="font-size:16px;">Робоча частина виготовлена з <strong data-end="378" data-start="344">міцного термостійкого пластику</strong>, який безпечний для використання з посудом, що має антипригарне покриття, оскільки не залишає подряпин на його поверхні. Ергономічна ручка забезпечує зручний хват, а спеціальний отвір дозволяє підвішувати інструмент для компактного зберігання.</span></p>
+
+<p data-end="750" data-start="624"><span style="font-size:16px;">Завдяки простому догляду вінчик можна мити в посудомийній машині, що робить його ще практичнішим у повсякденному використанні.</span></p>
+
+<p data-end="765" data-start="752"><span style="font-size:16px;"><strong data-end="765" data-start="752">Переваги:</strong></span></p>
+
+<ul data-end="1148" data-is-last-node="" data-is-only-node="" data-start="766">
+	<li data-end="790" data-section-id="1urkiy3" data-start="766"><span style="font-size:16px;">Довжина &mdash; <strong data-end="789" data-start="778">35,5 см</strong>.</span></li>
+	<li data-end="853" data-section-id="rdsx9w" data-start="791"><span style="font-size:16px;">Підходить для збивання соусів, кремів, яєць і рідкого тіста.</span></li>
+	<li data-end="913" data-section-id="1m8qxq2" data-start="854"><span style="font-size:16px;">Термостійкий пластик безпечний для антипригарного посуду.</span></li>
+	<li data-end="952" data-section-id="mh4wez" data-start="914"><span style="font-size:16px;">Не дряпає поверхню кухонного посуду.</span></li>
+	<li data-end="1002" data-section-id="1dk3uxj" data-start="953"><span style="font-size:16px;">Ергономічна ручка для комфортного використання.</span></li>
+	<li data-end="1051" data-section-id="12ac7nr" data-start="1003"><span style="font-size:16px;">Отвір для підвішування та зручного зберігання.</span></li>
+	<li data-end="1087" data-section-id="f61c82" data-start="1052"><span style="font-size:16px;">Можна мити в посудомийній машині.</span></li>
+	<li data-end="1148" data-is-last-node="" data-section-id="1pdymd6" data-start="1088"><span style="font-size:16px;">Практичний інструмент для щоденного використання на кухні.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1065594" available="true">
+        <name><![CDATA[Ополоник Essential, 38 см]]></name>
+        <price>555</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/30/opolonyk-essential-38-sm-89947477467741_+2559203e3d.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/30/opolonyk-essential-38-sm-11354689107129_+f366b34a63.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/30/opolonyk-essential-38-sm-72402221132273_+b6d8c4bd6b.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/30/opolonyk-essential-38-sm-71335910472974_+d3eeb9ec3c.png</picture>
+        <description><![CDATA[<section data-testid="conversation-turn-34" data-turn="assistant" data-turn-id="request-6a465399-dc50-83eb-9b22-ccc19bbf5490-2" data-turn-id-container="request-6a465399-dc50-83eb-9b22-ccc19bbf5490-2" dir="auto">
+<p data-end="29" data-start="0"><span style="font-size:16px;"><strong data-end="29" data-start="0">Ополоник Essential, 38 см</strong></span></p>
+
+<p data-end="319" data-start="31"><span style="font-size:16px;">Ополоник <strong data-end="61" data-start="40">Fiskars Essential</strong> довжиною <strong data-end="80" data-start="71">38 см</strong> &mdash; практичний кухонний інструмент для зручного розливання супів, бульйонів, соусів, компотів та інших рідких страв. Завдяки продуманій формі він забезпечує акуратне сервірування та комфортне використання під час щоденного приготування їжі.</span></p>
+
+<p data-end="652" data-start="321"><span style="font-size:16px;">Робоча частина виготовлена з <strong data-end="376" data-start="350">термостійкого пластику</strong>, який безпечний для використання з посудом, що має антипригарне покриття. Матеріал не дряпає поверхню каструль і сковорідок, зберігаючи їхній бездоганний вигляд. Ергономічна ручка забезпечує надійний хват, а отвір для підвішування дозволяє зручно зберігати ополоник на кухні.</span></p>
+
+<p data-end="784" data-start="654"><span style="font-size:16px;">Ополоник легко очищується та підходить для миття в посудомийній машині, що робить його чудовим вибором для щоденного використання.</span></p>
+
+<p data-end="799" data-start="786"><span style="font-size:16px;"><strong data-end="799" data-start="786">Переваги:</strong></span></p>
+
+<ul data-end="1195" data-is-last-node="" data-is-only-node="" data-start="800">
+	<li data-end="822" data-section-id="bnz81r" data-start="800"><span style="font-size:16px;">Довжина &mdash; <strong data-end="821" data-start="812">38 см</strong>.</span></li>
+	<li data-end="885" data-section-id="237w13" data-start="823"><span style="font-size:16px;">Ідеально підходить для розливання супів, бульйонів і соусів.</span></li>
+	<li data-end="945" data-section-id="1m8qxq2" data-start="886"><span style="font-size:16px;">Термостійкий пластик безпечний для антипригарного посуду.</span></li>
+	<li data-end="984" data-section-id="mh4wez" data-start="946"><span style="font-size:16px;">Не дряпає поверхню кухонного посуду.</span></li>
+	<li data-end="1034" data-section-id="1dk3uxj" data-start="985"><span style="font-size:16px;">Ергономічна ручка для комфортного використання.</span></li>
+	<li data-end="1086" data-section-id="9rq3sr" data-start="1035"><span style="font-size:16px;">Отвір для підвішування та компактного зберігання.</span></li>
+	<li data-end="1122" data-section-id="f61c82" data-start="1087"><span style="font-size:16px;">Можна мити в посудомийній машині.</span></li>
+	<li data-end="1195" data-is-last-node="" data-section-id="ybgby" data-start="1123"><span style="font-size:16px;">Практичний і довговічний кухонний аксесуар для щоденного використання.</span></li>
+</ul>
+</section>
+]]></description>
+        <stock_quantity>9</stock_quantity>
+      </offer>
+      <offer id="1065591" available="true">
+        <name><![CDATA[Лопатка силіконова Essential 35,5 см]]></name>
+        <price>487</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/31/lopatka-sylikonova-essential-355-sm-96745116913721_+f4f3bf3b6e.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/31/lopatka-sylikonova-essential-355-sm-28887137144326_+eccc7f380c.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/31/lopatka-sylikonova-essential-355-sm-40700280170837_+9dcc1f6892.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/31/lopatka-sylikonova-essential-355-sm-88958563854605_+a3dbe5e3cb.png</picture>
+        <description><![CDATA[<p data-end="40" data-start="0"><span style="font-size:16px;"><strong data-end="40" data-start="0">Лопатка силіконова Essential 35,5 см</strong></span></p>
+
+<p data-end="308" data-start="42"><span style="font-size:16px;">Лопатка <strong data-end="71" data-start="50">Fiskars Essential</strong> довжиною <strong data-end="92" data-start="81">35,5 см</strong> стане незамінним помічником під час приготування та подачі різноманітних страв. Вона чудово підходить для перемішування, перевертання та акуратного розподілення продуктів, а також для роботи з випічкою та десертами.</span></p>
+
+<p data-end="671" data-start="310"><span style="font-size:16px;">Робоча частина виготовлена з <strong data-end="365" data-start="339">термостійкого силікону</strong>, який дбайливо контактує з антипригарними покриттями, не залишаючи подряпин. Гнучкий матеріал дозволяє легко збирати залишки тіста, крему або соусу зі стінок посуду, забезпечуючи максимальну зручність у використанні. Ергономічна ручка гарантує комфортний хват, а отвір для підвішування спрощує зберігання.</span></p>
+
+<p data-end="804" data-start="673"><span style="font-size:16px;">Лопатка легко очищується та підходить для миття в посудомийній машині, що робить її практичним рішенням для щоденного використання.</span></p>
+
+<p data-end="819" data-start="806"><span style="font-size:16px;"><strong data-end="819" data-start="806">Переваги:</strong></span></p>
+
+<ul data-end="1211" data-is-last-node="" data-is-only-node="" data-start="820">
+	<li data-end="844" data-section-id="1urkiy3" data-start="820"><span style="font-size:16px;">Довжина &mdash; <strong data-end="843" data-start="832">35,5 см</strong>.</span></li>
+	<li data-end="885" data-section-id="ah0a9v" data-start="845"><span style="font-size:16px;">Термостійка силіконова робоча частина.</span></li>
+	<li data-end="934" data-section-id="cs3f1o" data-start="886"><span style="font-size:16px;">Безпечна для посуду з антипригарним покриттям.</span></li>
+	<li data-end="1014" data-section-id="19aoxzz" data-start="935"><span style="font-size:16px;">Гнучка конструкція для зручного перемішування та збирання залишків продуктів.</span></li>
+	<li data-end="1064" data-section-id="do3ub0" data-start="1015"><span style="font-size:16px;">Ергономічна ручка для комфортного користування.</span></li>
+	<li data-end="1116" data-section-id="9rq3sr" data-start="1065"><span style="font-size:16px;">Отвір для підвішування та компактного зберігання.</span></li>
+	<li data-end="1152" data-section-id="f61c82" data-start="1117"><span style="font-size:16px;">Можна мити в посудомийній машині.</span></li>
+	<li data-end="1211" data-is-last-node="" data-section-id="2wqkya" data-start="1153"><span style="font-size:16px;">Практичний кухонний аксесуар для щоденного використання.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>5</stock_quantity>
+      </offer>
+      <offer id="1065590" available="true">
+        <name><![CDATA[Пензлик Essential]]></name>
+        <price>555</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/penzlyk-essential-47371052768396_+406d832bd4.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/penzlyk-essential-25195167770095_+99451e21e8.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/penzlyk-essential-20529028529964_+8d8c44c41c.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/penzlyk-essential-52470357684579_+146b4692ba.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/penzlyk-essential-72788994957288_+f9a2376207.png</picture>
+        <description><![CDATA[<p data-end="21" data-start="0"><span style="font-size:16px;"><strong data-end="21" data-start="0">Пензлик Essential</strong></span></p>
+
+<p data-end="291" data-start="23"><span style="font-size:16px;">Пензлик <strong data-end="52" data-start="31">Fiskars Essential</strong> &mdash; практичний кухонний аксесуар для зручного нанесення олії, маринадів, соусів, глазурі, вершкового масла та яєчної суміші на продукти й випічку. Він стане незамінним помічником під час приготування страв у духовці, на сковороді або грилі.</span></p>
+
+<p data-end="628" data-start="293"><span style="font-size:16px;">Робоча частина виготовлена з <strong data-end="348" data-start="322">термостійкого силікону</strong>, який рівномірно розподіляє рідкі інгредієнти та не вбирає запахи. Силіконові щетинки легко очищуються й не пошкоджують поверхню посуду з антипригарним покриттям. Ергономічна ручка забезпечує комфортне користування, а отвір для підвішування дозволяє компактно зберігати аксесуар.</span></p>
+
+<p data-end="731" data-start="630"><span style="font-size:16px;">Пензлик можна мити в посудомийній машині, що робить його зручним для щоденного використання на кухні.</span></p>
+
+<p data-end="746" data-start="733"><span style="font-size:16px;"><strong data-end="746" data-start="733">Переваги:</strong></span></p>
+
+<ul data-end="1141" data-is-last-node="" data-is-only-node="" data-start="747">
+	<li data-end="823" data-section-id="1mo0y1e" data-start="747"><span style="font-size:16px;">Підходить для нанесення олії, маринадів, соусів, глазурі та яєчної суміші.</span></li>
+	<li data-end="857" data-section-id="iow4il" data-start="824"><span style="font-size:16px;">Термостійкі силіконові щетинки.</span></li>
+	<li data-end="897" data-section-id="10r82a8" data-start="858"><span style="font-size:16px;">Не вбирає запахи та легко очищується.</span></li>
+	<li data-end="947" data-section-id="mw8njx" data-start="898"><span style="font-size:16px;">Безпечний для посуду з антипригарним покриттям.</span></li>
+	<li data-end="997" data-section-id="1dk3uxj" data-start="948"><span style="font-size:16px;">Ергономічна ручка для комфортного використання.</span></li>
+	<li data-end="1046" data-section-id="12ac7nr" data-start="998"><span style="font-size:16px;">Отвір для підвішування та зручного зберігання.</span></li>
+	<li data-end="1082" data-section-id="f61c82" data-start="1047"><span style="font-size:16px;">Можна мити в посудомийній машині.</span></li>
+	<li data-end="1141" data-is-last-node="" data-section-id="2wqkya" data-start="1083"><span style="font-size:16px;">Практичний кухонний аксесуар для щоденного використання.</span></li>
+</ul>
+]]></description>
+        <stock_quantity>3</stock_quantity>
+      </offer>
+      <offer id="1066428" available="false">
+        <name><![CDATA[Ложка дерев'яна для гриля Norden]]></name>
+        <price>1837</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/33/lozhka-dereviana-dlia-hrylia-norden-44217278224953_+d2902ae0c3.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/33/lozhka-dereviana-dlia-hrylia-norden-27929378743287_+2c1685cf74.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/33/lozhka-dereviana-dlia-hrylia-norden-51996899490284_+df2d0f136b.png</picture>
+        <description><![CDATA[<h3 data-path-to-node="2">Ложка дерев&#39;яна для гриля Fiskars Norden (1066428)</h3>
+
+<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Дерев&#39;яна ложка для гриля Fiskars Norden (1066428)</b> &mdash; це кухонний аксесуар преміум-класу, розроблений для тих, хто цінує естетику, натуральні матеріали та максимальну зручність під час приготування їжі. Ця ложка ідеально підходить для використання на грилі, сковородах, у казанах чи сотейниках. Завдяки високій термостійкості та делікатному контакту з поверхнями, вона дозволяє впевнено перемішувати, перевертати та сервірувати страви, додаючи процесу готування особливого комфорту та автентичного стилю.</p>
+
+<p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> призначена для перемішування, порційного розподілу та сервірування страв під час приготування на грилі, мангалі, у глибоких сковородах або каструлях. Ідеально підходить для роботи з м&#39;ясом, овочевими гарнірами, рагу та густими соусами.</p>
+
+<p data-path-to-node="4,1,0"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> ложка має подовжену ергономічну ручку, яка дозволяє безпечно працювати на великій відстані від розпеченої поверхні гриля чи відкритого вогню, захищаючи руки від опіків. Форма робочої частини оптимізована для ретельного перемішування інгредієнтів навіть біля стінок та на дні посуду. На кінці рукоятки передбачена фірмова сталева петля для зручного підвішування інструмента на гачок.</p>
+
+<p data-path-to-node="4,2,0"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> виготовлена з високоякісної добірної деревини берези, яка пройшла спеціальну термічну оброку (термодеревина). Це робить структуру дерева надзвичайно щільною, стійкою до розтріскування, деформації від вологи та впливу високих температур. Ложка є абсолютно безпечною для посуду з найчутливішим антипригарним, керамічним чи тефлоновим покриттям, оскільки не залишає подряпин.</p>
+
+<p data-path-to-node="4,3,0"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> загальна довжина інструмента становить 342 мм, ширина робочої частини &mdash; 69 мм, товщина &mdash; 21 мм. Вага аксесуара &mdash; всього 70 г, що забезпечує легкість та баланс у руці.</p>
+
+<p data-path-to-node="4,4,0"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> належить до флагманської дизайнерської серії <b data-index-in-node="58" data-path-to-node="4,4,0">Norden</b>, яка втілює скандинавські традиції та екологічність. Природна текстура дерева робить кожен виріб унікальним. Матеріал не нагрівається під час тривалого готування та не вбирає сторонні запахи продуктів. Рекомендується виключно ручне миття для збереження природної краси дерева.</p>
+
+<p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Фінляндія.</p>
+]]></description>
+        <stock_quantity>0</stock_quantity>
+      </offer>
+      <offer id="1065593" available="true">
+        <name><![CDATA[Ложка для спагетті Fiskars Essential]]></name>
+        <price>299</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-51548347964897_+0243f2e2a7.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-53773282362921_+840ef871b2.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-40768927718272_+d982aa8dad.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-98321957091075_+3bb5328976.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-95908135471616_+1bed32774d.png</picture>
+        <description><![CDATA[<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Ложка для спагетті Fiskars Essential (1065593)</b> &mdash; це незамінний і практичний кухонний аксесуар, розроблений спеціально для зручного приготування, виймання та порційного сервірування спагетті, лінгвіні, тальятелле та інших видів довгої пасти. Продумана форма робочої частини дозволяє акуратно та надійно захоплювати макаронні вироби безпосередньо з киплячої води чи соусу, не пошкоджуючи їх структуру та повністю захищаючи руки від гарячої пари.</p>
+
+<p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> підходить для перемішування пасти під час варіння, виймання готових макаронних виробів із каструлі, проціджування залишків води та швидкого розкладання порцій по тарілках.</p>
+
+<p data-path-to-node="4,1,0"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> кругла чаша ложки оснащена спеціальними зубцями по краях, які надійно утримують слизькі спагетті та не дозволяють їм вислизати назад у каструлю. По центру робочої частини передбачено отвір для швидкого відведення зайвої води чи бульйону, який також слугує вбудованим мірником &mdash; кількість сухих спагетті, що проходить крізь цей отвір, дорівнює одній стандартній порції. Ергономічна ручка має отвір для зручного підвішування на рейлінг або гачок.</p>
+
+<p data-path-to-node="4,2,0"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> виріб повністю виготовлений із високоякісного, міцного та термостійкого пластику (поліаміду), армованого скловоложними нитками. Матеріал витримує високі температури до +180&deg;C, абсолютно безпечний для контакту з харчовими продуктами, не дряпає делікатне антипригарне, керамічне чи тефлонове покриття посуду та не нагрівається в процесі роботи.</p>
+
+<p data-path-to-node="4,3,0"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> загальна довжина інструмента становить 295 мм, ширина робочої частини &mdash; 64 мм, висота (глибина) &mdash; 45 мм. Вага аксесуара &mdash; всього 40 г, що забезпечує максимальну легкість під час використання.</p>
+
+<p data-path-to-node="4,4,0"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> ложка належить до базової лінійки кухонного приладдя Essential бренду Fiskars. Має лаконічний чорний дизайн, не вбирає запахи їжі, не фарбується від соусів (наприклад, томатних) та підходить для щоденного миття в посудомийній машині.</p>
+
+<p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Фінляндія.</p>
+
+<p data-path-to-node="4,6,0">&nbsp;</p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1016471" available="true">
+        <name><![CDATA[Набір ножів Fiskars NORR 2 шт]]></name>
+        <price>3430</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-fiskars-norr-2-sht-98106899442352_+3424f37e36.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-fiskars-norr-2-sht-60327826142347_+44e86109db.png</picture>
+        <description><![CDATA[<p data-end="398" data-start="91">Набір <strong data-end="123" data-start="97">Fiskars NORR (1016471)</strong> &mdash; це преміальна серія кухонних ножів у скандинавському стилі, створена для точного, комфортного та контрольованого різання. У комплект входять два найнеобхідніші ножі для щоденної роботи на кухні: універсальний кухарський ніж і компактний ніж для чищення та дрібних завдань.</p>
+
+<p data-end="673" data-start="400">Леза виготовлені з високоякісної нержавіючої сталі німецького типу, що забезпечує довговічність, стійкість до корозії та тривале збереження гостроти. Завдяки оптимальному балансу та формі ножі забезпечують легке нарізання м&rsquo;яса, овочів, зелені та фруктів без зайвих зусиль.</p>
+
+<p data-end="922" data-start="675">Руків&rsquo;я виготовлене з термообробленої деревини (Kebony), що робить кожен ніж унікальним, приємним на дотик і добре збалансованим у руці. Такий дизайн не лише естетичний, але й ергономічний &mdash; ніж зручно лежить у руці навіть під час тривалої роботи.</p>
+
+<h3 data-end="950" data-section-id="cr3u8p" data-start="929"><strong data-end="950" data-start="933">Склад набору:</strong></h3>
+
+<ul data-end="1017" data-start="951">
+	<li data-end="985" data-section-id="1a191x0" data-start="951">Ніж для чищення (paring knife)</li>
+	<li data-end="1017" data-section-id="1jav5vn" data-start="986">Кухарський ніж (chef&rsquo;s knife)</li>
+</ul>
+
+<h3 data-end="1041" data-section-id="1ytkeui" data-start="1024"><strong data-end="1041" data-start="1028">Переваги:</strong></h3>
+
+<ul data-end="1331" data-start="1042">
+	<li data-end="1075" data-section-id="1pa5nrt" data-start="1042">Преміальна серія Fiskars NORR</li>
+	<li data-end="1114" data-section-id="1fcgx4p" data-start="1076">Леза з німецької нержавіючої сталі</li>
+	<li data-end="1147" data-section-id="1r7sxzl" data-start="1115">Стійка та довговічна заточка</li>
+	<li data-end="1188" data-section-id="6ohn5d" data-start="1148">Ергономічне дерев&rsquo;яне руків&rsquo;я Kebony</li>
+	<li data-end="1232" data-section-id="r05xra" data-start="1189">Ідеальний баланс і контроль при різанні</li>
+	<li data-end="1274" data-section-id="133yhg" data-start="1233">Скандинавський мінімалістичний дизайн</li>
+	<li data-end="1331" data-section-id="1wsfhlt" data-start="1275">Підходить для щоденного та професійного використання</li>
+</ul>
+]]></description>
+        <stock_quantity>1</stock_quantity>
+      </offer>
+      <offer id="1050714" available="true">
+        <name><![CDATA[Набір столових ножів Kaimano, 6 шт]]></name>
+        <price>1199</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/39/nabir-stolovykh-nozhiv-kaimano-6-sht-98389167017752_+2f6d9f25f7.png</picture>
+        <description><![CDATA[<h3 data-path-to-node="2">Набір столових ножів Kaimano, 6 шт (1050714)</h3>
+
+<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Набір столових ножів Kaimano (1050714)</b> &mdash; це комплект із 6 елегантних та практичних ножів, створених для щоденного використання та святкового сервірування столу. Завдяки спеціальній серрейторній (зубчастій) заточці, ці ножі ідеально справляються з нарізанням будь-яких готових страв &mdash; від соковитих стейків та запеченого м&#39;яса до хрусткої випічки, томатів та інших овочів, не мнучи та не псуючи структуру продуктів.</p>
+
+<p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> призначений для сервірування столу, порційного нарізання м&#39;ясних страв (стейків, шашлику, птиці), піци, ковбасних виробів, сирів, а також для швидкого та акуратного подрібнення овочів чи фруктів під час обіду чи вечері.</p>
+
+<p data-path-to-node="4,1,0"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> ножі мають класичну ергономічну форму. Гостре лезо із серрейторною крайкою гарантує легкий та плавний зріз без значних зусиль, при цьому ніж залишається гострим у рази довше за звичайні моделі. Лита ручка анатомічної форми зручно лягає в долоню, забезпечує надійне захоплення та повний контроль над процесом нарізання.</p>
+
+<p data-path-to-node="4,2,0"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> леза виготовлені з високоякісної нержавіючої сталі преміум-класу, яка відрізняється високою міцністю, стійкістю до корозії, харчових кислот та механічних пошкоджень. Рукоятки виконані з міцного, термостійкого та гігієнічного пластику (поліпропілену), який не вбирає запахи та вологу.</p>
+
+<p data-path-to-node="4,3,0"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> довжина леза &mdash; 110 мм, загальна довжина ножа &mdash; 215 мм. Вага одного ножа &mdash; близько 30 г, загальна вага набору в упаковці &mdash; 210 г.</p>
+
+<p data-path-to-node="4,4,0"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> інструменти серії Kaimano поєднують італійські традиції стилю та ергономіки з високими стандартами довговічності Fiskars Group. Ножі максимально невибагливі у догляді: завдяки стійким матеріалам їх можна мити в посудомийній машині без ризику пошкодження чи втрати зовнішнього вигляду.</p>
+
+<p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Італія.</p>
+]]></description>
+        <stock_quantity>2</stock_quantity>
       </offer>
     </offers>
   </shop>
