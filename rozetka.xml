@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-07T23:57:00.079Z">
+<yml_catalog date="2026-07-08T03:16:53.468Z">
   <shop>
     <offers>
       <offer id="1014860" available="true">
@@ -1499,7 +1499,7 @@
 
 <p data-end="1318" data-is-last-node="" data-is-only-node="" data-start="1124"><span style="font-size:18px;"><strong data-end="1140" data-start="1124">Особливості:</strong></span><span style="font-size:14px;"> набір належить до серії Solid бренду Fiskars та призначений для систематичного прибирання та догляду за прибудинковою територією і садовими зонами.</span></p>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1019608" available="false">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
@@ -2122,6 +2122,30 @@
 <p><strong>Особливості: </strong>належить до серії Hard Face бренду Fiskars, підходить для більшості типів плит та щоденного інтенсивного використання.</p>
 ]]></description>
         <stock_quantity>30</stock_quantity>
+      </offer>
+      <offer id="1075860" available="true">
+        <name><![CDATA[Сковорода Fiskars All Steel Frying Pan 28 см]]></name>
+        <price>5895</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-all-steel-frying-pan-28-sm-96504899099970_+371a734985.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-all-steel-frying-pan-28-sm-46226683312312_+e858148a78.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-all-steel-frying-pan-28-sm-67529504714716_+2c4df510b0.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-all-steel-frying-pan-28-sm-89199870906985_+70d45ef159.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-all-steel-frying-pan-28-sm-61990987399657_+43ec3414c3.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-all-steel-frying-pan-28-sm-43577892894012_+ed5cce98c2.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-all-steel-frying-pan-28-sm-27269870329491_+c4131a3e4f.png</picture>
+        <description><![CDATA[<p data-end="191" data-start="0"><span style="font-size:16px;"><strong data-end="48" data-start="0">Сковорода Fiskars All Steel Frying Pan 28 см</strong>&nbsp;&mdash; універсальна сковорода з нержавіючої сталі для смаження, обсмажування та приготування різноманітних страв на всіх типах варильних поверхонь.</span></p>
+
+<p data-end="367" data-start="193"><span style="font-size:16px;"><strong data-end="209" data-start="193">Призначення:</strong>&nbsp;підходить для щоденного приготування м&#39;яса, риби, овочів, яєць та інших страв. Оптимальний діаметр 28 см дозволяє комфортно готувати порції для всієї родини.</span></p>
+
+<p data-end="696" data-start="369"><span style="font-size:16px;"><strong data-end="385" data-start="369">Конструкція:</strong>&nbsp;тришарове товсте дно забезпечує швидкий, рівномірний розподіл тепла та стабільне підтримання температури. Ергономічна ручка з нержавіючої сталі надійно закріплена заклепками та забезпечує комфортне користування. Сковорода сумісна з усіма типами плит, включаючи індукційні.&nbsp;</span></p>
+
+<p data-end="964" data-start="698"><span style="font-size:16px;"><strong data-end="712" data-start="698">Матеріали:</strong>&nbsp;корпус виготовлений із високоякісної нержавіючої сталі. Внутрішня поверхня має керамічне антипригарне покриття, яке забезпечує ефективне підрум&#39;янення продуктів без використання фторвмісних покриттів.&nbsp;</span></p>
+
+<p data-end="1286" data-start="966"><span style="font-size:16px;"><strong data-end="982" data-start="966">Особливості:</strong>&nbsp;сковорода входить до преміальної серії&nbsp;<strong data-end="1043" data-start="1022">Fiskars All Steel</strong>, виготовлена з використанням переробленої нержавіючої сталі та поєднує довговічність, сучасний дизайн і високу ефективність приготування. Підходить для використання в духовці за температури до&nbsp;<strong data-end="1247" data-start="1237">270 &deg;C</strong>.</span></p>
+]]></description>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1052240" available="true">
         <name><![CDATA[Каструля Fiskars Hard Face Steel 3,5 л (1052240)]]></name>
@@ -2815,7 +2839,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>44</stock_quantity>
+        <stock_quantity>43</stock_quantity>
       </offer>
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
@@ -4256,7 +4280,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>93</stock_quantity>
+        <stock_quantity>89</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -5703,6 +5727,26 @@
 <p data-end="1453" data-is-last-node="" data-is-only-node="" data-start="1161"><span style="font-size:18px;"><strong data-end="1177" data-start="1161">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії Confidant бренду Gerber та орієнтована на повсякденне використання. Відрізняється поєднанням практичної конструкції, компактного формату та натуральної бамбукової вставки в руків&rsquo;ї.</span></p>
 ]]></description>
         <stock_quantity>6</stock_quantity>
+      </offer>
+      <offer id="1075834" available="true">
+        <name><![CDATA[Ніж сантоку Fiskars Cleaver All Steel 16 см]]></name>
+        <price>6089</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74483750015361_+69f412eaa8.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-24265086835934_+17f66091ec.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74090879002246_+9c4e87df21.png</picture>
+        <description><![CDATA[<p data-end="249" data-start="0"><span style="font-size:16px;"><strong data-end="49" data-start="0">Ніж сантоку Fiskars All Steel 16 см (1062884)</strong>&nbsp;&mdash; універсальний кухонний ніж азіатського типу для точного нарізання, шинкування та подрібнення м&#39;яса, риби, овочів і зелені під час щоденного приготування страв.&nbsp;</span></p>
+
+<p data-end="479" data-start="251"><span style="font-size:16px;"><strong data-end="267" data-start="251">Призначення:</strong>&nbsp;підходить для нарізання, шинкування та порціонування овочів, м&#39;яса без кісток, риби й інших продуктів. Широке лезо дозволяє зручно переносити нарізані інгредієнти до посуду.&nbsp;</span></p>
+
+<p data-end="728" data-start="481"><span style="font-size:16px;"><strong data-end="497" data-start="481">Конструкція:</strong>&nbsp;широке лезо Santoku довжиною 16 см забезпечує точний і контрольований різ. Цільнометалева безшовна конструкція гарантує оптимальний баланс, комфортне утримання та високий рівень гігієнічності.&nbsp;</span></p>
+
+<p data-end="973" data-start="730"><span style="font-size:16px;"><strong data-end="744" data-start="730">Матеріали:</strong>&nbsp;ніж виготовлений із високоякісної японської високовуглецевої нержавіючої сталі твердістю близько&nbsp;<strong data-end="852" data-start="842">58 HRC</strong>, що забезпечує тривале збереження гостроти, стійкість до корозії та довговічність.&nbsp;</span></p>
+
+<p data-end="1237" data-is-last-node="" data-is-only-node="" data-start="975"><span style="font-size:16px;"><strong data-end="991" data-start="975">Особливості:</strong>&nbsp;модель входить до преміальної серії&nbsp;<strong data-end="1049" data-start="1028">Fiskars All Steel</strong>, поєднуючи сучасний мінімалістичний дизайн, професійну продуктивність і довговічність. Для збереження ріжучих властивостей рекомендовано ручне миття</span></p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1015987" available="true">
         <name><![CDATA[Ніж FF для м'якого сиру]]></name>
@@ -7607,6 +7651,28 @@
 <p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Італія.</p>
 ]]></description>
         <stock_quantity>2</stock_quantity>
+      </offer>
+      <offer id="1014413" available="true">
+        <name><![CDATA[Набор терок Functional Form]]></name>
+        <price>1999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/10/nabor-terok-functional-form-95741964645743_+f1a3b9034b.png</picture>
+        <description><![CDATA[<p data-path-to-node="4"><b data-index-in-node="0" data-path-to-node="4">Набір терок Fiskars Functional Form (1014413)</b>&nbsp;&mdash; це практичний та компактний комплект із двох спеціалізованих терок (крупної та дрібної), розроблений для легкого, швидкого та безпечного подрібнення найрізноманітніших продуктів. Завдяки продуманій ергономіці та фірмовому захисту для пальців, цей набір робить процес приготування страв максимально комфортним, а самі інструменти займають мінімум місця на кухні завдяки можливості компактного зберігання.</p>
+
+<p data-path-to-node="5,0,0"><b data-index-in-node="0" data-path-to-node="5,0,0">Призначення:</b>&nbsp;призначений для щоденного натирання продуктів різної щільності. Крупна терка ідеально підходить для коренеплодів (моркви, буряка), м&#39;яких та твердих сирів, кабачків чи яблук. Дрібна терка розроблена для подрібнення цедри цитрусових, шоколаду, горіхів, часнику, імбиру або пармезану.</p>
+
+<p data-path-to-node="5,1,0"><b data-index-in-node="0" data-path-to-node="5,1,0">Конструкція:</b>&nbsp;набір складається з двох окремих ручних терок та спеціального пластикового тримача-протектора. Захисний тримач надійно фіксує продукт і плавно рухається по напрямних тертки, повністю захищаючи пальці від випадкових порізів. Обидві терки мають ергономічні ручки з отворами для підвішування та нековзні упори в основі, які забезпечують стійкість інструмента на стільниці чи обробній дошці під час роботи. Для економії простору терки вкладаються одна в одну.</p>
+
+<p data-path-to-node="5,2,0"><b data-index-in-node="0" data-path-to-node="5,2,0">Матеріали:</b>&nbsp;ріжучі полотна виготовлені з високоякісної нержавіючої сталі преміум-класу, яка відрізняється високою міцністю, тривалий час зберігає заводську гостроту та стійка до корозії чи фарбування від соків продуктів. Рукоятки та захисний тримач виконані з міцного та гігієнічного поліпропілену з покриттям SoftGrip&trade;, яке запобігає ковзанню навіть у мокрих руках.</p>
+
+<p data-path-to-node="5,3,0"><b data-index-in-node="0" data-path-to-node="5,3,0">Розміри:</b>&nbsp;загальна довжина кожної терки становить 295 мм, ширина робочої частини &mdash; близько 90 мм. Вага всього набору в упаковці &mdash; 230 г.</p>
+
+<p data-path-to-node="5,4,0"><b data-index-in-node="0" data-path-to-node="5,4,0">Особливості:</b>&nbsp;інструменти належать до популярної та ергономічної кухонної серії Functional Form бренду Fiskars. Набір відрізняється підвищеною безпекою завдяки комплектному протектору для пальців. Не вбирає запахи їжі та є максимально невибагливим у догляді &mdash; обидві терки можна мити в посудомийній машині.</p>
+
+<p data-path-to-node="5,5,0"><b data-index-in-node="0" data-path-to-node="5,5,0">Країна-виробник:</b>&nbsp;Фінляндія</p>
+]]></description>
+        <stock_quantity>4</stock_quantity>
       </offer>
     </offers>
   </shop>
