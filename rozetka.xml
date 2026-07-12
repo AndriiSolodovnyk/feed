@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-11T23:26:27.080Z">
+<yml_catalog date="2026-07-12T01:04:51.413Z">
   <shop>
     <offers>
       <offer id="1014860" available="true">
@@ -225,7 +225,7 @@
 
 <p>Особливості: належить до серії Norden бренду Fiskars, ідеально підходить як подарунковий набір.</p>
 ]]></description>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>8</stock_quantity>
       </offer>
       <offer id="1075438" available="true">
         <name><![CDATA[Сокира Fiskars Norden 375, ювілейне видання]]></name>
@@ -2008,7 +2008,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">сковорода належить до серії Hard Face Steel бренду Fiskars та орієнтована на тривале використання з рівномірним прогріванням продуктів і підвищеною стійкістю робочої поверхні.</span></p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1024458" available="true">
         <name><![CDATA[Сковорода Fiskars Handy 28 см (1024458)]]></name>
@@ -2845,7 +2845,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>11</stock_quantity>
       </offer>
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
@@ -2951,7 +2951,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>24</stock_quantity>
+        <stock_quantity>21</stock_quantity>
       </offer>
       <offer id="1026931102693" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів Fiskars White HS53 + Гілкоріз білий White L32]]></name>
@@ -3797,7 +3797,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>113</stock_quantity>
+        <stock_quantity>110</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC ]]></name>
@@ -4190,7 +4190,7 @@
 
 <p><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;колун та лопата Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
-        <stock_quantity>52</stock_quantity>
+        <stock_quantity>51</stock_quantity>
       </offer>
       <offer id="1003466101960" available="true">
         <name><![CDATA[Набір Fiskars: Універсальні граблі Solid+ Граблі для ґрунту полегшені White]]></name>
@@ -4286,7 +4286,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>40</stock_quantity>
+        <stock_quantity>37</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4412,7 +4412,7 @@
 ]]></description>
         <stock_quantity>42</stock_quantity>
       </offer>
-      <offer id="1070715101477" available="true">
+      <offer id="1070715101477" available="false">
         <name><![CDATA[Набір Fiskars: Вила садові White +Лопата садова штикова Fiskars Classic FSC]]></name>
         <price>1999</price>
         <categoryId>1</categoryId>
@@ -4464,9 +4464,9 @@
 
 <p data-end="2027" data-is-last-node="" data-is-only-node="" data-start="1840"><span style="font-size:16px;">Набір Fiskars поєднує інструменти для обробки ґрунту та догляду за ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>50</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="1023492101477" available="true">
+      <offer id="1023492101477" available="false">
         <name><![CDATA[Набір Fiskars: Граблі великі для листя М помаранчеві + Лопата садова штикова Classic FSC]]></name>
         <price>1599</price>
         <categoryId>1</categoryId>
@@ -4518,7 +4518,7 @@
 
 <p data-end="2106" data-is-last-node="" data-is-only-node="" data-start="1914"><span style="font-size:14px;">Набір Fiskars поєднує інструменти для сезонного прибирання та підготовки ділянки в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>50</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1003466102349" available="false">
         <name><![CDATA[Набір Fiskars: Граблі універсальні садові Solid + Граблі великі для листя М помаранчеві]]></name>
