@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-17T00:00:28.346Z">
+<yml_catalog date="2026-07-17T03:45:59.047Z">
   <shop>
     <offers>
       <offer id="1014860" available="true">
         <name><![CDATA[Томагавк]]></name>
-        <price>18700</price>
+        <price>16999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-51337791712519_+130a721fd2.png</picture>
@@ -360,6 +360,26 @@
 <p data-end="1059" data-is-last-node="" data-is-only-node="" data-start="878"><span style="font-size:18px;"><strong data-end="894" data-start="878">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії SW бренду Fiskars та призначений для систематичного садового догляду за гілками і деревними насадженнями.</span></p>
 ]]></description>
         <stock_quantity>6</stock_quantity>
+      </offer>
+      <offer id="1014775" available="true">
+        <name><![CDATA[Лопата штикова Fiskars ClassicPro червона (1014775)]]></name>
+        <price>899</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/23/lopata-shtykova-classicpro-chervona-99454331482890_+9871f6dc32.jpeg</picture>
+        <description><![CDATA[<article data-scroll-anchor="true" data-testid="conversation-turn-2" data-turn="assistant" data-turn-id="77a91342-1b96-4d94-b8f7-f800d3095973" dir="auto" tabindex="-1">
+<p data-end="304" data-start="0"><span style="font-size:18px;"><strong data-end="55" data-start="0">Лопата штикова Fiskars ClassicPro червона (1014775)</strong></span><span style="font-size:14px;"> &mdash; ручний інструмент для виконання земельних робіт із ґрунтом підвищеної щільності на присадибних ділянках та в господарських зонах. Використовується для перекопування землі, підготовки посадкових ям, зняття дерну, формування траншей і країв грядок.</span></p>
+
+<p data-end="469" data-start="306"><span style="font-size:18px;"><strong data-end="322" data-start="306">Призначення:</strong> </span><span style="font-size:14px;">підходить для обробки цілинного та ущільненого ґрунту, садово-городніх робіт, будівельних і ландшафтних задач, де потрібне точне заглиблення леза.</span></p>
+
+<p data-end="704" data-start="471"><span style="font-size:18px;"><strong data-end="487" data-start="471">Конструкція:</strong></span><span style="font-size:14px;"> штикова форма полотна з прямим ріжучим краєм забезпечує ефективне проникнення в ґрунт. Держак оптимальної довжини дозволяє працювати у стійкому вертикальному положенні. Конструкція розрахована на значні навантаження.</span></p>
+
+<p data-end="854" data-start="706"><span style="font-size:18px;"><strong data-end="720" data-start="706">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена з міцної сталі, стійкої до вигину та зношування. Держак пристосований для інтенсивної ручної експлуатації.</span></p>
+
+<p data-end="1044" data-is-last-node="" data-is-only-node="" data-start="856"><span style="font-size:18px;"><strong data-end="872" data-start="856">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії ClassicPro бренду Fiskars та призначений для систематичних земляних робіт у побутових і напівпрофесійних умовах.</span></p>
+</article>
+]]></description>
+        <stock_quantity>10</stock_quantity>
       </offer>
       <offer id="1066715" available="true">
         <name><![CDATA[Лопата туристична Fiskars Solid Metal (1066715)]]></name>
@@ -808,7 +828,7 @@
 
 <p data-end="926" data-is-last-node="" data-is-only-node="" data-start="761"><span style="font-size:18px;"><strong data-end="777" data-start="761">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars і розрахований на регулярне використання в побутових садових умовах.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1001577" available="true">
         <name><![CDATA[Вила для сіна Fiskars ErgoComfort (1001577)]]></name>
@@ -1186,7 +1206,7 @@
 
 <p><strong>Особливості:</strong> належить до серії Xact бренду Fiskars, забезпечує комфорт і точність у роботі.</p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1000728" available="true">
         <name><![CDATA[Культивар Fiskars Premium Planters (1000728)]]></name>
@@ -1905,7 +1925,7 @@
 
 <p data-end="1134" data-start="902"><span style="font-size:18px;"><strong data-end="918" data-start="902">Особливості:</strong></span><span style="font-size:14px;"> конектор сумісний із іншими компонентами поливальної системи бренду Fiskars і призначений для забезпечення герметичного та надійного з&rsquo;єднання між шлангом і обладнанням для подачі води.</span></p>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1027090" available="true">
         <name><![CDATA[Набір базовий для поливу Fiskars (1027090)]]></name>
@@ -2364,7 +2384,7 @@
 
 <p data-end="1095" data-is-last-node="" data-is-only-node="" data-start="925"><span style="font-size:18px;"><strong data-end="941" data-start="925">Особливості:</strong> </span><span style="font-size:14px;">ножиці належать до дитячої серії бренду Fiskars і призначені для творчих і навчальних завдань із мінімальним ризиком травм.</span></p>
 ]]></description>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1064069" available="true">
         <name><![CDATA[Ножиці дитячі 13см, сині Fiskars (1064069)]]></name>
@@ -2973,7 +2993,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1026931102693" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів Fiskars White HS53 + Гілкоріз білий White L32]]></name>
@@ -3018,7 +3038,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars забезпечує ефективний догляд за кущами та деревами в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>43</stock_quantity>
+        <stock_quantity>42</stock_quantity>
       </offer>
       <offer id="1023739100077" available="true">
         <name><![CDATA[Комплект Fiskars: Сковорода Rotisser 24 см + Набір ножів в дерев'яному блоці Kitchen Devil]]></name>
@@ -3122,7 +3142,7 @@
 
 <p><span style="font-size:16px;">Набір Gerber поєднує компактність і функціональність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>58</stock_quantity>
+        <stock_quantity>57</stock_quantity>
       </offer>
       <offer id="1026916101477" available="true">
         <name><![CDATA[Набір Fiskars:  Секатор площинний White P57 + Лопата садова штикова Classic FSC]]></name>
@@ -3313,7 +3333,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars&mdash; це практичне рішення для тих, хто хоче мати під рукою інструменти для саду та щоденного використання в одному комплекті. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>46</stock_quantity>
+        <stock_quantity>45</stock_quantity>
       </offer>
       <offer id="1073084101477" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз телескопічний UPN86 + Лопата садова штикова Classic FSC]]></name>
@@ -3819,7 +3839,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>102</stock_quantity>
+        <stock_quantity>100</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC ]]></name>
@@ -3889,7 +3909,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з деревиною та ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1026917102837" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для трави White GS41 + Пилка садова ручна Solid SW 16]]></name>
@@ -4260,7 +4280,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для догляду за ділянкою та роботи з ґрунтом в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1026931102691" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів White HS53+ Ножиці для трави White GS41]]></name>
@@ -4308,7 +4328,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>75</stock_quantity>
+        <stock_quantity>74</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4432,7 +4452,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує інструменти для ефективного прибирання листя та догляду за ділянкою в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>40</stock_quantity>
+        <stock_quantity>39</stock_quantity>
       </offer>
       <offer id="1070715101477" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White +Лопата садова штикова Fiskars Classic FSC]]></name>
@@ -4595,6 +4615,54 @@
 <p data-end="2173" data-is-last-node="" data-is-only-node="" data-start="1962"><span style="font-size:14px;">Набір Fiskars поєднує інструменти для сезонного прибирання та щоденного догляду за садовою ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
         <stock_quantity>40</stock_quantity>
+      </offer>
+      <offer id="1062940106119" available="true">
+        <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax]]></name>
+        <price>699</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/17/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax-88650502944038_+868c055bb7.png</picture>
+        <description><![CDATA[<p><span style="font-size:18px;"><strong>Набір лез </strong></span><span style="font-size:14px;"><strong>(штрихкод </strong>5907222066447<strong>)</strong></span><span style="font-size:18px;"><strong> для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax</strong></span></p>
+
+<p><span style="font-size:16px;"><strong>Опис набору</strong></span></p>
+
+<p><span style="font-size:16px;">Набір поєднує 20 змінних лез Fiskars CarbonMax та складаний універсальний ніж Fiskars CarbonMax &mdash; практичне рішення для професійного та щоденного використання. Леза забезпечують тривалу гостроту й чистий різ, а складаний ніж дозволяє швидко виконувати різноманітні монтажні, ремонтні та будівельні роботи. Комплект стане у пригоді як майстрам, так і для домашнього використання.</span></p>
+
+<h2 data-end="516" data-section-id="xdh47f" data-start="492"><span style="font-size:16px;">Що входить у комплект</span></h2>
+
+<p data-end="687" data-start="518"><span style="font-size:16px;">Набір включає змінні леза та універсальний складаний ніж. Кожен елемент доповнює інший і забезпечує комфортну роботу без необхідності окремо купувати витратні матеріали.</span></p>
+
+<h1><a href="https://fiskars-gratis.com.ua/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars-20-sht/"><span style="font-size:16px;">Набір лез для універсальних ножів CarbonMax, 20 шт (1062940)</span></a></h1>
+
+<p><span style="font-size:16px;">Змінні леза CarbonMax виготовлені за спеціальною технологією, що дозволяє їм залишатися гострими значно довше порівняно зі стандартними лезами. Підходять для більшості універсальних ножів зі стандартним трапецієподібним лезом. Оптимальні для інтенсивної експлуатації.</span></p>
+
+<h3 data-end="1079" data-section-id="dhdw8t" data-start="1032"><span style="font-size:16px;"><a href="https://fiskars-gratis.com.ua/nizh-skladanyi-fiskars-carbonmax-1061193/">Складаний ніж Fiskars CarbonMax (1061193</a>)&nbsp;</span></h3>
+
+<p data-end="1422" data-start="1081"><span style="font-size:16px;">Компактний складаний ніж із міцною конструкцією, призначений для щоденних робіт. Оснащений механізмом швидкої заміни леза, що дозволяє виконувати заміну без використання додаткових інструментів. Ергономічна рукоятка забезпечує надійний хват і комфорт під час роботи, а складна конструкція робить ніж безпечним та зручним для транспортування.</span></p>
+
+<h2 data-end="1439" data-section-id="bbpkvk" data-start="1424"><span style="font-size:16px;">Застосування</span></h2>
+
+<p data-end="1530" data-start="1441"><span style="font-size:16px;">Набір використовується для широкого спектра монтажних, будівельних і господарських робіт.</span></p>
+
+<ul data-end="1779" data-start="1532">
+	<li data-end="1583" data-section-id="16s2ixz" data-start="1532"><span style="font-size:16px;">Різання картону, паперу та пакувальних матеріалів</span></li>
+	<li data-end="1651" data-section-id="x3uy97" data-start="1584"><span style="font-size:16px;">Робота з плівкою, утеплювачами та іншими будівельними матеріалами</span></li>
+	<li data-end="1681" data-section-id="1y4lh7m" data-start="1652"><span style="font-size:16px;">Монтажні та ремонтні роботи</span></li>
+	<li data-end="1714" data-section-id="vmvfx" data-start="1682"><span style="font-size:16px;">Виконання оздоблювальних робіт</span></li>
+	<li data-end="1779" data-section-id="91ruid" data-start="1715"><span style="font-size:16px;">Використання вдома, у майстерні або на будівельному майданчику</span></li>
+</ul>
+
+<h2 data-end="1807" data-section-id="5c0shj" data-start="1781"><span style="font-size:16px;">Основні переваги набору</span></h2>
+
+<ul data-end="2074" data-start="1809">
+	<li data-end="1865" data-section-id="1i0489h" data-start="1809"><span style="font-size:16px;">Комплект із ножа та 20 змінних лез для тривалої роботи</span></li>
+	<li data-end="1909" data-section-id="1ck2yoz" data-start="1866"><span style="font-size:16px;">Леза CarbonMax довше залишаються гострими</span></li>
+	<li data-end="1968" data-section-id="cywjm8" data-start="1910"><span style="font-size:16px;">Швидка та проста заміна леза без додаткових інструментів</span></li>
+	<li data-end="2021" data-section-id="1xc1p1r" data-start="1969"><span style="font-size:16px;">Надійна конструкція та ергономічний дизайн Fiskars</span></li>
+	<li data-end="2074" data-section-id="1lkbxdi" data-start="2022"><span style="font-size:16px;">Вигідна покупка комплекту завдяки ножу в подарунок</span></li>
+</ul>
+]]></description>
+        <stock_quantity>29</stock_quantity>
       </offer>
       <offer id="1062940" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars, 20 шт]]></name>
@@ -5656,6 +5724,30 @@
 <p><strong>Особливості: </strong><span style="font-size:14px;">компактний розмір і простота у використанні.</span></p>
 ]]></description>
         <stock_quantity>8</stock_quantity>
+      </offer>
+      <offer id="1075839" available="true">
+        <name><![CDATA[Підставка для зберігання ножів Wooden Fiskars (1075839)]]></name>
+        <price>3596</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/12/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839-45127284275523_+cbe8c8c20e.jpg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/12/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839-66045806837106_+3a369f856b.jpg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/12/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839-31485166635165_+a37c59242e.jpg</picture>
+        <description><![CDATA[<section data-scroll-anchor="false" data-testid="conversation-turn-21" data-turn="user" data-turn-id="5fce07be-c096-4f12-832b-cf910801be5e" data-turn-id-container="5fce07be-c096-4f12-832b-cf910801be5e" dir="auto">&nbsp;</section>
+
+<section data-scroll-anchor="false" data-testid="conversation-turn-22" data-turn="assistant" data-turn-id="request-6991d59e-77d0-8331-9a3e-37e6d60cd0ba-8" data-turn-id-container="request-6991d59e-77d0-8331-9a3e-37e6d60cd0ba-8" dir="auto">
+<p data-end="292" data-start="0"><span style="font-size:18px;"><strong data-end="59" data-start="0">Підставка для зберігання ножів Wooden Fiskars (1075839)</strong></span><span style="font-size:14px;"> &mdash; кухонний аксесуар для безпечного та впорядкованого зберігання ножів. Використовується для організації робочого простору на кухні, захисту лез від пошкоджень і забезпечення швидкого доступу до інструментів під час приготування їжі.</span></p>
+
+<p data-end="515" data-start="294"><span style="font-size:18px;"><strong data-end="310" data-start="294">Призначення:</strong></span><span style="font-size:14px;"> підходить для розміщення кухонних ножів різних типів, зокрема універсальних, кухарських, овочевих та хлібних. Допомагає зберігати ріжучі інструменти в одному місці та зменшує ризик контакту лез між собою.</span></p>
+
+<p data-end="727" data-start="517"><span style="font-size:18px;"><strong data-end="533" data-start="517">Конструкція:</strong></span><span style="font-size:14px;"> вертикальна підставка забезпечує компактне розташування ножів на робочій поверхні. Конструкція розрахована на надійну фіксацію інструментів і зручне їх вилучення під час щоденного використання.</span></p>
+
+<p data-end="878" data-start="729"><span style="font-size:18px;"><strong data-end="743" data-start="729">Матеріали:</strong></span><span style="font-size:14px;"> корпус виготовлений із натуральної деревини, яка поєднує міцність, довговічність та стійкість до повсякденного кухонного використання.</span></p>
+
+<p data-end="1069" data-is-last-node="" data-is-only-node="" data-start="880"><span style="font-size:18px;"><strong data-end="896" data-start="880">Особливості:</strong></span><span style="font-size:14px;"> модель належить до кухонної лінійки бренду Fiskars та призначена для організованого зберігання ножів у домашніх і професійних кухонних умовах.</span></p>
+</section>
+]]></description>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1050260" available="true">
         <name><![CDATA[Ніж складний Gerber Ayako Folding Pocket Silver (1050260)]]></name>
@@ -6867,7 +6959,7 @@
 <p data-end="1303" data-is-last-node="" data-is-only-node="" data-start="1110"><span style="font-size:18px;"><strong data-end="1126" data-start="1110">Особливості:</strong> </span><span style="font-size:14px;">модель належить до серії Gator бренду Gerber та орієнтована на універсальні завдання з пиляння в туристичних, мисливських і господарських умовах.</span></p>
 </section>
 ]]></description>
-        <stock_quantity>24</stock_quantity>
+        <stock_quantity>21</stock_quantity>
       </offer>
       <offer id="40033792" available="true">
         <name><![CDATA[Набір стаканів Waterford Marquis Maxwell 310 мл, 4 шт (40033792)]]></name>
