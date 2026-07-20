@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-19T23:56:14.941Z">
+<yml_catalog date="2026-07-20T03:48:27.421Z">
   <shop>
     <offers>
       <offer id="1014860" available="true">
@@ -417,7 +417,7 @@
 
 <p data-end="987" data-is-last-node="" data-is-only-node="" data-start="824"><span style="font-size:18px;"><strong data-end="840" data-start="824">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для повсякденних земляних робіт у побутових умовах.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1067540" available="true">
         <name><![CDATA[Лопата мала Fiskars White S (1067540)]]></name>
@@ -2905,7 +2905,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
@@ -2965,7 +2965,7 @@
 ]]></description>
         <stock_quantity>22</stock_quantity>
       </offer>
-      <offer id="1001622106119" available="true">
+      <offer id="1001622106119" available="false">
         <name><![CDATA[Набір Fiskars: ніж загального призначення K40 Fiskars + ніж складаний Fiskars CarbonMax ]]></name>
         <price>999</price>
         <categoryId>1</categoryId>
@@ -3011,7 +3011,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1026931102693" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів Fiskars White HS53 + Гілкоріз білий White L32]]></name>
@@ -3160,7 +3160,7 @@
 
 <p><span style="font-size:16px;">Набір Gerber поєднує компактність і функціональність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>56</stock_quantity>
+        <stock_quantity>55</stock_quantity>
       </offer>
       <offer id="1026916101477" available="true">
         <name><![CDATA[Набір Fiskars:  Секатор площинний White P57 + Лопата садова штикова Classic FSC]]></name>
@@ -3261,7 +3261,7 @@
 
 <p>Набір Fiskars поєднує інструменти для повного процесу приготування їжі в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>45</stock_quantity>
+        <stock_quantity>44</stock_quantity>
       </offer>
       <offer id="1059836105536" available="true">
         <name><![CDATA[Набір Мультитул Gerber Lockdown Slim 16L + Ніж складаний Asada]]></name>
@@ -3351,7 +3351,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars&mdash; це практичне рішення для тих, хто хоче мати під рукою інструменти для саду та щоденного використання в одному комплекті. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>44</stock_quantity>
+        <stock_quantity>43</stock_quantity>
       </offer>
       <offer id="1073084101477" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз телескопічний UPN86 + Лопата садова штикова Classic FSC]]></name>
@@ -3670,7 +3670,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує практичність і універсальність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>82</stock_quantity>
+        <stock_quantity>81</stock_quantity>
       </offer>
       <offer id="1024856105984" available="true">
         <name><![CDATA[Набір Мачете Gerber Compact Clearpath + Ніж-топірець Gerber DOWNWIND ULU]]></name>
@@ -3738,7 +3738,7 @@
 
 <p><span style="font-size:16px;">Набір Gerber &mdash; це практичне рішення для тих, хто хоче мати під рукою інструменти для роботи та відпочинку на природі в одному комплекті. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1014773105108" available="false">
         <name><![CDATA[Набір Лопата садова штикова Fiskars Classic FSC+ Сокира теслярська Fiskars Solid A10]]></name>
@@ -3857,7 +3857,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>98</stock_quantity>
+        <stock_quantity>96</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC ]]></name>
@@ -4061,7 +4061,7 @@
 
 <p>Набір Fiskars поєднує інструменти для догляду за газоном і роботи з ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>11</stock_quantity>
       </offer>
       <offer id="1023492101482" available="true">
         <name><![CDATA[Набір Fiskars: Граблі для листя + Граблі для грунту PARK FSC]]></name>
@@ -4298,7 +4298,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для догляду за ділянкою та роботи з ґрунтом в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1026931102691" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів White HS53+ Ножиці для трави White GS41]]></name>
@@ -4346,7 +4346,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>70</stock_quantity>
+        <stock_quantity>64</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4470,7 +4470,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує інструменти для ефективного прибирання листя та догляду за ділянкою в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>38</stock_quantity>
+        <stock_quantity>37</stock_quantity>
       </offer>
       <offer id="1070715101477" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White +Лопата садова штикова Fiskars Classic FSC]]></name>
@@ -4632,7 +4632,7 @@
 
 <p data-end="2173" data-is-last-node="" data-is-only-node="" data-start="1962"><span style="font-size:14px;">Набір Fiskars поєднує інструменти для сезонного прибирання та щоденного догляду за садовою ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>40</stock_quantity>
+        <stock_quantity>39</stock_quantity>
       </offer>
       <offer id="1062940106119" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax]]></name>
@@ -4680,7 +4680,7 @@
 	<li data-end="2074" data-section-id="1lkbxdi" data-start="2022"><span style="font-size:16px;">Вигідна покупка комплекту завдяки ножу в подарунок</span></li>
 </ul>
 ]]></description>
-        <stock_quantity>28</stock_quantity>
+        <stock_quantity>25</stock_quantity>
       </offer>
       <offer id="1062940" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars, 20 шт]]></name>
