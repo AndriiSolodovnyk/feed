@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-22T23:02:35.672Z">
+<yml_catalog date="2026-07-23T01:00:20.647Z">
   <shop>
     <offers>
-      <offer id="1014860" available="true">
-        <name><![CDATA[Томагавк]]></name>
-        <price>16999</price>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-51337791712519_+130a721fd2.png</picture>
-        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-25956959800794_+b697e02de1.png</picture>
-        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-62125175070406_+7496d939cb.png</picture>
-        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-65720828777424_+775d947a7b.png</picture>
-        <description><![CDATA[<p data-path-to-node="4"><b data-index-in-node="0" data-path-to-node="4">Тактичний томагавк Gerber Downrange Tomahawk (1014860)</b>&nbsp;&mdash; це надпотужний багатофункціональний інструмент преміум-класу, розроблений у США спеціально для військових, рятувальників, спецпідрозділів та професійних тактичних завдань. Цей томагавк поєднує в собі три критично важливі інструменти для виживання та проникнення: сокиру, молот та важіль-лом (фомку). Завдяки монолітній конструкції, він здатний витримувати екстремальні механічні навантаження в найсуворіших умовах експлуатації.</p>
-
-<p data-path-to-node="5,0,0"><b data-index-in-node="0" data-path-to-node="5,0,0">Призначення:</b>&nbsp;розроблений для тактичних операцій, руйнування перешкод, вибивання дверей та замків, демонтажу конструкцій, евакуації з транспортних засобів, а також для виживання в диких умовах і облаштування табору.</p>
-
-<p data-path-to-node="5,1,0"><b data-index-in-node="0" data-path-to-node="5,1,0">Конструкція:</b>&nbsp;інструмент має монолітну конструкцію Full Tang (лезо, рукоятка та лом є єдиною суцільною деталлю з товстого сталевого листа), що повністю виключає злам або люфт. Головка інструмента поєднує гостре сокирище для рубання та масивний бойок-молот на зворотному боці для руйнування цегли чи бетону. На кінці рукоятки розташований міцний загнутий лом, а спеціальний отвір у головці сокири слугує зручною ручкою для максимального важеля під час підважування конструкцій. Постачається з професійним тактичним чохлом, сумісним із системою MOLLE.</p>
-
-<p data-path-to-node="5,2,0"><b data-index-in-node="0" data-path-to-node="5,2,0">Матеріали:</b>&nbsp;основа виготовлена з високоміцної американської вуглецевої сталі марки 420HC, яка має надзвичайну в&#39;язкість і стійкість до сколів. Поверхня металу покрита спеціальним чорним керамічним напиленням Cerakote&trade;, яке захищає від корозії, подряпин та не бликує на сонці. Накладки на рукоятку виготовлені зі зносостійкого композиту G-10 з глибокою текстуроюDesert Tan, що гарантує мертве захоплення навіть у тактичних рукавицях чи під дощем.</p>
-
-<p data-path-to-node="5,3,0"><b data-index-in-node="0" data-path-to-node="5,3,0">Розміри:</b>&nbsp;загальна довжина інструмента становить 640 мм. Вага без чохла &mdash; 862 г, вага разом із тактичним чохлом &mdash; 1133 г.</p>
-
-<p data-path-to-node="5,4,0"><b data-index-in-node="0" data-path-to-node="5,4,0">Особливості:</b>&nbsp;унікальний інструмент 3 в 1 (сокира, молот, лом). Повністю відповідає військовим стандартам міцності. Інноваційний чохол надійно фіксує томагавк і дозволяє кріпити його на бронежилет, розвантажувальний жилет або рюкзак.</p>
-
-<p data-path-to-node="5,5,0"><b data-index-in-node="0" data-path-to-node="5,5,0">Країна-виробник:</b>&nbsp;США&nbsp;</p>
-
-<p data-path-to-node="5,6,0"><b data-index-in-node="0" data-path-to-node="5,6,0">Гарантія:</b>&nbsp;25 років офіційної гарантії від виробника.</p>
-]]></description>
-        <stock_quantity>1</stock_quantity>
-      </offer>
       <offer id="1052045" available="true">
         <name><![CDATA[Сокира-колун Fiskars Solid A18 (1052045)]]></name>
         <price>2999</price>
@@ -298,6 +271,33 @@
 <p><strong>Компактність.</strong>&nbsp;Невеликі габарити роблять модель зручною для транспортування та зберігання, а також дозволяють використовувати її в умовах, де важливі мобільність і маневреність.</p>
 
 <p><strong>Практичність використання.</strong>&nbsp;Сокира підходить для заготівлі трісок і невеликих дров, обрізання гілок, облаштування табору та виконання інших повсякденних робіт із деревиною.</p>
+]]></description>
+        <stock_quantity>1</stock_quantity>
+      </offer>
+      <offer id="1014860" available="true">
+        <name><![CDATA[Томагавк]]></name>
+        <price>16999</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-51337791712519_+130a721fd2.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-25956959800794_+b697e02de1.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-62125175070406_+7496d939cb.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-65720828777424_+775d947a7b.png</picture>
+        <description><![CDATA[<p data-path-to-node="4"><b data-index-in-node="0" data-path-to-node="4">Тактичний томагавк Gerber Downrange Tomahawk (1014860)</b>&nbsp;&mdash; це надпотужний багатофункціональний інструмент преміум-класу, розроблений у США спеціально для військових, рятувальників, спецпідрозділів та професійних тактичних завдань. Цей томагавк поєднує в собі три критично важливі інструменти для виживання та проникнення: сокиру, молот та важіль-лом (фомку). Завдяки монолітній конструкції, він здатний витримувати екстремальні механічні навантаження в найсуворіших умовах експлуатації.</p>
+
+<p data-path-to-node="5,0,0"><b data-index-in-node="0" data-path-to-node="5,0,0">Призначення:</b>&nbsp;розроблений для тактичних операцій, руйнування перешкод, вибивання дверей та замків, демонтажу конструкцій, евакуації з транспортних засобів, а також для виживання в диких умовах і облаштування табору.</p>
+
+<p data-path-to-node="5,1,0"><b data-index-in-node="0" data-path-to-node="5,1,0">Конструкція:</b>&nbsp;інструмент має монолітну конструкцію Full Tang (лезо, рукоятка та лом є єдиною суцільною деталлю з товстого сталевого листа), що повністю виключає злам або люфт. Головка інструмента поєднує гостре сокирище для рубання та масивний бойок-молот на зворотному боці для руйнування цегли чи бетону. На кінці рукоятки розташований міцний загнутий лом, а спеціальний отвір у головці сокири слугує зручною ручкою для максимального важеля під час підважування конструкцій. Постачається з професійним тактичним чохлом, сумісним із системою MOLLE.</p>
+
+<p data-path-to-node="5,2,0"><b data-index-in-node="0" data-path-to-node="5,2,0">Матеріали:</b>&nbsp;основа виготовлена з високоміцної американської вуглецевої сталі марки 420HC, яка має надзвичайну в&#39;язкість і стійкість до сколів. Поверхня металу покрита спеціальним чорним керамічним напиленням Cerakote&trade;, яке захищає від корозії, подряпин та не бликує на сонці. Накладки на рукоятку виготовлені зі зносостійкого композиту G-10 з глибокою текстуроюDesert Tan, що гарантує мертве захоплення навіть у тактичних рукавицях чи під дощем.</p>
+
+<p data-path-to-node="5,3,0"><b data-index-in-node="0" data-path-to-node="5,3,0">Розміри:</b>&nbsp;загальна довжина інструмента становить 640 мм. Вага без чохла &mdash; 862 г, вага разом із тактичним чохлом &mdash; 1133 г.</p>
+
+<p data-path-to-node="5,4,0"><b data-index-in-node="0" data-path-to-node="5,4,0">Особливості:</b>&nbsp;унікальний інструмент 3 в 1 (сокира, молот, лом). Повністю відповідає військовим стандартам міцності. Інноваційний чохол надійно фіксує томагавк і дозволяє кріпити його на бронежилет, розвантажувальний жилет або рюкзак.</p>
+
+<p data-path-to-node="5,5,0"><b data-index-in-node="0" data-path-to-node="5,5,0">Країна-виробник:</b>&nbsp;США&nbsp;</p>
+
+<p data-path-to-node="5,6,0"><b data-index-in-node="0" data-path-to-node="5,6,0">Гарантія:</b>&nbsp;25 років офіційної гарантії від виробника.</p>
 ]]></description>
         <stock_quantity>1</stock_quantity>
       </offer>
@@ -1967,42 +1967,6 @@
 ]]></description>
         <stock_quantity>20</stock_quantity>
       </offer>
-      <offer id="1065595" available="true">
-        <name><![CDATA[Лопатка Fiskars Essential, 38 см 1065595]]></name>
-        <price>510</price>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <picture>https://fiskars-gratis.com.ua/content/images/34/lopatka-fiskars-essential-38-sm-1065595-66276937092244_+415f26a266.jpg</picture>
-        <description><![CDATA[<p data-end="369" data-start="106"><span style="font-size:16px;"><strong data-end="153" data-start="106">Лопатка кухонна Fiskars Essential (1065595)</strong></span><span style="font-size:18px;"> </span><span style="font-size:12px;">&mdash; </span><span style="font-size:14px;">кухонний інструмент для роботи зі стравами під час смаження та приготування на плиті. Використовується для перевертання, перемішування та подачі м&rsquo;яса, риби, овочів та інших продуктів без пошкодження їх структури.</span></p>
-
-<p data-end="538" data-start="371"><strong data-end="387" data-start="371">Призначення:</strong><span style="font-size:16px;"> </span><span style="font-size:14px;">підходить для щоденного приготування страв на сковороді, грилі або в посуді з антипригарним покриттям, а також для акуратної подачі готових продуктів.</span></p>
-
-<p data-end="738" data-start="540"><strong data-end="556" data-start="540">Конструкція:</strong> <span style="font-size:14px;">робоча частина оптимальної форми дозволяє зручно підхоплювати та перевертати продукти, забезпечуючи контроль під час приготування. Ергономічна ручка сприяє комфортному використанню.</span></p>
-
-<p data-end="921" data-start="740"><span style="font-size:16px;"><strong data-end="754" data-start="740">Матеріали:</strong> </span><span style="font-size:14px;">виготовлена з термостійкого пластику, що витримує високі температури та безпечний для посуду з антипригарним покриттям. Ручка забезпечує надійний хват під час роботи.</span></p>
-
-<p data-end="1108" data-is-last-node="" data-is-only-node="" data-start="923"><strong data-end="939" data-start="923">Особливості:</strong> <span style="font-size:14px;">інструмент належить до серії Essential бренду Fiskars та призначений для щоденного використання на кухні. Легко очищується та підходить для миття в посудомийній машині.</span></p>
-]]></description>
-        <stock_quantity>8</stock_quantity>
-      </offer>
-      <offer id="1014412" available="true">
-        <name><![CDATA[Терка FF маленька для цедри лимону, імбиру, шоколаду]]></name>
-        <price>1515</price>
-        <categoryId>1</categoryId>
-        <currencyId>UAH</currencyId>
-        <picture>https://fiskars-gratis.com.ua/content/images/2/terka-ff-malenka-dlia-tsedry-lymonu-imbyru-shokoladu-77192424262448_+d7792c6dad.jpeg</picture>
-        <description><![CDATA[<p data-end="205" data-start="0"><span style="font-size:16px;"><strong data-end="92" data-start="0">Терка FF маленька &nbsp;для цедри лимону, імбиру та шоколаду</strong>&nbsp;&mdash; ручний кухонний інструмент для дрібного та акуратного натирання продуктів під час приготування страв і напоїв.</span></p>
-
-<p data-end="383" data-start="207"><span style="font-size:16px;"><strong data-end="223" data-start="207">Призначення:</strong>&nbsp;підходить для натирання цедри цитрусових, імбиру, шоколаду, часнику та інших твердих або щільних продуктів у невеликих кількостях для кулінарного використання.</span></p>
-
-<p data-end="606" data-start="385"><span style="font-size:16px;"><strong data-end="401" data-start="385">Конструкція:</strong>&nbsp;робоча поверхня з дрібними гострими отворами забезпечує тонке та рівномірне натирання. Компактний формат дозволяє зручно використовувати терку як у процесі приготування, так і для фінального декору страв.</span></p>
-
-<p data-end="787" data-start="608"><span style="font-size:16px;"><strong data-end="622" data-start="608">Матеріали:</strong>&nbsp;ріжуча частина з нержавіючої сталі забезпечує ефективне натирання та довговічність. Руків&rsquo;я з міцного пластику ергономічної форми гарантує зручний і безпечний хват.</span></p>
-
-<p data-end="955" data-is-last-node="" data-is-only-node="" data-start="789"><span style="font-size:16px;"><strong data-end="805" data-start="789">Особливості:</strong>&nbsp;серія&nbsp;поєднує практичність і простоту використання. Терка легко очищується та підходить для щоденного кухонного застосування.</span></p>
-]]></description>
-        <stock_quantity>11</stock_quantity>
-      </offer>
       <offer id="1059096" available="true">
         <name><![CDATA[Сковорода Fiskars Steel 28 см (1059096)]]></name>
         <price>2300</price>
@@ -2905,7 +2869,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>16</stock_quantity>
       </offer>
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
@@ -3011,7 +2975,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>51</stock_quantity>
+        <stock_quantity>45</stock_quantity>
       </offer>
       <offer id="1026931102693" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів Fiskars White HS53 + Гілкоріз білий White L32]]></name>
@@ -3056,7 +3020,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars забезпечує ефективний догляд за кущами та деревами в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>41</stock_quantity>
+        <stock_quantity>40</stock_quantity>
       </offer>
       <offer id="1023739100077" available="true">
         <name><![CDATA[Комплект Fiskars: Сковорода Rotisser 24 см + Набір ножів в дерев'яному блоці Kitchen Devil]]></name>
@@ -3112,7 +3076,7 @@
 
 <p>Набір Fiskars поєднує приготування та точну нарізку в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>18</stock_quantity>
       </offer>
       <offer id="1066487105983" available="true">
         <name><![CDATA[Набір Gerber Ніж складний Quadrant 16L + Мультитул Lockdown Slim 16L]]></name>
@@ -3205,7 +3169,7 @@
 
 <p>Набір Fiskars поєднує інструменти для обрізки рослин і роботи з ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>50</stock_quantity>
+        <stock_quantity>49</stock_quantity>
       </offer>
       <offer id="1000773105909" available="true">
         <name><![CDATA[Комплект FISKARS: Набір ножів в деревяному блоці  Kitchen Devil + Сковорода Steel 28 см ]]></name>
@@ -3311,7 +3275,7 @@
       </offer>
       <offer id="1001553105536" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз площинний PowerGear M L76 + Ніж складаний Gerber Asada ]]></name>
-        <price>1999</price>
+        <price>3599</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-30544758468568_+f62d0c22e8.jpg</picture>
@@ -3351,7 +3315,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars&mdash; це практичне рішення для тих, хто хоче мати під рукою інструменти для саду та щоденного використання в одному комплекті. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>42</stock_quantity>
+        <stock_quantity>41</stock_quantity>
       </offer>
       <offer id="1073084101477" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз телескопічний UPN86 + Лопата садова штикова Classic FSC]]></name>
@@ -3857,7 +3821,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>96</stock_quantity>
+        <stock_quantity>93</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC ]]></name>
@@ -4250,7 +4214,7 @@
 
 <p><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;колун та лопата Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
-        <stock_quantity>48</stock_quantity>
+        <stock_quantity>47</stock_quantity>
       </offer>
       <offer id="1003466101960" available="true">
         <name><![CDATA[Набір Fiskars: Універсальні граблі Solid+ Граблі для ґрунту полегшені White]]></name>
@@ -4346,7 +4310,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>57</stock_quantity>
+        <stock_quantity>53</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4394,7 +4358,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для поливу та догляду за газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>14</stock_quantity>
+        <stock_quantity>13</stock_quantity>
       </offer>
       <offer id="1057585" available="true">
         <name><![CDATA[Тримач для інструментів Fiskars Solid 2 гачками 5 шт (1057585)]]></name>
@@ -4632,7 +4596,7 @@
 
 <p data-end="2173" data-is-last-node="" data-is-only-node="" data-start="1962"><span style="font-size:14px;">Набір Fiskars поєднує інструменти для сезонного прибирання та щоденного догляду за садовою ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>38</stock_quantity>
+        <stock_quantity>37</stock_quantity>
       </offer>
       <offer id="1062940106119" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax]]></name>
@@ -4680,7 +4644,7 @@
 	<li data-end="2074" data-section-id="1lkbxdi" data-start="2022"><span style="font-size:16px;">Вигідна покупка комплекту завдяки ножу в подарунок</span></li>
 </ul>
 ]]></description>
-        <stock_quantity>24</stock_quantity>
+        <stock_quantity>20</stock_quantity>
       </offer>
       <offer id="1062940" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars, 20 шт]]></name>
@@ -6525,7 +6489,7 @@
       </offer>
       <offer id="1001553" available="true">
         <name><![CDATA[Гілкоріз площинний із загнутим лезом Fiskars PowerGear L76 (1001553)]]></name>
-        <price>1699</price>
+        <price>3599</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553-41850968687303_+a0e0f8cd43.jpg</picture>
@@ -7810,6 +7774,42 @@
 <p data-path-to-node="5,5,0"><b data-index-in-node="0" data-path-to-node="5,5,0">Країна-виробник:</b>&nbsp;Фінляндія</p>
 ]]></description>
         <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1014412" available="true">
+        <name><![CDATA[Терка FF маленька для цедри лимону, імбиру, шоколаду]]></name>
+        <price>1515</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/2/terka-ff-malenka-dlia-tsedry-lymonu-imbyru-shokoladu-77192424262448_+d7792c6dad.jpeg</picture>
+        <description><![CDATA[<p data-end="205" data-start="0"><span style="font-size:16px;"><strong data-end="92" data-start="0">Терка FF маленька &nbsp;для цедри лимону, імбиру та шоколаду</strong>&nbsp;&mdash; ручний кухонний інструмент для дрібного та акуратного натирання продуктів під час приготування страв і напоїв.</span></p>
+
+<p data-end="383" data-start="207"><span style="font-size:16px;"><strong data-end="223" data-start="207">Призначення:</strong>&nbsp;підходить для натирання цедри цитрусових, імбиру, шоколаду, часнику та інших твердих або щільних продуктів у невеликих кількостях для кулінарного використання.</span></p>
+
+<p data-end="606" data-start="385"><span style="font-size:16px;"><strong data-end="401" data-start="385">Конструкція:</strong>&nbsp;робоча поверхня з дрібними гострими отворами забезпечує тонке та рівномірне натирання. Компактний формат дозволяє зручно використовувати терку як у процесі приготування, так і для фінального декору страв.</span></p>
+
+<p data-end="787" data-start="608"><span style="font-size:16px;"><strong data-end="622" data-start="608">Матеріали:</strong>&nbsp;ріжуча частина з нержавіючої сталі забезпечує ефективне натирання та довговічність. Руків&rsquo;я з міцного пластику ергономічної форми гарантує зручний і безпечний хват.</span></p>
+
+<p data-end="955" data-is-last-node="" data-is-only-node="" data-start="789"><span style="font-size:16px;"><strong data-end="805" data-start="789">Особливості:</strong>&nbsp;серія&nbsp;поєднує практичність і простоту використання. Терка легко очищується та підходить для щоденного кухонного застосування.</span></p>
+]]></description>
+        <stock_quantity>11</stock_quantity>
+      </offer>
+      <offer id="1065595" available="true">
+        <name><![CDATA[Лопатка Fiskars Essential, 38 см 1065595]]></name>
+        <price>510</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/34/lopatka-fiskars-essential-38-sm-1065595-66276937092244_+415f26a266.jpg</picture>
+        <description><![CDATA[<p data-end="369" data-start="106"><span style="font-size:16px;"><strong data-end="153" data-start="106">Лопатка кухонна Fiskars Essential (1065595)</strong></span><span style="font-size:18px;"> </span><span style="font-size:12px;">&mdash; </span><span style="font-size:14px;">кухонний інструмент для роботи зі стравами під час смаження та приготування на плиті. Використовується для перевертання, перемішування та подачі м&rsquo;яса, риби, овочів та інших продуктів без пошкодження їх структури.</span></p>
+
+<p data-end="538" data-start="371"><strong data-end="387" data-start="371">Призначення:</strong><span style="font-size:16px;"> </span><span style="font-size:14px;">підходить для щоденного приготування страв на сковороді, грилі або в посуді з антипригарним покриттям, а також для акуратної подачі готових продуктів.</span></p>
+
+<p data-end="738" data-start="540"><strong data-end="556" data-start="540">Конструкція:</strong> <span style="font-size:14px;">робоча частина оптимальної форми дозволяє зручно підхоплювати та перевертати продукти, забезпечуючи контроль під час приготування. Ергономічна ручка сприяє комфортному використанню.</span></p>
+
+<p data-end="921" data-start="740"><span style="font-size:16px;"><strong data-end="754" data-start="740">Матеріали:</strong> </span><span style="font-size:14px;">виготовлена з термостійкого пластику, що витримує високі температури та безпечний для посуду з антипригарним покриттям. Ручка забезпечує надійний хват під час роботи.</span></p>
+
+<p data-end="1108" data-is-last-node="" data-is-only-node="" data-start="923"><strong data-end="939" data-start="923">Особливості:</strong> <span style="font-size:14px;">інструмент належить до серії Essential бренду Fiskars та призначений для щоденного використання на кухні. Легко очищується та підходить для миття в посудомийній машині.</span></p>
+]]></description>
+        <stock_quantity>8</stock_quantity>
       </offer>
     </offers>
   </shop>
