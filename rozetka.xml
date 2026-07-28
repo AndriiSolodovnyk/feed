@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-28T00:54:46.336Z">
+<yml_catalog date="2026-07-28T04:08:25.423Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -116,7 +116,7 @@
 
 <p data-end="1068" data-is-last-node="" data-is-only-node="" data-start="899"><span style="font-size:18px;"><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;т</span><span style="font-size:14px;">опор та колун&nbsp;Фискарс напевно, є найкращими у світі.</span></p>
 ]]></description>
-        <stock_quantity>21</stock_quantity>
+        <stock_quantity>19</stock_quantity>
       </offer>
       <offer id="1015619" available="false">
         <name><![CDATA[Сокира теслярська Fiskars S-X10 (1015619)]]></name>
@@ -1020,7 +1020,7 @@
 ]]></description>
         <stock_quantity>3</stock_quantity>
       </offer>
-      <offer id="1052090" available="true">
+      <offer id="1052090" available="false">
         <name><![CDATA[Набір садовий Fiskars лопатка, культиватор (1052090)]]></name>
         <price>298</price>
         <categoryId>1</categoryId>
@@ -1040,7 +1040,7 @@
 <p data-end="1313" data-is-last-node="" data-is-only-node="" data-start="1114"><span style="font-size:18px;"><strong data-end="1130" data-start="1114">Особливості:</strong></span><span style="font-size:14px;"> комплект належить до серії бренду Fiskars та призначений для дрібних садових і городніх робіт, де потрібен контроль над ґрунтом і доглядом за рослинами.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1025564" available="true">
         <name><![CDATA[Лопатка для пересадки Fiskars Solid (1025564)]]></name>
@@ -1166,7 +1166,7 @@
 
 <p data-end="1090" data-is-last-node="" data-is-only-node="" data-start="919"><span style="font-size:18px;"><strong data-end="935" data-start="919">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичного видалення бур&rsquo;янів і догляду за ґрунтом.</span></p>
 ]]></description>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>8</stock_quantity>
       </offer>
       <offer id="1018608" available="true">
         <name><![CDATA[Культиватор Fiskars Ergonomic (1018608)]]></name>
@@ -1348,7 +1348,7 @@
 
 <p data-end="1004" data-is-last-node="" data-is-only-node="" data-start="835"><span style="font-size:18px;"><strong data-end="851" data-start="835">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за рослинами в садових умовах.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1057169" available="true">
         <name><![CDATA[Секатор площинний Fiskars SmartFit P541 (1057169)]]></name>
@@ -1427,7 +1427,7 @@
 
 <p><strong>Особливості.</strong>&nbsp;Секатор Fiskars розроблений спеціально для догляду за кімнатними рослинами та виконання делікатних робіт. Компактні розміри, гострі площинні леза, ергономічна конструкція та висока точність різання роблять його практичним інструментом для щоденного догляду за домашніми й декоративними рослинами.</p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1026680" available="true">
         <name><![CDATA[Котушка зі шлангом Fiskars Waterwheel S (1026680)]]></name>
@@ -2289,7 +2289,7 @@
 
 <p data-end="1089" data-is-last-node="" data-is-only-node="" data-start="920"><span style="font-size:18px;"><strong data-end="936" data-start="920">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії SingleStep бренду Fiskars та призначений для систематичного догляду за кущовими насадженнями.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1026917" available="true">
         <name><![CDATA[Ножиці для трави Fiskars White GS41 (1026917)]]></name>
@@ -2307,7 +2307,7 @@
 
 <p data-end="988" data-is-last-node="" data-is-only-node="" data-start="818"><span style="font-size:18px;"><strong data-end="834" data-start="818">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для точного ручного догляду за трав&rsquo;янистими насадженнями.</span></p>
 ]]></description>
-        <stock_quantity>22</stock_quantity>
+        <stock_quantity>21</stock_quantity>
       </offer>
       <offer id="1064071" available="true">
         <name><![CDATA[Ножиці дитячі червоні 13см Fiskars (1064071)]]></name>
@@ -2445,7 +2445,7 @@
 
 <p data-end="1137" data-is-last-node="" data-is-only-node="" data-start="918"><span style="font-size:18px;"><strong data-end="934" data-start="918">Особливості:</strong></span><span style="font-size:14px;"> модель входить до серії Solid бренду Fiskars та призначена для регулярного догляду за газонами й декоративними насадженнями, де потрібна висока точність підстригання трави.</span></p>
 ]]></description>
-        <stock_quantity>30</stock_quantity>
+        <stock_quantity>29</stock_quantity>
       </offer>
       <offer id="1062546" available="true">
         <name><![CDATA[Ножиці для хоббі 13см]]></name>
@@ -2869,7 +2869,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
@@ -2975,7 +2975,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>18</stock_quantity>
       </offer>
       <offer id="1026931102693" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів Fiskars White HS53 + Гілкоріз білий White L32]]></name>
@@ -3076,7 +3076,7 @@
 
 <p>Набір Fiskars поєднує приготування та точну нарізку в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>16</stock_quantity>
       </offer>
       <offer id="1066487105983" available="true">
         <name><![CDATA[Набір Gerber Ніж складний Quadrant 16L + Мультитул Lockdown Slim 16L]]></name>
@@ -3225,7 +3225,7 @@
 
 <p>Набір Fiskars поєднує інструменти для повного процесу приготування їжі в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>39</stock_quantity>
+        <stock_quantity>38</stock_quantity>
       </offer>
       <offer id="1059836105536" available="true">
         <name><![CDATA[Набір Мультитул Gerber Lockdown Slim 16L + Ніж складаний Asada]]></name>
@@ -3634,7 +3634,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує практичність і універсальність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>78</stock_quantity>
+        <stock_quantity>77</stock_quantity>
       </offer>
       <offer id="1024856105984" available="true">
         <name><![CDATA[Набір Мачете Gerber Compact Clearpath + Ніж-топірець Gerber DOWNWIND ULU]]></name>
@@ -3821,7 +3821,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>91</stock_quantity>
+        <stock_quantity>88</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC ]]></name>
@@ -4310,7 +4310,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>43</stock_quantity>
+        <stock_quantity>37</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4644,7 +4644,7 @@
 	<li data-end="2074" data-section-id="1lkbxdi" data-start="2022"><span style="font-size:16px;">Вигідна покупка комплекту завдяки ножу в подарунок</span></li>
 </ul>
 ]]></description>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>16</stock_quantity>
       </offer>
       <offer id="1062940" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars, 20 шт]]></name>
@@ -4669,7 +4669,7 @@
 	<li><span style="font-size:16px;">У комплекті&nbsp;<strong>20 змінних лез</strong></span></li>
 </ul>
 ]]></description>
-        <stock_quantity>173</stock_quantity>
+        <stock_quantity>171</stock_quantity>
       </offer>
       <offer id="1000665" available="true">
         <name><![CDATA[Тримач телескопічний QuikFit L]]></name>
@@ -5748,7 +5748,7 @@
 
 <p data-end="1524" data-is-last-node="" data-is-only-node="" data-start="1200"><span style="font-size:18px;"><strong data-end="1216" data-start="1200">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії Ayako бренду Gerber та вирізняється мінімалістичним дизайном, орієнтованим на щоденне носіння і практичне використання. Концепція моделі поєднує сучасні матеріали з елементами традиційних японських складних ножів.</span></p>
 ]]></description>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
       </offer>
       <offer id="1027855" available="true">
         <name><![CDATA[Ніж складаний Gerber Vital Pocket Folder (1027855)]]></name>
@@ -6821,7 +6821,7 @@
 
 <p data-end="1371" data-start="1223"><span style="font-size:18px;"><strong data-end="1239" data-start="1223">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії Lockdown бренду Gerber та орієнтована на універсальні утилітарні операції без спеціалізованого обладнання.</span></p>
 ]]></description>
-        <stock_quantity>49</stock_quantity>
+        <stock_quantity>48</stock_quantity>
       </offer>
       <offer id="1014905" available="true">
         <name><![CDATA[Мультитул Gerber eFECT Military Maintenance (1014905)]]></name>
