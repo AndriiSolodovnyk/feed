@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-29T23:33:39.887Z">
+<yml_catalog date="2026-07-30T02:21:42.038Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -437,7 +437,7 @@
 
 <p data-end="939" data-is-last-node="" data-is-only-node="" data-start="789"><span style="font-size:18px;"><strong data-end="805" data-start="789">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для акуратних допоміжних робіт у саду.</span></p>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1014776" available="true">
         <name><![CDATA[Лопата загострена Fiskars ClassicPro червона FSC (1014776)]]></name>
@@ -888,7 +888,7 @@
 <p data-end="961" data-is-last-node="" data-is-only-node="" data-start="790"><span style="font-size:18px;"><strong data-end="806" data-start="790">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Ergo бренду Fiskars та орієнтований на сезонні садові роботи з помірним фізичним навантаженням.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1071936" available="true">
         <name><![CDATA[Вила для компосту Fiskars Solid 1071936]]></name>
@@ -909,7 +909,7 @@
 
 <p><strong>Особливості: </strong><span style="font-size:16px;">належить до серії Solid бренду Fiskars, розрахована на інтенсивне використання та довгий термін служби.</span></p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1070675" available="true">
         <name><![CDATA[Вила садові Prima U-Grip FSC 1070675]]></name>
@@ -1112,7 +1112,7 @@
 
 <p data-end="1156" data-is-last-node="" data-is-only-node="" data-start="983"><span style="font-size:18px;"><strong data-end="999" data-start="983">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за ґрунтом і посадковими роботами.</span></p>
 ]]></description>
-        <stock_quantity>21</stock_quantity>
+        <stock_quantity>20</stock_quantity>
       </offer>
       <offer id="1025567" available="true">
         <name><![CDATA[Сапка Fiskars Solid Planter (1025567)]]></name>
@@ -1148,7 +1148,7 @@
 
 <p data-end="1132" data-is-last-node="" data-is-only-node="" data-start="959"><span style="font-size:18px;"><strong data-end="975" data-start="959">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для точних садових операцій із розсадою й молодими рослинами.</span></p>
 ]]></description>
-        <stock_quantity>14</stock_quantity>
+        <stock_quantity>13</stock_quantity>
       </offer>
       <offer id="1025566" available="true">
         <name><![CDATA[Вила для бур'янів Fiskars Solid (1025566)]]></name>
@@ -1680,7 +1680,7 @@
 <p data-end="1253" data-is-last-node="" data-is-only-node="" data-start="1090"><span style="font-size:18px;"><strong data-end="1106" data-start="1090">Особливості:</strong></span><span style="font-size:14px;"> модель належить до ергономічної серії Ergonomic бренду Fiskars та призначена для регулярного догляду за садом, городом і прибудинковою територією.</span></p>
 </section>
 ]]></description>
-        <stock_quantity>31</stock_quantity>
+        <stock_quantity>30</stock_quantity>
       </offer>
       <offer id="1014812" available="true">
         <name><![CDATA[Граблі для листя Fiskars Solid FSC (1014812)]]></name>
@@ -2975,7 +2975,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1026931102693" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів Fiskars White HS53 + Гілкоріз білий White L32]]></name>
@@ -3020,7 +3020,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars забезпечує ефективний догляд за кущами та деревами в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>40</stock_quantity>
+        <stock_quantity>39</stock_quantity>
       </offer>
       <offer id="1023739100077" available="true">
         <name><![CDATA[Комплект Fiskars: Сковорода Rotisser 24 см + Набір ножів в дерев'яному блоці Kitchen Devil]]></name>
@@ -3080,7 +3080,7 @@
       </offer>
       <offer id="1066487105983" available="true">
         <name><![CDATA[Набір Gerber Ніж складний Quadrant 16L + Мультитул Lockdown Slim 16L]]></name>
-        <price>2298</price>
+        <price>1999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/43/nizh-skladnyi-gerber-quadrant16l-podarunok-multytul-lockdown-slim16lbox-70361191440422_+678f004597.jpg</picture>
@@ -3169,7 +3169,7 @@
 
 <p>Набір Fiskars поєднує інструменти для обрізки рослин і роботи з ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>47</stock_quantity>
+        <stock_quantity>44</stock_quantity>
       </offer>
       <offer id="1000773105909" available="true">
         <name><![CDATA[Комплект FISKARS: Набір ножів в деревяному блоці  Kitchen Devil + Сковорода Steel 28 см ]]></name>
@@ -3229,7 +3229,7 @@
       </offer>
       <offer id="1059836105536" available="true">
         <name><![CDATA[Набір Мультитул Gerber Lockdown Slim 16L + Ніж складаний Asada]]></name>
-        <price>1999</price>
+        <price>1399</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/46/multytul-gerber-lockdown-slim16lbox-podarunok-nizh-skladanyi-asada-34372247253003_+ebdca2ede6.jpg</picture>
@@ -3455,7 +3455,7 @@
       </offer>
       <offer id="1028376105983" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Мультитул Gerber Lockdown Slim 16L]]></name>
-        <price>1599</price>
+        <price>1299</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/pylka-sadova-ruchna-fiskars-solid-sw-16-podarunok-multytul-gerber-lockdown-slim16lbox-44325887308020_+d71bbb92bb.jpg</picture>
@@ -3588,7 +3588,7 @@
 
 <p>Набір Fiskars поєднує інструменти для обрізки рослин і роботи з ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>37</stock_quantity>
+        <stock_quantity>36</stock_quantity>
       </offer>
       <offer id="1051085101477" available="true">
         <name><![CDATA[Набір Fiskars: Сокира теслярська Fiskars Solid A10 + Лопата садова штикова Fiskars Classic FSC]]></name>
@@ -3821,7 +3821,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>85</stock_quantity>
+        <stock_quantity>84</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC ]]></name>
@@ -4214,7 +4214,7 @@
 
 <p><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;колун та лопата Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
-        <stock_quantity>44</stock_quantity>
+        <stock_quantity>43</stock_quantity>
       </offer>
       <offer id="1003466101960" available="false">
         <name><![CDATA[Набір Fiskars: Універсальні граблі Solid+ Граблі для ґрунту полегшені White]]></name>
@@ -4310,7 +4310,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>26</stock_quantity>
+        <stock_quantity>22</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4434,7 +4434,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує інструменти для ефективного прибирання листя та догляду за ділянкою в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>31</stock_quantity>
+        <stock_quantity>30</stock_quantity>
       </offer>
       <offer id="1070715101477" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White +Лопата садова штикова Fiskars Classic FSC]]></name>
@@ -4488,7 +4488,7 @@
 
 <p data-end="2027" data-is-last-node="" data-is-only-node="" data-start="1840"><span style="font-size:16px;">Набір Fiskars поєднує інструменти для обробки ґрунту та догляду за ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>47</stock_quantity>
+        <stock_quantity>46</stock_quantity>
       </offer>
       <offer id="1023492101477" available="true">
         <name><![CDATA[Набір Fiskars: Граблі великі для листя М помаранчеві + Лопата садова штикова Classic FSC]]></name>
@@ -4644,7 +4644,7 @@
 	<li data-end="2074" data-section-id="1lkbxdi" data-start="2022"><span style="font-size:16px;">Вигідна покупка комплекту завдяки ножу в подарунок</span></li>
 </ul>
 ]]></description>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1062940" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars, 20 шт]]></name>
@@ -6601,7 +6601,7 @@
 
 <p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> складаний мультітул має основу з плоскогубцями та набором інструментів, що вбудовані в руків&rsquo;я. Інструменти фіксуються в розгорнутому положенні для безпечної та ефективної роботи. Ергономічні руків&rsquo;я забезпечують стабільний хват при роботі з різними насадками.</span></p>
 
-<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає різні викруткові біти та тримач (Drive), ножиці, пилку, лезо ножа, плоскогубці, різні ключі й інші необхідні для ремонтних задач складові.</span></p>
+<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає&nbsp;викручувальну&nbsp;біту&nbsp;та тримач (Drive), ножиці, пилку, лезо ножа, плоскогубці, все необхідні для ремонтних задач складові.</span></p>
 
 <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів, що забезпечують зносостійкість і довговічність при регулярному використанні. Руків&rsquo;я має протиковзне покриття для зручності в роботі.</span></p>
 
@@ -6622,7 +6622,7 @@
 
 <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">жорстка багатофункціональна пластина з фіксованими інструментами, що не розкладаються окремо, забезпечує простоту та надійність. Компактний формат і кріплення‑кільце дозволяють носити інструмент на ключах або карабіні.</span></p>
 
-<p><span style="font-size:18px;"><b>Функції:</b> </span><span style="font-size:14px;">включає викруткові насадки різного профілю, відкривачку для пляшок, кусачки/плоскогубці малого розміру та інші базові елементи для швидких побутових дій.</span></p>
+<p><span style="font-size:18px;"><b>Функції:</b> </span><span style="font-size:14px;">включає&nbsp;відкривачку для пляшок та&nbsp;базові елементи для швидких побутових дій.</span></p>
 
 <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів, що поєднують стійкість до зносу з невеликою вагою для щоденного носіння.</span></p>
 
@@ -6642,7 +6642,7 @@
 
 <p data-end="731" data-start="501"><span style="font-size:18px;"><strong data-end="517" data-start="501">Конструкція:</strong></span><span style="font-size:14px;"> жорстка багатофункціональна пластина з фіксованими елементами не розкладається окремо, що забезпечує простоту та надійність використання. Формат брелока дозволяє тримати мультитул під рукою без додаткового об&rsquo;єму.</span></p>
 
-<p data-end="914" data-start="733"><span style="font-size:18px;"><strong data-end="745" data-start="733">Функції:</strong></span><span style="font-size:14px;"> включає викруткові насадки плоского і хрестового типу, відкривачку для пляшок/банок, різак для упаковок, напилок та інші базові елементи для швидких побутових операцій.</span></p>
+<p data-end="914" data-start="733"><span style="font-size:18px;"><strong data-end="745" data-start="733">Функції:</strong></span><span style="font-size:14px;"> включає в відкривачку для пляшок/банокі базові елементи для швидких побутових операцій.</span></p>
 
 <p data-end="1107" data-start="916"><span style="font-size:18px;"><strong data-end="930" data-start="916">Матеріали:</strong></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів для стійкості до зносу при регулярному використанні. Руків&rsquo;я має накладки з Micarta для підвищеного зчеплення та комфортного утримання.</span></p>
 
@@ -6685,7 +6685,7 @@
 
 <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний корпус із фіксацією робочих елементів забезпечує безпечну експлуатацію під час роботи. Елементи інструменту легко відкладаються та застопорюються в робочому положенні. Ергономічна форма руків&rsquo;я забезпечує стабільний хват.</span></p>
 
-<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає лезо ножа, викруткові насадки, відкривачки, напилок та інші базові функції, потрібні для побутових і ремонтних завдань.</span></p>
+<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає лезо ножа, відкривачки,компактний цвяходер&nbsp;та інші базові функції, потрібні для побутових і ремонтних завдань.</span></p>
 
 <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">виготовлений із міцних металевих сплавів, що забезпечують стійкість до зносу і довговічність при регулярному використанні. Руків&rsquo;я має практичну текстуровану поверхню.</span></p>
 
@@ -6706,13 +6706,13 @@
 
 <p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> складаний мультитул із фіксацією інструментів забезпечує безпечну експлуатацію. Основна частина виконана у вигляді плоскогубців з набором додаткових елементів, що розкладаються з руків&rsquo;я. Ергономічна форма корпусу забезпечує стабільний хват під час роботи з різними насадками.</span></p>
 
-<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає ножове лезо, викруткові насадки, відкривачку, напилок, шило, а також елементи для роботи з матеріалами та вузлами.</span></p>
+<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає ножове лезо, викруткові насадки, відкривачку, пилу&nbsp;, шило, а також елементи для роботи з матеріалами та вузлами.</span></p>
 
 <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">виготовлений із міцних металевих сплавів, що забезпечують зносостійкість та довговічність при регулярному використанні. Руків&rsquo;я має практичну поверхню для комфортного утримання.</span></p>
 
 <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії LockDown бренду Gerber та орієнтована на універсальні утилітарні операції без спеціалізованого обладнання.</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1059830" available="true">
         <name><![CDATA[Мультитул Gerber Armbar Slim Cut (1059830)]]></name>
@@ -6728,7 +6728,7 @@
 
 <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">мультитул має складаний корпус із фіксацією кожного робочого елемента в розкладеному положенні для безпечної експлуатації. Компактні габарити й тонкий профіль полегшують носіння в кишені або сумці.</span></p>
 
-<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає ножове лезо, викруткові насадки, відкривачку для пляшок/банок, напилок, шило та інші базові елементи для універсальних задач.</span></p>
+<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає ножове лезо, викруткові насадки, відкривачку для пляшок/банок, пласкогубці , шило та інші базові елементи для універсальних задач.</span></p>
 
 <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів, що забезпечують зносостійкість і довговічність при регулярному використанні. Руків&rsquo;я має практичну текстуровану поверхню для стабільного захоплення.</span></p>
 
@@ -6751,17 +6751,17 @@
 
 <p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> жорстка багатофункціональна пластина з фіксованими елементами, що не розкладаються окремо, забезпечує простоту та надійність у роботі. Формат брелока дозволяє носити мультитул на ключах або карабіні.</span></p>
 
-<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає викруткові насадки (плоскі і Phillips), відкривачку для пляшок/банок, напилок та інші базові елементи для швидких побутових задач і невеликих ремонтних операцій.</span></p>
+<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає лезо , відкривачку для пляшок/банок,пилу, пласкогубці&nbsp;та інші базові елементи для швидких побутових задач і невеликих ремонтних операцій.</span></p>
 
 <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів, що забезпечують стійкість до зносу та довговічність при регулярному використанні. Поверхня має практичну обробку для зручного утримання.</span></p>
 
 <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Armbar бренду Gerber та орієнтована на базові допоміжні задачі в компактному форматі.</span></p>
 ]]></description>
-        <stock_quantity>44</stock_quantity>
+        <stock_quantity>43</stock_quantity>
       </offer>
       <offer id="1052456" available="true">
         <name><![CDATA[Мультитул Gerber ArmBar Cork Shimmer Gold (1052456)]]></name>
-        <price>999</price>
+        <price>998</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/multytul-gerber-armbar-cork-shimmer-gold-1052456-40506406008064_+3402bd7e26.jpg</picture>
@@ -6772,7 +6772,7 @@
 
 <p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> складаний мультитул із фіксацією кожного інструмента забезпечує безпечну експлуатацію під час роботи. Ергономічна форма та компактні габарити полегшують носіння у кишені чи сумці.</span></p>
 
-<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає ножове лезо, викруткові насадки, відкривачку для пляшок/банок, напилок, шило та інші базові елементи для універсальних задач.</span></p>
+<p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає ножове лезо,&nbsp;відкривачку для пляшок/банок,, шило , пласкогубці , кроківник та інші базові елементи для універсальних задач.</span></p>
 
 <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів, що забезпечують стійкість до зносу і довговічність при регулярному використанні. Поверхня руків&rsquo;я має практичну обробку для комфортного утримання.</span></p>
 
@@ -6788,7 +6788,7 @@
         <picture>https://fiskars-gratis.com.ua/content/images/41/multytul-gerber-brelok-vidkryvachka-shardecardblk-1021134-64409445674384_+9f132e06f5.png</picture>
         <description><![CDATA[<p><span style="font-size:18px;"><b>Мультитул‑брелок</b> <b>Gerber Shard, E, Card, BLK (1021134)</b></span><span style="font-size:14px;"> &mdash; компактний ручний інструмент у форматі брелока для базових щоденних задач без потреби у великому наборі інструментів. Поєднує декілька функцій у тонкій пласкій конструкції, яку можна носити на ключах або в гаманеці.</span></p>
 
-<p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> застосовується для відкривання упаковок і пробок, роботи з простими різьбовими з&rsquo;єднаннями, затискання дрібних предметів, базових побутових операцій у місті, подорожах чи на природі.</span></p>
+<p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> застосовується для відкривання упаковок і пробок,пляшок та банок, затискання дрібних предметів, базових побутових операцій у місті, подорожах чи на природі.</span></p>
 
 <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">жорстка багатофункціональна пластина з фіксованими елементами не розкладається окремо, що забезпечує простоту та надійність використання. Компактна форма дозволяє легко носити інструмент у кишені, на ключах або в гаманці.</span></p>
 
@@ -6815,7 +6815,7 @@
 
 <p data-end="850" data-start="542"><span style="font-size:18px;"><strong data-end="558" data-start="542">Конструкція:</strong></span><span style="font-size:14px;"> складаний мультитул із фіксацією кожного інструмента в робочому положенні забезпечує безпечну експлуатацію. Основна частина виконана у вигляді плоскогубців, із доступом до насадок і елементів через руків&rsquo;я. Ергономічна форма корпусу забезпечує комфорт і стабільний хват під час використання.</span></p>
 
-<p data-end="1018" data-start="852"><span style="font-size:18px;"><strong data-end="880" data-start="852">Інструменти в комплекті:</strong></span><span style="font-size:14px;"> включає ножове лезо, різні викруткові насадки, відкривачку, напилки, ножиці, плоскогубці та інші базові елементи для універсальних задач.</span></p>
+<p data-end="1018" data-start="852"><span style="font-size:18px;"><strong data-end="880" data-start="852">Інструменти в комплекті:</strong></span><span style="font-size:14px;"> включає ножове лезо, відкривачку, плоскогубці та інші базові елементи для універсальних задач.</span></p>
 
 <p data-end="1221" data-start="1020"><span style="font-size:18px;"><strong data-end="1034" data-start="1020">Матеріали:</strong></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів і зносостійких компонентів, що забезпечують довговічність при регулярному використанні. Руків&rsquo;я має практичну поверхню для комфортного утримання.</span></p>
 
@@ -6838,7 +6838,7 @@
 
 <p data-end="808" data-start="568"><span style="font-size:18px;"><strong data-end="584" data-start="568">Конструкція:</strong> </span><span style="font-size:14px;">складаний мультитул із фіксацією кожного інструмента в робочому положенні забезпечує безпеку під час експлуатації. Основна частина містить плоскогубці, а інші інструменти розміщуються в руків&rsquo;ї та розкладаються для доступу.</span></p>
 
-<p data-end="996" data-start="810"><span style="font-size:18px;"><strong data-end="838" data-start="810">Інструменти в комплекті:</strong></span><span style="font-size:14px;"> включає плоскогубці, різні викруткові насадки, відкривачку, напилки, ножове лезо, шило та інші елементи для універсальних технічних задач і базового ремонту.</span></p>
+<p data-end="996" data-start="810"><span style="font-size:18px;"><strong data-end="838" data-start="810">Інструменти в комплекті:</strong></span><span style="font-size:14px;">&nbsp;різні викруткові насадки, відкривачку, викрутка-скребок ,інструмент для регулювання прицілу ,вигнуту крюк-голку</span>,&nbsp;<span style="font-size:14px;"> шило та інші елементи для універсальних технічних задач і базового ремонту.</span></p>
 
 <p data-end="1230" data-start="998"><span style="font-size:18px;"><strong data-end="1012" data-start="998">Матеріали:</strong></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів і зносостійких компонентів, що забезпечують довговічність при регулярному використанні. Ергономічна форма руків&rsquo;я забезпечує стабільний хват під час роботи з різними насадками.</span></p>
 
