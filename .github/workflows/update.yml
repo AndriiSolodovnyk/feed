@@ -22,9 +22,11 @@ jobs:
 
       - run: node allo.js
 
+      - run: node eva.js
+
       - run: |
           git config user.name "bot"
           git config user.email "bot@github.com"
-          git add rozetka.xml allo.xml
+          git add rozetka.xml allo.xml eva.xml
           git commit -m "auto update" || echo "no changes"
           git push
