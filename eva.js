@@ -5,6 +5,22 @@ const fs = require('fs');
 const FILE_URL = 'https://fiskars-gratis.com.ua/content/export/f21d2ef6d82a517fac09ea84c53cf5c9.xlsx';
 const SHOP_NAME = 'Fiskars Gratis';
 const SHOP_URL = 'https://fiskars-gratis.com.ua/';
+const EVA_CATEGORIES = [
+  { id: '1001', name: 'Каструлі', aliases: ['каструлі'] },
+  { id: '1002', name: 'Кришталь', aliases: ['кришталь'] },
+  { id: '1003', name: 'Кухонне приладдя', aliases: ['кухонне приладдя'] },
+  { id: '1004', name: 'Кухонні ножиці', aliases: ['кухонні ножиці'] },
+  { id: '1005', name: 'Кухонні ножі', aliases: ['кухонні ножі'] },
+  { id: '1006', name: 'Мультитули', aliases: ['мультитули'] },
+  { id: '1007', name: 'Ножі рибальські', aliases: ['ножі рибальські'] },
+  { id: '1008', name: 'Пили Гербер', aliases: ['пили гербер'] },
+  { id: '1009', name: 'Посуд та кухонний інвентар', aliases: ['посуд та кухонний інвентар', 'посуд на кухонний інвентар'] },
+  { id: '1010', name: 'Складні ножі Гербер', aliases: ['складні ножі гербер'] },
+  { id: '1011', name: 'Сковороди', aliases: ['сковороди'] },
+  { id: '1012', name: 'Сотейники', aliases: ['сотейники'] },
+  { id: '1013', name: 'Туристичний посуд', aliases: ['туристичний посуд'] },
+  { id: '1014', name: 'Туристичні ножі', aliases: ['туристичні ножі'] }
+];
 
 function sanitizeText(value) {
   return String(value || '').replace(/[\x00-\x08\x0B\x0C\x0E-\x1F]/g, '');
@@ -60,15 +76,21 @@ function normalizeCategoryPath(path) {
   return parts.length ? parts : ['FISKARS'];
 }
 
-function categoryIdForPath(path) {
-  let hash = 2166136261;
+function normalizeCategoryName(value) {
+  return String(value || '')
+    .toLocaleLowerCase('uk')
+    .replace(/gerber/g, 'гербер')
+    .replace(/fiskars/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
 
-  for (let i = 0; i < path.length; i += 1) {
-    hash ^= path.charCodeAt(i);
-    hash = Math.imul(hash, 16777619);
-  }
+function matchEvaCategory(categoryPath) {
+  const leafCategory = normalizeCategoryName(categoryPath[categoryPath.length - 1]);
 
-  return String(100000000 + (hash >>> 0) % 900000000);
+  return EVA_CATEGORIES.find((category) => (
+    category.aliases.some((alias) => leafCategory === alias || leafCategory.startsWith(`${alias} `))
+  ));
 }
 
 async function parseProducts() {
@@ -90,6 +112,7 @@ async function parseProducts() {
     const description = getValue(row, 'Описание товара (UA)') || getValue(row, 'Короткое описание (UA)') || name;
     const images = parseImages(getValue(row, 'Фото'), getValue(row, 'Галерея'));
     const categoryPath = normalizeCategoryPath(getValue(row, 'Раздел'));
+    const evaCategory = matchEvaCategory(categoryPath);
     const warrantyMonths = Math.floor(parseNumber(getValue(row, 'Гарантийный срок, мес.')));
 
     const params = [
@@ -116,6 +139,7 @@ async function parseProducts() {
       description,
       images,
       categoryPath,
+      evaCategory,
       url: getValue(row, 'Ссылка'),
       article: getValue(row, 'Артикул для отображения на сайте') || sku,
       params
@@ -123,33 +147,9 @@ async function parseProducts() {
   });
 }
 
-function buildCategoryTree(products) {
-  const categoryByPath = new Map();
-
-  for (const product of products) {
-    let parentPath = '';
-
-    for (const name of product.categoryPath) {
-      const path = parentPath ? `${parentPath}/${name}` : name;
-
-      if (!categoryByPath.has(path)) {
-        categoryByPath.set(path, {
-          id: categoryIdForPath(path),
-          parentId: parentPath ? categoryIdForPath(parentPath) : null,
-          name,
-          path,
-          depth: path.split('/').length
-        });
-      }
-
-      parentPath = path;
-    }
-
-    product.categoryId = categoryIdForPath(product.categoryPath.join('/'));
-  }
-
-  return Array.from(categoryByPath.values())
-    .sort((a, b) => a.depth - b.depth || a.path.localeCompare(b.path, 'uk'));
+function buildEvaCategories(products) {
+  const usedCategoryIds = new Set(products.map((product) => product.evaCategory.id));
+  return EVA_CATEGORIES.filter((category) => usedCategoryIds.has(category.id));
 }
 
 function buildEva(products) {
@@ -157,12 +157,13 @@ function buildEva(products) {
     product.sku &&
     product.name &&
     product.brand &&
+    product.evaCategory &&
     product.price > 0 &&
     product.description.length >= 30 &&
     product.images.length > 0
   ));
   const skippedProducts = products.length - readyProducts.length;
-  const categories = buildCategoryTree(readyProducts);
+  const categories = buildEvaCategories(readyProducts);
 
   let xml = `<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
@@ -175,10 +176,7 @@ function buildEva(products) {
       <currency id="UAH" rate="1"/>
     </currencies>
     <categories>
-${categories.map((category) => {
-    const parentId = category.parentId ? ` parentId="${category.parentId}"` : '';
-    return `      <category id="${category.id}"${parentId}>${escapeXml(category.name)}</category>`;
-  }).join('\n')}
+${categories.map((category) => `      <category id="${category.id}">${escapeXml(category.name)}</category>`).join('\n')}
     </categories>
     <offers>`;
 
@@ -198,7 +196,7 @@ ${categories.map((category) => {
 ${product.url ? `        <url>${escapeXml(product.url)}</url>\n` : ''}        <price>${product.price}</price>
 ${priceOld}        <stock_quantity>${product.stock}</stock_quantity>
         <currencyId>UAH</currencyId>
-        <categoryId>${product.categoryId}</categoryId>
+        <categoryId>${product.evaCategory.id}</categoryId>
 ${pictures}
         <vendor>${escapeXml(product.brand)}</vendor>
         <article>${escapeXml(product.article)}</article>
