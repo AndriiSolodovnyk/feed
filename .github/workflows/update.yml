@@ -1,13 +1,32 @@
 name: Update Feed
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - '.github/workflows/update.yml'
+      - 'index.js'
+      - 'allo.js'
+      - 'eva.js'
+      - 'feedDownloader.js'
+      - 'package.json'
+      - 'package-lock.json'
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - uses: actions/checkout@v3

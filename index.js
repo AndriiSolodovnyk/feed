@@ -1,15 +1,13 @@
-const axios = require('axios');
 const XLSX = require('xlsx');
 const fs = require('fs');
+const { downloadArrayBuffer } = require('./feedDownloader');
 
 const FILE_URL = 'https://fiskars-gratis.com.ua/content/export/f21d2ef6d82a517fac09ea84c53cf5c9.xlsx';
 
 async function parseProducts() {
-  const response = await axios.get(FILE_URL, {
-    responseType: 'arraybuffer'
-  });
+  const data = await downloadArrayBuffer(FILE_URL, { label: 'Horoshop XLSX' });
 
-  const workbook = XLSX.read(response.data, { type: 'buffer' });
+  const workbook = XLSX.read(data, { type: 'buffer' });
   const sheet = workbook.Sheets[workbook.SheetNames[0]];
   const rows = XLSX.utils.sheet_to_json(sheet);
 
