@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-06 00:02</date>
+    <date>2026-08-06 03:48</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -350,7 +350,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/17/sokyra-kolun-xl-kh25-91633830371666_+7b8fe1663b.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/17/sokyra-kolun-xl-kh25-68763325500908_+dc6fe57951.jpg</image>
             <priceRUAH>3999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1015643</param>
             <param name="Бренд">Fiskars</param>
@@ -1233,7 +1233,10 @@
 <p data-end="1167" data-is-last-node="" data-is-only-node="" data-start="974"><span style="font-size:18px;"><strong data-end="990" data-start="974">Особливості:</strong></span><span style="font-size:14px;"> модель належить до класичної лінійки бренду Fiskars та призначена для виконання дренажних і траншейних робіт, де потрібна висока точність копання.</span></p>
 </section>]]></description>
             <url>https://fiskars-gratis.com.ua/lopata-klasychna-drenazhna-fiskars-1071919/</url>
-            <image>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-23079016218628_+d0c7269f36.jpg</image>
+            <image>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-92806745299362_+4bc29830a8.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-32333286623091_+2eccc9588e.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-35508909773053_+89adfb5098.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-54712897231282_+bd442ce737.png</image>
             <priceRUAH>1799</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1071919</param>
@@ -1442,7 +1445,7 @@
             <url>https://fiskars-gratis.com.ua/lopata-sadova-klasychna-fiskars-fsc-1071929/</url>
             <image>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</image>
             <priceRUAH>699</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1071929</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -4907,7 +4910,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-66916425470168_+3a7ed44191.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-23911259799649_+e6cfc8a5be.jpeg</image>
             <priceRUAH>2999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1052240107504</param>
             <param name="Бренд">Fiskars</param>
@@ -5051,7 +5054,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-65833975945833_+0f8c2d2fb0.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-40102398333876_+60290554be.jpeg</image>
             <priceRUAH>999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1001622106119</param>
             <param name="Бренд">Fiskars</param>
@@ -5275,7 +5278,7 @@
             <code>1026916101477</code>
             <barcode>5907222066171</barcode>
             <vendor>Fiskars</vendor>
-            <name>Набір Fiskars:  Секатор площинний White P57 + Лопата садова штикова Classic FSC</name>
+            <name>Набір Fiskars: Секатор площинний White P57 + Лопата садова штикова Classic FSC</name>
             <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><strong><span style="font-size:14px;">(штрихкод 5907222066171)</span></strong><span style="font-size:18px;"> для догляду за садом і роботи з ґрунтом &mdash; базові інструменти для обрізки та перекопування в одному комплекті. </span></p>
 
 <p><strong>Опис набору</strong><br />
@@ -5339,7 +5342,7 @@
             <code>1000773105909</code>
             <barcode>5907222066188</barcode>
             <vendor>Fiskars</vendor>
-            <name>Комплект FISKARS: Набір ножів в деревяному блоці  Kitchen Devil + Сковорода Steel 28 см</name>
+            <name>Комплект FISKARS: Набір ножів в деревяному блоці Kitchen Devil + Сковорода Steel 28 см</name>
             <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066188)</strong></span><span style="font-size:18px;"> для повноцінного приготування їжі &mdash; усе необхідне для смаження та точної нарізки в одному комплекті. </span></p>
 
 <p><span style="font-size:16px;"><strong>Опис набору Fiskars</strong></span></p>
@@ -6729,7 +6732,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-65393682270740_+57e1726ea8.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-45782481694720_+a3a1761f53.png</image>
             <priceRUAH>1549</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1026931102691</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -7532,7 +7535,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/13/nabir-nizh-fileinyi-gerber-ceviche-9-nizh-topirets-gerber-downwind-18842804433299_+83b8e3fd8c.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/13/nabir-nizh-fileinyi-gerber-ceviche-9-nizh-topirets-gerber-downwind-51864162804805_+0a962713c4.png</image>
             <priceRUAH>1599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1063145105984</param>
             <param name="Бренд">Gerber</param>
