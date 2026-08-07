@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-07 00:23">
+<yml_catalog date="2026-08-07 03:27">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -1917,7 +1917,7 @@
       <offer id="1013954" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-paraframe-gerber-mini-fe-bl/</url>
         <price>749</price>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-12616963264447_+f5fdd06e8c.jpg</picture>
@@ -2918,7 +2918,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-scout4lblsonyx3-12-1064399/</url>
         <price>699</price>
         <price_old>2389</price_old>
-        <stock_quantity>36</stock_quantity>
+        <stock_quantity>35</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-07 00:23</date>
+    <date>2026-08-07 03:27</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -2216,10 +2216,10 @@
 
 <p><strong>Матеріали:</strong> виготовлений з міцних матеріалів, стійких до навантажень і зовнішніх умов. Особливості: належить до серії SmartFit бренду Fiskars, забезпечує зручність, ергономіку та ефективність у використанні.</p>]]></description>
             <url>https://fiskars-gratis.com.ua/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125/</url>
-            <image>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-61270140820600_+72606ea982.png</image>
-            <image>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-60543114460376_+dbb5ab6faf.png</image>
-            <image>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-65044662924637_+5805f9d1a1.png</image>
-            <image>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-77137814706479_+4acaf61266.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-65431477501912_+80659f6ea2.jpg</image>
+            <image>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-32539857287513_+7423617b27.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-46070998568731_+38dddcdf63.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-45174275540898_+931ececf51.png</image>
             <priceRUAH>2499</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
@@ -4910,7 +4910,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-66916425470168_+3a7ed44191.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-23911259799649_+e6cfc8a5be.jpeg</image>
             <priceRUAH>2999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1052240107504</param>
             <param name="Бренд">Fiskars</param>
