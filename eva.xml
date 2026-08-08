@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-07 23:32">
+<yml_catalog date="2026-08-08 01:29">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -2702,7 +2702,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-brelok-vidkryvachka-gerber-shardxl-micarta-4l-1064440/</url>
         <price>499</price>
         <price_old>1239</price_old>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/multytul-brelok-vidkryvachka-gerber-shardxl-micarta-4l-1064440-80192971815697_+6f5b4012b0.jpg</picture>

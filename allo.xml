@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-07 23:32</date>
+    <date>2026-08-08 01:29</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -4910,7 +4910,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-66916425470168_+3a7ed44191.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-23911259799649_+e6cfc8a5be.jpeg</image>
             <priceRUAH>2999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1052240107504</param>
             <param name="Бренд">Fiskars</param>
@@ -5054,7 +5054,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-65833975945833_+0f8c2d2fb0.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-40102398333876_+60290554be.jpeg</image>
             <priceRUAH>999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1001622106119</param>
             <param name="Бренд">Fiskars</param>
@@ -6732,7 +6732,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-65393682270740_+57e1726ea8.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-45782481694720_+a3a1761f53.png</image>
             <priceRUAH>1549</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1026931102691</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -7535,7 +7535,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/13/nabir-nizh-fileinyi-gerber-ceviche-9-nizh-topirets-gerber-downwind-18842804433299_+83b8e3fd8c.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/13/nabir-nizh-fileinyi-gerber-ceviche-9-nizh-topirets-gerber-downwind-51864162804805_+0a962713c4.png</image>
             <priceRUAH>1599</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1063145105984</param>
             <param name="Бренд">Gerber</param>
