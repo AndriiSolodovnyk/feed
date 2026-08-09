@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-08 23:55">
+<yml_catalog date="2026-08-09 01:49">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -2880,6 +2880,7 @@
         <picture>https://fiskars-gratis.com.ua/content/images/38/multytul-gerber-armbar-slim-cut-1059830-68716007779025_+7f63368520.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/38/multytul-gerber-armbar-slim-cut-1059830-80372071397484_+b1565a5d22.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/38/multytul-gerber-armbar-slim-cut-1059830-17334816565323_+4f2a6a5f43.jpg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/38/multytul-gerber-armbar-slim-cut-1059830-80795103769976_+ecd794aaa1.png</picture>
         <vendor>Gerber</vendor>
         <article>1059830</article>
         <name>Мультитул Gerber Armbar Slim Cut (1059830)</name>
@@ -2918,7 +2919,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-scout4lblsonyx3-12-1064399/</url>
         <price>699</price>
         <price_old>2389</price_old>
-        <stock_quantity>35</stock_quantity>
+        <stock_quantity>34</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
@@ -2963,7 +2964,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-cork-shimmer-gold-1052456/</url>
         <price>998</price>
         <price_old>1899</price_old>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/multytul-gerber-armbar-cork-shimmer-gold-1052456-40506406008064_+3402bd7e26.jpg</picture>
