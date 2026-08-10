@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-09 23:58</date>
+    <date>2026-08-10 02:23</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -4910,7 +4910,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-66916425470168_+3a7ed44191.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-23911259799649_+e6cfc8a5be.jpeg</image>
             <priceRUAH>2999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1052240107504</param>
             <param name="Бренд">Fiskars</param>
@@ -11022,7 +11022,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/6/shchitka-drotiana-dlia-tvaryn-fiskars-2-6-19l-1816513-52365508642650_+475fdecdea.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/6/shchitka-drotiana-dlia-tvaryn-fiskars-2-6-19l-1816513-15244716117334_+0ff4db14f1.jpg</image>
             <priceRUAH>1199</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">2009138</param>
             <param name="Бренд">Fiskars</param>
