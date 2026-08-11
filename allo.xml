@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-11 00:00</date>
+    <date>2026-08-11 02:34</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -2603,15 +2603,15 @@
             <barcode>6411501510723</barcode>
             <vendor>Fiskars</vendor>
             <name>Котушка зі шлангом Fiskars Waterwheel S (1026680)</name>
-            <description><![CDATA[<p data-end="371" data-start="0"><span style="font-size:18px;"><strong data-end="53" data-start="0">Котушка зі шлангом Fiskars Waterwheel S (1026680)</strong></span><span style="font-size:14px;"> &mdash; комплект для зберігання та подачі води в саду чи на присадибній ділянці, що поєднує шланг для поливу зі зручним пристроєм-котушкою. Використовується для поливу газонів, квітників, грядок, пристосування ділянок до догляду за рослинами, очищення поверхонь водою та інших операцій, що потребують подачі води зі шланга.</span></p>
+            <description><![CDATA[<p data-end="371" data-start="0"><strong>Котушка зі шлангом Fiskars Waterwheel S (1026680)</strong> &mdash; комплект для зберігання та подачі води в саду чи на присадибній ділянці, що поєднує шланг для поливу зі зручним пристроєм-котушкою. Використовується для поливу газонів, квітників, грядок, пристосування ділянок до догляду за рослинами, очищення поверхонь водою та інших операцій, що потребують подачі води зі шланга.</p>
 
-<p data-end="587" data-start="373"><span style="font-size:18px;"><strong data-end="389" data-start="373">Призначення:</strong> </span><span style="font-size:14px;">підходить для поливу невеликих і середніх садових зон, терас, балконів, облаштування робочих місць біля теплиць, а також для миття садового інвентарю, терас чи транспортних засобів поблизу ділянки.</span></p>
+<p data-path-to-node="1"><strong>Призначення: </strong>підходить для поливу невеликих і середніх садових зон, терас, балконів, облаштування робочих місць біля теплиць, а також для миття садового інвентарю, терас чи транспортних засобів поблизу ділянки.</p>
 
-<p data-end="878" data-start="589"><span style="font-size:18px;"><strong data-end="605" data-start="589">Конструкція:</strong> </span><span style="font-size:14px;">котушка оснащена шлангом зі стандартними сполученнями для підключення до водопостачання та розбризкувальної насадки (за потреби). Ролик-механізм дозволяє зручно змотувати та розмотувати шланг, упорядковуючи його під час зберігання і захищаючи від сплутування та перегинів.</span></p>
+<p data-path-to-node="2"><strong>Конструкція:</strong> котушка оснащена шлангом зі стандартними сполученнями для підключення до водопостачання та розбризкувальної насадки (за потреби). Ролик-механізм дозволяє зручно змотувати та розмотувати шланг, упорядковуючи його під час зберігання і захищаючи від сплутування та перегинів. Конструкція передбачає ручне намотування шланга за допомогою спеціальної ручки на корпусі &mdash; це не автоматична котушка і вона не має механізму автовтягування.</p>
 
-<p data-end="1092" data-start="880"><span style="font-size:18px;"><strong data-end="894" data-start="880">Матеріали:</strong> </span><span style="font-size:14px;">корпус котушки виготовлений із міцного пластику або композиту, стійкого до атмосферних впливів, а шланг &mdash; із гнучкого матеріалу, що витримує тиск води й механічні навантаження під час експлуатації.</span></p>
+<p data-path-to-node="3"><strong>Матеріали:</strong> корпус котушки виготовлений із міцного пластику або композиту, стійкого до атмосферних впливів, а шланг &mdash; із гнучкого матеріалу, що витримує тиск води й механічні навантаження під час експлуатації.</p>
 
-<p data-end="1353" data-is-last-node="" data-is-only-node="" data-start="1094"><span style="font-size:18px;"><strong data-end="1110" data-start="1094">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Waterwheel бренду Fiskars та призначений для організованого зберігання і використання шланга у садових і побутових умовах, забезпечуючи контроль подачі води і простоту обслуговування.</span></p>]]></description>
+<p data-path-to-node="4"><strong>Особливості: </strong>інструмент належить до серії Waterwheel бренду Fiskars та призначений для організованого зберігання і використання шланга у садових і побутових умовах, забезпечуючи контроль подачі води і простоту обслуговування. Модель працює в горизонтальному положенні з можливістю обертання на 360 градусів для вільного пересування ділянкою. Змотування шланга здійснюється виключно в ручному режимі (без пружинного чи автоматичного приводів), що робить механізм простим, надійним і довговічним у використанні.</p>]]></description>
             <url>https://fiskars-gratis.com.ua/kotushka-zi-shlanhom-fiskars-waterwheel-s-1026680/</url>
             <image>https://fiskars-gratis.com.ua/content/images/43/kotushka-zi-shlanhom-fiskars-waterwheel-s-1026680-69109387189040_+8ef22785c4.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/43/kotushka-zi-shlanhom-fiskars-waterwheel-s-1026680-72156572712063_+e769e22669.jpg</image>
@@ -5054,7 +5054,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-65833975945833_+0f8c2d2fb0.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-40102398333876_+60290554be.jpeg</image>
             <priceRUAH>999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1001622106119</param>
             <param name="Бренд">Fiskars</param>
@@ -6732,7 +6732,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-65393682270740_+57e1726ea8.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-45782481694720_+a3a1761f53.png</image>
             <priceRUAH>1549</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1026931102691</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
