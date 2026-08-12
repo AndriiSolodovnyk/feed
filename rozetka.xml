@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-11T23:38:48.912Z">
+<yml_catalog date="2026-08-12T01:52:15.522Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -972,7 +972,7 @@
 
 <p data-end="1196" data-is-last-node="" data-is-only-node="" data-start="968"><span style="font-size:18px;"><strong data-end="984" data-start="968">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії ергономічних інструментів бренду Fiskars та призначений для систематичного догляду за ґрунтом і боротьби з бур&rsquo;янами із зниженим фізичним навантаженням.</span></p>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="1014815" available="false">
         <name><![CDATA[Мотига Fiskars Solid L30 (1014815)]]></name>
@@ -1394,7 +1394,7 @@
 
 <p data-end="997" data-is-last-node="" data-is-only-node="" data-start="840"><span style="font-size:18px;"><strong data-end="856" data-start="840">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії SingleStep бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 ]]></description>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>16</stock_quantity>
       </offer>
       <offer id="1024711" available="true">
         <name><![CDATA[Секатор Fiskars SoftGrip M (1024711)]]></name>
@@ -2779,7 +2779,7 @@
 
 <p data-end="1055" data-is-last-node="" data-is-only-node="" data-start="908"><span style="font-size:18px;"><strong data-end="924" data-start="908">Особливості:</strong> </span><span style="font-size:14px;">інструмент вироблений брендом Fiskars та призначений для широкого спектра загальних різальних задач.</span></p>
 ]]></description>
-        <stock_quantity>79</stock_quantity>
+        <stock_quantity>78</stock_quantity>
       </offer>
       <offer id="1027216" available="false">
         <name><![CDATA[Болторіз Fiskars PowerGear 91см (1027216)]]></name>
@@ -2823,7 +2823,7 @@
 ]]></description>
         <stock_quantity>3</stock_quantity>
       </offer>
-      <offer id="1052240107504" available="true">
+      <offer id="1052240107504" available="false">
         <name><![CDATA[Набір Fiskars: Каструля Hard Face Steel 3,5 л + Сковорода 375 Anniversary 24cm | 1052240| 1075041]]></name>
         <price>2999</price>
         <categoryId>1</categoryId>
@@ -2868,7 +2868,7 @@
 
 <p>&nbsp;</p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
@@ -3123,7 +3123,7 @@
 
 <p><span style="font-size:16px;">Набір Gerber поєднує компактність і функціональність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>30</stock_quantity>
+        <stock_quantity>24</stock_quantity>
       </offer>
       <offer id="1026916101477" available="true">
         <name><![CDATA[Набір Fiskars: Секатор площинний White P57 + Лопата садова штикова Classic FSC]]></name>
@@ -3270,7 +3270,7 @@
 
 <p><span style="font-size:16px;">Набір Gerber поєднує практичність і функціональність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>11</stock_quantity>
       </offer>
       <offer id="1001553105536" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз площинний PowerGear M L76 + Ніж складаний Gerber Asada]]></name>
@@ -3541,7 +3541,7 @@
 
 <p>Набір Fiskars поєднує інструменти для обрізки рослин і роботи з ґрунтом в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1027528102682" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз площинний телескопічний Fiskars Solid L13 + Ножиці для кущів Solid HS21]]></name>
@@ -3820,7 +3820,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>61</stock_quantity>
+        <stock_quantity>58</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC]]></name>
@@ -4095,7 +4095,7 @@
 
 <p><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;колун та лопата Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
-        <stock_quantity>39</stock_quantity>
+        <stock_quantity>38</stock_quantity>
       </offer>
       <offer id="1003466101960" available="false">
         <name><![CDATA[Набір Fiskars: Універсальні граблі Solid+ Граблі для ґрунту полегшені White]]></name>
@@ -4145,7 +4145,7 @@
 ]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="1026931102691" available="true">
+      <offer id="1026931102691" available="false">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів White HS53+ Ножиці для трави White GS41]]></name>
         <price>1549</price>
         <categoryId>1</categoryId>
@@ -4191,7 +4191,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -4315,7 +4315,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує інструменти для ефективного прибирання листя та догляду за ділянкою в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>23</stock_quantity>
+        <stock_quantity>20</stock_quantity>
       </offer>
       <offer id="1070715101477" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White +Лопата садова штикова Fiskars Classic FSC]]></name>
@@ -4369,7 +4369,7 @@
 
 <p data-end="2027" data-is-last-node="" data-is-only-node="" data-start="1840"><span style="font-size:16px;">Набір Fiskars поєднує інструменти для обробки ґрунту та догляду за ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>37</stock_quantity>
+        <stock_quantity>36</stock_quantity>
       </offer>
       <offer id="1023492101477" available="true">
         <name><![CDATA[Набір Fiskars: Граблі великі для листя М помаранчеві + Лопата садова штикова Classic FSC]]></name>
@@ -4477,7 +4477,7 @@
 
 <p data-end="2173" data-is-last-node="" data-is-only-node="" data-start="1962"><span style="font-size:14px;">Набір Fiskars поєднує інструменти для сезонного прибирання та щоденного догляду за садовою ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>17</stock_quantity>
       </offer>
       <offer id="1062940106119" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax]]></name>
@@ -4525,7 +4525,7 @@
 	<li data-end="2074" data-section-id="1lkbxdi" data-start="2022"><span style="font-size:16px;">Вигідна покупка комплекту завдяки ножу в подарунок</span></li>
 </ul>
 ]]></description>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>16</stock_quantity>
       </offer>
       <offer id="1062940" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars, 20 шт]]></name>
@@ -5244,7 +5244,7 @@
         <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1065565" available="true">
-        <name><![CDATA[Ніж для шеф-кухаря Fiskars Essential, 21см (1065565)]]></name>
+        <name><![CDATA[Ніж для шеф-кухаря Essential, 21 см]]></name>
         <price>847</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
@@ -5261,10 +5261,10 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">ніж належить до серії Essential бренду Fiskars та призначений для широкого спектра кулінарних задач з контролем точності і ефективності різання.</span></p>
 ]]></description>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>10</stock_quantity>
       </offer>
       <offer id="1065599" available="true">
-        <name><![CDATA[Ніж для чищення з поперечним лезом Fiskars Essential (1065599)]]></name>
+        <name><![CDATA[Ніж для чищення з поперечним лезом Essential]]></name>
         <price>568</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
@@ -5281,7 +5281,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> ніж належить до серії Essential бренду Fiskars та призначений для ефективної та контрольованої обробки овочів і фруктів у кулінарних задачах.</span></p>
 ]]></description>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>10</stock_quantity>
       </offer>
       <offer id="1065586" available="true">
         <name><![CDATA[Ніж для чищення з рухомим лезом Fiskrs Essential, 6 см (1065586)]]></name>
@@ -5877,7 +5877,7 @@
         <price>1999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-nozhiv-kaimano-italicus-3-sht-77392863689982_+0ac01539cb.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-nozhiv-kaimano-italicus-3-sht-41782179355554_+267c069ff5.png</picture>
         <description><![CDATA[<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Набір ножів Kaimano Italicus (1065134)</b> &mdash; це практичний та функціональний комплект із 3 ножів різного типу, створений для швидкого виконання більшості щоденних завдань на кухні. Поєднання різних типів лез (гладких та серрейторних) робить цей набір універсальним базовим інструментом для кожної кухні, дозволяючи з однаковою легкістю та точністю нарізати як м&#39;які соковиті овочі, так і тверді хлібобулочні чи м&#39;ясні вироби.</p>
 
 <p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> призначений для щоденного кулінарного процесу: очищення, шинкування та акуратного нарізання овочів, фруктів, зелені, хліба, ковбасних виробів, сирів та порційних страв безпосередньо під час готування чи сервірування столу.</p>
@@ -6691,7 +6691,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Armbar бренду Gerber та орієнтована на базові допоміжні задачі в компактному форматі.</span></p>
 ]]></description>
-        <stock_quantity>34</stock_quantity>
+        <stock_quantity>33</stock_quantity>
       </offer>
       <offer id="1052456" available="true">
         <name><![CDATA[Мультитул Gerber ArmBar Cork Shimmer Gold (1052456)]]></name>
@@ -7668,7 +7668,7 @@
         <price>1199</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <picture>https://fiskars-gratis.com.ua/content/images/39/nabir-stolovykh-nozhiv-kaimano-6-sht-98389167017752_+2f6d9f25f7.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/39/nabir-stolovykh-nozhiv-kaimano-6-sht-90671053756208_+9d592ee76d.png</picture>
         <description><![CDATA[<h3 data-path-to-node="2">Набір столових ножів Kaimano, 6 шт (1050714)</h3>
 
 <p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Набір столових ножів Kaimano (1050714)</b> &mdash; це комплект із 6 елегантних та практичних ножів, створених для щоденного використання та святкового сервірування столу. Завдяки спеціальній серрейторній (зубчастій) заточці, ці ножі ідеально справляються з нарізанням будь-яких готових страв &mdash; від соковитих стейків та запеченого м&#39;яса до хрусткої випічки, томатів та інших овочів, не мнучи та не псуючи структуру продуктів.</p>
@@ -7685,7 +7685,7 @@
 
 <p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Італія.</p>
 ]]></description>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1014413" available="true">
         <name><![CDATA[Набор терок Functional Form]]></name>

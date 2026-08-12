@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-11 23:38</date>
+    <date>2026-08-12 01:52</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -4910,7 +4910,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-66916425470168_+3a7ed44191.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-23911259799649_+e6cfc8a5be.jpeg</image>
             <priceRUAH>2999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1052240107504</param>
             <param name="Бренд">Fiskars</param>
@@ -6732,7 +6732,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-65393682270740_+57e1726ea8.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-45782481694720_+a3a1761f53.png</image>
             <priceRUAH>1549</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1026931102691</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -8285,72 +8285,6 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">12</param>
             <param name="Штрихкод">6424002015567</param>
-            <param name="Код УКТ ЗЕД">8211920000</param>
-            <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
-            <condition>0</condition>
-        </item>
-        <item>
-            <id>1065565</id>
-            <categoryId>33</categoryId>
-            <code>1065565</code>
-            <barcode>6424002015543</barcode>
-            <vendor>Fiskars</vendor>
-            <name>Ніж для шеф-кухаря Fiskars Essential, 21см (1065565)</name>
-            <description><![CDATA[<p><span style="display: none;">&nbsp;</span><b>Ніж для шеф‑кухаря Fiskars Essential, 21 см (1065565)</b><span style="display: none;">&nbsp;</span><span style="font-size:14px;"> &mdash; кухонний різальний інструмент універсального призначення для підготовки і обробки продуктів. Використовується для нарізання, рубання, шинкування і подрібнення м&rsquo;яса, овочів, фруктів та інших інгредієнтів під час приготування страв.</span></p>
-
-<p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для щоденної кулінарної роботи в домашніх і професійних умовах, де потрібна універсальна ріжуча кромка для різних технік обробки продуктів: від тонких скибок до кубиків та шматочків.</span></p>
-
-<p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> довжина леза 21 см і загальна форма ножа створені для комфортного виконання різних кухонних операцій. Руків&rsquo;я адаптоване для зручного, контрольованого захвату під час різання та подрібнення продуктів.</span></p>
-
-<p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> ріжуча частина виготовлена з високоякісної сталі, що забезпечує гостроту кромки і тривалий термін експлуатації. Руків&rsquo;я виготовлене з міцного матеріалу, стійкого до механічного зношування і забезпечує надійний та комфортний захват.</span></p>
-
-<p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">ніж належить до серії Essential бренду Fiskars та призначений для широкого спектра кулінарних задач з контролем точності і ефективності різання.</span></p>]]></description>
-            <url>https://fiskars-gratis.com.ua/nizh-dlia-shef-kukharia-fiskars-essential-21sm-1065565/</url>
-            <image>https://fiskars-gratis.com.ua/content/images/7/nizh-dlia-shef-kukharia-fiskars-essential-21sm-1065565-53553694462884_+1683d9f6e4.jpg</image>
-            <image>https://fiskars-gratis.com.ua/content/images/7/nizh-dlia-shef-kukharia-fiskars-essential-21sm-1065565-79749504191256_+d8b16edd5b.jpg</image>
-            <image>https://fiskars-gratis.com.ua/content/images/7/nizh-dlia-shef-kukharia-fiskars-essential-21sm-1065565-56849158667769_+da695c7c17.jpg</image>
-            <priceRUAH>847</priceRUAH>
-            <stock>В наявності</stock>
-            <guarantee type="manufacturer">12</guarantee>
-            <param name="Артикул">1065565</param>
-            <param name="Бренд">Fiskars</param>
-            <param name="Оригінальність">Оригінал</param>
-            <param name="Стан товару">Новий</param>
-            <param name="Гарантійний строк, міс.">12</param>
-            <param name="Штрихкод">6424002015543</param>
-            <param name="Код УКТ ЗЕД">8211920000</param>
-            <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
-            <condition>0</condition>
-        </item>
-        <item>
-            <id>1065599</id>
-            <categoryId>33</categoryId>
-            <code>1065599</code>
-            <barcode>6424002015789</barcode>
-            <vendor>Fiskars</vendor>
-            <name>Ніж для чищення з поперечним лезом Fiskars Essential (1065599)</name>
-            <description><![CDATA[<p><span style="font-size:18px;"><b>Ніж для чищення з поперечним лезом Fiskars Essential (1065599)</b> </span><span style="font-size:14px;">&mdash; кухонний різальний інструмент для точних підготовчих операцій з овочами і фруктами. Використовується для чищення, видалення шкірки, формування та тонких контрольованих надрізів на продуктах невеликого розміру.</span></p>
-
-<p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> підходить для підготовки овочів і фруктів перед подрібненням чи подачею, акуратного видалення шкірки, кореневих частин, а також для контролю форми і розміру шматочків при приготуванні салатів і гарнірів.</span></p>
-
-<p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">поперечне коротке лезо зігнуто для комфортного та контрольованого руху по поверхні продукту. Ергономічна руків&rsquo;я адаптована для надійного захвату та точного контролю ножа під час роботи з дрібними інгредієнтами.</span></p>
-
-<p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">ріжуча частина виготовлена з високоякісної сталі, що забезпечує гостроту кромки й тривалий ресурс використання. Руків&rsquo;я виготовлене з матеріалу, стійкого до зношування, що забезпечує комфорт під час роботи.</span></p>
-
-<p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> ніж належить до серії Essential бренду Fiskars та призначений для ефективної та контрольованої обробки овочів і фруктів у кулінарних задачах.</span></p>]]></description>
-            <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599/</url>
-            <image>https://fiskars-gratis.com.ua/content/images/8/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599-91647425061699_+efb38d53f1.jpg</image>
-            <image>https://fiskars-gratis.com.ua/content/images/8/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599-73465714108127_+1ba4af3b5a.jpg</image>
-            <image>https://fiskars-gratis.com.ua/content/images/8/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599-35122456426225_+4bd9306169.jpg</image>
-            <priceRUAH>568</priceRUAH>
-            <stock>В наявності</stock>
-            <guarantee type="manufacturer">12</guarantee>
-            <param name="Артикул">1065599</param>
-            <param name="Бренд">Fiskars</param>
-            <param name="Оригінальність">Оригінал</param>
-            <param name="Стан товару">Новий</param>
-            <param name="Гарантійний строк, міс.">12</param>
-            <param name="Штрихкод">6424002015789</param>
             <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
