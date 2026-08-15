@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-14 23:46</date>
+    <date>2026-08-15 01:10</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -5119,7 +5119,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-71234657629700_+f4b00c4019.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-72581906919446_+c7907fd8fc.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-67851814338117_+d7a4659ac7.png</image>
-            <priceRUAH>799</priceRUAH>
+            <priceRUAH>1899</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">120</guarantee>
             <param name="Артикул">1001538</param>
@@ -6019,7 +6019,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-65833975945833_+0f8c2d2fb0.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-40102398333876_+60290554be.jpeg</image>
             <priceRUAH>999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1001622106119</param>
             <param name="Бренд">Fiskars</param>
@@ -10794,6 +10794,36 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002020349</param>
+            <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
+            <condition>0</condition>
+        </item>
+        <item>
+            <id>1023374</id>
+            <categoryId>33</categoryId>
+            <code>1023374</code>
+            <barcode>8008220042482</barcode>
+            <vendor>Fiskars</vendor>
+            <name>Набір Kaimano Tris verdura</name>
+            <description><![CDATA[<p data-end="266" data-start="20"><strong data-end="60" data-start="20">Набір Kaimano Tris Verdura (1023374)</strong>&nbsp;&mdash; практичний набір кухонних ножів для обробки овочів, фруктів та інших продуктів. Компактні ножі зручні для щоденного використання на кухні та виконання точних робіт під час нарізання й очищення продуктів.</p>
+
+<p data-end="475" data-start="268"><strong data-end="284" data-start="268">Призначення:</strong>&nbsp;підходить для очищення, нарізання та підготовки овочів, фруктів та інших продуктів. Набір стане у пригоді для виконання різноманітних кухонних задач, де потрібні компактні та маневрені ножі.</p>
+
+<p data-end="640" data-start="477"><strong data-end="493" data-start="477">Конструкція:</strong>&nbsp;ножі мають компактні леза, зручні для точного контролю під час роботи. Ергономічні ручки забезпечують надійне утримання та комфортне використання.</p>
+
+<p data-end="823" data-start="642"><strong data-end="656" data-start="642">Матеріали:</strong>&nbsp;ріжучі елементи виготовлені з нержавіючої сталі, стійкої до корозії та придатної для щоденного використання. Ручки забезпечують комфортне та безпечне утримання ножів.</p>
+
+<p data-end="1013" data-start="825"><strong data-end="841" data-start="825">Особливості:</strong>&nbsp;набір складається з трьох кухонних ножів для роботи з овочами та фруктами. Компактний формат дозволяє зручно використовувати ножі для очищення та точної нарізки продуктів.</p>
+
+<p data-end="1069" data-start="1015"><strong data-end="1032" data-start="1015">Комплектація:</strong>&nbsp;набір Kaimano Tris Verdura &mdash; 3 ножі.</p>]]></description>
+            <url>https://fiskars-gratis.com.ua/nabir-kaimano-tris-verdura/</url>
+            <image>https://fiskars-gratis.com.ua/content/images/12/nabir-kaimano-tris-verdura-79231386395490_+f55463d507.png</image>
+            <priceRUAH>890</priceRUAH>
+            <stock>В наявності</stock>
+            <param name="Артикул">1023374</param>
+            <param name="Бренд">Fiskars</param>
+            <param name="Оригінальність">Оригінал</param>
+            <param name="Стан товару">Новий</param>
+            <param name="Штрихкод">8008220042482</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
