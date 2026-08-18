@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-17 23:46">
+<yml_catalog date="2026-08-18 01:09">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -408,7 +408,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">24</param>
-        <param name="Код УКТ ЗЕД">7323 93 00 00</param>
+        <param name="Код УКТ ЗЕД">7323930000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди / Сковороди Fiskars All Steel</param>
       </offer>
       <offer id="1075863" available="false">
@@ -449,12 +449,13 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">24</param>
-        <param name="Код УКТ ЗЕД">7323 93 00 00</param>
+        <param name="Код УКТ ЗЕД">7323930000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди / Сковороди Fiskars All Steel</param>
       </offer>
       <offer id="1065628" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-all-steel-pure-24-sm-matova/</url>
         <price>5199</price>
+        <price_old>5745</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -494,11 +495,13 @@
         <param name="Штрихкод">6424002015888</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1065627" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-all-steel-pure-28-sm-matova/</url>
         <price>4599</price>
+        <price_old>5140</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -540,11 +543,13 @@
         <param name="Штрихкод">6424002015895</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1065629" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-wok-all-steel-pure-28-matova/</url>
         <price>6499</price>
+        <price_old>7239</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -584,11 +589,13 @@
         <param name="Штрихкод">6424002015901</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1075701" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-folken-22-sm/</url>
         <price>3599</price>
+        <price_old>3969</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -628,11 +635,13 @@
         <param name="Штрихкод">6424002020295</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1075700" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-folken-24-sm/</url>
         <price>3999</price>
+        <price_old>4500</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -672,11 +681,13 @@
         <param name="Штрихкод">6424002020301</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1075699" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-folken-28-sm/</url>
         <price>4699</price>
+        <price_old>5250</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -716,11 +727,13 @@
         <param name="Штрихкод">6424002020318</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1072310" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-ff-24-sm-nerzhaviiucha-stal/</url>
         <price>2299</price>
+        <price_old>2539</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -761,11 +774,13 @@
         <param name="Штрихкод">6424002018742</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1072311" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-ff-26-sm-nerzhaviiucha-stal/</url>
         <price>2599</price>
+        <price_old>2879</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -806,11 +821,13 @@
         <param name="Штрихкод">6424002018759</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1075457" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-hard-face-20-sm/</url>
         <price>2899</price>
+        <price_old>3215</price_old>
         <stock_quantity>8</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -851,11 +868,13 @@
         <param name="Штрихкод">6424002019879</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7615108000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1075459" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-hard-face-26-sm/</url>
         <price>3799</price>
+        <price_old>4180</price_old>
         <stock_quantity>8</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -896,11 +915,13 @@
         <param name="Штрихкод">6424002019893</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7615108000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1075520" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-hard-face-28-sm/</url>
         <price>3569</price>
+        <price_old>4480</price_old>
         <stock_quantity>8</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -940,11 +961,13 @@
         <param name="Штрихкод">6424002019909</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7615108000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1075522" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-dlia-mlyntsiv-hard-face-22-sm/</url>
         <price>2899</price>
+        <price_old>3199</price_old>
         <stock_quantity>8</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -985,11 +1008,13 @@
         <param name="Штрихкод">6424002019923</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7615108000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1067628" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-norden-24-sm-bez-pokryttia/</url>
         <price>7599</price>
+        <price_old>8460</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -1031,11 +1056,13 @@
         <param name="Штрихкод">6424002017035</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1067632" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-norden-26-sm-z-mineralnym-pokryttiam/</url>
         <price>7999</price>
+        <price_old>8940</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -1076,11 +1103,13 @@
         <param name="Штрихкод">6424002017073</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1067629" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-norden-28-sm-bez-pokryttia/</url>
         <price>8599</price>
+        <price_old>9535</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -1123,11 +1152,13 @@
         <param name="Штрихкод">6424002017042</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1026568" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-norden-24-sm/</url>
         <price>9149</price>
+        <price_old>10149</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -1168,11 +1199,13 @@
         <param name="Штрихкод">6424002008866</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1026569" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-norden-26-sm/</url>
         <price>9449</price>
+        <price_old>10477</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -1212,11 +1245,13 @@
         <param name="Штрихкод">6424002008873</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1026571" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-norden-28-sm/</url>
         <price>10299</price>
+        <price_old>11458</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -1259,11 +1294,13 @@
         <param name="Штрихкод">6424002008897</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1066946" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-taiten-24-sm/</url>
         <price>6449</price>
+        <price_old>7145</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -1302,6 +1339,7 @@
         <param name="Штрихкод">6424002016700</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
       <offer id="1052240" available="false">
@@ -1437,6 +1475,7 @@
       <offer id="1064751" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-all-steel-3-l-matova/</url>
         <price>5499</price>
+        <price_old>6049</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -1478,11 +1517,13 @@
         <param name="Штрихкод">6424002014980</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
       </offer>
       <offer id="1064752" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-all-steel-5-l-matova/</url>
         <price>5599</price>
+        <price_old>6190</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -1523,11 +1564,13 @@
         <param name="Штрихкод">6424002014997</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
       </offer>
       <offer id="1075698" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-chavunna-folken-4l/</url>
         <price>5999</price>
+        <price_old>6755</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -1567,11 +1610,13 @@
         <param name="Штрихкод">6424002020325</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
       </offer>
       <offer id="1072316" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-z-kryshkoiu-ff-30-l-nerzhaviiucha-stal/</url>
         <price>3699</price>
+        <price_old>4085</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -1613,11 +1658,13 @@
         <param name="Штрихкод">6424002018803</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
       </offer>
       <offer id="1075526" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-hard-face-35-l/</url>
         <price>4199</price>
+        <price_old>4623</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -1657,11 +1704,13 @@
         <param name="Штрихкод">6424002019961</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7615108000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
       </offer>
       <offer id="1067639" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-norden-3-l-bez-pokryttia/</url>
         <price>8899</price>
+        <price_old>9835</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -1702,6 +1751,7 @@
         <param name="Штрихкод">6424002017141</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
       </offer>
       <offer id="1023819" available="true">
@@ -2283,6 +2333,7 @@
       <offer id="1065565" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-shef-kukharia-fiskars-essential-21sm-1065565/</url>
         <price>999</price>
+        <price_old>1114</price_old>
         <stock_quantity>10</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2321,6 +2372,7 @@
       <offer id="1065599" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599/</url>
         <price>499</price>
+        <price_old>555</price_old>
         <stock_quantity>10</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -3431,7 +3483,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">12</param>
-        <param name="Код УКТ ЗЕД">8214 90 00 00</param>
+        <param name="Код УКТ ЗЕД">8214900000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі / Кухонні ножі Fiskars Functional Form</param>
       </offer>
       <offer id="1016122" available="true">
@@ -3508,7 +3560,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">12</param>
-        <param name="Код УКТ ЗЕД">8204 20 00 00</param>
+        <param name="Код УКТ ЗЕД">8204200000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1016474" available="true">
@@ -3564,7 +3616,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">12</param>
-        <param name="Код УКТ ЗЕД">8211 92 00 00</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1027873" available="true">
@@ -3635,6 +3687,7 @@
       <offer id="1079907" available="true">
         <url>https://fiskars-gratis.com.ua/piler/</url>
         <price>399</price>
+        <price_old>483</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -3675,11 +3728,13 @@
         <param name="Штрихкод">6424002021278</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1079908" available="true">
         <url>https://fiskars-gratis.com.ua/piler-y-obraznyi/</url>
         <price>399</price>
+        <price_old>483</price_old>
         <stock_quantity>10</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -3719,11 +3774,13 @@
         <param name="Штрихкод">6424002021285</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1079909" available="true">
         <url>https://fiskars-gratis.com.ua/piler-y-obraznyi-dlia-zhulienu/</url>
         <price>399</price>
+        <price_old>483</price_old>
         <stock_quantity>10</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -3763,11 +3820,13 @@
         <param name="Штрихкод">6424002021292</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1079960" available="true">
         <url>https://fiskars-gratis.com.ua/piler-z-rukhomym-lezom/</url>
         <price>669</price>
+        <price_old>755</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -3807,11 +3866,13 @@
         <param name="Штрихкод">6424002021308</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1079961" available="true">
         <url>https://fiskars-gratis.com.ua/piler-z-rukhomym-lezom-dlia-frukitv/</url>
         <price>399</price>
+        <price_old>483</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -3849,11 +3910,13 @@
         <param name="Штрихкод">6424002021315</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1057552" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-ff-z-bambukovoiu-pidstavkoiu-5-sht/</url>
         <price>7299</price>
+        <price_old>8070</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -3893,11 +3956,13 @@
         <param name="Штрихкод">6424002012979</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211100000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1057554" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-ff-z-chornoiu-pidstavkoiu-5-sht/</url>
         <price>6099</price>
+        <price_old>6795</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -3937,11 +4002,13 @@
         <param name="Штрихкод">6424002012993</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211100000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1057542" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-koreneplodiv/</url>
         <price>589</price>
+        <price_old>653</price_old>
         <stock_quantity>12</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -3980,11 +4047,13 @@
         <param name="Штрихкод">6424002012870</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1057544" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-ovochiv-priamyi/</url>
         <price>539</price>
+        <price_old>594</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -4022,11 +4091,13 @@
         <param name="Штрихкод">6424002012894</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1057534" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-shef-kukharia-velykyi/</url>
         <price>1149</price>
+        <price_old>1270</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -4064,11 +4135,13 @@
         <param name="Штрихкод">6424002012795</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1065568" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-koreneplodiv-essential-11-sm/</url>
         <price>529</price>
+        <price_old>585</price_old>
         <stock_quantity>20</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -4106,11 +4179,13 @@
         <param name="Штрихкод">6424002015574</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1075696" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-shef-kukharia-velykyi-folken-fsc-20-sm/</url>
         <price>2649</price>
+        <price_old>2945</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -4149,6 +4224,7 @@
         <param name="Штрихкод">6424002020349</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1023374" available="true">
@@ -4188,6 +4264,7 @@
         <param name="Штрихкод">8008220042482</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
       <offer id="1023752" available="false">
@@ -4293,6 +4370,7 @@
       <offer id="1075524" available="true">
         <url>https://fiskars-gratis.com.ua/kivsh-hard-face-2-l/</url>
         <price>2149</price>
+        <price_old>2373</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1012</categoryId>
@@ -4335,11 +4413,13 @@
         <param name="Штрихкод">6424002019947</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7615108000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сотейники</param>
       </offer>
       <offer id="1067637" available="true">
         <url>https://fiskars-gratis.com.ua/kivsh-norden-18-l-bez-pokryttia/</url>
         <price>6099</price>
+        <price_old>6799</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1012</categoryId>
@@ -4381,11 +4461,13 @@
         <param name="Штрихкод">6424002017127</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сотейники</param>
       </offer>
       <offer id="1072314" available="true">
         <url>https://fiskars-gratis.com.ua/soteinyk-z-kryshkoiu-ff-26-sm-nerzhaviiucha-stal/</url>
         <price>3699</price>
+        <price_old>4119</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1012</categoryId>
@@ -4425,6 +4507,7 @@
         <param name="Штрихкод">6424002018780</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сотейники</param>
       </offer>
       <offer id="1052457" available="true">
@@ -5254,7 +5337,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">12</param>
-        <param name="Код УКТ ЗЕД">8215 99 10 00</param>
+        <param name="Код УКТ ЗЕД">8215991000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1028483" available="true">
@@ -5455,7 +5538,7 @@
         <param name="Штрихкод">6424002016328</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
-        <param name="Код УКТ ЗЕД">7323 93 00 00</param>
+        <param name="Код УКТ ЗЕД">7323930000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1066552" available="true">
@@ -5544,7 +5627,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">12</param>
-        <param name="Код УКТ ЗЕД">8215 99 10 00</param>
+        <param name="Код УКТ ЗЕД">8215991000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars</param>
       </offer>
       <offer id="1065250" available="true">
@@ -5757,7 +5840,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">12</param>
-        <param name="Код УКТ ЗЕД">8215 99 10 00</param>
+        <param name="Код УКТ ЗЕД">8215991000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1066425" available="true">
@@ -5823,7 +5906,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">12</param>
-        <param name="Код УКТ ЗЕД">8215 99 10 00</param>
+        <param name="Код УКТ ЗЕД">8215991000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1065596" available="true">
@@ -6129,7 +6212,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">60</param>
-        <param name="Код УКТ ЗЕД">3924 10 00 90</param>
+        <param name="Код УКТ ЗЕД">3924100090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1016471" available="true">
@@ -6197,7 +6280,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">24</param>
-        <param name="Код УКТ ЗЕД">8211 92 00 00</param>
+        <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1014413" available="true">
@@ -6242,7 +6325,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">60</param>
-        <param name="Код УКТ ЗЕД">8205 51 00 00</param>
+        <param name="Код УКТ ЗЕД">8205510000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars</param>
       </offer>
       <offer id="1014412" available="true">
@@ -6279,7 +6362,7 @@
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">24</param>
-        <param name="Код УКТ ЗЕД">8215 99 10 00</param>
+        <param name="Код УКТ ЗЕД">8215991000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1065595" available="true">
@@ -6326,6 +6409,7 @@
       <offer id="1079962" available="true">
         <url>https://fiskars-gratis.com.ua/pintset-dlia-ryby/</url>
         <price>849</price>
+        <price_old>950</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -6364,11 +6448,13 @@
         <param name="Штрихкод">6424002021322</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8205510000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1079964" available="true">
         <url>https://fiskars-gratis.com.ua/lopatka-kukhona/</url>
         <price>479</price>
+        <price_old>525</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -6409,11 +6495,13 @@
         <param name="Штрихкод">6424002021346</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8205510000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1079965" available="true">
         <url>https://fiskars-gratis.com.ua/opolonyk/</url>
         <price>479</price>
+        <price_old>525</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -6453,11 +6541,13 @@
         <param name="Штрихкод">6424002021353</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8205510000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1079966" available="true">
         <url>https://fiskars-gratis.com.ua/terka-extra-dribna/</url>
         <price>789</price>
+        <price_old>875</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -6497,11 +6587,13 @@
         <param name="Штрихкод">6424002021360</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8205510000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1079967" available="true">
         <url>https://fiskars-gratis.com.ua/terka-dribna/</url>
         <price>789</price>
+        <price_old>875</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -6542,11 +6634,13 @@
         <param name="Штрихкод">6424002021377</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8205510000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
       <offer id="1079968" available="true">
         <url>https://fiskars-gratis.com.ua/terka-krupna/</url>
         <price>789</price>
+        <price_old>875</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -6587,6 +6681,7 @@
         <param name="Штрихкод">6424002021384</param>
         <param name="Бренд">Fiskars</param>
         <param name="Стан товару">Новий</param>
+        <param name="Код УКТ ЗЕД">8205510000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
     </offers>

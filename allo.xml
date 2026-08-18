@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-17 23:46</date>
+    <date>2026-08-18 01:09</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -3762,7 +3762,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">24</param>
             <param name="Штрихкод">6424002020646</param>
-            <param name="Код УКТ ЗЕД">7323 93 00 00</param>
+            <param name="Код УКТ ЗЕД">7323930000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди / Сковороди Fiskars All Steel</param>
             <condition>0</condition>
         </item>
@@ -3797,7 +3797,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">24</param>
             <param name="Штрихкод">6424002020677</param>
-            <param name="Код УКТ ЗЕД">7323 93 00 00</param>
+            <param name="Код УКТ ЗЕД">7323930000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди / Сковороди Fiskars All Steel</param>
             <condition>0</condition>
         </item>
@@ -3833,6 +3833,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002015888</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -3870,6 +3871,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002015895</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -3905,6 +3907,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002015901</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -3940,6 +3943,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002020295</param>
+            <param name="Код УКТ ЗЕД">7323920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -3975,6 +3979,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002020301</param>
+            <param name="Код УКТ ЗЕД">7323920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4010,6 +4015,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002020318</param>
+            <param name="Код УКТ ЗЕД">7323920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4046,6 +4052,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002018742</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4082,6 +4089,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002018759</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4118,6 +4126,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002019879</param>
+            <param name="Код УКТ ЗЕД">7615108000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4154,6 +4163,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002019893</param>
+            <param name="Код УКТ ЗЕД">7615108000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4189,6 +4199,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002019909</param>
+            <param name="Код УКТ ЗЕД">7615108000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4225,6 +4236,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002019923</param>
+            <param name="Код УКТ ЗЕД">7615108000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4262,6 +4274,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002017035</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4298,6 +4311,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002017073</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4336,6 +4350,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002017042</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4372,6 +4387,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002008866</param>
+            <param name="Код УКТ ЗЕД">7323920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4407,6 +4423,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002008873</param>
+            <param name="Код УКТ ЗЕД">7323920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4445,6 +4462,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002008897</param>
+            <param name="Код УКТ ЗЕД">7323920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4479,6 +4497,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002016700</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
             <condition>0</condition>
         </item>
@@ -4623,6 +4642,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002014980</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
             <condition>0</condition>
         </item>
@@ -4659,6 +4679,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002014997</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
             <condition>0</condition>
         </item>
@@ -4694,6 +4715,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002020325</param>
+            <param name="Код УКТ ЗЕД">7323920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
             <condition>0</condition>
         </item>
@@ -4731,6 +4753,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002018803</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
             <condition>0</condition>
         </item>
@@ -4766,6 +4789,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002019961</param>
+            <param name="Код УКТ ЗЕД">7615108000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
             <condition>0</condition>
         </item>
@@ -4802,6 +4826,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002017141</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Каструлі</param>
             <condition>0</condition>
         </item>
@@ -10209,7 +10234,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">12</param>
             <param name="Штрихкод">6424002001614</param>
-            <param name="Код УКТ ЗЕД">8214 90 00 00</param>
+            <param name="Код УКТ ЗЕД">8214900000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі / Кухонні ножі Fiskars Functional Form</param>
             <condition>0</condition>
         </item>
@@ -10272,7 +10297,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">12</param>
-            <param name="Код УКТ ЗЕД">8204 20 00 00</param>
+            <param name="Код УКТ ЗЕД">8204200000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10295,7 +10320,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">12</param>
             <param name="Штрихкод">6424002002499</param>
-            <param name="Код УКТ ЗЕД">8204 20 00 00</param>
+            <param name="Код УКТ ЗЕД">8204200000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10337,7 +10362,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">12</param>
             <param name="Штрихкод">6424002002475</param>
-            <param name="Код УКТ ЗЕД">8211 92 00 00</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10421,6 +10446,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021278</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10456,6 +10482,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021285</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10491,6 +10518,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021292</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10526,6 +10554,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021308</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10559,6 +10588,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021315</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10594,6 +10624,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002012979</param>
+            <param name="Код УКТ ЗЕД">8211100000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10629,6 +10660,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002012993</param>
+            <param name="Код УКТ ЗЕД">8211100000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10663,6 +10695,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002012870</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10696,6 +10729,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002012894</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10729,6 +10763,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002012795</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10762,6 +10797,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002015574</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10796,6 +10832,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002020349</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10826,6 +10863,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">8008220042482</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
             <condition>0</condition>
         </item>
@@ -10940,6 +10978,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002019947</param>
+            <param name="Код УКТ ЗЕД">7615108000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сотейники</param>
             <condition>0</condition>
         </item>
@@ -10977,6 +11016,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002017127</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сотейники</param>
             <condition>0</condition>
         </item>
@@ -11012,6 +11052,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002018780</param>
+            <param name="Код УКТ ЗЕД">7323930090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сотейники</param>
             <condition>0</condition>
         </item>
@@ -12811,7 +12852,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">12</param>
             <param name="Штрихкод">5010624437491</param>
-            <param name="Код УКТ ЗЕД">8215 99 10 00</param>
+            <param name="Код УКТ ЗЕД">8215991000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -12978,7 +13019,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002016328</param>
-            <param name="Код УКТ ЗЕД">7323 93 00 00</param>
+            <param name="Код УКТ ЗЕД">7323930000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13037,7 +13078,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">12</param>
             <param name="Штрихкод">6424002016489</param>
-            <param name="Код УКТ ЗЕД">8215 99 10 00</param>
+            <param name="Код УКТ ЗЕД">8215991000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars</param>
             <condition>0</condition>
         </item>
@@ -13187,7 +13228,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">12</param>
             <param name="Штрихкод">6424002016281</param>
-            <param name="Код УКТ ЗЕД">8215 99 10 00</param>
+            <param name="Код УКТ ЗЕД">8215991000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13235,7 +13276,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">12</param>
             <param name="Штрихкод">6424002016267</param>
-            <param name="Код УКТ ЗЕД">8215 99 10 00</param>
+            <param name="Код УКТ ЗЕД">8215991000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13459,7 +13500,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">60</param>
             <param name="Штрихкод">6424002015727</param>
-            <param name="Код УКТ ЗЕД">3924 10 00 90</param>
+            <param name="Код УКТ ЗЕД">3924100090</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13506,7 +13547,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">24</param>
             <param name="Штрихкод">6424002002420</param>
-            <param name="Код УКТ ЗЕД">8211 92 00 00</param>
+            <param name="Код УКТ ЗЕД">8211920000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13541,7 +13582,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">60</param>
             <param name="Штрихкод">6424002000907</param>
-            <param name="Код УКТ ЗЕД">8205 51 00 00</param>
+            <param name="Код УКТ ЗЕД">8205510000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars</param>
             <condition>0</condition>
         </item>
@@ -13572,7 +13613,7 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">24</param>
             <param name="Штрихкод">6424002000891</param>
-            <param name="Код УКТ ЗЕД">8215 99 10 00</param>
+            <param name="Код УКТ ЗЕД">8215991000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13642,6 +13683,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021322</param>
+            <param name="Код УКТ ЗЕД">8205510000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13678,6 +13720,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021346</param>
+            <param name="Код УКТ ЗЕД">8205510000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13713,6 +13756,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021353</param>
+            <param name="Код УКТ ЗЕД">8205510000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13748,6 +13792,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021360</param>
+            <param name="Код УКТ ЗЕД">8205510000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13784,6 +13829,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021377</param>
+            <param name="Код УКТ ЗЕД">8205510000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
@@ -13820,6 +13866,7 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6424002021384</param>
+            <param name="Код УКТ ЗЕД">8205510000</param>
             <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
             <condition>0</condition>
         </item>
