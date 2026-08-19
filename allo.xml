@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-18 23:46</date>
+    <date>2026-08-19 01:11</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -873,7 +873,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-92481688276251_+1dd47097eb.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-38348334293020_+adfab19384.jpg</image>
             <priceRUAH>1199</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1066715</param>
             <param name="Бренд">Fiskars</param>
@@ -1385,7 +1385,7 @@
             <url>https://fiskars-gratis.com.ua/lopata-drenazhna-klasychna-fiskars-fsc-1071921/</url>
             <image>https://fiskars-gratis.com.ua/content/images/42/lopata-drenazhna-klasychna-fiskars-fsc-1071921-86449683880347_+878831c293.jpg</image>
             <priceRUAH>799</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1071921</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -1414,7 +1414,7 @@
             <url>https://fiskars-gratis.com.ua/lopata-shtykova-zahostrena-fiskars-1071927/</url>
             <image>https://fiskars-gratis.com.ua/content/images/43/lopata-shtykova-zahostrena-fiskars-1071927-20380707249706_+d458073775.jpg</image>
             <priceRUAH>599</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1071927</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -2455,7 +2455,7 @@
             <url>https://fiskars-gratis.com.ua/sekator-ploshchynnyi-fiskars-solid-m-p321-1057162/</url>
             <image>https://fiskars-gratis.com.ua/content/images/50/sekator-ploshchynnyi-fiskars-solid-m-p321-1057162-98393035338109_+022dbe4bcb.jpg</image>
             <priceRUAH>699</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1057162</param>
             <param name="Бренд">Fiskars</param>
@@ -2778,7 +2778,7 @@
             <url>https://fiskars-gratis.com.ua/nabir-fiskars-mitla-dvorova-m-hrabli-solid-1056927/</url>
             <image>https://fiskars-gratis.com.ua/content/images/30/nabir-fiskars-mitla-dvorova-m-hrabli-solid-1056927-82433085609314_+55060e055c.jpg</image>
             <priceRUAH>1199</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1056927</param>
             <param name="Бренд">Fiskars</param>
@@ -3067,6 +3067,37 @@
             <param name="Оригінальність">Оригінал</param>
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6411501357151</param>
+            <param name="Код УКТ ЗЕД">8201 10 00 90</param>
+            <param name="Категорія Хорошоп">FISKARS / Садовий інвентар Fiskars / Граблі для саду</param>
+            <condition>0</condition>
+        </item>
+        <item>
+            <id>1025578</id>
+            <categoryId>14</categoryId>
+            <code>1025578</code>
+            <barcode>6411501310361</barcode>
+            <vendor>Fiskars</vendor>
+            <name>Граблі класичні для листя XL FSC (1025578)</name>
+            <description><![CDATA[<section data-testid="conversation-turn-55" data-turn="user" data-turn-id="62cba976-c263-41cb-8d10-5629e9c791e4" data-turn-id-container="62cba976-c263-41cb-8d10-5629e9c791e4" dir="auto"><span style="font-size: 18px;"><strong data-end="54" data-start="0">Граблі класичні для листя XL Fiskars FSC (1025578)</strong> </span><span style="font-size: 14px;">&mdash; ручний садовий інструмент для збирання листя, сухої трави та інших рослинних залишків на великих відкритих ділянках. Використовуються для сезонного прибирання саду, газону та прибудинкової території, де необхідно швидко очищати значні площі поверхні.</span></section>
+
+<section data-testid="conversation-turn-56" data-turn="assistant" data-turn-id="request-69b34cbf-a33c-8331-8c2a-2d7e0ab1d4ae-13" data-turn-id-container="request-69b34cbf-a33c-8331-8c2a-2d7e0ab1d4ae-13" dir="auto">
+<p data-end="512" data-start="311"><span style="font-size:18px;"><strong data-end="327" data-start="311">Призначення:</strong></span><span style="font-size:14px;"> підходять для збирання опалого листя, скошеної трави, дрібних гілок і сухих рослинних залишків, а також для очищення газонів, садових доріжок, квітників і зон навколо дерев та кущів.</span></p>
+
+<p data-end="884" data-start="514"><span style="font-size:18px;"><strong data-end="530" data-start="514">Конструкція:</strong> </span><span style="font-size:14px;">збільшена віялоподібна робоча частина формату XL оснащена гнучкими зубцями, які дозволяють охоплювати широку площу за один прохід і делікатно збирати легкі органічні матеріали без пошкодження газонного покриття. Подовжений держак забезпечує роботу у вертикальному положенні та сприяє рівномірному розподілу навантаження під час тривалого використання.</span></p>
+
+<p data-end="1135" data-start="886"><span style="font-size:18px;"><strong data-end="900" data-start="886">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена з міцного полімерного матеріалу, стійкого до вологи, ультрафіолетового випромінювання та регулярних навантажень. Держак має надійну конструкцію, розраховану на систематичне використання у зовнішніх умовах.</span></p>
+
+<p data-end="1314" data-is-last-node="" data-is-only-node="" data-start="1137"><span style="font-size:18px;"><strong data-end="1153" data-start="1137">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії FSC бренду Fiskars і призначена для регулярного виконання сезонних робіт із догляду за великими садовими та прибудинковими територіями.</span></p>
+</section>]]></description>
+            <url>https://fiskars-gratis.com.ua/hrabli-klasychni-dlia-lystia-xl-fsc-1025578/</url>
+            <image>https://fiskars-gratis.com.ua/content/images/49/hrabli-klasychni-dlia-lystia-xl-fsc-1025578-86208153535294_+842a0f52ba.png</image>
+            <priceRUAH>1600</priceRUAH>
+            <stock>В наявності</stock>
+            <param name="Артикул">1025578</param>
+            <param name="Бренд">Fiskars</param>
+            <param name="Оригінальність">Оригінал</param>
+            <param name="Стан товару">Новий</param>
+            <param name="Штрихкод">6411501310361</param>
             <param name="Код УКТ ЗЕД">8201 10 00 90</param>
             <param name="Категорія Хорошоп">FISKARS / Садовий інвентар Fiskars / Граблі для саду</param>
             <condition>0</condition>
@@ -4850,7 +4881,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-kushchiv-white-hs53-71132572285209_+882627d13f.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-kushchiv-white-hs53-36546715681451_+52c8a0d24a.jpg</image>
             <priceRUAH>2099</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1026931</param>
             <param name="Бренд">Fiskars</param>
@@ -5128,7 +5159,7 @@
             <code>1001538</code>
             <barcode>6411501110503</barcode>
             <vendor>Fiskars</vendor>
-            <name>Ножиці Fiskars Classic 25 см | 1001538</name>
+            <name>Ножиці садові Fiskars Classic 25 см | 1001538</name>
             <description><![CDATA[<p>
 <style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
 </style>
@@ -5433,7 +5464,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip-71566431559076_+a21b53afc8.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip-84043187414663_+b02e132407.png</image>
             <priceRUAH>1085</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1005153</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -5475,7 +5506,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/49/nozhytsi-dlia-shyttia-fiskars-classic-25-sm-1024882-70203036794843_+623dc399a0.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/49/nozhytsi-dlia-shyttia-fiskars-classic-25-sm-1024882-21543992477374_+287ef83e79.png</image>
             <priceRUAH>2129</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1024882</param>
             <param name="Бренд">Fiskars</param>
@@ -6044,7 +6075,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-65833975945833_+0f8c2d2fb0.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-40102398333876_+60290554be.jpeg</image>
             <priceRUAH>999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1001622106119</param>
             <param name="Бренд">Fiskars</param>
@@ -8527,7 +8558,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/13/nabir-nizh-fileinyi-gerber-ceviche-9-nizh-topirets-gerber-downwind-18842804433299_+83b8e3fd8c.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/13/nabir-nizh-fileinyi-gerber-ceviche-9-nizh-topirets-gerber-downwind-51864162804805_+0a962713c4.png</image>
             <priceRUAH>1599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1063145105984</param>
             <param name="Бренд">Gerber</param>
@@ -8556,7 +8587,7 @@
             <url>https://fiskars-gratis.com.ua/tochylo-dlia-sokyr-ta-nozhiv-xsharp/</url>
             <image>https://fiskars-gratis.com.ua/content/images/29/tochylo-dlia-sokyr-ta-nozhiv-xsharp-59972761299982_+3c6707bfc4.jpg</image>
             <priceRUAH>799</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1000601</param>
             <param name="Бренд">Fiskars</param>
@@ -9070,7 +9101,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/50/nizh-skladnyi-paraframe-i-fe-bl-56356980182826_+18d94d8842.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/50/nizh-skladnyi-paraframe-i-fe-bl-76551390120962_+781ef1a419.jpg</image>
             <priceRUAH>1499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1013969</param>
             <param name="Бренд">Gerber</param>
@@ -11682,7 +11713,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/5/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553-41850968687303_+a0e0f8cd43.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/5/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553-25024222887881_+ee7c4b2b58.jpg</image>
             <priceRUAH>3599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1001553</param>
             <param name="Бренд">Fiskars</param>
