@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-20 23:50</date>
+    <date>2026-08-21 01:14</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -675,7 +675,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/11/sokyra-turystychna-xs-kh7-f-45034158709676_+1aa29d4679.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/11/sokyra-turystychna-xs-kh7-f-34822213932322_+f1fdc378a0.png</image>
             <priceRUAH>2899</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1015618</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -4881,7 +4881,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-kushchiv-white-hs53-71132572285209_+882627d13f.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-kushchiv-white-hs53-36546715681451_+52c8a0d24a.jpg</image>
             <priceRUAH>2099</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1026931</param>
             <param name="Бренд">Fiskars</param>
@@ -5178,7 +5178,6 @@
 <p data-end="1122" data-start="1061"><strong data-end="1078" data-start="1061">Комплектація:</strong>&nbsp;ножиці садові Fiskars Classic 25 см &mdash; 1 шт.</p>]]></description>
             <url>https://fiskars-gratis.com.ua/nozhytsi-fiskars-classic-25-sm-1001538/</url>
             <image>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</image>
-            <image>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-76565072976754_+282e136174.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</image>
             <priceRUAH>1899</priceRUAH>
             <stock>В наявності</stock>
@@ -6875,7 +6874,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/23/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-46902928562202_+aeaf3245a1.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/23/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-72144843768515_+daec49a746.jpeg</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1027528101477</param>
             <param name="Бренд">Fiskars</param>
@@ -7759,7 +7758,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-65393682270740_+57e1726ea8.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-45782481694720_+a3a1761f53.png</image>
             <priceRUAH>1549</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1026931102691</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
