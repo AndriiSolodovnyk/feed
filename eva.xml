@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-21 23:48">
+<yml_catalog date="2026-08-22 01:10">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -4267,6 +4267,47 @@
         <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
+      <offer id="1000778" available="true">
+        <url>https://fiskars-gratis.com.ua/nizh-fiskars-lifestyle/</url>
+        <price>399</price>
+        <price_old>486</price_old>
+        <stock_quantity>9</stock_quantity>
+        <currencyId>UAH</currencyId>
+        <categoryId>1005</categoryId>
+        <picture>https://fiskars-gratis.com.ua/content/images/21/nizh-fiskars-lifestyle-92564604568039_+4c8abe6a92.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/21/nizh-fiskars-lifestyle-72227222820687_+47810f17c2.png</picture>
+        <vendor>Fiskars</vendor>
+        <article>1000778</article>
+        <name>Ніж Фіскарс Lifestyle</name>
+        <name_ua>Ніж Фіскарс Lifestyle</name_ua>
+        <description><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Ніж Fiskars Lifestyle (1000778)</b>&nbsp;&mdash; універсальний та практичний кухонний ніж, призначений для щоденного нарізання, очищення та обробки різноманітних продуктів. Завдяки збалансованій формі леза й легкій вазі інструмент забезпечує високу точність та комфорт під час кулінарних робіт.&nbsp;</p>
+
+<p><b data-index-in-node="295" data-path-to-node="0">Призначення:</b>&nbsp;використовується на домашній та професійній кухні для нарізання овочів, фруктів, зелені, сиру, м&rsquo;ясних і рибних делікатесів, а також для дрібного подрібнення та підготовки інгредієнтів.&nbsp;</p>
+
+<p><b data-index-in-node="494" data-path-to-node="0">Конструкція:</b>&nbsp;лезо з оптимальною товщиною забезпечує плавність ходу й акуратний зріз. Ергономічна рукоятка з розширенням на кінці розроблена для надійного утримання долонею та запобігання випадковому совганню пальців на ріжучу кромку.&nbsp;</p>
+
+<p><b data-index-in-node="728" data-path-to-node="0">Матеріали:</b>&nbsp;лезо виготовлене з якісної нержавіючої сталі високої твердості, стійкої до корозії та зношування. Рукоятка виконана з ударостійкого та гігієнічного поліпропілену.&nbsp;</p>
+
+<p><b data-index-in-node="902" data-path-to-node="0">Особливості:</b>&nbsp;ніж довго зберігає гостроту й легко піддається заточуванню. Гладка поверхня рукоятки не вбирає запахи та легко миється, зокрема у посудомийній машині. Легка вага інструмента зменшує втому кисті при тривалій підготовці продуктів.&nbsp;</p>
+
+<p><b data-index-in-node="1144" data-path-to-node="0">Комплектація:</b>&nbsp;ніж Fiskars Lifestyle (1000778) &mdash; 1 шт.</p>]]></description>
+        <description_ua><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Ніж Fiskars Lifestyle (1000778)</b>&nbsp;&mdash; універсальний та практичний кухонний ніж, призначений для щоденного нарізання, очищення та обробки різноманітних продуктів. Завдяки збалансованій формі леза й легкій вазі інструмент забезпечує високу точність та комфорт під час кулінарних робіт.&nbsp;</p>
+
+<p><b data-index-in-node="295" data-path-to-node="0">Призначення:</b>&nbsp;використовується на домашній та професійній кухні для нарізання овочів, фруктів, зелені, сиру, м&rsquo;ясних і рибних делікатесів, а також для дрібного подрібнення та підготовки інгредієнтів.&nbsp;</p>
+
+<p><b data-index-in-node="494" data-path-to-node="0">Конструкція:</b>&nbsp;лезо з оптимальною товщиною забезпечує плавність ходу й акуратний зріз. Ергономічна рукоятка з розширенням на кінці розроблена для надійного утримання долонею та запобігання випадковому совганню пальців на ріжучу кромку.&nbsp;</p>
+
+<p><b data-index-in-node="728" data-path-to-node="0">Матеріали:</b>&nbsp;лезо виготовлене з якісної нержавіючої сталі високої твердості, стійкої до корозії та зношування. Рукоятка виконана з ударостійкого та гігієнічного поліпропілену.&nbsp;</p>
+
+<p><b data-index-in-node="902" data-path-to-node="0">Особливості:</b>&nbsp;ніж довго зберігає гостроту й легко піддається заточуванню. Гладка поверхня рукоятки не вбирає запахи та легко миється, зокрема у посудомийній машині. Легка вага інструмента зменшує втому кисті при тривалій підготовці продуктів.&nbsp;</p>
+
+<p><b data-index-in-node="1144" data-path-to-node="0">Комплектація:</b>&nbsp;ніж Fiskars Lifestyle (1000778) &mdash; 1 шт.</p>]]></description_ua>
+        <param name="Артикул">1000778</param>
+        <param name="Штрихкод">5010624440880</param>
+        <param name="Бренд">Fiskars</param>
+        <param name="Стан товару">Новий</param>
+        <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
+      </offer>
       <offer id="1023752" available="false">
         <url>https://fiskars-gratis.com.ua/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-1023752/</url>
         <price>2999</price>
@@ -4557,7 +4598,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-brelok-vidkryvachka-gerber-shardxl-topo-4l-1064441/</url>
         <price>499</price>
         <price_old>1239</price_old>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/multytul-brelok-vidkryvachka-gerber-shardxl-topo-4l-1064441-74352534279192_+fa1939e922.jpg</picture>
@@ -5218,6 +5259,49 @@
         <param name="Стан товару">Новий</param>
         <param name="Гарантійний строк, міс.">12</param>
         <param name="Код УКТ ЗЕД">8202 10 00 00</param>
+        <param name="Категорія Хорошоп">GERBER / Пили Gerber</param>
+      </offer>
+      <offer id="1052025" available="false">
+        <url>https://fiskars-gratis.com.ua/nizh-machete-versafix-pro-chervonyi/</url>
+        <price>1999</price>
+        <price_old>2499</price_old>
+        <stock_quantity>0</stock_quantity>
+        <currencyId>UAH</currencyId>
+        <categoryId>1008</categoryId>
+        <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-machete-versafix-pro-chervonyi-67277923268865_+725595a8a7.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-machete-versafix-pro-chervonyi-72694023508051_+d7c0ee1949.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-machete-versafix-pro-chervonyi-78220498340357_+990d1d8f34.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-machete-versafix-pro-chervonyi-89722054605527_+4aec571f35.png</picture>
+        <vendor>Gerber</vendor>
+        <article>1052025</article>
+        <name>Ніж-мачете Versafix Pro червоний</name>
+        <name_ua>Ніж-мачете Versafix Pro червоний</name_ua>
+        <description><![CDATA[<p><span style="font-size:16px;"><b data-index-in-node="15" data-path-to-node="0">Ніж-мачете Versafix Pro червоний (1052025)</b>&nbsp;&mdash; універсальний і міцний інструмент, призначений для розчищення території, заготовлення дров та виконання завдань у польових умовах. Завдяки продуманому балансу та зміщеному центру ваги він поєднує в собі функції ножа, сокири та мачете, дозволяючи виконувати складні роботи з меншими витратами зусиль.&nbsp;</span></p>
+
+<p><span style="font-size:16px;"><b data-index-in-node="360" data-path-to-node="0">Призначення:</b>&nbsp;підходить для рубання гілок, чагарників, густої рослинності, розщеплення деревини для багаття, а також для точного нарізання матеріалів під час походів, полювання, риболовлі та облаштування табору чи садової ділянки.&nbsp;</span></p>
+
+<p><span style="font-size:16px;"><b data-index-in-node="590" data-path-to-node="0">Конструкція:</b>&nbsp;гібридне лезо зі збільшеною товщиною у передній частині забезпечує потужний рубаючий удар, а завужена основа біля рукоятки дозволяє точно контролювати дрібні різи. Повнорозмірний хвостовик (Full Tang) проходить крізь усю рукоятку для максимальної міцності. Ергономічні ручки з вираженими упорами та текстурованою поверхнею запобігають ковзанню долоні.&nbsp;</span></p>
+
+<p><span style="font-size:16px;"><b data-index-in-node="955" data-path-to-node="0">Матеріали:</b>&nbsp;лезо виготовлене з високовуглецевої нержавіючої сталі зі спеціальним захисним покриттям. Рукоятка виконана з зносостійкого термопластичного каучуку (TPR) яскраво-червоного та чорного кольорів. Захисний чохол виготовлений з ударостійкого пластику.&nbsp;</span></p>
+
+<p><span style="font-size:16px;"><b data-index-in-node="1213" data-path-to-node="0">Особливості:</b>&nbsp;технологічна форма леза забезпечує максимальну ефективність при рубанні. Яскраве червоне виконання ручки полегшує пошук інструмента в траві чи темряві. На обуху передбачені спеціальні насічки для зручного упору великим пальцем при детальному різанні. Вентильований чохол оснащений надійним кріпленням для зручного носіння на ремені чи спорядженні.&nbsp;</span></p>
+
+<p><span style="font-size:16px;"><b data-index-in-node="1574" data-path-to-node="0">Комплектація:</b>&nbsp;ніж-мачете Versafix Pro червоний (1052025) &mdash; 1 шт., захисний пластиковий чохол з кріпленням на ремінь &mdash; 1 шт.</span></p>]]></description>
+        <description_ua><![CDATA[<p><span style="font-size:16px;"><b data-index-in-node="15" data-path-to-node="0">Ніж-мачете Versafix Pro червоний (1052025)</b>&nbsp;&mdash; універсальний і міцний інструмент, призначений для розчищення території, заготовлення дров та виконання завдань у польових умовах. Завдяки продуманому балансу та зміщеному центру ваги він поєднує в собі функції ножа, сокири та мачете, дозволяючи виконувати складні роботи з меншими витратами зусиль.&nbsp;</span></p>
+
+<p><span style="font-size:16px;"><b data-index-in-node="360" data-path-to-node="0">Призначення:</b>&nbsp;підходить для рубання гілок, чагарників, густої рослинності, розщеплення деревини для багаття, а також для точного нарізання матеріалів під час походів, полювання, риболовлі та облаштування табору чи садової ділянки.&nbsp;</span></p>
+
+<p><span style="font-size:16px;"><b data-index-in-node="590" data-path-to-node="0">Конструкція:</b>&nbsp;гібридне лезо зі збільшеною товщиною у передній частині забезпечує потужний рубаючий удар, а завужена основа біля рукоятки дозволяє точно контролювати дрібні різи. Повнорозмірний хвостовик (Full Tang) проходить крізь усю рукоятку для максимальної міцності. Ергономічні ручки з вираженими упорами та текстурованою поверхнею запобігають ковзанню долоні.&nbsp;</span></p>
+
+<p><span style="font-size:16px;"><b data-index-in-node="955" data-path-to-node="0">Матеріали:</b>&nbsp;лезо виготовлене з високовуглецевої нержавіючої сталі зі спеціальним захисним покриттям. Рукоятка виконана з зносостійкого термопластичного каучуку (TPR) яскраво-червоного та чорного кольорів. Захисний чохол виготовлений з ударостійкого пластику.&nbsp;</span></p>
+
+<p><span style="font-size:16px;"><b data-index-in-node="1213" data-path-to-node="0">Особливості:</b>&nbsp;технологічна форма леза забезпечує максимальну ефективність при рубанні. Яскраве червоне виконання ручки полегшує пошук інструмента в траві чи темряві. На обуху передбачені спеціальні насічки для зручного упору великим пальцем при детальному різанні. Вентильований чохол оснащений надійним кріпленням для зручного носіння на ремені чи спорядженні.&nbsp;</span></p>
+
+<p><span style="font-size:16px;"><b data-index-in-node="1574" data-path-to-node="0">Комплектація:</b>&nbsp;ніж-мачете Versafix Pro червоний (1052025) &mdash; 1 шт., захисний пластиковий чохол з кріпленням на ремінь &mdash; 1 шт.</span></p>]]></description_ua>
+        <param name="Артикул">1052025</param>
+        <param name="Штрихкод">13658154551</param>
+        <param name="Бренд">Gerber</param>
+        <param name="Стан товару">Новий</param>
         <param name="Категорія Хорошоп">GERBER / Пили Gerber</param>
       </offer>
       <offer id="40033792" available="true">
