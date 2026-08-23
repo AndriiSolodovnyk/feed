@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-22 23:44">
+<yml_catalog date="2026-08-23 01:16">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -2513,7 +2513,7 @@
       <offer id="1000776" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-fiskars-lifestyle-3-shtuky-1000776/</url>
         <price>899</price>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nabir-nozhiv-fiskars-lifestyle-3-shtuky-1000776-58683508883471_+c7b9e7d877.jpg</picture>
@@ -2638,6 +2638,8 @@
         <currencyId>UAH</currencyId>
         <categoryId>1007</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/nizh-gerber-ceviche-7eboxgrnblk-1063144-39831877532524_+da92454f0c.jpg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/27/nizh-gerber-ceviche-7eboxgrnblk-1063144-95421664816710_+a49e24d269.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/27/nizh-gerber-ceviche-7eboxgrnblk-1063144-76280017645396_+acb88baaa3.png</picture>
         <vendor>Gerber</vendor>
         <article>1063144</article>
         <name>Ніж Gerber Ceviche 7&quot;,E,Box,GRN,BLK (1063144)</name>
@@ -2675,6 +2677,7 @@
         <currencyId>UAH</currencyId>
         <categoryId>1007</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/nizh-gerber-ceviche-9eboxgrnblk-1063145-79499331646641_+dd95122288.jpg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/nizh-gerber-ceviche-9eboxgrnblk-1063145-53330638767826_+d3d0dde12a.png</picture>
         <vendor>Gerber</vendor>
         <article>1063145</article>
         <name>Ніж Gerber Ceviche 9&quot;,E,Box,GRN,BLK (1063145)</name>
@@ -2755,8 +2758,8 @@
         <currencyId>UAH</currencyId>
         <categoryId>1007</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/nizh-fileinyi-gerber-controller-6-box-1052470-49966343003451_+60d0e6ba17.jpg</picture>
-        <picture>https://fiskars-gratis.com.ua/content/images/30/nizh-fileinyi-gerber-controller-6-box-1052470-83491308992214_+89de3f555f.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/30/nizh-fileinyi-gerber-controller-6-box-1052470-58018090992218_+e26a80350f.jpg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/30/nizh-fileinyi-gerber-controller-6-box-1052470-71099248468901_+ce51995f7a.png</picture>
         <vendor>Gerber</vendor>
         <article>1052470</article>
         <name>Ніж філейний Gerber Controller 6&quot; BOX (1052470)</name>
@@ -4682,7 +4685,7 @@
       <offer id="1059837" available="true">
         <url>https://fiskars-gratis.com.ua/multytul-gerber-stakeout16lboxslvr-1059837/</url>
         <price>2999</price>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/multytul-gerber-stakeout16lboxslvr-1059837-62733526721125_+d98612cec8.jpg</picture>
@@ -4987,7 +4990,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-lockdown-slim16lbox-1059836/</url>
         <price>1999</price>
         <price_old>2389</price_old>
-        <stock_quantity>324</stock_quantity>
+        <stock_quantity>323</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-59251443973745_+9a8ef0fa11.jpg</picture>
