@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-23 23:45</date>
+    <date>2026-08-24 01:13</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -6261,7 +6261,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-66916425470168_+3a7ed44191.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-23911259799649_+e6cfc8a5be.jpeg</image>
             <priceRUAH>2999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1052240107504</param>
             <param name="Бренд">Fiskars</param>
@@ -6405,7 +6405,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-65833975945833_+0f8c2d2fb0.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-40102398333876_+60290554be.jpeg</image>
             <priceRUAH>999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1001622106119</param>
             <param name="Бренд">Fiskars</param>
