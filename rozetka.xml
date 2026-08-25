@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-25T23:23:55.068Z">
+<yml_catalog date="2026-08-25T23:37:06.587Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -229,7 +229,7 @@
       <offer id="1052276" available="true">
         <name><![CDATA[Подарунковий набір Fiskars Norden chopping axe N10 + sharpener SET 1052276]]></name>
         <price>3999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-96933841307303_+2ea2f4228a.png</picture>
         <description><![CDATA[<p>
@@ -3926,7 +3926,7 @@
       <offer id="1051085102691" available="true">
         <name><![CDATA[Набір Fiskars: сокира Solid A10 + ножиці GS41 | 1051085, 1026917]]></name>
         <price>2499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-tesliarska-fiskars-solid-a10-nozhytsi-dlia-travy-white-gs41-88435114741861_+9c4c08ab23.jpg</picture>
         <description><![CDATA[<p dir="ltr"><span style="font-size:18px;">Набір Fiskars</span><span style="font-size:14px;"> (<strong>штрихкод&nbsp;5907222066126)</strong></span><span style="font-size:18px;"> для роботи з деревиною та догляду за газоном. Практичне рішення для дому, саду та виїздів на природу.</span></p>
@@ -3984,7 +3984,7 @@
       <offer id="1001622106119" available="false">
         <name><![CDATA[Набір Fiskars: ніж загального призначення K40 Fiskars + ніж складаний Fiskars CarbonMax]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/nizh-zahalnoho-pryznachennia-k40-fiskars-podarunok-nizh-skladanyi-fiskars-carbonmax-87701059434987_+b592b5af76.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><strong><span style="font-size:14px;">( штрихкод 5907222066133&nbsp;)&nbsp;</span></strong><span style="font-size:18px;">для повсякденних та виїзних задач. Практичне рішення для дому, майстерні та активного відпочинку.</span></p>
@@ -4032,7 +4032,7 @@
       <offer id="1026931102693" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів Fiskars White HS53 + Гілкоріз білий White L32]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-53694152285206_+37c40f9a10.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066140)</strong></span><span style="font-size:18px;"> для догляду за кущами та деревами.Практичне рішення для формування, обрізання та підтримки порядку на ділянці</span>.</p>
@@ -4077,7 +4077,7 @@
       <offer id="1023739100077" available="true">
         <name><![CDATA[Комплект Fiskars: Сковорода Rotisser 24 см + Набір ножів в дерев'яному блоці Kitchen Devil]]></name>
         <price>2529</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-20174288914803_+21bb746d43.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066157)</strong></span><span style="font-size:18px;"> для приготування та нарізки продуктів.&nbsp;Ідеальний комплект для тих, хто хоче закрити всі задачі на кухні &mdash; від смаження до точної нарізки.</span></p>
@@ -4181,7 +4181,7 @@
       <offer id="1026916101477" available="true">
         <name><![CDATA[Набір Fiskars: Секатор площинний White P57 + Лопата садова штикова Classic FSC]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/sekator-ploshchynnyi-fiskars-white-p57-podarunok-lopata-sadova-shtykova-classic-fsc-31311812596551_+66e2a3862a.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><strong><span style="font-size:14px;">(штрихкод 5907222066171)</span></strong><span style="font-size:18px;"> для догляду за садом і роботи з ґрунтом &mdash; базові інструменти для обрізки та перекопування в одному комплекті. </span></p>
@@ -4226,7 +4226,7 @@
       <offer id="1000773105909" available="true">
         <name><![CDATA[Комплект FISKARS: Набір ножів в деревяному блоці Kitchen Devil + Сковорода Steel 28 см]]></name>
         <price>3499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-32125989159834_+30647d96da.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066188)</strong></span><span style="font-size:18px;"> для повноцінного приготування їжі &mdash; усе необхідне для смаження та точної нарізки в одному комплекті. </span></p>
@@ -4282,7 +4282,7 @@
       <offer id="1059836105536" available="true">
         <name><![CDATA[Набір Мультитул Gerber Lockdown Slim 16L + Ніж складаний Asada]]></name>
         <price>1599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/46/multytul-gerber-lockdown-slim16lbox-podarunok-nizh-skladanyi-asada-34372247253003_+ebdca2ede6.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Gerber </span><strong><span style="font-size:14px;">(штрихкод 5907222066195)</span></strong><span style="font-size:18px;"> для повсякденних та виїзних задач.Практичне рішення для щоденного використання, роботи та активного відпочинку. </span></p>
@@ -4328,7 +4328,7 @@
       <offer id="1001553105536" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз площинний PowerGear M L76 + Ніж складаний Gerber Asada]]></name>
         <price>3599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-30544758468568_+f62d0c22e8.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><strong><span style="font-size:14px;">(штрихкод 5907222066201)</span></strong><span style="font-size:18px;"> для тих, хто хоче впевнено закривати задачі в саду та мати під рукою надійний інструмент для повсякденного використання.</span></p>
@@ -4372,7 +4372,7 @@
       <offer id="1073084101477" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз телескопічний UPN86 + Лопата садова штикова Classic FSC]]></name>
         <price>5999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-39397356610769_+af09aacc5b.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066218)</strong></span><span style="font-size:18px;"> для догляду за деревами та роботи з ґрунтом. Практичне рішення для саду та щоденного використання.</span></p>
@@ -4418,7 +4418,7 @@
       <offer id="1015642105983" available="true">
         <name><![CDATA[Набір Fiskars: Сокира-колун Fiskars L Х21 + Мультитул Gerber Lockdown Slim 16L]]></name>
         <price>3599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox-93226855119976_+5d5a3d88f3.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066225)</strong></span><span style="font-size:18px;"> для роботи з деревиною та універсальних задач. Практичне рішення для дому, саду та виїздів на природу.</span></p>
@@ -4462,7 +4462,7 @@
       <offer id="1051085105983" available="true">
         <name><![CDATA[Набір Fiskars: Сокира Solid A10 + Мультитул Gerber Lockdown Slim 16L]]></name>
         <price>2499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/sokyra-tesliarskafiskars-solid-a10-podarunok-multytul-gerber-lockdown-slim16lbox-16028398386274_+568d7120db.jpg</picture>
         <description><![CDATA[<p dir="ltr"><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066232)</strong></span><span style="font-size:18px;"> для роботи з деревиною та універсальних задач. Практичне рішення для дому, саду та виїздів на природу.</span></p>
@@ -4508,7 +4508,7 @@
       <offer id="1028376105983" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Мультитул Gerber Lockdown Slim 16L]]></name>
         <price>1299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/pylka-sadova-ruchna-fiskars-solid-sw-16-podarunok-multytul-gerber-lockdown-slim16lbox-44325887308020_+d71bbb92bb.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066249)</strong></span><span style="font-size:18px;"> для роботи з деревиною та повсякденних задач. Практичне рішення для саду, дому та виїздів на природу.&nbsp;</span></p>
@@ -4553,7 +4553,7 @@
       <offer id="1027528101477" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз телескопічний Solid L13 + Лопата садова штикова Classic FSC]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/23/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-63687954062353_+8a5f71bfb4.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066256)</strong></span><span style="font-size:18px;"> для догляду за садом і роботи з ґрунтом &mdash; базові інструменти для обрізки та перекопування в одному комплекті.</span></p>
@@ -4599,7 +4599,7 @@
       <offer id="1027528102682" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз площинний телескопічний Fiskars Solid L13 + Ножиці для кущів Solid HS21]]></name>
         <price>2299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-nozhytsi-dlia-kushchiv-fiskars-solid-hs21-12451067573719_+4d332d8338.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066263)</strong></span><span style="font-size:18px;"> для догляду за садом і роботи з ґрунтом &mdash; базові інструменти для обрізки та перекопування в одному комплекті.</span></p>
@@ -4645,7 +4645,7 @@
       <offer id="1051085101477" available="true">
         <name><![CDATA[Набір Fiskars: Сокира теслярська Fiskars Solid A10 + Лопата садова штикова Fiskars Classic FSC]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/sokyra-tesliarskafiskars-solid-a10-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-58824550677247_+06d832a157.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066270)</strong></span><span style="font-size:18px;"> для роботи з деревиною та ґрунтом.Практичне рішення для базових робіт у дворі, саду та на природі. </span></p>
@@ -4691,7 +4691,7 @@
       <offer id="1024856105984" available="true">
         <name><![CDATA[Набір Мачете Gerber Compact Clearpath + Ніж-топірець Gerber DOWNWIND ULU]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-45918477240956_+9c023ee19f.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Gerber </span><span style="font-size:14px;"><strong>(штрихкод 5907222066287)</strong></span><span style="font-size:18px;"> &nbsp;для роботи з рослинністю та приготування їжі на природі. Практичне рішення для походів, кемпінгу та активного відпочинку.</span></p>
@@ -4759,7 +4759,7 @@
       <offer id="1014773105108" available="true">
         <name><![CDATA[Набір Лопата садова штикова Fiskars Classic FSC+ Сокира теслярська Fiskars Solid A10]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-56572278643966_+9114879737.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066294)</strong></span><span style="font-size:18px;"> для роботи з деревиною та ґрунтом.Практичне рішення для базових робіт у дворі, саду та на природі.&nbsp;</span></p>
@@ -4808,7 +4808,7 @@
       <offer id="1070715105108" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White + Сокира теслярська Solid A10]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643_+7c9ca353de.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод&nbsp;5907222066300)</strong></span><span style="font-size:18px;"> для роботи з ґрунтом та деревиною. Практичне рішення для саду, дому та господарських задач.</span></p>
@@ -4878,7 +4878,7 @@
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC]]></name>
         <price>1599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/29/pylka-sadova-ruchna-fiskars-solid-sw-16-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-25731425607563_+7a68f618ed.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066317)</strong></span><span style="font-size:18px;"> для роботи з деревиною та ґрунтом. Практичне рішення для саду, дому та ділянки.</span></p>
@@ -4948,7 +4948,7 @@
       <offer id="1026917102837" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для трави White GS41 + Пилка садова ручна Solid SW 16]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/nozhytsi-dlia-travy-fiskars-white-gs41-podarunok-pylka-sadova-ruchna-fiskars-solid-sw-16-52895945025512_+54bc0d6273.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066324)</strong></span><span style="font-size:18px;"> для догляду за газоном та роботи з деревиною. Практичне рішення для саду та щоденного використання.</span></p>
@@ -5012,7 +5012,7 @@
       <offer id="1026917101477" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для трави White GS41 + Лопата садова штикова Classic FSC]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/nozhytsi-dlia-travy-fiskars-white-gs41-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-69436791383418_+673feb61a5.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars</span><span style="font-size:14px;"><strong> (штрихкод 5907222066331)</strong></span><span style="font-size:18px;"> для догляду за газоном та роботи з ґрунтом. Практичне рішення для саду та ділянки.</span></p>
@@ -5104,7 +5104,7 @@
       <offer id="1015642101477" available="true">
         <name><![CDATA[Набір Fiskars: Сокира-колун L Х21+ Лопата садова штикова Classic FSC]]></name>
         <price>3599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/sokyra-kolun-fiskars-l-kh21-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-16665591877292_+a226f77f1b.png</picture>
         <description><![CDATA[<p>Набір Fiskars <span style="font-size:14px;"><strong>(штрихкод 5907222066362)</strong></span> для роботи з деревиною та універсальних задач. Практичне рішення для дому, саду та виїздів на природу.</p>
@@ -5201,7 +5201,7 @@
       <offer id="1026931102691" available="true">
         <name><![CDATA[Набір Fiskars: Ножиці для кущів White HS53+ Ножиці для трави White GS41]]></name>
         <price>1549</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-53859063065044_+b45e38e5f1.png</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars</span><span style="font-size:14px;"> <strong>(штрихкод </strong></span><strong>5907222066386&nbsp;<span style="font-size:14px;">) </span></strong><span style="font-size:18px;">для догляду за кущами та газоном. Практичне рішення для точних садових робіт і підтримки охайного вигляду ділянки.</span></p>
@@ -5249,7 +5249,7 @@
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
         <price>2999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/kotushka-zi-shlanhom-fiskars-waterwheel-s-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-29906164406615_+d1e0533912.png</picture>
         <description><![CDATA[<p><span style="font-size:16px;">Набір Fiskars</span><span style="font-size:14px;"> <strong>(штрихкод 5907222066393)</strong></span><span style="font-size:16px;"> для поливу та догляду за газоном. Практичне рішення для комфортного догляду за садом і присадибною територією.</span></p>
@@ -5319,7 +5319,7 @@
       <offer id="1000660100346" available="true">
         <name><![CDATA[Набір Граблі для листя Fiskars Ergonomic XL+ Універсальні граблі Fiskars Solid]]></name>
         <price>1849</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/nabir-hrabli-dlia-lystia-fiskars-ergonomic-xl-universalni-hrabli-fiskars-solid-18492433752423_+72e5c8e025.png</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066409)</strong></span><span style="font-size:18px;"> для прибирання листя та догляду за газоном. Практичне рішення для саду, присадибної ділянки та сезонних робіт.</span></p>
@@ -5373,7 +5373,7 @@
       <offer id="1070715101477" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White +Лопата садова штикова Fiskars Classic FSC]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-53836038514040_+c982773cf6.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-62787540131119_+bb75c4a299.png</picture>
@@ -5428,7 +5428,7 @@
       <offer id="1023492101477" available="true">
         <name><![CDATA[Набір Fiskars: Граблі великі для листя М помаранчеві + Лопата садова штикова Classic FSC]]></name>
         <price>1599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-80695237000335_+d0c22218b0.png</picture>
         <description><![CDATA[<p data-end="149" data-start="0"><span style="font-size:18px;"><strong data-end="149" data-start="0">Набір Fiskars (</strong></span><span style="font-size:14px;"><strong data-end="149" data-start="0">штрихкод&nbsp;</strong>5907222066423<strong data-end="149" data-start="0">)</strong></span><span style="font-size:18px;"><strong data-end="149" data-start="0">для прибирання листя та підготовки ділянки. Практичне рішення для сезонного догляду за садом і виконання основних робіт із ґрунтом.</strong></span></p>
@@ -5482,7 +5482,7 @@
       <offer id="1003466102349" available="true">
         <name><![CDATA[Набір Fiskars: Граблі універсальні садові Solid + Граблі великі для листя М помаранчеві]]></name>
         <price>1599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330_+0cb49eabd7.png</picture>
         <description><![CDATA[<p data-end="136" data-start="0"><span style="font-size:18px;"><strong data-end="136" data-start="0">Набір Fiskars </strong></span><span style="font-size:14px;"><strong data-end="136" data-start="0">(штрихкод </strong>5907222066430<strong data-end="136" data-start="0">)</strong></span><span style="font-size:18px;"><strong data-end="136" data-start="0"> для прибирання листя та догляду за садом. Практичне рішення для підтримання порядку на ділянці протягом усього сезону.</strong></span></p>
@@ -5536,7 +5536,7 @@
       <offer id="1062940106119" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax]]></name>
         <price>699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax-88650502944038_+868c055bb7.png</picture>
         <description><![CDATA[<p><span style="font-size:18px;"><strong>Набір лез </strong></span><span style="font-size:14px;"><strong>(штрихкод </strong>5907222066447<strong>)</strong></span><span style="font-size:18px;"><strong> для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax</strong></span></p>
@@ -5796,7 +5796,7 @@
       <offer id="1063145105984" available="true">
         <name><![CDATA[Набір Ніж філейний Gerber Ceviche 9" + Ніж-топірець Gerber DOWNWIND]]></name>
         <price>1599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/nabir-nizh-fileinyi-gerber-ceviche-9-nizh-topirets-gerber-downwind-26112326886955_+626586b17a.png</picture>
         <description><![CDATA[<h3 data-end="64" data-section-id="3oek8m" data-start="0">Набір Gerber Ніж філейний Ceviche 9&quot; + Ніж-топірець DOWNWIND</h3>
@@ -8055,7 +8055,7 @@
       <offer id="1057760" available="true">
         <name><![CDATA[Набір (Fiskars SingleStep) Гілкоріз площинний SL28 + секатор площинний P26]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
         <description><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Набір Fiskars SingleStep (1057760)</b>&nbsp;&mdash; практичний комплект садового інструменту, що включає площинний гілкоріз SL28 та площинний секатор P26. Набір призначений для догляду за садом, обрізки сирих гілок, чагарників та молодих дерев, забезпечуючи чистий зріз та зручність у роботі.&nbsp;</p>
