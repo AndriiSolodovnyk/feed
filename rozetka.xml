@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-25T23:48:37.732Z">
+<yml_catalog date="2026-08-25T23:56:26.185Z">
   <shop>
     <offers>
       <offer id="1052045" available="true">
@@ -2222,7 +2222,7 @@
       <offer id="1059096" available="true">
         <name><![CDATA[Сковорода Fiskars Steel 28 см (1059096)]]></name>
         <price>2300</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-steel-28-sm-1059096-91628952092943_+c6ceebf7e4.jpeg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-steel-28-sm-1059096-69073930909240_+b9cf4aff94.jpeg</picture>
@@ -2267,7 +2267,7 @@
       <offer id="1024458" available="true">
         <name><![CDATA[Сковорода Fiskars Handy 28 см (1024458)]]></name>
         <price>1299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/skovoroda-fiskars-handy-28-sm-1024458-35260909044832_+5273e73a6e.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;"><b>Сковорода Fiskars Handy 28 см (1024458)</b> </span><span style="font-size:14px;">&mdash; кухонний посуд для приготування страв методом смаження, тушкування та обсмажування на плиті. Використовується для обробки м&rsquo;яса, риби, овочів та інших продуктів із рівномірним прогріванням і контролем температури.</span></p>
@@ -2285,7 +2285,7 @@
       <offer id="1075041" available="true">
         <name><![CDATA[Сковорода Fiskars 375 Anniversary 24cm (1075041)]]></name>
         <price>2399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/skovoroda-fiskars-375-anniversary-24cm-1075041-78701288961717_+2ec1bcddae.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/13/skovoroda-fiskars-375-anniversary-24cm-1075041-39386612873535_+461253fa59.jpg</picture>
@@ -2306,7 +2306,7 @@
       <offer id="1023739" available="true">
         <name><![CDATA[Сковорода Fiskars Rotisser 24 см (1023739)]]></name>
         <price>2529</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/14/skovoroda-fiskars-rotisser-24-sm-1023739-19717725326156_+0fc56ffea6.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/14/skovoroda-fiskars-rotisser-24-sm-1023739-17437096741886_+60614983d8.jpg</picture>
@@ -2326,7 +2326,7 @@
       <offer id="1066432" available="true">
         <name><![CDATA[Сковорода-садж чавунна для гриля Norden 30 см 1066432]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-52809733206898_+7d05cf2a5a.png</picture>
         <description><![CDATA[<p data-end="377" data-start="106"><strong>Сковорода-садж чавунна Fiskars Norden Grill, 30 см (1066432)</strong> &mdash;<span style="font-size:14px;"> кухонний посуд для смаження, тушкування та приготування страв на грилі або відкритому вогні. Використовується для м&rsquo;яса, овочів, риби та інших страв, забезпечуючи рівномірний розподіл тепла та насичений смак</span>.</p>
@@ -2344,7 +2344,7 @@
       <offer id="1026570" available="true">
         <name><![CDATA[Сковорода-гриль Fiskars чавунна Norden 26 см 1026570]]></name>
         <price>6999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/skovoroda-hryl-fiskars-chavunna-norden-26-sm-1026570-59636876952324_+9ed92892ea.png</picture>
         <description><![CDATA[<p>
@@ -2365,7 +2365,7 @@
       <offer id="1052248" available="true">
         <name><![CDATA[Сковорода з кришкою Fiskars Hard Face 26 см 1052248]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-98378400321008_+13c289830e.png</picture>
         <description><![CDATA[<p>
@@ -2432,7 +2432,7 @@
       <offer id="1065628" available="true">
         <name><![CDATA[Сковорода All Steel Pure 24 см матова]]></name>
         <price>5199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/skovoroda-all-steel-pure-24-sm-matova-91385514098853_+2331d84044.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars All Steel Pure 24 см матова (1065628)</strong>&nbsp;&mdash; міцна та довговічна кухонна сковорода з нержавіючої сталі для смаження, обсмажування та тушкування м&#39;яса, риби, овочів та інших продуктів. Матова поверхня надає посуду сучасного вигляду, а міцна конструкція розрахована на тривале використання.</p>
@@ -2452,7 +2452,7 @@
       <offer id="1065627" available="true">
         <name><![CDATA[Сковорода All Steel Pure 28 см матова]]></name>
         <price>4599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-58181003871289_+1bc4ebae2a.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars All Steel Pure 28 см матова (1065627)</strong>&nbsp;&mdash; міцна та довговічна кухонна сковорода з нержавіючої сталі для смаження, обсмажування та тушкування різноманітних продуктів. Матова поверхня надає сковороді сучасного вигляду, а міцна конструкція забезпечує надійність під час щоденного використання.</p>
@@ -2472,7 +2472,7 @@
       <offer id="1065629" available="true">
         <name><![CDATA[Сковорода Wok All Steel Pure 28 матова]]></name>
         <price>6499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/skovoroda-wok-all-steel-pure-28-matova-76744785227556_+f6322a2a20.png</picture>
         <description><![CDATA[<p><strong>Сковорода Wok Fiskars All Steel Pure 28 см матова (1065629)</strong>&nbsp;&mdash; місткий кухонний посуд із нержавіючої сталі для швидкого обсмажування м&#39;яса, риби, овочів та інших продуктів. Форма Wok забезпечує велику робочу поверхню та дозволяє зручно перемішувати інгредієнти під час приготування.</p>
@@ -2492,7 +2492,7 @@
       <offer id="1075701" available="true">
         <name><![CDATA[Сковорода чавунна Folken 22 см]]></name>
         <price>3599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/skovoroda-chavunna-folken-22-sm-28343019282055_+f6bf8b8182.png</picture>
         <description><![CDATA[<p><strong>Сковорода чавунна Fiskars Folken 22 см (1075701)</strong>&nbsp;&mdash; міцна та довговічна кухонна сковорода для смаження, обсмажування та тушкування різноманітних продуктів. Чавунний корпус добре накопичує та утримує тепло, забезпечуючи рівномірне приготування страв.</p>
@@ -2512,7 +2512,7 @@
       <offer id="1075700" available="true">
         <name><![CDATA[Сковорода чавунна Folken 24 см]]></name>
         <price>3999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/skovoroda-chavunna-folken-24-sm-29357747077968_+067a9a6748.png</picture>
         <description><![CDATA[<p data-end="272" data-start="20"><strong data-end="72" data-start="20">Сковорода чавунна Fiskars Folken 24 см (1075700)</strong>&nbsp;&mdash; міцна та довговічна кухонна сковорода для смаження, обсмажування та тушкування різноманітних продуктів. Чавунний корпус добре накопичує та утримує тепло, забезпечуючи рівномірне приготування страв.</p>
@@ -2532,7 +2532,7 @@
       <offer id="1075699" available="true">
         <name><![CDATA[Сковорода чавунна Folken 28 см]]></name>
         <price>4699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/skovoroda-chavunna-folken-28-sm-13664419520656_+3205aa32ac.png</picture>
         <description><![CDATA[<p data-end="272" data-start="20"><strong data-end="72" data-start="20">Сковорода чавунна Fiskars Folken 28 см (1075699)</strong>&nbsp;&mdash; міцна та довговічна кухонна сковорода для смаження, обсмажування та тушкування різноманітних продуктів. Чавунний корпус добре накопичує та утримує тепло, забезпечуючи рівномірне приготування страв.</p>
@@ -2552,7 +2552,7 @@
       <offer id="1072310" available="true">
         <name><![CDATA[Сковорода FF 24 см, нержавіюча сталь]]></name>
         <price>2299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/skovoroda-ff-24-sm-nerzhaviiucha-stal-65001895548329_+283e4e9a42.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars Functional Form 24 см, нержавіюча сталь (1072310)</strong>&nbsp;&mdash; практична кухонна сковорода для смаження, обсмажування та тушкування різноманітних продуктів. Міцна конструкція з нержавіючої сталі розрахована на щоденне використання, а рівномірний розподіл тепла забезпечує стабільне приготування страв.</p>
@@ -2572,7 +2572,7 @@
       <offer id="1072311" available="true">
         <name><![CDATA[Сковорода FF 26 см, нержавіюча сталь]]></name>
         <price>2599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/skovoroda-ff-26-sm-nerzhaviiucha-stal-25552172424624_+a410c5c260.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars Functional Form 26 см, нержавіюча сталь (1072311)</strong>&nbsp;&mdash; практична кухонна сковорода для смаження, обсмажування та тушкування м&#39;яса, риби, овочів та інших продуктів. Виготовлена з нержавіючої сталі та призначена для щоденного використання на кухні.</p>
@@ -2592,7 +2592,7 @@
       <offer id="1075457" available="true">
         <name><![CDATA[Сковорода Hard Face 20 см]]></name>
         <price>2899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/skovoroda-hard-face-20-sm-92621588406336_+fb81ae48ad.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars Hard Face 20 см (1075457)</strong>&nbsp;&mdash; компактна універсальна кухонна сковорода для смаження, обсмажування та приготування невеликих порцій страв. Міцний алюмінієвий корпус забезпечує швидке та рівномірне нагрівання, а керамічне антипригарне покриття Ceratec&trade; Superior полегшує приготування та очищення.</p>
@@ -2612,7 +2612,7 @@
       <offer id="1075459" available="true">
         <name><![CDATA[Сковорода Hard Face 26 см]]></name>
         <price>3799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/skovoroda-hard-face-26-sm-15329370515422_+82cb34b8ca.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars Hard Face 26 см (1075459)</strong>&nbsp;&mdash; універсальна кухонна сковорода для смаження, обсмажування та тушкування м&#39;яса, риби, овочів, яєць та інших продуктів. Міцний алюмінієвий корпус забезпечує швидке та рівномірне нагрівання, а керамічне антипригарне покриття Ceratec&trade; Superior полегшує приготування та очищення.</p>
@@ -2632,7 +2632,7 @@
       <offer id="1075520" available="true">
         <name><![CDATA[Сковорода Hard Face 28 см]]></name>
         <price>3569</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/29/skovoroda-hard-face-28-sm-19059564593433_+7a13d328b1.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars Hard Face 28 см (1075520)</strong>&nbsp;&mdash; універсальна кухонна сковорода для смаження, обсмажування та тушкування м&#39;яса, риби, овочів та інших продуктів. Міцний алюмінієвий корпус забезпечує швидке й рівномірне нагрівання, а керамічне антипригарне покриття Ceratec&trade; Superior полегшує приготування та очищення.</p>
@@ -2652,7 +2652,7 @@
       <offer id="1075522" available="true">
         <name><![CDATA[Сковорода для млинців Hard Face 22 см]]></name>
         <price>2899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/skovoroda-dlia-mlyntsiv-hard-face-22-sm-25476939268314_+7c17d0d7d1.png</picture>
         <description><![CDATA[<p><strong>Сковорода для млинців Fiskars Hard Face 22 см (1075522)</strong>&nbsp;&mdash; спеціалізована кухонна сковорода для приготування млинців, панкейків, омлетів та інших страв, які потребують рівномірного обсмажування. Низькі бортики полегшують перевертання та зняття готових млинців, а керамічне антипригарне покриття забезпечує комфортне приготування та простий догляд.</p>
@@ -2672,7 +2672,7 @@
       <offer id="1067628" available="true">
         <name><![CDATA[Сковорода Norden 24 см без покриття]]></name>
         <price>7599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/skovoroda-norden-24-sm-bez-pokryttia-20886887911366_+01c41a8354.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars Norden 24 см без покриття (1067628)</strong>&nbsp;&mdash; міцна та довговічна кухонна сковорода для смаження, обсмажування та тушкування різноманітних продуктів. Виготовлена з багатошарової нержавіючої сталі з алюмінієвим осердям, яке забезпечує рівномірний розподіл тепла по всій поверхні.</p>
@@ -2692,7 +2692,7 @@
       <offer id="1067632" available="true">
         <name><![CDATA[Сковорода Norden 26 см з мінеральним покриттям]]></name>
         <price>7999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/skovoroda-norden-26-sm-z-mineralnym-pokryttiam-57067315962225_+7e2f14b0c5.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars Norden 26 см з мінеральним покриттям (1067632)</strong>&nbsp;&mdash; практична кухонна сковорода для смаження, обсмажування та тушкування різноманітних продуктів. Міцний корпус забезпечує рівномірний розподіл тепла, а мінеральне антипригарне покриття полегшує приготування та очищення після використання.</p>
@@ -2712,7 +2712,7 @@
       <offer id="1067629" available="true">
         <name><![CDATA[Сковорода Norden 28 см без покриття]]></name>
         <price>8599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/skovoroda-norden-28-sm-bez-pokryttia-90007828162429_+fba55f87dd.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars Norden 28 см без покриття (1067629)</strong>&nbsp;&mdash; міцна та довговічна кухонна сковорода з нержавіючої сталі для смаження, обсмажування та тушкування різноманітних продуктів. Багатошарова конструкція забезпечує рівномірний розподіл тепла по всій робочій поверхні, а відсутність антипригарного покриття робить сковороду стійкою до високих температур.</p>
@@ -2732,7 +2732,7 @@
       <offer id="1026568" available="true">
         <name><![CDATA[Сковорода чавунна Norden 24 см]]></name>
         <price>9149</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/skovoroda-chavunna-norden-24-sm-33682383026145_+a260827428.png</picture>
         <description><![CDATA[<p><strong>Сковорода чавунна Fiskars Norden 24 см (1026568)</strong>&nbsp;&mdash; міцна та довговічна сковорода для смаження, обсмажування та тушкування різноманітних продуктів. Чавунний корпус добре накопичує та рівномірно розподіляє тепло, забезпечуючи стабільне приготування страв.</p>
@@ -2752,7 +2752,7 @@
       <offer id="1026569" available="true">
         <name><![CDATA[Сковорода чавунна Norden 26 см]]></name>
         <price>9449</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/skovoroda-chavunna-norden-26-sm-48924106261479_+266e5b066f.png</picture>
         <description><![CDATA[<p><strong>Сковорода чавунна Fiskars Norden 26 см (1026569)</strong>&nbsp;&mdash; міцна та довговічна сковорода для смаження, обсмажування та тушкування різноманітних продуктів. Чавунний корпус добре накопичує та рівномірно розподіляє тепло, забезпечуючи стабільне приготування страв.</p>
@@ -2772,7 +2772,7 @@
       <offer id="1026571" available="true">
         <name><![CDATA[Сковорода чавунна Norden 28 см]]></name>
         <price>10299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/skovoroda-chavunna-norden-28-sm-55027756872012_+b46906a46b.png</picture>
         <description><![CDATA[<p><strong>Сковорода чавунна Fiskars Norden 28 см (1026571)</strong>&nbsp;&mdash; міцна та довговічна сковорода для смаження, обсмажування та тушкування різноманітних продуктів. Чавунний корпус добре утримує та рівномірно розподіляє тепло, що робить сковороду придатною для приготування м&#39;яса, риби, овочів та інших страв.</p>
@@ -2792,7 +2792,7 @@
       <offer id="1066946" available="true">
         <name><![CDATA[Сковорода Taiten 24 см]]></name>
         <price>6449</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-taiten-24-sm-76458641696665_+f05c3dd150.png</picture>
         <description><![CDATA[<p><strong>Сковорода Fiskars Taiten 24 см (1066946)</strong>&nbsp;&mdash; універсальна кухонна сковорода для смаження, обсмажування та тушкування різноманітних продуктів. Корпус виготовлений зі 100% переробленого алюмінію, який добре проводить тепло та забезпечує рівномірне нагрівання не лише дна, а й стінок сковороди. Оснащена керамічним антипригарним покриттям Ceratec&trade; Superior.</p>
@@ -2833,7 +2833,7 @@
       <offer id="1066430" available="true">
         <name><![CDATA[Кастрюля з кришкою чавунна Norden Grill, 30 см 1066430]]></name>
         <price>5999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/kastriulia-z-kryshkoiu-chavunna-norden-grill-30-sm-1066430-93771008264939_+7df2de5362.png</picture>
         <description><![CDATA[<p data-end="388" data-start="119"><strong>Кастрюля з кришкою чавунна Fiskars Norden Grill, 30 см (1066430) </strong><span style="font-size:14px;">&mdash; кухонний посуд для приготування страв методом тушкування, варіння та запікання. Використовується для м&rsquo;яса, овочів, супів та інших страв, забезпечуючи рівномірний розподіл тепла та стабільний результат.</span></p>
@@ -2851,7 +2851,7 @@
       <offer id="1066952" available="true">
         <name><![CDATA[Каструля з кришкою Taiten 3,5 л 1066952]]></name>
         <price>7747</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/kastrulia-z-kryshkoiu-taiten-35-l-1066952-65280546853891_+9dae995a88.png</picture>
         <description><![CDATA[<p>
@@ -2872,7 +2872,7 @@
       <offer id="1064751" available="true">
         <name><![CDATA[Каструля All Steel 3 л матова]]></name>
         <price>5499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/14/kastrulia-all-steel-3-l-matova-28202264138266_+741ddb949a.png</picture>
         <description><![CDATA[<p><strong>Каструля Fiskars All Steel 3 л матова (1064751)</strong>&nbsp;&mdash; міцна та довговічна каструля з нержавіючої сталі для приготування супів, гарнірів, овочів, макаронів, соусів та інших страв. Матова поверхня надає посуду стриманий сучасний вигляд, а міцна конструкція розрахована на тривале щоденне використання.</p>
@@ -2892,7 +2892,7 @@
       <offer id="1064752" available="true">
         <name><![CDATA[Каструля All Steel 5 л матова]]></name>
         <price>5599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/kastrulia-all-steel-5-l-matova-26888152792560_+93018a7e80.png</picture>
         <description><![CDATA[<p><strong>Каструля Fiskars All Steel 5 л матова (1064752)</strong>&nbsp;&mdash; місткий та довговічний кухонний посуд із нержавіючої сталі для приготування супів, гарнірів, макаронів, овочів, м&#39;яса та інших страв. Міцна конструкція та матова поверхня роблять каструлю практичною для щоденного використання.</p>
@@ -2912,7 +2912,7 @@
       <offer id="1075698" available="true">
         <name><![CDATA[Каструля чавунна Folken 4л]]></name>
         <price>5999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/kastrulia-chavunna-folken-4l-52813707490101_+f982a59daa.png</picture>
         <description><![CDATA[<p><strong>Каструля чавунна Fiskars Folken 4 л (1075698)</strong>&nbsp;&mdash; міцний та довговічний кухонний посуд для приготування супів, тушкованих страв, рагу, м&#39;яса, овочів та інших страв. Чавунна конструкція добре накопичує та утримує тепло, забезпечуючи рівномірне приготування.</p>
@@ -2932,7 +2932,7 @@
       <offer id="1072316" available="true">
         <name><![CDATA[Каструля з кришкою FF 3,0 л, нержавіюча сталь]]></name>
         <price>3699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/23/kastrulia-z-kryshkoiu-ff-30-l-nerzhaviiucha-stal-43903014101160_+bc380471a6.png</picture>
         <description><![CDATA[<p><strong>Каструля з кришкою Fiskars Functional Form 3,0 л, нержавіюча сталь (1072316)</strong>&nbsp;&mdash; практичний кухонний посуд для варіння, тушкування та приготування супів, гарнірів, овочів, макаронів та інших страв. Міцна конструкція з нержавіючої сталі забезпечує довговічність і зручність щоденного використання.</p>
@@ -2952,7 +2952,7 @@
       <offer id="1075526" available="true">
         <name><![CDATA[Каструля Hard Face 3,5 л]]></name>
         <price>4199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/kastrulia-hard-face-35-l-83069214714349_+60f9b38194.png</picture>
         <description><![CDATA[<p><strong>Каструля Fiskars Hard Face 3,5 л (1075526)</strong>&nbsp;&mdash; практична кухонна каструля для приготування супів, гарнірів, овочів, макаронів, соусів та інших страв. Міцний алюмінієвий корпус забезпечує швидке й рівномірне нагрівання, а керамічне антипригарне покриття Ceratec&trade; Superior полегшує приготування та очищення.</p>
@@ -2972,7 +2972,7 @@
       <offer id="1067639" available="true">
         <name><![CDATA[Каструля Norden 3 л без покриття]]></name>
         <price>8899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/kastrulia-norden-3-l-bez-pokryttia-17347329861272_+031ff3cbfe.png</picture>
         <description><![CDATA[<p><strong>Каструля Fiskars Norden 3 л без покриття (1067639)</strong>&nbsp;&mdash; практичний та довговічний кухонний посуд із високоякісної нержавіючої сталі для приготування супів, гарнірів, овочів, макаронів, соусів та інших страв. Багатошарова конструкція забезпечує рівномірний розподіл тепла по всій поверхні каструлі.</p>
@@ -3245,7 +3245,7 @@
       <offer id="1023819" available="true">
         <name><![CDATA[Ножниці для птиці Essential, 23 см]]></name>
         <price>1879</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/nozhnytsi-dlia-ptytsi-essential-23-sm-58774077345316_+145245569e.png</picture>
         <description><![CDATA[<p data-end="201" data-start="0"><span style="font-size:16px;"><strong data-end="54" data-start="0">Ножиці для птиці 23 см Fiskars Essential </strong>&nbsp;&mdash; ручний кухонний інструмент для обробки птиці, риби та м&rsquo;яса, а також для розрізання шкіри, сухожиль і невеликих кісток під час приготування їжі.</span></p>
@@ -3481,7 +3481,7 @@
       <offer id="1003033" available="true">
         <name><![CDATA[Ножиці Form для птиці з ручками Softouch®]]></name>
         <price>2099</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nozhytsi-form-dlia-ptytsi-z-ruchkamy-softouch-25699699798228_+430e443dfb.png</picture>
         <description><![CDATA[<p><strong>Ножиці для птиці Fiskars Functional Form з ручками Softouch&reg; 25 см (1003033)</strong>&nbsp;&mdash; спеціалізований кухонний інструмент для обробки та розбирання птиці й дичини. Модель оснащена міцними вигнутими зубчастими лезами, які забезпечують точне різання та допомагають працювати навіть із кістками.</p>
@@ -3501,7 +3501,7 @@
       <offer id="1003032" available="true">
         <name><![CDATA[Ножиці Form для риби з ручками Softouch®]]></name>
         <price>2149</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-form-dlia-ryby-z-ruchkamy-softouch-43586739689605_+969d020b73.png</picture>
         <description><![CDATA[<p><strong>Ножиці для риби Fiskars Functional Form 22 см (1003032)</strong>&nbsp;&mdash; спеціалізований кухонний інструмент для обробки та розбирання риби. Модель оснащена міцними лезами із нержавіючої сталі із зубчастою ріжучою кромкою, яка допомагає надійно захоплювати матеріал під час роботи. Ножиці підходять як для правші, так і для лівші.</p>
@@ -4077,7 +4077,7 @@
       <offer id="1023739100077" available="true">
         <name><![CDATA[Комплект Fiskars: Сковорода Rotisser 24 см + Набір ножів в дерев'яному блоці Kitchen Devil]]></name>
         <price>2529</price>
-        <categoryId>156333769</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-20174288914803_+21bb746d43.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066157)</strong></span><span style="font-size:18px;"> для приготування та нарізки продуктів.&nbsp;Ідеальний комплект для тих, хто хоче закрити всі задачі на кухні &mdash; від смаження до точної нарізки.</span></p>
@@ -4226,7 +4226,7 @@
       <offer id="1000773105909" available="true">
         <name><![CDATA[Комплект FISKARS: Набір ножів в деревяному блоці Kitchen Devil + Сковорода Steel 28 см]]></name>
         <price>3499</price>
-        <categoryId>156333769</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-32125989159834_+30647d96da.jpg</picture>
         <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066188)</strong></span><span style="font-size:18px;"> для повноцінного приготування їжі &mdash; усе необхідне для смаження та точної нарізки в одному комплекті. </span></p>
@@ -5931,7 +5931,7 @@
       <offer id="1001317" available="true">
         <name><![CDATA[Точило для ножів Fiskars Kitchen Devils (1001317)]]></name>
         <price>699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/tochylo-dlia-nozhiv-fiskars-kitchen-devils-1001317-13605935195027_+7be8f52585.jpg</picture>
         <description><![CDATA[<p data-end="313" data-start="0"><span style="font-size:18px;"><strong data-end="53" data-start="0">Точило для ножів Fiskars Kitchen Devils (1001317)</strong></span><span style="font-size:14px;"> &mdash; ручний кухонний інструмент для заточування і повторного підведення ріжучих кромок кухонних ножів. Використовується для відновлення гостроти леза перед нарізанням продуктів, підтримки гостроти під час щоденного приготування їжі та полегшення процесу різання.</span></p>
@@ -6072,7 +6072,7 @@
       <offer id="1065587" available="true">
         <name><![CDATA[Кухонний ніж Fiskars Essential для сиру 21 см Black (1065587)]]></name>
         <price>635</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587-59179465975563_+685acdbc75.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/13/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587-87024309318355_+29ccd0cfc3.jpg</picture>
@@ -6320,7 +6320,7 @@
       <offer id="1065567" available="true">
         <name><![CDATA[Ніж філейний Fiskars Essential, 18 см (1065567)]]></name>
         <price>1114</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/nizh-fileinyi-fiskars-essential-18-sm-1065567-50960032720090_+eb1df98459.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/6/nizh-fileinyi-fiskars-essential-18-sm-1065567-14489302758900_+e099408490.jpg</picture>
@@ -6340,7 +6340,7 @@
       <offer id="1065565" available="true">
         <name><![CDATA[Ніж для шеф-кухаря Essential, 21 см]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-dlia-shef-kukharia-fiskars-essential-21sm-1065565-53553694462884_+1683d9f6e4.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-dlia-shef-kukharia-fiskars-essential-21sm-1065565-79749504191256_+d8b16edd5b.jpg</picture>
@@ -6360,7 +6360,7 @@
       <offer id="1065599" available="true">
         <name><![CDATA[Ніж для чищення з поперечним лезом Essential]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599-91647425061699_+efb38d53f1.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599-73465714108127_+1ba4af3b5a.jpg</picture>
@@ -6380,7 +6380,7 @@
       <offer id="1065586" available="true">
         <name><![CDATA[Ніж для чищення з рухомим лезом Fiskrs Essential, 6 см (1065586)]]></name>
         <price>387</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586-91206989650470_+49fc39037f.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586-18014872494415_+0ee7986aa2.jpg</picture>
@@ -6400,7 +6400,7 @@
       <offer id="1024273" available="true">
         <name><![CDATA[Ніж для чистки Fiskars Sensei 7 см (1024723)]]></name>
         <price>1200</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/nizh-dlia-chystky-fiskars-sensei-7-sm-1024723-91048992160198_+95794f4f00.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/18/nizh-dlia-chystky-fiskars-sensei-7-sm-1024723-36101004678154_+e98ee5b188.jpg</picture>
@@ -6411,7 +6411,7 @@
       <offer id="1070166" available="true">
         <name><![CDATA[Ніж для грибів Fiskars 21 см (1070166)]]></name>
         <price>599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-67183323000267_+700321228a.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-36019443437645_+4b19ad1864.jpg</picture>
@@ -6432,7 +6432,7 @@
       <offer id="1000776" available="true">
         <name><![CDATA[Набір ножів Fiskars Lifestyle, 3 штуки (1000776)]]></name>
         <price>899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nabir-nozhiv-fiskars-lifestyle-3-shtuky-1000776-58683508883471_+c7b9e7d877.jpg</picture>
         <description><![CDATA[<p><span style="display: none;">&nbsp;</span>&nbsp;</p>
@@ -6452,7 +6452,7 @@
       <offer id="1001319" available="true">
         <name><![CDATA[Набір ножів Fiskars Control, 2 шт (1001319)]]></name>
         <price>699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-80276608406322_+d89ee1affc.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-56203335779112_+b9f714d8a3.jpg</picture>
@@ -6473,7 +6473,7 @@
       <offer id="1000773" available="true">
         <name><![CDATA[Набір ножів в деревяному блоці FISKARS Kitchen Devil (1000773)]]></name>
         <price>3999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-63780900637716_+75525b7782.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-98312023505074_+813f2acc62.png</picture>
@@ -6739,7 +6739,7 @@
       <offer id="1075839" available="true">
         <name><![CDATA[Підставка для зберігання ножів Wooden Fiskars (1075839)]]></name>
         <price>3596</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839-45127284275523_+cbe8c8c20e.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/12/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839-66045806837106_+3a369f856b.jpg</picture>
@@ -6862,7 +6862,7 @@
       <offer id="1075834" available="true">
         <name><![CDATA[Ніж сантоку Fiskars Cleaver All Steel 16 см]]></name>
         <price>6089</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74483750015361_+69f412eaa8.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-24265086835934_+17f66091ec.png</picture>
@@ -6882,7 +6882,7 @@
       <offer id="1015987" available="true">
         <name><![CDATA[Ніж FF для м'якого сиру]]></name>
         <price>630</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-ff-dlia-miakoho-syru-29859177223056_+70b2739ef2.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-ff-dlia-miakoho-syru-44013081673304_+c45e5441ba.png</picture>
@@ -6922,7 +6922,7 @@
       <offer id="1016122" available="true">
         <name><![CDATA[Ніж для чистки з поперечним рухомим лезом Functional Form]]></name>
         <price>566</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-13914913650847_+804d1c9b68.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-97102682085611_+76435984c2.png</picture>
@@ -6951,7 +6951,7 @@
       <offer id="1016472" available="true">
         <name><![CDATA[Ніж для томатів та стейків Norr]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nizh-dlia-tomativ-ta-steikiv-norr-99485269874005_+2b18d97e17.png</picture>
         <description><![CDATA[Ніж для томатів та стейків Norr]]></description>
@@ -6960,7 +6960,7 @@
       <offer id="1016480" available="true">
         <name><![CDATA[Ніж для хліба Norr]]></name>
         <price>2144</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nizh-dlia-khliba-norr-97203532936389_+f57684d943.png</picture>
         <description><![CDATA[Ніж для хліба Norr]]></description>
@@ -6969,7 +6969,7 @@
       <offer id="1065134" available="true">
         <name><![CDATA[Набір ножів Kaimano Italicus, 3 шт]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-nozhiv-kaimano-italicus-3-sht-41782179355554_+267c069ff5.png</picture>
         <description><![CDATA[<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Набір ножів Kaimano Italicus (1065134)</b> &mdash; це практичний та функціональний комплект із 3 ножів різного типу, створений для швидкого виконання більшості щоденних завдань на кухні. Поєднання різних типів лез (гладких та серрейторних) робить цей набір універсальним базовим інструментом для кожної кухні, дозволяючи з однаковою легкістю та точністю нарізати як м&#39;які соковиті овочі, так і тверді хлібобулочні чи м&#39;ясні вироби.</p>
@@ -6991,7 +6991,7 @@
       <offer id="1016474" available="true">
         <name><![CDATA[Нож "Сантуко" Norr]]></name>
         <price>3299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/nozh-santuko-norr-74928608842305_+34900e504d.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/44/nozh-santuko-norr-70304619650646_+4e754f10c4.png</picture>
@@ -7080,7 +7080,7 @@
       <offer id="1079907" available="true">
         <name><![CDATA[Пілер]]></name>
         <price>399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/piler-50306433237508_+27d82abc27.png</picture>
         <description><![CDATA[<p><strong>Пілер Y-подібний Fiskars Functional Form (1079908)</strong>&nbsp;&mdash; практичний кухонний інструмент для швидкого та акуратного очищення овочів і фруктів. Оснащений гострим рухомим лезом із нержавіючої сталі, яке повторює контури продукту та забезпечує рівномірне очищення.</p>
@@ -7100,7 +7100,7 @@
       <offer id="1079908" available="true">
         <name><![CDATA[Пілер Y-образний]]></name>
         <price>399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-23398994564838_+cd29e570ed.png</picture>
         <description><![CDATA[<p><strong>Пілер Y-подібний Fiskars Functional Form (1079908)</strong>&nbsp;&mdash; практичний кухонний інструмент для швидкого та акуратного очищення овочів і фруктів. Оснащений гострим рухомим лезом із нержавіючої сталі, яке повторює контури продукту та забезпечує рівномірне очищення.</p>
@@ -7120,7 +7120,7 @@
       <offer id="1079909" available="true">
         <name><![CDATA[Пілер Y-образний для жульєну]]></name>
         <price>399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/43/piler-y-obraznyi-dlia-zhulienu-35829975326178_+e650c3f0d4.png</picture>
         <description><![CDATA[<p><strong>Пілер Y-подібний для жульєну Fiskars Functional Form 1079909</strong>&nbsp;&mdash; практичний кухонний інструмент для нарізання овочів і фруктів тонкими рівномірними смужками. Зубчасте обертове лезо з нержавіючої сталі дозволяє легко готувати нарізку у стилі жульєн.</p>
@@ -7140,7 +7140,7 @@
       <offer id="1079960" available="true">
         <name><![CDATA[Пілер з рухомим лезом]]></name>
         <price>669</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/piler-z-rukhomym-lezom-53001132273060_+7d6a6f2c43.png</picture>
         <description><![CDATA[<p><strong>Пілер з рухомим лезом Fiskars Functional Form (1079960)</strong>&nbsp;&mdash; універсальний кухонний інструмент для швидкого та акуратного очищення овочів і фруктів. Рухоме лезо підлаштовується під форму продукту, що забезпечує рівномірне очищення та допомагає знімати тонкий шар шкірки.</p>
@@ -7160,7 +7160,7 @@
       <offer id="1079961" available="true">
         <name><![CDATA[Пілер з рухомим лезом для фрукітв]]></name>
         <price>399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/piler-z-rukhomym-lezom-dlia-frukitv-34529575669857_+3ec7fd5089.png</picture>
         <description><![CDATA[<p><strong>Пілер з рухомим лезом для фруктів Fiskars Functional Form (1079961)</strong>&nbsp;&mdash; практичний кухонний інструмент для швидкого та акуратного очищення фруктів і овочів. Рухоме зубчасте лезо з нержавіючої сталі підлаштовується під форму продукту, що допомагає знімати тонкий шар шкірки та зменшувати втрати м&#39;якоті.</p>
@@ -7180,7 +7180,7 @@
       <offer id="1057552" available="true">
         <name><![CDATA[Набір ножів FF з бамбуковою підставкою, 5 шт]]></name>
         <price>7299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/nabir-nozhiv-ff-z-bambukovoiu-pidstavkoiu-5-sht-57248965963859_+242c81de74.png</picture>
         <description><![CDATA[<p><strong>Набір ножів Fiskars Functional Form з бамбуковою підставкою, 5 шт. (1057552)</strong>&nbsp;&mdash; універсальний комплект кухонних ножів для щоденного приготування їжі. До набору входять п&#39;ять ножів різного призначення та компактна бамбукова підставка для їх зручного зберігання. Леза виготовлені з міцної японської нержавіючої сталі.</p>
@@ -7200,7 +7200,7 @@
       <offer id="1057554" available="true">
         <name><![CDATA[Набір ножів FF з чорною підставкою, 5 шт]]></name>
         <price>6099</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/nabir-nozhiv-ff-z-chornoiu-pidstavkoiu-5-sht-31554546570960_+7ab6cfb7e2.png</picture>
         <description><![CDATA[<p><strong>Набір ножів Fiskars Functional Form з чорною підставкою, 5 шт. (1057554)</strong>&nbsp;&mdash; універсальний набір кухонних ножів для щоденного приготування їжі. До комплекту входять п&#39;ять ножів для різних завдань: кухарський, хлібний, сантоку, для томатів та для коренеплодів. Ножі виготовлені з японської нержавіючої сталі та оснащені ергономічними ручками з покриттям SoftGrip&trade;.</p>
@@ -7220,7 +7220,7 @@
       <offer id="1057542" available="true">
         <name><![CDATA[Ніж FF для коренеплодів]]></name>
         <price>589</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-42899483639817_+d6e48dfb3a.png</picture>
         <description><![CDATA[<p><strong>Ніж для коренеплодів Fiskars Functional Form 11 см (1057542)</strong>&nbsp;&mdash; компактний кухонний ніж для щоденного очищення та нарізання овочів і фруктів. Оснащений міцним лезом із японської нержавіючої сталі та ергономічною ручкою з протиковзким покриттям SoftGrip&trade;.</p>
@@ -7240,7 +7240,7 @@
       <offer id="1057544" available="true">
         <name><![CDATA[Ніж FF для овочів прямий]]></name>
         <price>539</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-ff-dlia-ovochiv-priamyi-84287378097090_+70bd5a2a77.png</picture>
         <description><![CDATA[<p><strong>Ніж для коренеплодів із прямим лезом Fiskars Functional Form 8 см (1057544)</strong>&nbsp;&mdash; компактний кухонний ніж, призначений для щоденного очищення та нарізання овочів і фруктів. Модель поєднує міцне лезо з японської нержавіючої сталі та ергономічну ручку з протиковзким покриттям SoftGrip&trade;.</p>
@@ -7260,7 +7260,7 @@
       <offer id="1057534" available="true">
         <name><![CDATA[Ніж FF для шеф-кухаря великий]]></name>
         <price>1149</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/nizh-ff-dlia-shef-kukharia-velykyi-97003173618685_+961fac36b3.png</picture>
         <description><![CDATA[<p><strong>Ніж для шеф-кухаря великий Fiskars Functional Form 20 см (1057534)</strong>&nbsp;&mdash; універсальний кухонний ніж для щоденного приготування їжі. Модель оснащена довгим міцним лезом із японської нержавіючої сталі, яке забезпечує точне та ефективне нарізання різноманітних продуктів.</p>
@@ -7280,7 +7280,7 @@
       <offer id="1065568" available="true">
         <name><![CDATA[Ніж для коренеплодів Essential, 11 см]]></name>
         <price>529</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-dlia-koreneplodiv-essential-11-sm-33052145736965_+8f9864248c.png</picture>
         <description><![CDATA[<p><strong>Ніж для коренеплодів Fiskars Essential 11 см (1065568)</strong>&nbsp;&mdash; компактний кухонний ніж для очищення та нарізання коренеплодів, овочів і фруктів. Модель поєднує лезо з нержавіючої сталі та легку пластикову ручку, забезпечуючи зручність під час щоденного використання.</p>
@@ -7300,7 +7300,7 @@
       <offer id="1075696" available="true">
         <name><![CDATA[Ніж для шеф-кухаря великий Folken FSC 20 см]]></name>
         <price>2649</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/nizh-dlia-shef-kukharia-velykyi-folken-fsc-20-sm-71864640320676_+23e4e76907.png</picture>
         <description><![CDATA[<p><strong>Ніж для шеф-кухаря великий Fiskars Folken FSC 20 см (1075696)</strong>&nbsp;&mdash; універсальний кухонний ніж, призначений для більшості щоденних завдань із нарізання та підготовки продуктів. Поєднує якісне лезо з німецької нержавіючої сталі та ергономічну ручку з термообробленого клена, сертифікованого FSC.</p>
@@ -7320,7 +7320,7 @@
       <offer id="1023374" available="true">
         <name><![CDATA[Набір Kaimano Tris verdura]]></name>
         <price>890</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/nabir-kaimano-tris-verdura-79231386395490_+f55463d507.png</picture>
         <description><![CDATA[<p data-end="266" data-start="20"><strong data-end="60" data-start="20">Набір Kaimano Tris Verdura (1023374)</strong>&nbsp;&mdash; практичний набір кухонних ножів для обробки овочів, фруктів та інших продуктів. Компактні ножі зручні для щоденного використання на кухні та виконання точних робіт під час нарізання й очищення продуктів.</p>
@@ -7340,7 +7340,7 @@
       <offer id="1000778" available="true">
         <name><![CDATA[Ніж Фіскарс Lifestyle]]></name>
         <price>399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nizh-fiskars-lifestyle-92564604568039_+4c8abe6a92.png</picture>
         <description><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Ніж Fiskars Lifestyle (1000778)</b>&nbsp;&mdash; універсальний та практичний кухонний ніж, призначений для щоденного нарізання, очищення та обробки різноманітних продуктів. Завдяки збалансованій формі леза й легкій вазі інструмент забезпечує високу точність та комфорт під час кулінарних робіт.&nbsp;</p>
@@ -7360,7 +7360,7 @@
       <offer id="1014418" available="true">
         <name><![CDATA[Ніж для чистки Functional Form]]></name>
         <price>755</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/29/nizh-dlia-chystky-functional-form-23746587024036_+3ad3054c3b.jpg</picture>
         <description><![CDATA[<p data-end="276" data-start="20"><strong data-end="72" data-start="20">Ніж для чистки Fiskars Functional Form (1014418)</strong>&nbsp;&mdash; компактний кухонний ніж, призначений для очищення та підготовки овочів і фруктів. Невелике гостре лезо забезпечує точність під час чищення, видалення шкірки, вічок та інших дрібних елементів продуктів.</p>
@@ -7380,7 +7380,7 @@
       <offer id="1050713" available="true">
         <name><![CDATA[Набір кухоних ножів 6 шт сафрон]]></name>
         <price>699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/nabir-kukhonykh-nozhiv-6-sht-safron-70031454622799_+3416e06490.png</picture>
         <description><![CDATA[<p data-end="391" data-start="116"><strong data-end="172" data-start="116">Набір кухонних ножів Fiskars Saffron 6 шт. (1050713)</strong>&nbsp;&mdash; практичний комплект із шести однакових кухонних ножів для щоденного використання. Ножі мають гострі леза з нержавіючої сталі та зручні ергономічні ручки. Підходять для нарізання та підготовки різноманітних продуктів.</p>
@@ -7474,7 +7474,7 @@
       <offer id="1066951" available="true">
         <name><![CDATA[Ківш з кришкою Taiten 1,6 л]]></name>
         <price>6555</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/kivsh-z-kryshkoiu-taiten-16-l-69932659975587_+705d7ee37b.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/25/kivsh-z-kryshkoiu-taiten-16-l-51507792563516_+3840772db6.png</picture>
@@ -7506,7 +7506,7 @@
       <offer id="1075524" available="true">
         <name><![CDATA[Ківш Hard Face 2 л]]></name>
         <price>2149</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/kivsh-hard-face-2-l-26076589516353_+231d0837f4.png</picture>
         <description><![CDATA[<p><strong>Ківш Fiskars Hard Face 2 л з кришкою (1075524)</strong>&nbsp;&mdash; практичний кухонний посуд для приготування соусів, підлив, молочних та інших страв. Ківш виготовлений із 100% переробленого алюмінію та оснащений керамічним антипригарним покриттям Ceratec&trade; Superior. Товсте дно забезпечує швидке та рівномірне нагрівання на різних типах плит, включаючи індукційні.</p>
@@ -7526,7 +7526,7 @@
       <offer id="1067637" available="true">
         <name><![CDATA[Ківш Norden 1,8 л без покриття]]></name>
         <price>6099</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/kivsh-norden-18-l-bez-pokryttia-37085250707449_+29e8534ae3.png</picture>
         <description><![CDATA[<p><strong>Ківш Fiskars Norden 1,8 л без покриття (1067637)</strong>&nbsp;&mdash; компактний кухонний посуд із високоякісної нержавіючої сталі для приготування соусів, гарнірів, каш, супів та інших страв. Багатошарова конструкція з алюмінієвим осердям забезпечує рівномірне та ефективне нагрівання по всій поверхні. Модель виготовлена у Фінляндії та має гарантію 25 років.</p>
@@ -7546,7 +7546,7 @@
       <offer id="1072314" available="true">
         <name><![CDATA[Сотейник з кришкою FF 26 см, нержавіюча сталь]]></name>
         <price>3699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/soteinyk-z-kryshkoiu-ff-26-sm-nerzhaviiucha-stal-35631102702982_+8cdb5d6377.png</picture>
         <description><![CDATA[<p><strong>Сотейник Fiskars Functional Form з кришкою 26 см (1072314)</strong>&nbsp;&mdash; практичний кухонний посуд для щоденного приготування страв, зокрема тушкування, томління та обсмажування продуктів. Модель має діаметр 26 см, керамічне антипригарне покриття Ceratec&trade; та підходить для використання на всіх типах плит, включаючи індукційні.</p>
@@ -8449,7 +8449,7 @@
       <offer id="40033792" available="true">
         <name><![CDATA[Набір стаканів Waterford Marquis Maxwell 310 мл, 4 шт (40033792)]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/nabir-stakaniv-waterford-marquis-maxwell-310-ml-4-sht-40033792-73826755838475_+b8fa57ce3b.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/17/nabir-stakaniv-waterford-marquis-maxwell-310-ml-4-sht-40033792-76118528872844_+cda51bb92a.jpg</picture>
@@ -8470,7 +8470,7 @@
       <offer id="40033803" available="true">
         <name><![CDATA[Набір стаканів Marquis Moments 390 мл, 4 шт (40033803)]]></name>
         <price>2999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/nabir-stakaniv-marquis-moments-390-ml-4-sht-40033803-27375478509570_+ed004a4514.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/18/nabir-stakaniv-marquis-moments-390-ml-4-sht-40033803-87287725661235_+282e7ce3c5.jpg</picture>
@@ -8708,7 +8708,7 @@
       <offer id="1000788" available="true">
         <name><![CDATA[Виделка Fiskars Control для нарізання (1000788)]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/vydelka-fiskars-control-dlia-narizannia-1000788-56729349674686_+370c8c9851.jpg</picture>
         <description><![CDATA[<p>&nbsp;</p>
@@ -8767,7 +8767,7 @@
       <offer id="1057551" available="true">
         <name><![CDATA[Дошка для різкі хліба бамбукова Fiskars 1057551]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/doshka-dlia-rizki-khliba-bambukova-fiskars-1057551-47209706366341_+c6e44e0a3e.png</picture>
         <description><![CDATA[<p><strong>Дошка для різки хліба бамбукова Fiskars (1057551)</strong> &mdash; <span style="font-size:14px;">кухонний аксесуар для зручної та акуратної нарізки хліба та випічки в домашніх умовах. Використовується для нарізання батонів, багетів, булок та іншої випічки із мінімальним розсипанням крихт.</span></p>
@@ -8785,7 +8785,7 @@
       <offer id="1066429" available="true">
         <name><![CDATA[Лопатка дерев'яна для гриля Norden 1066429]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/lopatka-dereviana-dlia-hrylia-norden-1066429-30015308621525_+56abbedc52.png</picture>
         <description><![CDATA[<p data-end="385" data-start="106"><span style="font-size:18px;"><strong>Лопатка дерев&#39;яна Fiskars Norden Grill Chef (1066429)</strong> </span>&mdash; <span style="font-size:14px;">кухонний інструмент для роботи зі стравами під час смаження та приготування на грилі або плиті. Використовується для перевертання, перемішування та подачі м&rsquo;яса, риби, овочів та інших продуктів без пошкодження їх структури.</span></p>
@@ -8803,7 +8803,7 @@
       <offer id="1066431" available="true">
         <name><![CDATA[Кошик для приготування на пару Fiskars Norden Grill 30см (1066431)]]></name>
         <price>5750</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-11480062848910_+77d5d7c5c4.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-27177459571730_+69c3d0dc43.jpg</picture>
@@ -8825,7 +8825,7 @@
       <offer id="1066552" available="true">
         <name><![CDATA[Набір для гриля (лопатка та щипці) Fiskars Norden Grill]]></name>
         <price>6962</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/nabir-dlia-hrylia-lopatka-ta-shchyptsi-fiskars-norden-grill-38973503970433_+06a6475e67.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/12/nabir-dlia-hrylia-lopatka-ta-shchyptsi-fiskars-norden-grill-23810768556758_+aff9c9e72e.png</picture>
@@ -8871,7 +8871,7 @@
       <offer id="1065250" available="true">
         <name><![CDATA[Виделка для м'яса Norden]]></name>
         <price>3865</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/vydelka-dlia-miasa-norden-74629045607814_+ae379f7084.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/13/vydelka-dlia-miasa-norden-11455190277885_+1cbae70436.png</picture>
@@ -8915,7 +8915,7 @@
       <offer id="1066426" available="true">
         <name><![CDATA[Щипці для гриля Norden Grill]]></name>
         <price>6865</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33434838095190_+9f34370262.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-60186051108908_+6f09f7c9f8.png</picture>
@@ -8949,7 +8949,7 @@
       <offer id="1066427" available="true">
         <name><![CDATA[Виделка для гриля Norden Grill]]></name>
         <price>3865</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-56405175162690_+ac66798614.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-64306798115102_+fee810cf32.png</picture>
@@ -8982,7 +8982,7 @@
       <offer id="1066425" available="true">
         <name><![CDATA[Лопатка для гриля Norden Grill]]></name>
         <price>3865</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/lopatka-dlia-hrylia-norden-grill-80221042841394_+5ff3bbb3df.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/28/lopatka-dlia-hrylia-norden-grill-95470705448960_+3d375c1d4b.png</picture>
@@ -9017,7 +9017,7 @@
       <offer id="1065596" available="true">
         <name><![CDATA[Вінчик спіральний Essential 35,5 см]]></name>
         <price>555</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/29/vinchyk-spiralnyi-essential-355-sm-77268259416083_+c9f54d50d9.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/29/vinchyk-spiralnyi-essential-355-sm-96790732107795_+d04ca327c8.png</picture>
@@ -9049,7 +9049,7 @@
       <offer id="1065594" available="true">
         <name><![CDATA[Ополоник Essential, 38 см]]></name>
         <price>555</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/opolonyk-essential-38-sm-89947477467741_+2559203e3d.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/30/opolonyk-essential-38-sm-11354689107129_+f366b34a63.png</picture>
@@ -9083,7 +9083,7 @@
       <offer id="1065591" available="true">
         <name><![CDATA[Лопатка силіконова Essential 35,5 см]]></name>
         <price>487</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/lopatka-sylikonova-essential-355-sm-96745116913721_+f4f3bf3b6e.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/31/lopatka-sylikonova-essential-355-sm-28887137144326_+eccc7f380c.png</picture>
@@ -9115,7 +9115,7 @@
       <offer id="1065590" available="true">
         <name><![CDATA[Пензлик Essential]]></name>
         <price>555</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/penzlyk-essential-47371052768396_+406d832bd4.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/32/penzlyk-essential-25195167770095_+99451e21e8.png</picture>
@@ -9148,7 +9148,7 @@
       <offer id="1066428" available="true">
         <name><![CDATA[Ложка дерев'яна для гриля Norden]]></name>
         <price>1837</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/lozhka-dereviana-dlia-hrylia-norden-44217278224953_+d2902ae0c3.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/33/lozhka-dereviana-dlia-hrylia-norden-27929378743287_+2c1685cf74.png</picture>
@@ -9174,7 +9174,7 @@
       <offer id="1065593" available="true">
         <name><![CDATA[Ложка для спагетті Fiskars Essential]]></name>
         <price>299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-51548347964897_+0243f2e2a7.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-53773282362921_+840ef871b2.png</picture>
@@ -9202,7 +9202,7 @@
       <offer id="1016471" available="true">
         <name><![CDATA[Набір ножів Fiskars NORR 2 шт]]></name>
         <price>3430</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-fiskars-norr-2-sht-98106899442352_+3424f37e36.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-fiskars-norr-2-sht-60327826142347_+44e86109db.png</picture>
@@ -9236,7 +9236,7 @@
       <offer id="1050714" available="true">
         <name><![CDATA[Набір столових ножів Kaimano, 6 шт]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/nabir-stolovykh-nozhiv-kaimano-6-sht-90671053756208_+9d592ee76d.png</picture>
         <description><![CDATA[<h3 data-path-to-node="2">Набір столових ножів Kaimano, 6 шт (1050714)</h3>
@@ -9260,7 +9260,7 @@
       <offer id="1014413" available="true">
         <name><![CDATA[Набор терок Functional Form]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/nabor-terok-functional-form-95741964645743_+f1a3b9034b.png</picture>
         <description><![CDATA[<p data-path-to-node="4"><b data-index-in-node="0" data-path-to-node="4">Набір терок Fiskars Functional Form (1014413)</b>&nbsp;&mdash; це практичний та компактний комплект із двох спеціалізованих терок (крупної та дрібної), розроблений для легкого, швидкого та безпечного подрібнення найрізноманітніших продуктів. Завдяки продуманій ергономіці та фірмовому захисту для пальців, цей набір робить процес приготування страв максимально комфортним, а самі інструменти займають мінімум місця на кухні завдяки можливості компактного зберігання.</p>
@@ -9282,7 +9282,7 @@
       <offer id="1014412" available="true">
         <name><![CDATA[Терка FF маленька для цедри лимону, імбиру, шоколаду]]></name>
         <price>1515</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/terka-ff-malenka-dlia-tsedry-lymonu-imbyru-shokoladu-77192424262448_+d7792c6dad.jpeg</picture>
         <description><![CDATA[<p data-end="205" data-start="0"><span style="font-size:16px;"><strong data-end="92" data-start="0">Терка FF маленька &nbsp;для цедри лимону, імбиру та шоколаду</strong>&nbsp;&mdash; ручний кухонний інструмент для дрібного та акуратного натирання продуктів під час приготування страв і напоїв.</span></p>
@@ -9300,7 +9300,7 @@
       <offer id="1065595" available="true">
         <name><![CDATA[Лопатка Fiskars Essential, 38 см 1065595]]></name>
         <price>510</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/lopatka-fiskars-essential-38-sm-1065595-66276937092244_+415f26a266.jpg</picture>
         <description><![CDATA[<p data-end="369" data-start="106"><span style="font-size:16px;"><strong data-end="153" data-start="106">Лопатка кухонна Fiskars Essential (1065595)</strong></span><span style="font-size:18px;"> </span><span style="font-size:12px;">&mdash; </span><span style="font-size:14px;">кухонний інструмент для роботи зі стравами під час смаження та приготування на плиті. Використовується для перевертання, перемішування та подачі м&rsquo;яса, риби, овочів та інших продуктів без пошкодження їх структури.</span></p>
@@ -9318,7 +9318,7 @@
       <offer id="1079962" available="true">
         <name><![CDATA[Пінцет для риби]]></name>
         <price>849</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/46/pintset-dlia-ryby-94418296252353_+54442c3b5b.png</picture>
         <description><![CDATA[<p><strong>Пінцет для риби Fiskars Functional Form 13,2 см (1079962)</strong>&nbsp;&mdash; спеціалізований кухонний інструмент для точного видалення дрібних рибних кісток. Легкий ергономічний пінцет із рифленими робочими кінцями забезпечує надійне захоплення кісток і контроль під час роботи.</p>
@@ -9338,7 +9338,7 @@
       <offer id="1079964" available="true">
         <name><![CDATA[Лопатка кухона]]></name>
         <price>479</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/lopatka-kukhona-53631507946541_+581fa85e23.png</picture>
         <description><![CDATA[<p><strong>Лопатка кухонна Fiskars Functional Form (1079964)</strong>&nbsp;&mdash; практичний кухонний інструмент для перевертання, перемішування та подачі продуктів під час приготування їжі. Гнучкі силіконові краї дбайливо контактують із поверхнею посуду та допомагають працювати без ризику подряпати антипригарне покриття.</p>
@@ -9358,7 +9358,7 @@
       <offer id="1079965" available="true">
         <name><![CDATA[Ополоник]]></name>
         <price>479</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/opolonyk-20089269541923_+2863013875.png</picture>
         <description><![CDATA[<p><strong>Ополоник Fiskars Functional Form &nbsp;(1079965)</strong>&nbsp;&mdash; практичний кухонний інструмент для набору та подачі супів, соусів, бульйонів та інших рідких або напіврідких страв. Легка конструкція та гнучкий силіконовий край забезпечують комфортне використання та допомагають збирати страву навіть із дна посуду.</p>
@@ -9378,7 +9378,7 @@
       <offer id="1079966" available="true">
         <name><![CDATA[Терка Extra дрібна]]></name>
         <price>789</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/terka-extra-dribna-84761715530791_+494e7224de.png</picture>
         <description><![CDATA[<p><strong>Терка екстра дрібна Fiskars Functional Form (1079966)</strong>&nbsp;&mdash; компактний кухонний інструмент із надтонкою ріжучою поверхнею для точного натирання продуктів. Підходить для цедри лимона, імбиру, твердих сирів, трюфеля, шоколаду та інших продуктів, які потребують дуже дрібного подрібнення.</p>
@@ -9398,7 +9398,7 @@
       <offer id="1079967" available="true">
         <name><![CDATA[Терка дрібна]]></name>
         <price>789</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/terka-dribna-65848826509679_+2a92cc5169.png</picture>
         <description><![CDATA[<p><strong>Терка дрібна Fiskars Functional Form (1079967)</strong>&nbsp;&mdash; компактний кухонний інструмент із дрібними отворами для точного та рівномірного натирання продуктів. Підходить для подрібнення твердого сиру, цитрусової цедри, імбиру, часнику, шоколаду, овочів та інших продуктів.</p>
@@ -9418,7 +9418,7 @@
       <offer id="1079968" available="true">
         <name><![CDATA[Терка крупна]]></name>
         <price>789</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/1/terka-krupna-40423825409622_+1c6ba5b291.png</picture>
         <description><![CDATA[<p><strong>Терка крупна Fiskars Functional Form (1079968)</strong>&nbsp;&mdash; практичний кухонний інструмент із великими отворами для швидкого та рівномірного натирання продуктів. Підходить для твердих і напівтвердих сирів, овочів, моркви та інших продуктів. Лезо виготовлене з міцної нержавіючої сталі, а для безпечного зберігання передбачений захисний кожух.</p>
@@ -9438,7 +9438,7 @@
       <offer id="1014414" available="true">
         <name><![CDATA[Набір терток Fiskars Functional Form 3 шт]]></name>
         <price>2799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/nabir-tertok-fiskars-functional-form-3-sht-90483193294167_+1a439c98f5.png</picture>
         <description><![CDATA[<p data-end="384" data-start="20"><strong data-end="76" data-start="20">Набір терток Fiskars Functional Form 3 шт. (1014414)</strong>&nbsp;&mdash; практичний комплект кухонних інструментів для подрібнення, натирання та нарізання овочів, фруктів, сиру, шоколаду, імбиру та інших продуктів. У набір входять дрібна терка, крупна терка та терка для овочів, що дозволяє виконувати різні кухонні задачі одним комплектом.&nbsp;</p>
@@ -9464,7 +9464,7 @@
       <offer id="1014434" available="true">
         <name><![CDATA[Набір для салата Functional Form]]></name>
         <price>635</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/nabir-dlia-salata-functional-form-40300811010977_+f85a961ab9.png</picture>
         <description><![CDATA[<p data-end="289" data-start="20"><strong data-end="74" data-start="20">Набір для салата Fiskars Functional Form (1014434)</strong>&nbsp;&mdash; практичний кухонний комплект для сервірування та перемішування салатів. Набір складається з двох предметів: ложки та виделки для салату, які зручно використовувати для подачі овочевих, фруктових та інших салатів.</p>
@@ -9489,7 +9489,7 @@
       <offer id="1054778" available="true">
         <name><![CDATA[Набір столових приладів Fiskars All Steel 16 шт (1054778)]]></name>
         <price>5900</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/nabir-stolovykh-pryladiv-fiskars-all-steel-16-sht-1054778-12351415912331_+19295ad733.png</picture>
         <description><![CDATA[<p data-end="277" data-start="20"><strong data-end="82" data-start="20">Набір столових приладів Fiskars All Steel 16 шт. (1054778)</strong>&nbsp;&mdash; практичний комплект столових приборів із нержавіючої сталі для сервірування столу та щоденного використання. Стриманий дизайн набору добре поєднується з різними стилями посуду та сервірування.</p>
