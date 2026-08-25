@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-24 23:46">
+<yml_catalog date="2026-08-25 01:12">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -325,7 +325,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248/</url>
         <price>1999</price>
         <price_old>5100</price_old>
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>17</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-98378400321008_+13c289830e.png</picture>
@@ -2373,7 +2373,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599/</url>
         <price>499</price>
         <price_old>555</price_old>
-        <stock_quantity>29</stock_quantity>
+        <stock_quantity>28</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599-91647425061699_+efb38d53f1.jpg</picture>
@@ -4311,6 +4311,125 @@
         <param name="Стан товару">Новий</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
+      <offer id="1014418" available="true">
+        <url>https://fiskars-gratis.com.ua/nizh-dlia-chystky-functional-form/</url>
+        <price>755</price>
+        <stock_quantity>3</stock_quantity>
+        <currencyId>UAH</currencyId>
+        <categoryId>1005</categoryId>
+        <picture>https://fiskars-gratis.com.ua/content/images/29/nizh-dlia-chystky-functional-form-23746587024036_+3ad3054c3b.jpg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/29/nizh-dlia-chystky-functional-form-49607952262261_+886086d2f4.jpg</picture>
+        <vendor>Fiskars</vendor>
+        <article>1014418</article>
+        <name>Ніж для чистки Functional Form</name>
+        <name_ua>Ніж для чистки Functional Form</name_ua>
+        <description><![CDATA[<p data-end="276" data-start="20"><strong data-end="72" data-start="20">Ніж для чистки Fiskars Functional Form (1014418)</strong>&nbsp;&mdash; компактний кухонний ніж, призначений для очищення та підготовки овочів і фруктів. Невелике гостре лезо забезпечує точність під час чищення, видалення шкірки, вічок та інших дрібних елементів продуктів.</p>
+
+<p data-end="428" data-start="278"><strong data-end="294" data-start="278">Призначення:</strong>&nbsp;підходить для чищення картоплі, моркви, яблук, груш та інших овочів і фруктів, а також для виконання невеликих точних кухонних робіт.</p>
+
+<p data-end="651" data-start="430"><strong data-end="446" data-start="430">Конструкція:</strong>&nbsp;компактне лезо з гострим кінчиком забезпечує хороший контроль під час роботи. Ергономічна рукоятка зручно лежить у руці та дозволяє виконувати точні рухи. Ніж має отвір у рукоятці для зручного зберігання.</p>
+
+<p data-end="789" data-start="653"><strong data-end="667" data-start="653">Матеріали:</strong>&nbsp;лезо виготовлене з нержавіючої сталі, стійкої до корозії та тривалого використання. Рукоятка виконана з міцного пластику.</p>
+
+<p data-end="956" data-start="791"><strong data-end="807" data-start="791">Особливості:</strong>&nbsp;компактний формат, гостре лезо для точного очищення овочів і фруктів, ергономічна рукоятка, зручне зберігання. Ніж можна мити в посудомийній машині.</p>
+
+<p data-end="1022" data-start="958"><strong data-end="975" data-start="958">Комплектація:</strong>&nbsp;ніж для чистки Fiskars Functional Form &mdash; 1 шт.</p>]]></description>
+        <description_ua><![CDATA[<p data-end="276" data-start="20"><strong data-end="72" data-start="20">Ніж для чистки Fiskars Functional Form (1014418)</strong>&nbsp;&mdash; компактний кухонний ніж, призначений для очищення та підготовки овочів і фруктів. Невелике гостре лезо забезпечує точність під час чищення, видалення шкірки, вічок та інших дрібних елементів продуктів.</p>
+
+<p data-end="428" data-start="278"><strong data-end="294" data-start="278">Призначення:</strong>&nbsp;підходить для чищення картоплі, моркви, яблук, груш та інших овочів і фруктів, а також для виконання невеликих точних кухонних робіт.</p>
+
+<p data-end="651" data-start="430"><strong data-end="446" data-start="430">Конструкція:</strong>&nbsp;компактне лезо з гострим кінчиком забезпечує хороший контроль під час роботи. Ергономічна рукоятка зручно лежить у руці та дозволяє виконувати точні рухи. Ніж має отвір у рукоятці для зручного зберігання.</p>
+
+<p data-end="789" data-start="653"><strong data-end="667" data-start="653">Матеріали:</strong>&nbsp;лезо виготовлене з нержавіючої сталі, стійкої до корозії та тривалого використання. Рукоятка виконана з міцного пластику.</p>
+
+<p data-end="956" data-start="791"><strong data-end="807" data-start="791">Особливості:</strong>&nbsp;компактний формат, гостре лезо для точного очищення овочів і фруктів, ергономічна рукоятка, зручне зберігання. Ніж можна мити в посудомийній машині.</p>
+
+<p data-end="1022" data-start="958"><strong data-end="975" data-start="958">Комплектація:</strong>&nbsp;ніж для чистки Fiskars Functional Form &mdash; 1 шт.</p>]]></description_ua>
+        <param name="Артикул">1014418</param>
+        <param name="Штрихкод">6424002000938</param>
+        <param name="Бренд">Fiskars</param>
+        <param name="Стан товару">Новий</param>
+        <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
+      </offer>
+      <offer id="1050713" available="true">
+        <url>https://fiskars-gratis.com.ua/nabir-kukhonykh-nozhiv-6-sht-safron/</url>
+        <price>699</price>
+        <price_old>1200</price_old>
+        <stock_quantity>7</stock_quantity>
+        <currencyId>UAH</currencyId>
+        <categoryId>1005</categoryId>
+        <picture>https://fiskars-gratis.com.ua/content/images/31/nabir-kukhonykh-nozhiv-6-sht-safron-70031454622799_+3416e06490.png</picture>
+        <vendor>Fiskars</vendor>
+        <article>1050713</article>
+        <name>Набір кухоних ножів 6 шт сафрон</name>
+        <name_ua>Набір кухоних ножів 6 шт сафрон</name_ua>
+        <description><![CDATA[<p data-end="391" data-start="116"><strong data-end="172" data-start="116">Набір кухонних ножів Fiskars Saffron 6 шт. (1050713)</strong>&nbsp;&mdash; практичний комплект із шести однакових кухонних ножів для щоденного використання. Ножі мають гострі леза з нержавіючої сталі та зручні ергономічні ручки. Підходять для нарізання та підготовки різноманітних продуктів.</p>
+
+<p data-end="479" data-start="393"><strong data-end="409" data-start="393">Призначення:</strong>&nbsp;для нарізання овочів, фруктів, м&#39;яса, сиру, хліба та інших продуктів.</p>
+
+<p data-end="609" data-start="481"><strong data-end="497" data-start="481">Конструкція:</strong>&nbsp;ножі мають компактну форму та ергономічні ручки, що забезпечують комфортне утримання і контроль під час роботи.</p>
+
+<p data-end="691" data-start="611"><strong data-end="625" data-start="611">Матеріали:</strong>&nbsp;леза виготовлені з нержавіючої сталі, ручки &mdash; з міцного пластику.</p>
+
+<p data-end="819" data-start="693"><strong data-end="709" data-start="693">Особливості:</strong>&nbsp;у комплекті 6 однакових ножів, які зручно використовувати як основні кухонні ножі або для сервірування столу.</p>]]></description>
+        <description_ua><![CDATA[<p data-end="391" data-start="116"><strong data-end="172" data-start="116">Набір кухонних ножів Fiskars Saffron 6 шт. (1050713)</strong>&nbsp;&mdash; практичний комплект із шести однакових кухонних ножів для щоденного використання. Ножі мають гострі леза з нержавіючої сталі та зручні ергономічні ручки. Підходять для нарізання та підготовки різноманітних продуктів.</p>
+
+<p data-end="479" data-start="393"><strong data-end="409" data-start="393">Призначення:</strong>&nbsp;для нарізання овочів, фруктів, м&#39;яса, сиру, хліба та інших продуктів.</p>
+
+<p data-end="609" data-start="481"><strong data-end="497" data-start="481">Конструкція:</strong>&nbsp;ножі мають компактну форму та ергономічні ручки, що забезпечують комфортне утримання і контроль під час роботи.</p>
+
+<p data-end="691" data-start="611"><strong data-end="625" data-start="611">Матеріали:</strong>&nbsp;леза виготовлені з нержавіючої сталі, ручки &mdash; з міцного пластику.</p>
+
+<p data-end="819" data-start="693"><strong data-end="709" data-start="693">Особливості:</strong>&nbsp;у комплекті 6 однакових ножів, які зручно використовувати як основні кухонні ножі або для сервірування столу.</p>]]></description_ua>
+        <param name="Артикул">1050713</param>
+        <param name="Штрихкод">6424002010784</param>
+        <param name="Бренд">Fiskars</param>
+        <param name="Стан товару">Новий</param>
+        <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
+      </offer>
+      <offer id="1055365" available="true">
+        <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-asada-folder/</url>
+        <price>1499</price>
+        <price_old>2999</price_old>
+        <stock_quantity>78</stock_quantity>
+        <currencyId>UAH</currencyId>
+        <categoryId>1010</categoryId>
+        <picture>https://fiskars-gratis.com.ua/content/images/33/nizh-skladanyi-gerber-asada-folder-95297631944767_+5cfef48f15.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/33/nizh-skladanyi-gerber-asada-folder-54996011176490_+c6ee6f1754.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/33/nizh-skladanyi-gerber-asada-folder-83959021540328_+2ae795337d.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/33/nizh-skladanyi-gerber-asada-folder-40830483122567_+d273ab15a8.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/33/nizh-skladanyi-gerber-asada-folder-19927501791488_+6910968a61.png</picture>
+        <vendor>Gerber</vendor>
+        <article>1055365</article>
+        <name>Ніж складаний Gerber Asada Folder</name>
+        <name_ua>Ніж складаний Gerber Asada Folder</name_ua>
+        <description><![CDATA[<p data-end="297" data-start="20"><strong data-end="67" data-start="20">Ніж складаний Gerber Asada Folder (1055365)</strong>&nbsp;&mdash; компактний складаний ніж для повсякденного використання, туристичних, побутових та польових завдань. Модель поєднує міцне лезо, надійний механізм фіксації та ергономічну рукоятку, забезпечуючи комфортне й контрольоване різання.</p>
+
+<p data-end="461" data-start="299"><strong data-end="315" data-start="299">Призначення:</strong>&nbsp;підходить для виконання повсякденних ріжучих робіт, використання під час туризму, кемпінгу, риболовлі та інших активностей на відкритому повітрі.</p>
+
+<p data-end="657" data-start="463"><strong data-end="479" data-start="463">Конструкція:</strong>&nbsp;складаний механізм дозволяє компактно зберігати та транспортувати ніж. Лезо надійно фіксується у відкритому положенні, а кліпса дозволяє закріпити ніж на кишені або спорядженні.</p>
+
+<p data-end="800" data-start="659"><strong data-end="673" data-start="659">Матеріали:</strong>&nbsp;лезо виготовлене з нержавіючої сталі. Рукоятка виконана з міцного матеріалу з текстурованою поверхнею для надійного утримання.</p>
+
+<p data-end="934" data-start="802"><strong data-end="818" data-start="802">Особливості:</strong>&nbsp;компактна складана конструкція, фіксація леза, кишенькова кліпса, ергономічна рукоятка та універсальне призначення.</p>
+
+<p data-end="995" data-start="936"><strong data-end="953" data-start="936">Комплектація:</strong>&nbsp;складаний ніж Gerber Asada Folder &mdash; 1 шт.</p>]]></description>
+        <description_ua><![CDATA[<p data-end="297" data-start="20"><strong data-end="67" data-start="20">Ніж складаний Gerber Asada Folder (1055365)</strong>&nbsp;&mdash; компактний складаний ніж для повсякденного використання, туристичних, побутових та польових завдань. Модель поєднує міцне лезо, надійний механізм фіксації та ергономічну рукоятку, забезпечуючи комфортне й контрольоване різання.</p>
+
+<p data-end="461" data-start="299"><strong data-end="315" data-start="299">Призначення:</strong>&nbsp;підходить для виконання повсякденних ріжучих робіт, використання під час туризму, кемпінгу, риболовлі та інших активностей на відкритому повітрі.</p>
+
+<p data-end="657" data-start="463"><strong data-end="479" data-start="463">Конструкція:</strong>&nbsp;складаний механізм дозволяє компактно зберігати та транспортувати ніж. Лезо надійно фіксується у відкритому положенні, а кліпса дозволяє закріпити ніж на кишені або спорядженні.</p>
+
+<p data-end="800" data-start="659"><strong data-end="673" data-start="659">Матеріали:</strong>&nbsp;лезо виготовлене з нержавіючої сталі. Рукоятка виконана з міцного матеріалу з текстурованою поверхнею для надійного утримання.</p>
+
+<p data-end="934" data-start="802"><strong data-end="818" data-start="802">Особливості:</strong>&nbsp;компактна складана конструкція, фіксація леза, кишенькова кліпса, ергономічна рукоятка та універсальне призначення.</p>
+
+<p data-end="995" data-start="936"><strong data-end="953" data-start="936">Комплектація:</strong>&nbsp;складаний ніж Gerber Asada Folder &mdash; 1 шт.</p>]]></description_ua>
+        <param name="Артикул">1055365</param>
+        <param name="Бренд">Gerber</param>
+        <param name="Стан товару">Новий</param>
+        <param name="Категорія Хорошоп">GERBER / Ножі Gerber / Складні ножі Gerber</param>
+      </offer>
       <offer id="1023752" available="false">
         <url>https://fiskars-gratis.com.ua/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-1023752/</url>
         <price>2999</price>
@@ -4861,7 +4980,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-scout4lblsonyx3-12-1064399/</url>
         <price>899</price>
         <price_old>2389</price_old>
-        <stock_quantity>31</stock_quantity>
+        <stock_quantity>30</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
@@ -6770,6 +6889,151 @@
         <param name="Стан товару">Новий</param>
         <param name="Код УКТ ЗЕД">8205510000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
+      </offer>
+      <offer id="1014414" available="true">
+        <url>https://fiskars-gratis.com.ua/nabir-tertok-fiskars-functional-form-3-sht/</url>
+        <price>2799</price>
+        <stock_quantity>1</stock_quantity>
+        <currencyId>UAH</currencyId>
+        <categoryId>1009</categoryId>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/nabir-tertok-fiskars-functional-form-3-sht-90483193294167_+1a439c98f5.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/nabir-tertok-fiskars-functional-form-3-sht-14902070504990_+8a501a6e43.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/nabir-tertok-fiskars-functional-form-3-sht-19643690634730_+c5bc51d612.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/nabir-tertok-fiskars-functional-form-3-sht-79918556371580_+3af8f33057.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/28/nabir-tertok-fiskars-functional-form-3-sht-88970578307934_+c131b33311.png</picture>
+        <vendor>Fiskars</vendor>
+        <article>1014414</article>
+        <name>Набір терток Fiskars Functional Form 3 шт</name>
+        <name_ua>Набір терток Fiskars Functional Form 3 шт</name_ua>
+        <description><![CDATA[<p data-end="384" data-start="20"><strong data-end="76" data-start="20">Набір терток Fiskars Functional Form 3 шт. (1014414)</strong>&nbsp;&mdash; практичний комплект кухонних інструментів для подрібнення, натирання та нарізання овочів, фруктів, сиру, шоколаду, імбиру та інших продуктів. У набір входять дрібна терка, крупна терка та терка для овочів, що дозволяє виконувати різні кухонні задачі одним комплектом.&nbsp;</p>
+
+<p data-end="648" data-start="386"><strong data-end="402" data-start="386">Призначення:</strong>&nbsp;підходить для дрібного та крупного натирання продуктів, а також для нарізання овочів тонкими й рівномірними скибочками. Дрібна терка зручна для імбиру, цедри та шоколаду, крупна &mdash; для овочів, фруктів і сиру.&nbsp;</p>
+
+<p data-end="906" data-start="650"><strong data-end="666" data-start="650">Конструкція:</strong>&nbsp;набір складається з трьох окремих інструментів. Кожна терка оснащена захистом для пальців, який допомагає безпечніше працювати з продуктами. Конструкція передбачає зручне зберігання та просте очищення.&nbsp;</p>
+
+<p data-end="1128" data-start="908"><strong data-end="922" data-start="908">Матеріали:</strong>&nbsp;робочі поверхні виготовлені з нержавіючої сталі, інші елементи &mdash; із міцного пластику. Нержавіюча сталь забезпечує довговічність та стійкість до щоденного використання.&nbsp;</p>
+
+<p data-end="1330" data-start="1130"><strong data-end="1146" data-start="1130">Особливості:</strong>&nbsp;три функціональні терки в одному наборі &mdash; дрібна, крупна та для овочів. Оснащені захистом для пальців і придатні для миття в посудомийній машині.&nbsp;</p>
+
+<p data-end="1351" data-start="1332"><strong data-end="1349" data-start="1332">Комплектація:</strong></p>
+
+<ul data-end="1430" data-start="1352">
+	<li data-end="1377" data-section-id="12q7hwx" data-start="1352">дрібна терка &mdash; 1 шт.;</li>
+	<li data-end="1403" data-section-id="14ynlwk" data-start="1378">крупна терка &mdash; 1 шт.;</li>
+	<li data-end="1430" data-section-id="1p5gt1h" data-start="1404">терка для овочів &mdash; 1 шт.</li>
+</ul>]]></description>
+        <description_ua><![CDATA[<p data-end="384" data-start="20"><strong data-end="76" data-start="20">Набір терток Fiskars Functional Form 3 шт. (1014414)</strong>&nbsp;&mdash; практичний комплект кухонних інструментів для подрібнення, натирання та нарізання овочів, фруктів, сиру, шоколаду, імбиру та інших продуктів. У набір входять дрібна терка, крупна терка та терка для овочів, що дозволяє виконувати різні кухонні задачі одним комплектом.&nbsp;</p>
+
+<p data-end="648" data-start="386"><strong data-end="402" data-start="386">Призначення:</strong>&nbsp;підходить для дрібного та крупного натирання продуктів, а також для нарізання овочів тонкими й рівномірними скибочками. Дрібна терка зручна для імбиру, цедри та шоколаду, крупна &mdash; для овочів, фруктів і сиру.&nbsp;</p>
+
+<p data-end="906" data-start="650"><strong data-end="666" data-start="650">Конструкція:</strong>&nbsp;набір складається з трьох окремих інструментів. Кожна терка оснащена захистом для пальців, який допомагає безпечніше працювати з продуктами. Конструкція передбачає зручне зберігання та просте очищення.&nbsp;</p>
+
+<p data-end="1128" data-start="908"><strong data-end="922" data-start="908">Матеріали:</strong>&nbsp;робочі поверхні виготовлені з нержавіючої сталі, інші елементи &mdash; із міцного пластику. Нержавіюча сталь забезпечує довговічність та стійкість до щоденного використання.&nbsp;</p>
+
+<p data-end="1330" data-start="1130"><strong data-end="1146" data-start="1130">Особливості:</strong>&nbsp;три функціональні терки в одному наборі &mdash; дрібна, крупна та для овочів. Оснащені захистом для пальців і придатні для миття в посудомийній машині.&nbsp;</p>
+
+<p data-end="1351" data-start="1332"><strong data-end="1349" data-start="1332">Комплектація:</strong></p>
+
+<ul data-end="1430" data-start="1352">
+	<li data-end="1377" data-section-id="12q7hwx" data-start="1352">дрібна терка &mdash; 1 шт.;</li>
+	<li data-end="1403" data-section-id="14ynlwk" data-start="1378">крупна терка &mdash; 1 шт.;</li>
+	<li data-end="1430" data-section-id="1p5gt1h" data-start="1404">терка для овочів &mdash; 1 шт.</li>
+</ul>]]></description_ua>
+        <param name="Артикул">1014414</param>
+        <param name="Штрихкод">6424002000914</param>
+        <param name="Бренд">Fiskars</param>
+        <param name="Стан товару">Новий</param>
+        <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars</param>
+      </offer>
+      <offer id="1014434" available="true">
+        <url>https://fiskars-gratis.com.ua/nabir-dlia-salata-functional-form/</url>
+        <price>635</price>
+        <stock_quantity>1</stock_quantity>
+        <currencyId>UAH</currencyId>
+        <categoryId>1009</categoryId>
+        <picture>https://fiskars-gratis.com.ua/content/images/30/nabir-dlia-salata-functional-form-40300811010977_+f85a961ab9.png</picture>
+        <vendor>Fiskars</vendor>
+        <article>1014434</article>
+        <name>Набір для салата Functional Form</name>
+        <name_ua>Набір для салата Functional Form</name_ua>
+        <description><![CDATA[<p data-end="289" data-start="20"><strong data-end="74" data-start="20">Набір для салата Fiskars Functional Form (1014434)</strong>&nbsp;&mdash; практичний кухонний комплект для сервірування та перемішування салатів. Набір складається з двох предметів: ложки та виделки для салату, які зручно використовувати для подачі овочевих, фруктових та інших салатів.</p>
+
+<p data-end="417" data-start="291"><strong data-end="307" data-start="291">Призначення:</strong>&nbsp;призначений для перемішування інгредієнтів та сервірування салатів, гарнірів, овочів, фруктів та інших страв.</p>
+
+<p data-end="643" data-start="419"><strong data-end="435" data-start="419">Конструкція:</strong>&nbsp;ложка та виделка мають ергономічну форму, що забезпечує комфортне захоплення та зручне перенесення продуктів із салатниці на тарілку. Отвори на ручках дозволяють зручно зберігати прибори у підвішеному стані.</p>
+
+<p data-end="743" data-start="645"><strong data-end="659" data-start="645">Матеріали:</strong>&nbsp;кухонні прибори виготовлені з міцного пластику, стійкого до щоденного використання.</p>
+
+<p data-end="879" data-start="745"><strong data-end="761" data-start="745">Особливості:</strong>&nbsp;два предмети в комплекті, ергономічна форма, зручні ручки, просте очищення та можливість миття в посудомийній машині.</p>
+
+<p data-end="900" data-start="881"><strong data-end="898" data-start="881">Комплектація:</strong></p>
+
+<ul data-end="959" data-start="901">
+	<li data-end="930" data-section-id="1ncob9s" data-start="901">ложка для салату &mdash; 1 шт.;</li>
+	<li data-end="959" data-section-id="4gjc20" data-start="931">виделка для салату &mdash; 1 шт.</li>
+</ul>]]></description>
+        <description_ua><![CDATA[<p data-end="289" data-start="20"><strong data-end="74" data-start="20">Набір для салата Fiskars Functional Form (1014434)</strong>&nbsp;&mdash; практичний кухонний комплект для сервірування та перемішування салатів. Набір складається з двох предметів: ложки та виделки для салату, які зручно використовувати для подачі овочевих, фруктових та інших салатів.</p>
+
+<p data-end="417" data-start="291"><strong data-end="307" data-start="291">Призначення:</strong>&nbsp;призначений для перемішування інгредієнтів та сервірування салатів, гарнірів, овочів, фруктів та інших страв.</p>
+
+<p data-end="643" data-start="419"><strong data-end="435" data-start="419">Конструкція:</strong>&nbsp;ложка та виделка мають ергономічну форму, що забезпечує комфортне захоплення та зручне перенесення продуктів із салатниці на тарілку. Отвори на ручках дозволяють зручно зберігати прибори у підвішеному стані.</p>
+
+<p data-end="743" data-start="645"><strong data-end="659" data-start="645">Матеріали:</strong>&nbsp;кухонні прибори виготовлені з міцного пластику, стійкого до щоденного використання.</p>
+
+<p data-end="879" data-start="745"><strong data-end="761" data-start="745">Особливості:</strong>&nbsp;два предмети в комплекті, ергономічна форма, зручні ручки, просте очищення та можливість миття в посудомийній машині.</p>
+
+<p data-end="900" data-start="881"><strong data-end="898" data-start="881">Комплектація:</strong></p>
+
+<ul data-end="959" data-start="901">
+	<li data-end="930" data-section-id="1ncob9s" data-start="901">ложка для салату &mdash; 1 шт.;</li>
+	<li data-end="959" data-section-id="4gjc20" data-start="931">виделка для салату &mdash; 1 шт.</li>
+</ul>]]></description_ua>
+        <param name="Артикул">1014434</param>
+        <param name="Штрихкод">6424002000983</param>
+        <param name="Бренд">Fiskars</param>
+        <param name="Стан товару">Новий</param>
+        <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars</param>
+      </offer>
+      <offer id="1054778" available="true">
+        <url>https://fiskars-gratis.com.ua/nabir-stolovykh-pryladiv-fiskars-all-steel-16-sht-1054778/</url>
+        <price>5900</price>
+        <price_old>6300</price_old>
+        <stock_quantity>1</stock_quantity>
+        <currencyId>UAH</currencyId>
+        <categoryId>1009</categoryId>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/nabir-stolovykh-pryladiv-fiskars-all-steel-16-sht-1054778-12351415912331_+19295ad733.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/nabir-stolovykh-pryladiv-fiskars-all-steel-16-sht-1054778-38973554321915_+837934340c.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/nabir-stolovykh-pryladiv-fiskars-all-steel-16-sht-1054778-37139804646708_+efc8a89d53.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/nabir-stolovykh-pryladiv-fiskars-all-steel-16-sht-1054778-99544371737066_+23397476f4.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/nabir-stolovykh-pryladiv-fiskars-all-steel-16-sht-1054778-67950793515085_+05e5e84372.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/32/nabir-stolovykh-pryladiv-fiskars-all-steel-16-sht-1054778-51462548497983_+7cdf4b6064.png</picture>
+        <vendor>Fiskars</vendor>
+        <article>1054778</article>
+        <name>Набір столових приладів Fiskars All Steel 16 шт (1054778)</name>
+        <name_ua>Набір столових приладів Fiskars All Steel 16 шт (1054778)</name_ua>
+        <description><![CDATA[<p data-end="277" data-start="20"><strong data-end="82" data-start="20">Набір столових приладів Fiskars All Steel 16 шт. (1054778)</strong>&nbsp;&mdash; практичний комплект столових приборів із нержавіючої сталі для сервірування столу та щоденного використання. Стриманий дизайн набору добре поєднується з різними стилями посуду та сервірування.</p>
+
+<p data-end="366" data-start="279"><strong data-end="295" data-start="279">Призначення:</strong>&nbsp;для щоденного прийому їжі, сервірування обіднього та святкового столу.</p>
+
+<p data-end="535" data-start="368"><strong data-end="384" data-start="368">Конструкція:</strong>&nbsp;прибори мають ергономічну форму та збалансовану конструкцію для комфортного використання. Гладка поверхня забезпечує простий догляд і зручне очищення.</p>
+
+<p data-end="658" data-start="537"><strong data-end="551" data-start="537">Матеріали:</strong>&nbsp;столові прибори виготовлені з високоякісної нержавіючої сталі, стійкої до корозії та щоденного зношування.</p>
+
+<p data-end="808" data-start="660"><strong data-end="676" data-start="660">Особливості:</strong>&nbsp;16 предметів у комплекті, мінімалістичний дизайн серії All Steel, міцна конструкція та придатність для миття в посудомийній машині.</p>]]></description>
+        <description_ua><![CDATA[<p data-end="277" data-start="20"><strong data-end="82" data-start="20">Набір столових приладів Fiskars All Steel 16 шт. (1054778)</strong>&nbsp;&mdash; практичний комплект столових приборів із нержавіючої сталі для сервірування столу та щоденного використання. Стриманий дизайн набору добре поєднується з різними стилями посуду та сервірування.</p>
+
+<p data-end="366" data-start="279"><strong data-end="295" data-start="279">Призначення:</strong>&nbsp;для щоденного прийому їжі, сервірування обіднього та святкового столу.</p>
+
+<p data-end="535" data-start="368"><strong data-end="384" data-start="368">Конструкція:</strong>&nbsp;прибори мають ергономічну форму та збалансовану конструкцію для комфортного використання. Гладка поверхня забезпечує простий догляд і зручне очищення.</p>
+
+<p data-end="658" data-start="537"><strong data-end="551" data-start="537">Матеріали:</strong>&nbsp;столові прибори виготовлені з високоякісної нержавіючої сталі, стійкої до корозії та щоденного зношування.</p>
+
+<p data-end="808" data-start="660"><strong data-end="676" data-start="660">Особливості:</strong>&nbsp;16 предметів у комплекті, мінімалістичний дизайн серії All Steel, міцна конструкція та придатність для миття в посудомийній машині.</p>]]></description_ua>
+        <param name="Артикул">1054778</param>
+        <param name="Штрихкод">6424002011552</param>
+        <param name="Бренд">Fiskars</param>
+        <param name="Стан товару">Новий</param>
+        <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars</param>
       </offer>
     </offers>
   </shop>
