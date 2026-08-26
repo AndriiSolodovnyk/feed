@@ -1,6 +1,7 @@
 const XLSX = require('xlsx');
 const fs = require('fs');
 const { downloadArrayBuffer } = require('./feedDownloader');
+const PRODUCT_DIMENSIONS = require('./productDimensions');
 
 const FILE_URL = 'https://fiskars-gratis.com.ua/content/export/f21d2ef6d82a517fac09ea84c53cf5c9.xlsx';
 
@@ -212,6 +213,15 @@ function buildRozetka(products) {
     const pictures = p.images
       .map((image) => `        <picture>${image}</picture>`)
       .join('\n');
+    const dimensions = PRODUCT_DIMENSIONS[sku];
+    const dimensionsXml = dimensions
+      ? `        <dimensions>
+          <weight unit="kg">${dimensions.weight}</weight>
+          <width unit="cm">${dimensions.width}</width>
+          <height unit="cm">${dimensions.height}</height>
+          <length unit="cm">${dimensions.length}</length>
+        </dimensions>\n`
+      : '';
 
     xml += `
       <offer id="${p.sku}" available="${p.available}">
@@ -219,7 +229,7 @@ function buildRozetka(products) {
         <price>${p.price}</price>
         <categoryId>${categoryId}</categoryId>
         <currencyId>UAH</currencyId>
-${pictures ? `${pictures}\n` : ''}        <description><![CDATA[${p.description || p.name}]]></description>
+${pictures ? `${pictures}\n` : ''}${dimensionsXml}        <description><![CDATA[${p.description || p.name}]]></description>
         <stock_quantity>${p.stock}</stock_quantity>
       </offer>`;
   }
