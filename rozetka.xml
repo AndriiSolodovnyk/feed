@@ -1,16 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-26T22:23:06.486Z">
+<yml_catalog date="2026-08-26T22:53:51.856Z">
   <shop>
     <categories>
       <category id="1">Коренева група</category>
-      <category id="156333769">Набір</category>
+      <category id="156333769">Акції</category>
       <category id="156336200">Кухня</category>
+      <category id="156336201">Gerber</category>
+      <category id="156336202">Сокири</category>
+      <category id="156336203">Лопати</category>
+      <category id="156336204">Секатори</category>
+      <category id="156336205">Сучкорізи</category>
+      <category id="156336206">Садові ножиці</category>
+      <category id="156336207">Пили</category>
+      <category id="156336208">Ножі</category>
+      <category id="156336209">Граблі</category>
+      <category id="156336210">Садовий інвентар</category>
+      <category id="156336211">Полив</category>
+      <category id="156336212">Мультитули</category>
+      <category id="156336213">Інструменти для дому</category>
+      <category id="156336214">Товари для творчості</category>
+      <category id="156336215">Аксесуари для тварин</category>
     </categories>
     <offers>
       <offer id="1052045" available="true">
         <name><![CDATA[Сокира-колун Fiskars Solid A18 (1052045)]]></name>
         <price>2999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-kolun-solid-a18-32816859905940_+d9511c6405.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/15/41650360493183_+e16acac9d5.jpg</picture>
@@ -64,7 +79,7 @@
       <offer id="1015641" available="true">
         <name><![CDATA[Сокира-колун Fiskars M Х17 (1015641)]]></name>
         <price>3299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/sokyra-kolun-m-kh17-63188316463397_+759234e14d.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/16/93618919334182_+9ab6bdbbfa.jpg</picture>
@@ -94,7 +109,7 @@
       <offer id="1015643" available="false">
         <name><![CDATA[Сокира-колун Fiskars X25 XL (1015643)]]></name>
         <price>3999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/sokyra-kolun-xl-kh25-56701410361483_+c9ad3ba224.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/17/35643170110978_+bb2e606e2a.jpg</picture>
@@ -120,7 +135,7 @@
       <offer id="1015640" available="true">
         <name><![CDATA[Сокира-колун Fiskars S Х11 (1015640)]]></name>
         <price>3667</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/sokyra-kolun-s-kh11-68872749063855_+c2abb2f971.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/18/sokyra-kolun-s-kh11-53512060225890_+d789e36a3b.jpg</picture>
@@ -152,7 +167,7 @@
       <offer id="1015642" available="true">
         <name><![CDATA[Сокира-колун Fiskars L Х21 (1015642)]]></name>
         <price>3599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/sokyra-kolun-l-kh21-f-81853229389511_+681681ba80.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/19/sokyra-kolun-l-kh21-f-65787424604347_+a937218a2a.jpg</picture>
@@ -179,7 +194,7 @@
       <offer id="1015619" available="false">
         <name><![CDATA[Сокира теслярська Fiskars S-X10 (1015619)]]></name>
         <price>2399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/21300699254584_+4582d99142.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/30/40772403128965_+3581c7c662.jpg</picture>
@@ -204,7 +219,7 @@
       <offer id="1015644" available="true">
         <name><![CDATA[Сокира-колун Fiskars X27 XXL (1015644)]]></name>
         <price>4199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-79732584602054_+ce3da73ad6.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-67174473385678_+54ebe318ea.jpg</picture>
@@ -234,7 +249,7 @@
       <offer id="1051085" available="true">
         <name><![CDATA[Сокира теслярськаFiskars Solid A10 (1051085)]]></name>
         <price>2499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/sokyra-tesliarskafiskars-solid-a10-1051085-32349492837763_+2f75112269.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/47/sokyra-tesliarskafiskars-solid-a10-1051085-19406112949108_+2d6c5d965d.jpg</picture>
@@ -261,7 +276,7 @@
       <offer id="1075437" available="false">
         <name><![CDATA[Набір сокира універсальна Fiskars Х13 + точило 1075437]]></name>
         <price>1699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/nabir-sokyra-universalna-fiskars-kh13-tochylo-1075437-28649377492852_+f14fdd8e60.png</picture>
         <dimensions>
@@ -315,7 +330,7 @@
       <offer id="1075438" available="true">
         <name><![CDATA[Сокира Fiskars Norden 375, ювілейне видання]]></name>
         <price>9999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/sokyra-fiskars-norden-375-yuvileine-vydannia-25641113419331_+7d0e4a2fe7.png</picture>
         <dimensions>
@@ -343,7 +358,7 @@
       <offer id="1051146" available="true">
         <name><![CDATA[Набір подарунковий 2 в 1 Fiskars Norden N7 та точило (1051146)]]></name>
         <price>4749</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/38/nabir-podarunkovyi-2-v-1-fiskars-norden-n7-ta-tochylo-1051146-79552544014327_+fb727a1fe0.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/38/nabir-podarunkovyi-2-v-1-fiskars-norden-n7-ta-tochylo-1051146-97067670412665_+dcb30bbe42.png</picture>
@@ -377,7 +392,7 @@
       <offer id=" 1015618" available="false">
         <name><![CDATA[Сокира туристична XS Х7 (F)]]></name>
         <price>2899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-turystychna-xs-kh7-f-45034158709676_+1aa29d4679.png</picture>
         <dimensions>
@@ -407,7 +422,7 @@
       <offer id="1014860" available="true">
         <name><![CDATA[Томагавк]]></name>
         <price>16999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-51337791712519_+130a721fd2.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/9/tomahavk-25956959800794_+b697e02de1.png</picture>
@@ -440,7 +455,7 @@
       <offer id="1019822" available="true">
         <name><![CDATA[Сокира Gerber 9 Hatchet]]></name>
         <price>2799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/sokyra-gerber-9-hatchet-90067937745670_+dcf37706fd.jpg</picture>
         <dimensions>
@@ -466,7 +481,7 @@
       <offer id="1015617" available="false">
         <name><![CDATA[Сокира туристична XXS X5]]></name>
         <price>2699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336202</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/sokyra-turystychna-xxs-x5-77733053362590_+84575a45a9.png</picture>
         <dimensions>
@@ -492,7 +507,7 @@
       <offer id="1028376" available="true">
         <name><![CDATA[Пилка садова ручна Fiskars Solid SW 16 (1028376)]]></name>
         <price>1599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336207</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
@@ -518,7 +533,7 @@
       <offer id="1028375" available="true">
         <name><![CDATA[Пила садова ручна Fiskars SW47 (1028375)]]></name>
         <price>2199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336207</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/pyla-sadova-ruchna-fiskars-sw47-1028375-44541458516724_+cd6d06146d.jpg</picture>
         <dimensions>
@@ -546,7 +561,7 @@
       <offer id="1028374" available="true">
         <name><![CDATA[Пила садова ручна Fiskars SW37 (1028374)]]></name>
         <price>2099</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336207</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/pyla-sadova-ruchna-fiskars-sw37-1028374-77726564668057_+8552072805.jpg</picture>
         <dimensions>
@@ -570,7 +585,7 @@
       <offer id="1014775" available="true">
         <name><![CDATA[Лопата штикова Fiskars ClassicPro червона (1014775)]]></name>
         <price>899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/23/lopata-shtykova-classicpro-chervona-99454331482890_+9871f6dc32.jpeg</picture>
         <dimensions>
@@ -596,7 +611,7 @@
       <offer id="1066715" available="false">
         <name><![CDATA[Лопата туристична Fiskars Solid Metal (1066715)]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-92481688276251_+1dd47097eb.jpg</picture>
         <dimensions>
@@ -620,7 +635,7 @@
       <offer id="1066716" available="false">
         <name><![CDATA[Лопата штикова Fiskars Solid (1066716)]]></name>
         <price>1299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-30193213527913_+c5a51c1118.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-51057855491450_+09d941eea0.jpg</picture>
@@ -646,7 +661,7 @@
       <offer id="1067540" available="true">
         <name><![CDATA[Лопата мала Fiskars White S (1067540)]]></name>
         <price>1749</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/7/lopata-mala-fiskars-white-s-1067540-41347606308531_+4c043b7635.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/7/lopata-mala-fiskars-white-s-1067540-50594586793063_+60bccf61ce.jpg</picture>
@@ -672,7 +687,7 @@
       <offer id="1014776" available="true">
         <name><![CDATA[Лопата загострена Fiskars ClassicPro червона FSC (1014776)]]></name>
         <price>1600</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/lopata-zahostrena-fiskars-classicpro-chervona-fsc-1014776-62107306863773_+98e9bf6697.jpeg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/8/lopata-zahostrena-fiskars-classicpro-chervona-fsc-1014776-54242592592424_+40757a092e.jpeg</picture>
@@ -697,7 +712,7 @@
       <offer id="1005016" available="true">
         <name><![CDATA[Лопата совкова будівельна Fiskars (1005016)]]></name>
         <price>2300</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sovkova-budivelna-fiskars-1005016-69407303738447_+40a2392cd0.jpg</picture>
         <dimensions>
@@ -721,7 +736,7 @@
       <offer id="1014823" available="true">
         <name><![CDATA[Лопата совкова FISKARS PARK FSC (1014823)]]></name>
         <price>1860</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/lopata-sovkova-fiskars-park-fsc-1014823-17245250367461_+e958c452c0.png</picture>
         <dimensions>
@@ -745,7 +760,7 @@
       <offer id="1014773" available="true">
         <name><![CDATA[Лопата садова штикова Fiskars Classic FSC (1014773)]]></name>
         <price>2000</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/lopata-sadova-shtykova-fiskars-classic-fsc-1014773-68987635325854_+259fdc7151.jpg</picture>
         <dimensions>
@@ -769,7 +784,7 @@
       <offer id="1024472" available="true">
         <name><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name>
         <price>899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-sadova-klasychna-fiskars-fsc-1024472-57800540377835_+bcbde5a5fc.jpeg</picture>
         <dimensions>
@@ -793,7 +808,7 @@
       <offer id="1066708" available="true">
         <name><![CDATA[Лопата штикова Fiskars Ergonomic (1066708)]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-22538686036885_+6d958097a4.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-41830892844812_+7816ce0b58.jpg</picture>
@@ -825,7 +840,7 @@
       <offer id="1066713" available="true">
         <name><![CDATA[Лопата совкова будівельна Fiskars Ergonomic Pro (1066713)]]></name>
         <price>2699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sovkova-budivelna-fiskars-ergonomic-pro-1066713-97983424289414_+ae5af8871e.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sovkova-budivelna-fiskars-ergonomic-pro-1066713-18664755050973_+466ab58e8a.jpg</picture>
@@ -852,7 +867,7 @@
       <offer id="1066724" available="true">
         <name><![CDATA[Лопата совкова з дерев'яною ручкою Fiskars Solid (1066724)]]></name>
         <price>1799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/lopata-sovkova-z-derevianoiu-ruchkoiu-fiskars-solid-1066724-51685020203657_+77bbc8ded3.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/10/lopata-sovkova-z-derevianoiu-ruchkoiu-fiskars-solid-1066724-14252051296561_+a1cf4eb549.jpg</picture>
@@ -879,7 +894,7 @@
       <offer id="1071919" available="true">
         <name><![CDATA[Лопата класична дренажна Fiskars (1071919)]]></name>
         <price>1799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-92806745299362_+4bc29830a8.png</picture>
         <dimensions>
@@ -907,7 +922,7 @@
       <offer id="1001569" available="false">
         <name><![CDATA[Лопата штикова довга Fiskars ErgoComfort (1001569)]]></name>
         <price>1299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/38/lopata-shtykova-dovha-fiskars-ergocomfort-1001569-15337467945695_+52b6a43dfc.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/38/lopata-shtykova-dovha-fiskars-ergocomfort-1001569-82751647186604_+69fc8b628e.jpg</picture>
@@ -933,7 +948,7 @@
       <offer id="1001580" available="false">
         <name><![CDATA[Лопата совкова для бетону Fiskars ErgoComfort (1001580)]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/lopata-sovkova-dlia-betonu-fiskars-ergocomfort-1001580-52489955146930_+1eab5f3626.jpg</picture>
         <dimensions>
@@ -957,7 +972,7 @@
       <offer id="1057179" available="true">
         <name><![CDATA[Лопата ролер для снігу Fiskars SnowXpert Roller X-series (1057179)]]></name>
         <price>3099</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/lopata-roler-dlia-snihu-fiskars-snowxpert-roller-x-series-1057179-40568881200832_+88acb7e4e6.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/40/lopata-roler-dlia-snihu-fiskars-snowxpert-roller-x-series-1057179-61282787102177_+12d22de961.jpg</picture>
@@ -984,7 +999,7 @@
       <offer id="1062473" available="true">
         <name><![CDATA[Лопата та граблі MyFirst Fiskars Essentials (1062473)]]></name>
         <price>1299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/lopata-ta-hrabli-myfirst-fiskars-essentials-1062473-91359860498999_+f5eced6d89.jpg</picture>
         <dimensions>
@@ -1008,7 +1023,7 @@
       <offer id="1071921" available="true">
         <name><![CDATA[Лопата дренажна класична Fiskars FSC (1071921)]]></name>
         <price>799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/lopata-drenazhna-klasychna-fiskars-fsc-1071921-86449683880347_+878831c293.jpg</picture>
         <dimensions>
@@ -1032,7 +1047,7 @@
       <offer id="1071927" available="true">
         <name><![CDATA[Лопата штикова загострена Fiskars (1071927)]]></name>
         <price>599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/43/lopata-shtykova-zahostrena-fiskars-1071927-20380707249706_+d458073775.jpg</picture>
         <dimensions>
@@ -1056,7 +1071,7 @@
       <offer id="1071929" available="false">
         <name><![CDATA[Лопата садова класична фіскарс FSC (1071929)]]></name>
         <price>699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</picture>
         <dimensions>
@@ -1082,7 +1097,7 @@
       <offer id="1073725" available="true">
         <name><![CDATA[Лопата чорна совкова T-Grip FSC Fiskars (1073725)]]></name>
         <price>2300</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/lopata-chorna-sovkova-t-grip-fsc-fiskars-1073725-65375117345304_+ee1bc9d716.jpeg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/45/lopata-chorna-sovkova-t-grip-fsc-fiskars-1073725-63401609339578_+c76fb68f75.jpeg</picture>
@@ -1107,7 +1122,7 @@
       <offer id="1027018" available="true">
         <name><![CDATA[Лопата для розсади Ergo]]></name>
         <price>299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/lopata-dlia-rozsady-ergo-54589473311092_+7f8d28ad5a.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/41/lopata-dlia-rozsady-ergo-83406324739536_+a53dabefd3.png</picture>
@@ -1135,7 +1150,7 @@
       <offer id="1066725" available="true">
         <name><![CDATA[Лопата штикова Фіскарс PRIMA чорна FSC]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/46/lopata-shtykova-fiskars-prima-chorna-fsc-21894990442558_+5493ed8dd1.png</picture>
         <dimensions>
@@ -1161,7 +1176,7 @@
       <offer id="1066726" available="true">
         <name><![CDATA[Лопата амеріканка Фіскарс PRIMA чорна FSC]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/lopata-amerikanka-fiskars-prima-chorna-fsc-63892120625183_+8ec96e5b25.png</picture>
         <dimensions>
@@ -1187,7 +1202,7 @@
       <offer id="1066727" available="true">
         <name><![CDATA[Лопата совкова Фіскарс PRIMA чорна FSC]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/lopata-sovkova-fiskars-prima-chorna-fsc-90945748490249_+42146e29f2.png</picture>
         <dimensions>
@@ -1213,7 +1228,7 @@
       <offer id="1071922" available="true">
         <name><![CDATA[Лопата Фіскарс совкова класична FSC]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336203</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-17131597943110_+167e84e65d.png</picture>
         <dimensions>
@@ -1239,7 +1254,7 @@
       <offer id="1070715" available="true">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
         <price>2099</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/vyla-sadovi-white-62686653962191_+c46fc2327b.jpg</picture>
         <dimensions>
@@ -1263,7 +1278,7 @@
       <offer id="1014810" available="false">
         <name><![CDATA[Вила короткі Fiskars Solid (1014810)]]></name>
         <price>649</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/vyla-korotki-solid-30245336963469_+61b3f9a06d.jpeg</picture>
         <dimensions>
@@ -1287,7 +1302,7 @@
       <offer id="1001577" available="true">
         <name><![CDATA[Вила для сіна Fiskars ErgoComfort (1001577)]]></name>
         <price>1069</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-dlia-sina-ergocomfort-90489817686205_+145949ee90.png</picture>
         <dimensions>
@@ -1315,7 +1330,7 @@
       <offer id="1011570" available="true">
         <name><![CDATA[Вила для компосту Fiskars пластикові (1011570)]]></name>
         <price>349</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/vyla-dlia-kompostu-fiskars-plastykovi-1011570-47215227791569_+49c9b09729.jpg</picture>
         <dimensions>
@@ -1339,7 +1354,7 @@
       <offer id="1004814" available="false">
         <name><![CDATA[Вила садові полегшені Fiskars Ergo (1004814)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/vyla-sadovi-polehsheni-fiskars-ergo-1004814-93572176974926_+737ccf4302.jpeg</picture>
         <dimensions>
@@ -1365,7 +1380,7 @@
       <offer id="1071936" available="false">
         <name><![CDATA[Вила для компосту Fiskars Solid 1071936]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/vyla-dlia-kompostu-fiskars-solid-1071936-12278454818143_+573e7f5d12.png</picture>
         <dimensions>
@@ -1392,7 +1407,7 @@
       <offer id="1070675" available="true">
         <name><![CDATA[Вила садові Prima U-Grip FSC 1070675]]></name>
         <price>899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/vyla-sadovi-prima-u-grip-fsc-1070675-46089449031083_+c55e236024.png</picture>
         <dimensions>
@@ -1417,7 +1432,7 @@
       <offer id="1050117" available="true">
         <name><![CDATA[Вила прямі]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/vyla-priami-35773492317521_+f408a5c096.png</picture>
         <dimensions>
@@ -1449,7 +1464,7 @@
       <offer id="1003458" available="true">
         <name><![CDATA[Вила садові Solid ]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/vyla-sadovi-solid-96655494095759_+43afd7eb05.png</picture>
         <dimensions>
@@ -1475,7 +1490,7 @@
       <offer id="1004808" available="true">
         <name><![CDATA[Мотика ергономічна Fiskars Skuffejern (1004808)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/motyka-erhonomichna-fiskars-skuffejern-1004808-96674185505548_+122d0a1dd6.jpg</picture>
         <dimensions>
@@ -1499,7 +1514,7 @@
       <offer id="1014815" available="false">
         <name><![CDATA[Мотига Fiskars Solid L30 (1014815)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/motyha-fiskars-solid-l30-1014815-64947874520294_+32915254de.jpeg</picture>
         <dimensions>
@@ -1523,7 +1538,7 @@
       <offer id="1005044" available="false">
         <name><![CDATA[Сапка Fiskars Dutch Red FSC (1005044)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/sapka-fiskars-dutch-red-fsc-1005044-71739665626535_+256a2a5d30.jpg</picture>
         <dimensions>
@@ -1547,7 +1562,7 @@
       <offer id="1014792" available="true">
         <name><![CDATA[Сапа FISKARS для картоплі FSC (1014792)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/38/sapa-fiskars-dlia-kartopli-fsc-1014792-29878055929711_+3bb42e01a2.jpg</picture>
         <dimensions>
@@ -1571,7 +1586,7 @@
       <offer id="1027030" available="true">
         <name><![CDATA[Мотика Ergo]]></name>
         <price>749</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/motyka-ergo-24999646370952_+081b7ba5a1.png</picture>
         <dimensions>
@@ -1597,7 +1612,7 @@
       <offer id="1052090" available="false">
         <name><![CDATA[Набір садовий Fiskars лопатка, культиватор (1052090)]]></name>
         <price>298</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/nabir-sadovyi-fiskars-lopatka-kultyvator-1052090-80101712747137_+bc1c79f3c3.jpg</picture>
         <dimensions>
@@ -1625,7 +1640,7 @@
       <offer id="1025564" available="true">
         <name><![CDATA[Лопатка для пересадки Fiskars Solid (1025564)]]></name>
         <price>277</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/lopatka-dlia-peresadky-fiskars-solid-1025564-47156608600942_+ea51128c87.jpg</picture>
         <dimensions>
@@ -1649,7 +1664,7 @@
       <offer id="1025563" available="true">
         <name><![CDATA[Лопатка Fiskars Solid (1025563)]]></name>
         <price>277</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/lopatka-fiskars-solid-1025563-57182449374359_+48018cd8f5.jpg</picture>
         <dimensions>
@@ -1673,7 +1688,7 @@
       <offer id="1025565" available="true">
         <name><![CDATA[Культиватор Fiskars Solid (1025565)]]></name>
         <price>377</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/kultyvator-fiskars-solid-1025565-53478953591333_+015e3a76d4.jpg</picture>
         <dimensions>
@@ -1697,7 +1712,7 @@
       <offer id="1027034" available="true">
         <name><![CDATA[Вилка для посадки Fiskars White (1027034)]]></name>
         <price>377</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/vylka-dlia-posadky-fiskars-white-1027034-32452138324249_+24496c2ede.jpg</picture>
         <dimensions>
@@ -1721,7 +1736,7 @@
       <offer id="1025567" available="true">
         <name><![CDATA[Сапка Fiskars Solid Planter (1025567)]]></name>
         <price>549</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/23/sapka-fiskars-solid-planter-1025567-47332315461069_+84c2d4b930.jpg</picture>
         <dimensions>
@@ -1745,7 +1760,7 @@
       <offer id="1027033" available="true">
         <name><![CDATA[Лопатка для розсади Fiskars White (1027033)]]></name>
         <price>277</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/lopatka-dlia-rozsady-fiskars-white-1027033-86885566409648_+ea5a4b42ec.jpg</picture>
         <dimensions>
@@ -1769,7 +1784,7 @@
       <offer id="1025566" available="true">
         <name><![CDATA[Вила для бур'янів Fiskars Solid (1025566)]]></name>
         <price>219</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/vyla-dlia-burianiv-fiskars-solid-1025566-83309651957586_+8ab0a3898c.jpg</picture>
         <dimensions>
@@ -1793,7 +1808,7 @@
       <offer id="1018608" available="true">
         <name><![CDATA[Культиватор Fiskars Ergonomic (1018608)]]></name>
         <price>899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/kultyvator-fiskars-ergonomic-1018608-57386601387864_+4b087052e4.jpg</picture>
         <dimensions>
@@ -1817,7 +1832,7 @@
       <offer id="1020125" available="true">
         <name><![CDATA[Інструмент для видалення бур'янів телескопичний SmartFit 1020125]]></name>
         <price>2499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-65431477501912_+80659f6ea2.jpg</picture>
         <dimensions>
@@ -1842,7 +1857,7 @@
       <offer id="1020126" available="true">
         <name><![CDATA[Інструмент для видалення бур'янів Xact 1020126]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-77399157343416_+35a2b36954.png</picture>
         <dimensions>
@@ -1869,7 +1884,7 @@
       <offer id="1000728" available="true">
         <name><![CDATA[Культивар Fiskars Premium Planters (1000728)]]></name>
         <price>599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/kultyvar-fiskars-premium-planters-1000728-77701541497697_+16e3b35a96.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/5/kultyvar-fiskars-premium-planters-1000728-42837204874993_+2ab1371b93.jpg</picture>
@@ -1896,7 +1911,7 @@
       <offer id="1072103" available="true">
         <name><![CDATA[Вила для бур'янів Solid (1072103)]]></name>
         <price>377</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/vyla-dlia-burianiv-solid-1072103-95562995986357_+f06220616e.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/21/vyla-dlia-burianiv-solid-1072103-85462232731421_+6fef0bda9b.jpg</picture>
@@ -1924,7 +1939,7 @@
       <offer id="1027019" available="true">
         <name><![CDATA[Культиватор Ergo (1027019)]]></name>
         <price>699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/kultyvator-ergo-1027019-84073823826176_+2e4ca3b2f6.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/22/kultyvator-ergo-1027019-70118998101807_+b841f50d75.jpg</picture>
@@ -1950,7 +1965,7 @@
       <offer id="1062347" available="true">
         <name><![CDATA[Інструмент для видалення бурянів]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/38/instrument-dlia-vydalennia-burianiv-96288475859217_+f10de849f1.png</picture>
         <dimensions>
@@ -1976,7 +1991,7 @@
       <offer id="1001530" available="false">
         <name><![CDATA[Секатор професійний Fiskars Pro P90 (1001530)]]></name>
         <price>1399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336204</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-67228565350612_+3651437728.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-44572510144021_+ecda01e9d6.jpg</picture>
@@ -2001,7 +2016,7 @@
       <offer id="1026916" available="true">
         <name><![CDATA[Секатор площинний Fiskars White P57 (1026916)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336204</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-86012777730212_+d64300a136.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-59156442773986_+01158ecd68.jpg</picture>
@@ -2031,7 +2046,7 @@
       <offer id="1057162" available="true">
         <name><![CDATA[Секатор площинний Fiskars Solid M P321 (1057162)]]></name>
         <price>699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336204</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/sekator-ploshchynnyi-fiskars-solid-m-p321-1057162-98393035338109_+022dbe4bcb.jpg</picture>
         <dimensions>
@@ -2055,7 +2070,7 @@
       <offer id="1057169" available="false">
         <name><![CDATA[Секатор площинний Fiskars SmartFit P541 (1057169)]]></name>
         <price>1049</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336204</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/1/sekator-ploshchynnyi-fiskars-smartfit-p541-1057169-69400811095303_+90e650892c.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/1/sekator-ploshchynnyi-fiskars-smartfit-p541-1057169-48928306012836_+14ad4c1792.jpg</picture>
@@ -2080,7 +2095,7 @@
       <offer id="1000567" available="false">
         <name><![CDATA[Секатор площинний Fiskars SingleStep P26 (1000567)]]></name>
         <price>599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336204</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-27487367778769_+1137de4d65.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-15228611473368_+01e54b7393.jpg</picture>
@@ -2105,7 +2120,7 @@
       <offer id="1024711" available="true">
         <name><![CDATA[Секатор Fiskars SoftGrip M (1024711)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336204</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/sekator-fiskars-softgrip-m-1024711-33272296243147_+9fe0140605.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/19/sekator-fiskars-softgrip-m-1024711-13785399709375_+46b8962db4.jpg</picture>
@@ -2130,7 +2145,7 @@
       <offer id="1075314" available="true">
         <name><![CDATA[Секатор площинний для кімнатних рослин]]></name>
         <price>1477</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336204</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-87735988845479_+10b2260602.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-47929734743131_+bc4a3a2b51.png</picture>
@@ -2158,7 +2173,7 @@
       <offer id="1026680" available="true">
         <name><![CDATA[Котушка зі шлангом Fiskars Waterwheel S (1026680)]]></name>
         <price>2999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/43/kotushka-zi-shlanhom-fiskars-waterwheel-s-1026680-69109387189040_+8ef22785c4.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/43/kotushka-zi-shlanhom-fiskars-waterwheel-s-1026680-72156572712063_+e769e22669.jpg</picture>
@@ -2185,7 +2200,7 @@
       <offer id="1027105" available="true">
         <name><![CDATA[Шланг для поливу Fiskars 13мм (1/2") 30м Q4 Watering (1027105)]]></name>
         <price>1899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/shlanh-dlia-polyvu-fiskars-13mm-1-2-30m-q4-watering-1027105-57019089034782_+15276f242d.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/44/shlanh-dlia-polyvu-fiskars-13mm-1-2-30m-q4-watering-1027105-63847313894669_+8e7b0f541e.jpg</picture>
@@ -2213,7 +2228,7 @@
       <offer id="1000660" available="true">
         <name><![CDATA[Граблі для листя Fiskars Ergonomic XL (1000660)]]></name>
         <price>899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/hrabli-dlia-lystia-fiskars-ergonomic-xl-1000660-38160386573897_+c708c18211.jpg</picture>
         <dimensions>
@@ -2237,7 +2252,7 @@
       <offer id="1023492" available="true">
         <name><![CDATA[Граблі великі для листя Fiskars М помаранчеві (1023492)]]></name>
         <price>1399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492-98820689201740_+9388495fc8.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/28/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492-98601955629513_+cc461c8e2f.jpg</picture>
@@ -2262,7 +2277,7 @@
       <offer id="1024720" available="true">
         <name><![CDATA[Граблі Fiskars Solid (1024720)]]></name>
         <price>1377</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/29/hrabli-fiskars-solid-1024720-46645498261926_+f3e1a2f52e.jpg</picture>
         <dimensions>
@@ -2286,7 +2301,7 @@
       <offer id="1056927" available="true">
         <name><![CDATA[Набір Fiskars мітла дворова М + Граблі Solid (1056927)]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/nabir-fiskars-mitla-dvorova-m-hrabli-solid-1056927-82433085609314_+55060e055c.jpg</picture>
         <dimensions>
@@ -2310,7 +2325,7 @@
       <offer id="1019608" available="false">
         <name><![CDATA[Граблі для ґрунту полегшені Fiskars White (1019608)]]></name>
         <price>1399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/hrabli-dlia-gruntu-polehsheni-fiskars-white-1019608-39495851024710_+1cf62f0792.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/31/hrabli-dlia-gruntu-polehsheni-fiskars-white-1019608-52188291701506_+842c24c07c.jpg</picture>
@@ -2335,7 +2350,7 @@
       <offer id="1001587" available="true">
         <name><![CDATA[Граблі для грунту універсальні Fiskars FSC (1001587)]]></name>
         <price>799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/hrabli-dlia-hruntu-universalni-fiskars-fsc-1001587-14393508411534_+89c2a58089.jpg</picture>
         <dimensions>
@@ -2363,7 +2378,7 @@
       <offer id="1011611" available="true">
         <name><![CDATA[Граблі для листя Fiskars Prima FSC (1011611)]]></name>
         <price>799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/hrabli-dlia-lystia-fiskars-prima-fsc-1011611-71858912883553_+7120b776c5.jpeg</picture>
         <dimensions>
@@ -2387,7 +2402,7 @@
       <offer id="1014828" available="false">
         <name><![CDATA[Граблі для грунту FISKARS PARK FSC (1014828)]]></name>
         <price>1749</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/hrabli-dlia-hruntu-fiskars-park-fsc-1014828-69518233867227_+5a3fe0eb7a.png</picture>
         <dimensions>
@@ -2402,7 +2417,7 @@
       <offer id="1003466" available="true">
         <name><![CDATA[Універсальні граблі Fiskars Solid (1003466)]]></name>
         <price>1377</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-78110306972162_+c520d25b83.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-29526465452975_+4e194a5ba7.jpg</picture>
@@ -2428,7 +2443,7 @@
       <offer id="1001584" available="true">
         <name><![CDATA[Граблі класичні для листя Fiskars XL FSC (1001584)]]></name>
         <price>1899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/hrabli-klasychni-dlia-lystia-fiskars-xl-fsc-1001584-79847047257606_+ffe4a02f34.png</picture>
         <dimensions>
@@ -2454,7 +2469,7 @@
       <offer id="1004809" available="true">
         <name><![CDATA[Граблі садові Ergonomic (1004809)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/46/hrabli-sadovi-ergonomic-1004809-68529857771138_+ff8f5607ad.jpeg</picture>
         <dimensions>
@@ -2480,7 +2495,7 @@
       <offer id="1014812" available="true">
         <name><![CDATA[Граблі для листя Fiskars Solid FSC (1014812)]]></name>
         <price>1299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/hrabli-dlia-lystia-fiskars-solid-fsc-1014812-90276819867918_+99fc1b9524.jpeg</picture>
         <dimensions>
@@ -2504,7 +2519,7 @@
       <offer id="1016036" available="false">
         <name><![CDATA[Граблі для ґрунту Solid (1016036)]]></name>
         <price>1377</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/hrabli-dlia-gruntu-solid-1016036-88925939007371_+5cf7d79562.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/48/hrabli-dlia-gruntu-solid-1016036-23872533380159_+a239663e35.png</picture>
@@ -2534,7 +2549,7 @@
       <offer id="1025578" available="true">
         <name><![CDATA[Граблі класичні для листя XL FSC (1025578)]]></name>
         <price>1600</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-klasychni-dlia-lystia-xl-fsc-1025578-86208153535294_+842a0f52ba.png</picture>
         <dimensions>
@@ -2560,7 +2575,7 @@
       <offer id="1002177" available="true">
         <name><![CDATA[Граблі для листя Fiskars ERGO]]></name>
         <price>1156</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336209</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/hrabli-dlia-lystia-fiskars-ergo-57942774128057_+5880d55b43.png</picture>
         <dimensions>
@@ -2591,7 +2606,7 @@
       <offer id="1024090" available="true">
         <name><![CDATA[Перехідник для розпилювача Fiskars (1024090)]]></name>
         <price>169</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/perekhidnyk-dlia-rozpyliuvacha-fiskars-1024090-68059703460039_+4b3e351a5e.jpg</picture>
         <dimensions>
@@ -2615,7 +2630,7 @@
       <offer id="1027067" available="true">
         <name><![CDATA[Муфта ремонтна Fiskars 19мм(3/4") LB30 Watering (1027067)]]></name>
         <price>649</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/mufta-remontna-fiskars-19mm3-4-lb30-watering-1027067-42007065169052_+36c6812d4d.jpg</picture>
         <dimensions>
@@ -2639,7 +2654,7 @@
       <offer id="1027065" available="true">
         <name><![CDATA[Муфта ремонтна Fiskars 13mm-15mm (1/2"-5/8") LB30 Watering (1027065)]]></name>
         <price>649</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/mufta-remontna-fiskars-13mm-15mm-1-2-5-8-lb30-watering-1027065-44330857953682_+7b349452ba.jpg</picture>
         <dimensions>
@@ -2663,7 +2678,7 @@
       <offer id="1020448" available="true">
         <name><![CDATA[Кріплення настінне для катушки Fiskars (1020448)]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/7/kriplennia-nastinne-dlia-katushky-fiskars-1020448-80338340798325_+0e1db5b885.jpg</picture>
         <dimensions>
@@ -2687,7 +2702,7 @@
       <offer id="1020451" available="true">
         <name><![CDATA[Конектор для шланга Fiskars Watering 13mm-1/2" (1020451)]]></name>
         <price>299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/konektor-dlia-shlanha-fiskars-watering-13mm-1-2-1020451-44670436694531_+ce154eeb0c.jpg</picture>
         <dimensions>
@@ -2711,7 +2726,7 @@
       <offer id="1020442" available="true">
         <name><![CDATA[Конектор для шланга Fiskars Watering 9mm-3/8" (1020442)]]></name>
         <price>299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/konektor-dlia-shlanha-fiskars-watering-9mm-3-8-1020442-95623767805917_+7d643c5584.jpg</picture>
         <dimensions>
@@ -2735,7 +2750,7 @@
       <offer id="1025753" available="true">
         <name><![CDATA[Конектор для шланга Fiskars sol ½”-5/8” (1025753)]]></name>
         <price>299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/konektor-dlia-shlanha-fiskars-sol-5-8-1025753-93111066525406_+05ab1276a0.jpg</picture>
         <dimensions>
@@ -2759,7 +2774,7 @@
       <offer id="1020439" available="true">
         <name><![CDATA[Конектор для крану 13mm-1/2" Fiskars Watering (1020439)]]></name>
         <price>299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/konektor-dlia-kranu-13mm-1-2-fiskars-watering-1020439-32381768519137_+570e842bb9.jpg</picture>
         <dimensions>
@@ -2783,7 +2798,7 @@
       <offer id="1025750" available="true">
         <name><![CDATA[Конектор для крану Fiskars ½” Solid (1025750)]]></name>
         <price>299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/konektor-dlia-kranu-fiskars-solid-1025750-75571971526775_+c8af2fc294.jpg</picture>
         <dimensions>
@@ -2811,7 +2826,7 @@
       <offer id="1020443" available="true">
         <name><![CDATA[Конектор 3-х контактний Fiskars Watering (1020443)]]></name>
         <price>299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/konektor-3-kh-kontaktnyi-fiskars-watering-1020443-71234153565500_+8ec7eba047.jpg</picture>
         <dimensions>
@@ -2835,7 +2850,7 @@
       <offer id="1020440" available="true">
         <name><![CDATA[Конектор Fiskars (1020440)]]></name>
         <price>299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/14/konektor-fiskars-1020440-19224485291200_+06d138c88a.jpg</picture>
         <dimensions>
@@ -2859,7 +2874,7 @@
       <offer id="1027090" available="true">
         <name><![CDATA[Набір базовий для поливу Fiskars (1027090)]]></name>
         <price>980</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/nabir-bazovyi-dlia-polyvu-fiskars-1027090-80288292564539_+86ed1a1f00.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/15/nabir-bazovyi-dlia-polyvu-fiskars-1027090-80988824910005_+5a7127ca7b.jpg</picture>
@@ -3885,7 +3900,7 @@
       <offer id="1026931" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars White HS53 (1026931)]]></name>
         <price>2099</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336206</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-kushchiv-white-hs53-71132572285209_+882627d13f.jpg</picture>
         <dimensions>
@@ -3909,7 +3924,7 @@
       <offer id="1026827" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars Solid HS21 (1026827)]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336206</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nozhytsi-dlia-kushchiv-solid-hs21-20763220951022_+de2132e5e6.jpg</picture>
         <dimensions>
@@ -3933,7 +3948,7 @@
       <offer id="1001433" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars SingleStep HS22 (1001433)]]></name>
         <price>1899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336206</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-dlia-kushchiv-singlestep-hs22-91351692354029_+46d7768a8b.jpg</picture>
         <dimensions>
@@ -3957,7 +3972,7 @@
       <offer id="1026917" available="true">
         <name><![CDATA[Ножиці для трави Fiskars White GS41 (1026917)]]></name>
         <price>1549</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336206</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/nozhytsi-dlia-travy-fiskars-white-gs41-1026917-71445211644230_+2ce1ec7dae.jpeg</picture>
         <dimensions>
@@ -3981,7 +3996,7 @@
       <offer id="1064071" available="true">
         <name><![CDATA[Ножиці дитячі червоні 13см Fiskars (1064071)]]></name>
         <price>234</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/23/nozhytsi-dytiachi-chervoni-13sm-fiskars-1064071-17949746430311_+24ec682867.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/23/nozhytsi-dytiachi-chervoni-13sm-fiskars-1064071-60951116478142_+fdf438821b.jpg</picture>
@@ -4007,7 +4022,7 @@
       <offer id="1023915" available="false">
         <name><![CDATA[Ножиці дитячі блискучо-рожеві Fiskars (1023915)]]></name>
         <price>490</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/nozhytsi-dytiachi-blyskucho-rozhevi-fiskars-1023915-48249417384839_+a6af80ceab.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/25/nozhytsi-dytiachi-blyskucho-rozhevi-fiskars-1023915-64923948439413_+96b46a9836.jpg</picture>
@@ -4032,7 +4047,7 @@
       <offer id="1064070" available="true">
         <name><![CDATA[Ножиці дитячі 13см, рожеві Fiskars (1064070)]]></name>
         <price>490</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/nozhytsi-dytiachi-13sm-rozhevi-fiskars-1064070-93376722549607_+66e09e5b50.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/26/nozhytsi-dytiachi-13sm-rozhevi-fiskars-1064070-88013308732996_+00c365a3b8.jpg</picture>
@@ -4058,7 +4073,7 @@
       <offer id="1064069" available="true">
         <name><![CDATA[Ножиці дитячі 13см, сині Fiskars (1064069)]]></name>
         <price>490</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/nozhytsi-dytiachi-13sm-syni-fiskars-1064069-28316653930245_+f4e64038bd.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/27/nozhytsi-dytiachi-13sm-syni-fiskars-1064069-33231056020700_+30f475ef28.jpg</picture>
@@ -4084,7 +4099,7 @@
       <offer id="1064072" available="true">
         <name><![CDATA[Ножиці дитячі 13см, бірюзові Fiskars (1064072)]]></name>
         <price>490</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/nozhytsi-dytiachi-13sm-biriuzovi-fiskars-1064072-66876830956774_+d2612aa7f1.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/28/nozhytsi-dytiachi-13sm-biriuzovi-fiskars-1064072-26255613186926_+d3ab7dd547.jpg</picture>
@@ -4110,7 +4125,7 @@
       <offer id="1001538" available="true">
         <name><![CDATA[Ножиці садові Fiskars Classic 25 см | 1001538]]></name>
         <price>1899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336206</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
         <dimensions>
@@ -4141,7 +4156,7 @@
       <offer id="1026826" available="true">
         <name><![CDATA[Ножиці для трави Solid GS21 (1026826)]]></name>
         <price>1477</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336206</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-travy-solid-gs21-1026826-57945662742617_+8b7fd2e4ea.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-travy-solid-gs21-1026826-57852343361068_+c60f8a509f.jpg</picture>
@@ -4240,7 +4255,7 @@
       <offer id="1067857" available="true">
         <name><![CDATA[Ножиці STUD 18 см пурпурні, 6/36, 16 л Fiskars]]></name>
         <price>390</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nozhytsi-stud-18-sm-purpurni-6-36-16-l-fiskars-59031667679599_+77158e2cb4.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nozhytsi-stud-18-sm-purpurni-6-36-16-l-fiskars-95213966675709_+165618be0e.png</picture>
@@ -4265,7 +4280,7 @@
       <offer id="1067858" available="true">
         <name><![CDATA[Ножиці STUD 18 см чорні, 6/36, 16 л Fiskars]]></name>
         <price>390</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/nozhytsi-stud-18-sm-chorni-6-36-16-l-fiskars-31060963324522_+6d5c71d3b1.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/5/nozhytsi-stud-18-sm-chorni-6-36-16-l-fiskars-57586863740189_+c985a918c4.png</picture>
@@ -4292,7 +4307,7 @@
       <offer id="1067851" available="true">
         <name><![CDATA[Ножиці дитячі Рожеві 15 см Fiskars]]></name>
         <price>250</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/nozhytsi-dytiachi-rozhevi-15-sm-fiskars-71560600003501_+a32281d157.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/6/nozhytsi-dytiachi-rozhevi-15-sm-fiskars-43818409706938_+9779f10ea9.png</picture>
@@ -4480,7 +4495,7 @@
       <offer id="1005150" available="true">
         <name><![CDATA[Ножиці Classic для паперу 17 см]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-classic-dlia-paperu-17-sm-42155182057320_+141d1c0c53.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-classic-dlia-paperu-17-sm-67862685105421_+cd2e92ec7e.png</picture>
@@ -4564,7 +4579,7 @@
       <offer id="1000596" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars PowerGear ™ з силовим приводом HS72]]></name>
         <price>3199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336206</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/nozhytsi-dlia-kushchiv-fiskars-powergear-z-sylovym-pryvodom-hs72-16632124454848_+f66ffc0b40.png</picture>
         <dimensions>
@@ -4896,7 +4911,7 @@
       <offer id="1061193" available="true">
         <name><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></name>
         <price>1949</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/nizh-skladanyi-fiskars-carbonmax-1061193-67692062142256_+1f8cb32340.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/13/nizh-skladanyi-fiskars-carbonmax-1061193-89970678101857_+272ad4fb94.jpg</picture>
@@ -4922,7 +4937,7 @@
       <offer id="1061192" available="true">
         <name><![CDATA[Ніж з висувним лезом Fiskars CarbonMax (1061192)]]></name>
         <price>1949</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/14/nizh-z-vysuvnym-lezom-fiskars-carbonmax-1061192-39961808361976_+e5208f1a2a.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/14/nizh-z-vysuvnym-lezom-fiskars-carbonmax-1061192-21226067212976_+81afb821af.jpg</picture>
@@ -4951,7 +4966,7 @@
       <offer id="1001622" available="true">
         <name><![CDATA[Ніж загального призначення K40 Fiskars (1001622)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-zahalnoho-pryznachennia-k40-fiskars-1001622-38969493694733_+aa39636bec.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-zahalnoho-pryznachennia-k40-fiskars-1001622-47422005984420_+b641539286.jpg</picture>
@@ -4976,7 +4991,7 @@
       <offer id="1027216" available="false">
         <name><![CDATA[Болторіз Fiskars PowerGear 91см (1027216)]]></name>
         <price>1799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/boltoriz-fiskars-powergear-91sm-1027216-76365900175027_+fb3ebd6634.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/16/boltoriz-fiskars-powergear-91sm-1027216-68416312739354_+a19bae1ebf.jpg</picture>
@@ -5003,7 +5018,7 @@
       <offer id="1027215" available="true">
         <name><![CDATA[Болторіз Fiskars PowerGear 76см (1027215)]]></name>
         <price>1699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/boltoriz-fiskars-powergear-76sm-1027215-41556772701657_+16b2cb2dc0.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/17/boltoriz-fiskars-powergear-76sm-1027215-51157309778454_+ca981619a9.jpg</picture>
@@ -5030,7 +5045,7 @@
       <offer id="1052240107504" available="false">
         <name><![CDATA[Набір Fiskars: Каструля Hard Face Steel 3,5 л + Сковорода 375 Anniversary 24cm | 1052240| 1075041]]></name>
         <price>2999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-skovoroda-fiskars-375-anniversary-24cm-65257820303814_+a75ef49745.jpg</picture>
         <dimensions>
@@ -5252,7 +5267,7 @@
       <offer id="1023739100077" available="true">
         <name><![CDATA[Комплект Fiskars: Сковорода Rotisser 24 см + Набір ножів в дерев'яному блоці Kitchen Devil]]></name>
         <price>2529</price>
-        <categoryId>156336200</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-20174288914803_+21bb746d43.jpg</picture>
         <dimensions>
@@ -5314,7 +5329,7 @@
       <offer id="1066487105983" available="false">
         <name><![CDATA[Набір Gerber Ніж складний Quadrant 16L + Мультитул Lockdown Slim 16L]]></name>
         <price>1599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/43/nizh-skladnyi-gerber-quadrant16l-podarunok-multytul-lockdown-slim16lbox-70361191440422_+678f004597.jpg</picture>
         <dimensions>
@@ -5419,7 +5434,7 @@
       <offer id="1000773105909" available="true">
         <name><![CDATA[Комплект FISKARS: Набір ножів в деревяному блоці Kitchen Devil + Сковорода Steel 28 см]]></name>
         <price>3499</price>
-        <categoryId>156336200</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-32125989159834_+30647d96da.jpg</picture>
         <dimensions>
@@ -6371,7 +6386,7 @@
       <offer id="1023492101482" available="false">
         <name><![CDATA[Набір Fiskars: Граблі для листя + Граблі для грунту PARK FSC]]></name>
         <price>1399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-podarunok-hrabli-dlia-hruntu-fiskars-park-fsc-89671596018624_+c13a0f807b.jpg</picture>
         <dimensions>
@@ -6388,7 +6403,7 @@
       <offer id="1014828101477" available="false">
         <name><![CDATA[Набір FISKARS: Граблі для грунту PARK FSC + Лопата садова штикова Classic FSC]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/hrabli-dlia-hruntu-fiskars-park-fsc-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-48475196543814_+d17909a22c.jpg</picture>
         <dimensions>
@@ -6460,7 +6475,7 @@
       <offer id="1003466101960" available="false">
         <name><![CDATA[Набір Fiskars: Універсальні граблі Solid+ Граблі для ґрунту полегшені White]]></name>
         <price>1599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/universalni-hrabli-fiskars-solid-podarunok-hrabli-dlia-gruntu-polehsheni-fiskars-white-47348558281842_+36323c79ea.png</picture>
         <dimensions>
@@ -6622,7 +6637,7 @@
       <offer id="1057585" available="true">
         <name><![CDATA[Тримач для інструментів Fiskars Solid 2 гачками 5 шт (1057585)]]></name>
         <price>899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/14/trymach-dlia-instrumentiv-fiskars-solid-2-hachkamy-5-sht-1057585-91991181957040_+96f115de8d.jpg</picture>
         <dimensions>
@@ -6945,7 +6960,7 @@
       <offer id="1062940" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars, 20 шт]]></name>
         <price>1360</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars-20-sht-83113213554776_+286060fcdc.png</picture>
         <dimensions>
@@ -6976,7 +6991,7 @@
       <offer id="1000665" available="true">
         <name><![CDATA[Тримач телескопічний QuikFit L]]></name>
         <price>3299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/trymach-teleskopichnyi-quikfit-l-62569400449206_+884747818f.jpeg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/19/trymach-teleskopichnyi-quikfit-l-60939471556537_+9d13a6d11f.png</picture>
@@ -7011,7 +7026,7 @@
       <offer id="1057584" available="true">
         <name><![CDATA[Тримач інструменту Фіскарс]]></name>
         <price>299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/trymach-instrumentu-fiskars-54255456404097_+ba4e1257c7.png</picture>
         <dimensions>
@@ -7037,7 +7052,7 @@
       <offer id="1028372" available="true">
         <name><![CDATA[Складаний садовий мішок для листя 175 літри Fiskars Solid]]></name>
         <price>1949</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-72996207398300_+e582902888.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-22014061178414_+bb77ea2298.png</picture>
@@ -7073,7 +7088,7 @@
       <offer id="1024706" available="true">
         <name><![CDATA[Садовий совок Fiskars SRP]]></name>
         <price>649</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/sadovyi-sovok-fiskars-srp-61537743632253_+a6e6f60eee.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/42/sadovyi-sovok-fiskars-srp-99730322247395_+7974c8d735.png</picture>
@@ -7108,7 +7123,7 @@
       <offer id="1023540" available="true">
         <name><![CDATA[Кувалда 5кг Fiskars]]></name>
         <price>5599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/43/kuvalda-5kh-fiskars-70399750551618_+0059dfdded.png</picture>
         <dimensions>
@@ -7139,7 +7154,7 @@
       <offer id="1003626" available="true">
         <name><![CDATA[Ремінь для інструментів Fiskars WoodXpert]]></name>
         <price>2399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/46/remin-dlia-instrumentiv-fiskars-woodxpert-16438211816345_+9e452d0b62.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/46/remin-dlia-instrumentiv-fiskars-woodxpert-44595646728664_+8861b63afc.png</picture>
@@ -7171,7 +7186,7 @@
       <offer id="1000636" available="true">
         <name><![CDATA[Бур садовий малий QuikDrill S]]></name>
         <price>3399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/bur-sadovyi-malyi-quikdrill-s-29738615906954_+f21ec47281.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/47/bur-sadovyi-malyi-quikdrill-s-69154242910241_+0023022a54.png</picture>
@@ -7259,7 +7274,7 @@
       <offer id="1059563" available="true">
         <name><![CDATA[Випарювач швів Fiskars (1059563)]]></name>
         <price>399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/vypariuvach-shviv-fiskars-1059563-73022141238411_+d1f61c40ee.png</picture>
         <dimensions>
@@ -7285,7 +7300,7 @@
       <offer id="1061260" available="true">
         <name><![CDATA[Щітка FISKARS ергономічна broom DK]]></name>
         <price>1899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/shchitka-fiskars-erhonomichna-broom-dk-17702200346109_+f56e35cc92.png</picture>
         <dimensions>
@@ -7311,7 +7326,7 @@
       <offer id="1000601" available="true">
         <name><![CDATA[Точило для сокир та ножів Fiskars Xsharp (1000601)]]></name>
         <price>799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/29/tochylo-dlia-sokyr-ta-nozhiv-xsharp-59972761299982_+3c6707bfc4.jpg</picture>
         <dimensions>
@@ -7335,7 +7350,7 @@
       <offer id="1026797" available="true">
         <name><![CDATA[Точило для сокир та ножів Fiskars Solid (1026797)]]></name>
         <price>849</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-26347769480417_+dbde59df1f.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-87343014667764_+0bd0d6d85f.jpg</picture>
@@ -7388,7 +7403,7 @@
       <offer id="1003910" available="true">
         <name><![CDATA[Різак роторний Fiskars Trigger 45мм (1003910)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/rizak-rotornyi-fiskars-trigger-45mm-1003910-32178403426826_+96c7d7604d.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/19/rizak-rotornyi-fiskars-trigger-45mm-1003910-85215120785448_+d54732de60.jpg</picture>
@@ -7414,7 +7429,7 @@
       <offer id="1023904" available="true">
         <name><![CDATA[Різак круговий для тканин Fiskars (1023904)]]></name>
         <price>2081</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/rizak-kruhovyi-dlia-tkanyn-fiskars-1023904-23233670819110_+5e2284a1cf.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/20/rizak-kruhovyi-dlia-tkanyn-fiskars-1023904-22490715770918_+78ffa324f3.jpg</picture>
@@ -7440,7 +7455,7 @@
       <offer id="1004639" available="true">
         <name><![CDATA[Різак для паперу Fiskars Recycled SureCut (1004639)]]></name>
         <price>1962</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/rizak-dlia-paperu-fiskars-recycled-surecut-1004639-61675440934300_+962f8ea576.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/21/rizak-dlia-paperu-fiskars-recycled-surecut-1004639-33405540696648_+2de797fd34.jpg</picture>
@@ -7467,7 +7482,7 @@
       <offer id="1004723" available="true">
         <name><![CDATA[Різак для паперу 22см Fiskars (1004723)]]></name>
         <price>1071</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336214</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/rizak-dlia-paperu-22sm-fiskars-1004723-79592080621293_+201552e13d.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/22/rizak-dlia-paperu-22sm-fiskars-1004723-45003686175061_+310eb342db.jpg</picture>
@@ -7568,7 +7583,7 @@
       <offer id="1050245" available="true">
         <name><![CDATA[Ніж складний Gerber Wingtip Modern малий (1050245)]]></name>
         <price>1399</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/nizh-skladnyi-gerber-wingtip-modern-malyi-1050245-44552224455631_+516ebf0cb8.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/44/nizh-skladnyi-gerber-wingtip-modern-malyi-1050245-23346215152525_+aa70409fe4.jpg</picture>
@@ -7594,7 +7609,7 @@
       <offer id="1055366" available="true">
         <name><![CDATA[Ніж складний Gerber Sumo Folder, Black FE, GB (1055366)]]></name>
         <price>2499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/nizh-skladnyi-gerber-sumo-folder-black-fe-gb-1055366-16581998276758_+80a64b9670.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/45/nizh-skladnyi-gerber-sumo-folder-black-fe-gb-1055366-48166615204719_+24eb303fdb.jpg</picture>
@@ -7619,7 +7634,7 @@
       <offer id="1013976" available="true">
         <name><![CDATA[Ніж складний Gerber STL 2.5,E,BLS (1013976)]]></name>
         <price>1349</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/46/nizh-skladnyi-gerber-stl-2.5ebls-1013976-99603451230331_+a29a8efc76.jpg</picture>
         <dimensions>
@@ -7643,7 +7658,7 @@
       <offer id="1019236" available="true">
         <name><![CDATA[Ніж складний Gerber Skeleton Box (1019236)]]></name>
         <price>2677</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/nizh-skladnyi-gerber-skeleton-box-1019236-66215731179299_+3047bced8b.jpg</picture>
         <dimensions>
@@ -7667,7 +7682,7 @@
       <offer id="1066487" available="false">
         <name><![CDATA[Ніж складний Gerber Quadrant,16L (1066487)]]></name>
         <price>2298</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/nizh-skladnyi-gerber-quadrant16l-1066487-88556619773303_+c76e6fde45.png</picture>
         <dimensions>
@@ -7691,7 +7706,7 @@
       <offer id="1013971" available="true">
         <name><![CDATA[Ніж складний Gerber Paraframe II SE BL (1013971)]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971-43296075139700_+806ffe6722.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/49/nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971-82533924073313_+22d410ce6c.jpg</picture>
@@ -7716,7 +7731,7 @@
       <offer id="1013969" available="false">
         <name><![CDATA[Ніж складний Gerber Paraframe I FE BL (1013969)]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/nizh-skladnyi-paraframe-i-fe-bl-26288257767393_+f7ed82d0a0.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/50/nizh-skladnyi-paraframe-i-fe-bl-56356980182826_+18d94d8842.jpg</picture>
@@ -7742,7 +7757,7 @@
       <offer id="1055363" available="true">
         <name><![CDATA[Ніж складний Gerber FlatIron D2 Micarta (1055363)]]></name>
         <price>3849</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/1/nizh-skladnyi-gerber-flatiron-d2-micarta-1055363-18526840873285_+372744b11b.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/1/nizh-skladnyi-gerber-flatiron-d2-micarta-1055363-51594491968412_+aae9d3df27.jpg</picture>
@@ -7771,7 +7786,7 @@
       <offer id="1055364" available="true">
         <name><![CDATA[Ніж складаний Gerber Asada (1055364)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-77661275374613_+389a3888f3.jpg</picture>
@@ -7796,7 +7811,7 @@
       <offer id="1028494" available="true">
         <name><![CDATA[Ніж складаний Gerber Fastball Warncliff FSG BOX (1028494)]]></name>
         <price>7099</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/nizh-skladanyi-gerber-fastball-warncliff-fsg-box-1028494-49088892769137_+40fa5c549b.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/3/nizh-skladanyi-gerber-fastball-warncliff-fsg-box-1028494-35260426764503_+1fe4f37e0f.jpg</picture>
@@ -7821,7 +7836,7 @@
       <offer id="1067367" available="true">
         <name><![CDATA[Ніж складний Gerber Spire Aluminum, Box (1067367)]]></name>
         <price>3849</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-skladnyi-gerber-spire-aluminum-box-1067367-38011551755155_+537637cd6e.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-skladnyi-gerber-spire-aluminum-box-1067367-22720178565464_+5de046bb6f.jpg</picture>
@@ -7847,7 +7862,7 @@
       <offer id="1059843" available="true">
         <name><![CDATA[Ніж складаний Gerber Affinity-Copper BOX (1059843)]]></name>
         <price>3099</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-23998092373630_+a23455d0d6.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-71985519088056_+f8eb4472d0.jpg</picture>
@@ -8099,7 +8114,7 @@
       <offer id="1063144" available="true">
         <name><![CDATA[Ніж Gerber Ceviche 7",E,Box,GRN,BLK (1063144)]]></name>
         <price>1769</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/nizh-gerber-ceviche-7eboxgrnblk-1063144-39831877532524_+da92454f0c.jpg</picture>
         <dimensions>
@@ -8123,7 +8138,7 @@
       <offer id="1063145" available="true">
         <name><![CDATA[Ніж Gerber Ceviche 9",E,Box,GRN,BLK (1063145)]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/nizh-gerber-ceviche-9eboxgrnblk-1063145-79499331646641_+dd95122288.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/28/nizh-gerber-ceviche-9eboxgrnblk-1063145-53330638767826_+d3d0dde12a.png</picture>
@@ -8150,7 +8165,7 @@
       <offer id="1028479" available="true">
         <name><![CDATA[Ніж філейний Gerber Controller 10" BOX (1028479)]]></name>
         <price>2769</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/29/nozh-fyleinyi-gerber-controller-10-box-1028479-75087543853389_+a260073fec.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/29/nozh-fyleinyi-gerber-controller-10-box-1028479-96383691643150_+aae153e58f.jpg</picture>
@@ -8176,7 +8191,7 @@
       <offer id="1052470" available="true">
         <name><![CDATA[Ніж філейний Gerber Controller 6" BOX (1052470)]]></name>
         <price>2549</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/nizh-fileinyi-gerber-controller-6-box-1052470-49966343003451_+60d0e6ba17.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/30/nizh-fileinyi-gerber-controller-6-box-1052470-58018090992218_+e26a80350f.jpg</picture>
@@ -8201,7 +8216,7 @@
       <offer id="1064424" available="true">
         <name><![CDATA[Ніж туристичний Gerber Mansfield (1064424)]]></name>
         <price>2549</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/nizh-turystychnyi-gerber-mansfield-1064424-82788301827483_+69eded9d33.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/31/nizh-turystychnyi-gerber-mansfield-1064424-89739981421316_+2e66aeb19e.jpg</picture>
@@ -8227,7 +8242,7 @@
       <offer id="1064425" available="true">
         <name><![CDATA[Ніж кишеньковий Gerber Sharkbelly Fine Edge (1064425)]]></name>
         <price>2549</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/nizh-kyshenkovyi-gerber-sharkbelly-fine-edge-1064425-67342756636598_+fee37420f8.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/32/nizh-kyshenkovyi-gerber-sharkbelly-fine-edge-1064425-54706148584882_+0b1a4b5297.jpg</picture>
@@ -8254,7 +8269,7 @@
       <offer id="1050247" available="true">
         <name><![CDATA[Ніж Gerber Straightlace Modern Folding BOX (1050247)]]></name>
         <price>1769</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/nszh-gerber-straightlace-modern-folding-box-1050247-37897111840433_+b12075c5d6.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/33/nszh-gerber-straightlace-modern-folding-box-1050247-63818970916456_+e1ee7f1663.jpg</picture>
@@ -8279,7 +8294,7 @@
       <offer id="1059841" available="true">
         <name><![CDATA[Ніж Gerber DOWNWIND CAPER сірий (1059841)]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/nizh-gerber-downwind-caper-siryi-1059841-50619684979548_+8787d257c1.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/34/nizh-gerber-downwind-caper-siryi-1059841-17147782119709_+975ece4d7b.jpg</picture>
@@ -8305,7 +8320,7 @@
       <offer id="1059842" available="true">
         <name><![CDATA[Ніж-топірець Gerber DOWNWIND ULU (1059842)]]></name>
         <price>2999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/nizh-topirets-gerber-downwind-ulu-1059842-31084073354006_+dce6069d81.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/35/nizh-topirets-gerber-downwind-ulu-1059842-16907401448553_+e96935a3ce.jpg</picture>
@@ -8330,7 +8345,7 @@
       <offer id="1067368" available="true">
         <name><![CDATA[Ніж Spire AO G10 EB (1067368)]]></name>
         <price>3849</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336208</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/nizh-spire-ao-g10-eb-33080681909341_+f684d50843.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/36/nizh-spire-ao-g10-eb-31734235344497_+f0d64996ea.jpg</picture>
@@ -8357,7 +8372,7 @@
       <offer id="1024632" available="true">
         <name><![CDATA[Ніж Paraframe Mini+Vise (1024632)]]></name>
         <price>1899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336208</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/nizh-paraframe-minivise-40057652861407_+441a2b911e.jpg</picture>
         <dimensions>
@@ -8383,7 +8398,7 @@
       <offer id="1013968" available="true">
         <name><![CDATA[Ніж Paraframe I SE BL (1013968)]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336208</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/38/nizh-paraframe-i-se-bl-42235987492715_+defc6da846.jpeg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/38/nizh-paraframe-i-se-bl-73989125338650_+15a3baca37.jpeg</picture>
@@ -8399,7 +8414,7 @@
       <offer id="1013954" available="true">
         <name><![CDATA[Ніж Paraframe Gerber Mini FE BL (1013954)]]></name>
         <price>749</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-12616963264447_+f5fdd06e8c.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-25189904097641_+fc2ae20355.jpg</picture>
@@ -8454,7 +8469,7 @@
       <offer id="1050260" available="true">
         <name><![CDATA[Ніж складний Gerber Ayako Folding Pocket Silver (1050260)]]></name>
         <price>1769</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/23/nizh-skladnyi-gerber-ayako-folding-pocket-silver-1050260-33048509020478_+a3be76d8cb.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/23/nizh-skladnyi-gerber-ayako-folding-pocket-silver-1050260-87741224635746_+52839699fd.jpg</picture>
@@ -8479,7 +8494,7 @@
       <offer id="1027855" available="true">
         <name><![CDATA[Ніж складаний Gerber Vital Pocket Folder (1027855)]]></name>
         <price>3100</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/nizh-skladanyi-gerber-vital-pocket-folder-1027855-19411525475865_+36c4d11706.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/24/nizh-skladanyi-gerber-vital-pocket-folder-1027855-22828520029931_+9bd4c0724f.jpg</picture>
@@ -8504,7 +8519,7 @@
       <offer id="1048065" available="true">
         <name><![CDATA[Ніж складаний Gerber Jukebox - Marble 30-001671 (1048065)]]></name>
         <price>2299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/nizh-skladanyi-gerber-jukebox-marble-30-001671-1048065-84744518400337_+0b149e788e.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/25/nizh-skladanyi-gerber-jukebox-marble-30-001671-1048065-33762656495023_+2bf629fd18.jpg</picture>
@@ -8529,7 +8544,7 @@
       <offer id="1050243" available="true">
         <name><![CDATA[Ніж Gerber Moment Fixed Large Drop Point (1050243)]]></name>
         <price>4200</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/nizh-gerber-moment-fixed-large-drop-point-1050243-69909305172900_+09a2e0172e.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/26/nizh-gerber-moment-fixed-large-drop-point-1050243-61132434633721_+48f006a522.jpg</picture>
@@ -8557,7 +8572,7 @@
       <offer id="1066477" available="true">
         <name><![CDATA[Ніж Gerber Confidant Bamboo (1066477)]]></name>
         <price>2389</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/nizh-gerber-confidant-bamboo-1066477-22593833354228_+a71f3246ea.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/27/nizh-gerber-confidant-bamboo-1066477-67936516432396_+7d9b404795.png</picture>
@@ -8815,7 +8830,7 @@
       <offer id="1027873" available="true">
         <name><![CDATA[Ніж складний Гербер FlatIron Folder - G10]]></name>
         <price>3263</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-69264965826188_+ac6a5dbe8c.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-53713228255323_+0a8b481f39.png</picture>
@@ -9269,7 +9284,7 @@
       <offer id="1055365" available="true">
         <name><![CDATA[Ніж складаний Gerber Asada Folder]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/nizh-skladanyi-gerber-asada-folder-95297631944767_+5cfef48f15.png</picture>
         <dimensions>
@@ -9485,7 +9500,7 @@
       <offer id="1052185" available="true">
         <name><![CDATA[Штанга-розпилювач для поливу Fiskars (1052185)]]></name>
         <price>1600</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/shtanha-rozpyliuvach-dlia-polyvu-fiskars-1052185-76139586355542_+aba568657a.jpg</picture>
         <dimensions>
@@ -9509,7 +9524,7 @@
       <offer id="1052186" available="true">
         <name><![CDATA[Штанга - розпилювач 3 функції CF Watering Fiskars (1052186)]]></name>
         <price>1600</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/46/shtanha-rozpyliuvach-3-funktsii-cf-watering-fiskars-1052186-62040241921722_+9b994e5032.jpg</picture>
         <dimensions>
@@ -9533,7 +9548,7 @@
       <offer id="1020449" available="true">
         <name><![CDATA[Тримач для розпилювача Fiskars (1020449)]]></name>
         <price>109</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/trymach-dlia-rozpyliuvacha-fiskars-1020449-74103633086770_+09b712113d.jpeg</picture>
         <dimensions>
@@ -9561,7 +9576,7 @@
       <offer id="1023662" available="true">
         <name><![CDATA[Розприскувач коливний Fiskars (1023662)]]></name>
         <price>1299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/rozpryskuvach-kolyvnyi-fiskars-1023661-83223524926972_+9645516916.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/48/rozpryskuvach-kolyvnyi-fiskars-1023661-89457746841013_+cd0e5adb2d.jpg</picture>
@@ -9591,7 +9606,7 @@
       <offer id="1023661" available="true">
         <name><![CDATA[Розприскувач водозберігаючий з металевою основою Fiskars (1023661)]]></name>
         <price>2199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/rozpryskuvach-vodozberihaiuchyi-z-metalevoiu-osnovoiu-fiskars-1023661-49514091856402_+1ae9aa45b7.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/49/rozpryskuvach-vodozberihaiuchyi-z-metalevoiu-osnovoiu-fiskars-1023661-67352238198142_+323b6f60eb.jpg</picture>
@@ -9618,7 +9633,7 @@
       <offer id="1027028" available="true">
         <name><![CDATA[Розприскувач осцилюючий з механізмом вкл/вимк Watering Fiskars (1027028)]]></name>
         <price>2499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/rozpryskuvach-ostsyliuiuchyi-z-mekhanizmom-vkl-vymk-watering-fiskars-1027028-27250464856318_+750a06a97e.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/50/rozpryskuvach-ostsyliuiuchyi-z-mekhanizmom-vkl-vymk-watering-fiskars-1027028-89884575744226_+7169c79238.jpg</picture>
@@ -9647,7 +9662,7 @@
       <offer id="1059239" available="true">
         <name><![CDATA[Пістолет-розприскувач для поливу мульті Fiskars Fiber comp Front control (1059239)]]></name>
         <price>1589</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/1/pistolet-rozpryskuvach-dlia-polyvu-multi-fiskars-fiber-comp-front-control-1059239-70719416241314_+e713e00f69.jpg</picture>
         <dimensions>
@@ -9671,7 +9686,7 @@
       <offer id="1054783" available="true">
         <name><![CDATA[Пістолет-розпилювач Fiskars FiberComp мультифункційний (1054783)]]></name>
         <price>1299</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-fiskars-fibercomp-multyfunktsiinyi-1054783-79759827969959_+5268f74192.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-fiskars-fibercomp-multyfunktsiinyi-1054783-12440127096860_+6d8039ef62.jpg</picture>
@@ -9697,7 +9712,7 @@
       <offer id="1057609" available="true">
         <name><![CDATA[Пістолет Fiskars FiberComp multi+ з швидким з'єднувачем (1057609)]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/pystolet-fiskars-fibercomp-multi-z-shvydkym-ziednuvachem-1057609-24669724926125_+de430c8b86.png</picture>
         <dimensions>
@@ -9725,7 +9740,7 @@
       <offer id="1023659" available="true">
         <name><![CDATA[Розприскувач водозберігаючий Fiskars (1023659)]]></name>
         <price>1600</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/rozpryskuvach-vodozberihaiuchyi-fiskars-1023659-87663347206152_+f3b3c11ecc.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/16/rozpryskuvach-vodozberihaiuchyi-fiskars-1023659-58493377216220_+8d99ca1b87.jpg</picture>
@@ -9752,7 +9767,7 @@
       <offer id="1052182" available="true">
         <name><![CDATA[Пістолет-розпилювач з регулюючою насадкою Fiskars (1052182)]]></name>
         <price>980</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/pistolet-rozpyliuvach-nasadka-rehuliuiucha-fiskars-1052182-50260894691705_+f842c67ff4.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/17/pistolet-rozpyliuvach-nasadka-rehuliuiucha-fiskars-1052182-71807621724064_+dca1fa468a.jpg</picture>
@@ -9783,7 +9798,7 @@
       <offer id="1052183" available="true">
         <name><![CDATA[Пістолет-розпилювач 3 функції Fiskars (1052183)]]></name>
         <price>1100</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/18/pistolet-rozpyliuvach-3-funktsii-fiskars-1052183-53969562093411_+eeba9c3c4b.jpeg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/18/pistolet-rozpyliuvach-3-funktsii-fiskars-1052183-86047296908804_+3e5a584f92.jpeg</picture>
@@ -9813,7 +9828,7 @@
       <offer id="1070838" available="true">
         <name><![CDATA[Пістолет-розпилювач Solid]]></name>
         <price>1777</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-solid-92110497015491_+3972e29e92.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/2/pistolet-rozpyliuvach-solid-37278340588130_+d092b735ee.png</picture>
@@ -9850,7 +9865,7 @@
       <offer id="1070836" available="true">
         <name><![CDATA[Пістолет-розпилювач мультифунційний Solid]]></name>
         <price>1777</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/pistolet-rozpyliuvach-multyfuntsiinyi-solid-38218152061062_+7031408d03.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/3/pistolet-rozpyliuvach-multyfuntsiinyi-solid-30405312417634_+903b7b0677.png</picture>
@@ -9886,7 +9901,7 @@
       <offer id="1065493" available="true">
         <name><![CDATA[Пістолет-розпилювач регульований + конектор для шланга 13мм(1/2”) аквастоп CF]]></name>
         <price>1899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336211</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-39611419912780_+5b97a05091.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-72857547644534_+2f423bddbb.png</picture>
@@ -9923,7 +9938,7 @@
       <offer id="1027528" available="true">
         <name><![CDATA[Гілкоріз площинний телескопічний Fiskars Solid L13 (1027528)]]></name>
         <price>2300</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336205</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-35773768022595_+e04fe55b4f.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/3/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-70456469269564_+d577bc798a.jpg</picture>
@@ -9948,7 +9963,7 @@
       <offer id="1026930" available="true">
         <name><![CDATA[Гілкоріз Fiskars White L32 (1026930)]]></name>
         <price>2699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336205</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/hilkoriz-fiskars-white-l32-1026930-92647425246952_+3548994504.jpeg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/4/hilkoriz-fiskars-white-l32-1026930-88148517336668_+e2edb540b2.jpeg</picture>
@@ -9976,7 +9991,7 @@
       <offer id="1001553" available="false">
         <name><![CDATA[Гілкоріз площинний із загнутим лезом Fiskars PowerGear L76 (1001553)]]></name>
         <price>3599</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336205</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553-41850968687303_+a0e0f8cd43.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/5/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553-25024222887881_+ee7c4b2b58.jpg</picture>
@@ -10003,7 +10018,7 @@
       <offer id="1073084" available="true">
         <name><![CDATA[Гілкоріз телескопічний Fiskars UPN86 (1073084)]]></name>
         <price>5999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336205</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-76659777716621_+c5315c786b.jpeg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-40450020290400_+76bb3eae67.jpeg</picture>
@@ -10132,7 +10147,7 @@
       <offer id="1052457" available="true">
         <name><![CDATA[Мультитул Gerber LockDown Drive (1052457)]]></name>
         <price>2389</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/multytul-gerber-lockdown-drive-1052457-41413849895154_+b3ee293453.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/32/multytul-gerber-lockdown-drive-1052457-81215452495131_+31163046ab.jpg</picture>
@@ -10160,7 +10175,7 @@
       <offer id="1064441" available="true">
         <name><![CDATA[Мультитул брелок відкривачка Gerber ShardXL TOPO, 4L (1064441)]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/multytul-brelok-vidkryvachka-gerber-shardxl-topo-4l-1064441-74352534279192_+fa1939e922.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/33/multytul-brelok-vidkryvachka-gerber-shardxl-topo-4l-1064441-47170351487140_+47ac22ae7b.jpg</picture>
@@ -10187,7 +10202,7 @@
       <offer id="1064440" available="true">
         <name><![CDATA[Мультитул брелок відкривачка Gerber ShardXL Micarta, 4L (1064440)]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/multytul-brelok-vidkryvachka-gerber-shardxl-micarta-4l-1064440-80192971815697_+6f5b4012b0.jpg</picture>
         <dimensions>
@@ -10213,7 +10228,7 @@
       <offer id="1059837" available="true">
         <name><![CDATA[Мультитул Gerber Stakeout,16L,Box,SLVR (1059837)]]></name>
         <price>2999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/multytul-gerber-stakeout16lboxslvr-1059837-62733526721125_+d98612cec8.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/35/multytul-gerber-stakeout16lboxslvr-1059837-55395880310251_+56f4cbf5b6.jpg</picture>
@@ -10242,7 +10257,7 @@
       <offer id="1028491" available="true">
         <name><![CDATA[Мультитул Gerber Prybrid-Utility Grey (1028491)]]></name>
         <price>1349</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/multytul-gerber-prybrid-utility-grey-1028491-46293735717989_+3ef616af98.jpg</picture>
         <dimensions>
@@ -10268,7 +10283,7 @@
       <offer id="1059852" available="true">
         <name><![CDATA[Мультитул Gerber LockDown Pry, Onyx (1059852)]]></name>
         <price>2389</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/multytul-gerber-lockdown-pry-onyx-1059852-20803579743545_+8c789146ec.png</picture>
         <dimensions>
@@ -10294,7 +10309,7 @@
       <offer id="1059830" available="true">
         <name><![CDATA[Мультитул Gerber Armbar Slim Cut (1059830)]]></name>
         <price>1669</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/38/multytul-gerber-armbar-slim-cut-1059830-68716007779025_+7f63368520.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/38/multytul-gerber-armbar-slim-cut-1059830-80372071397484_+b1565a5d22.jpg</picture>
@@ -10322,7 +10337,7 @@
       <offer id="1064399" available="true">
         <name><![CDATA[Мультитул Gerber Armbar Scout,4L,BLS,ONYX,3/12 (1064399)]]></name>
         <price>899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-94803589192986_+99d6282077.jpg</picture>
@@ -10351,7 +10366,7 @@
       <offer id="1052456" available="true">
         <name><![CDATA[Мультитул Gerber ArmBar Cork Shimmer Gold (1052456)]]></name>
         <price>998</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/multytul-gerber-armbar-cork-shimmer-gold-1052456-40506406008064_+3402bd7e26.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/40/multytul-gerber-armbar-cork-shimmer-gold-1052456-11421919249017_+3e9aec9eb5.jpg</picture>
@@ -10378,7 +10393,7 @@
       <offer id="1021134" available="true">
         <name><![CDATA[Мультитул Gerber брелок відкривачка Shard,E,Card,BLK (1021134)]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/multytul-gerber-brelok-vidkryvachka-shardecardblk-1021134-64409445674384_+9f132e06f5.png</picture>
         <dimensions>
@@ -10404,7 +10419,7 @@
       <offer id="1059836" available="true">
         <name><![CDATA[Мультитул Gerber Lockdown Slim,16L,BOX (1059836)]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-59251443973745_+9a8ef0fa11.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-48043308013193_+b58132b0b8.jpg</picture>
@@ -10433,7 +10448,7 @@
       <offer id="1014905" available="true">
         <name><![CDATA[Мультитул Gerber eFECT Military Maintenance (1014905)]]></name>
         <price>3600</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/43/multytul-gerber-efect-military-maintenance-1014905-65540522718909_+bd94295079.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/43/multytul-gerber-efect-military-maintenance-1014905-74994485959612_+021148378e.jpg</picture>
@@ -10462,7 +10477,7 @@
       <offer id="1064416" available="true">
         <name><![CDATA[Мультитул Гербер Armbar Trade,16L,Box,SLVR]]></name>
         <price>3986</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-89237275109905_+9d9888bbc7.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-34774590277334_+e12d31eeb2.png</picture>
@@ -10499,7 +10514,7 @@
       <offer id="1014053" available="false">
         <name><![CDATA[Мачете Gerber Gator чорний (1014053)]]></name>
         <price>1899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/23/machete-gator-chornyi-1014053-24256016293731_+ae897ecedb.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/23/machete-gator-chornyi-1014053-73112351392068_+9893462a3b.jpg</picture>
@@ -10524,7 +10539,7 @@
       <offer id="1024856" available="true">
         <name><![CDATA[Мачете Gerber Compact Clearpath (1024856)]]></name>
         <price>2249</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-46076303649247_+2be344ae48.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-31655412254585_+f7f1b3d9e0.jpg</picture>
@@ -10551,7 +10566,7 @@
       <offer id="1014028" available="true">
         <name><![CDATA[Пила Gerber Gator Exchange-A-Blade (1014028)]]></name>
         <price>1138</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/pyla-gerber-gator-exchange-a-blade-1014028-11267224789152_+686a1638f5.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/8/pyla-gerber-gator-exchange-a-blade-1014028-36949039613074_+a219f9a8db.jpg</picture>
@@ -10582,7 +10597,7 @@
       <offer id="1052025" available="false">
         <name><![CDATA[Ніж-мачете Versafix Pro червоний]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336207</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-machete-versafix-pro-chervonyi-67277923268865_+725595a8a7.png</picture>
         <dimensions>
@@ -10661,7 +10676,7 @@
       <offer id="2009140" available="true">
         <name><![CDATA[Щітка силіконова для тварин Fiskars , 2/6, 19L (2009140)]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/shchitka-sylikonova-dlia-tvaryn-fiskars-2-6-19l-1816520-19949308723507_+ef08531431.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/3/shchitka-sylikonova-dlia-tvaryn-fiskars-2-6-19l-1816520-14896186801593_+11eb0c30f6.jpg</picture>
@@ -10687,7 +10702,7 @@
       <offer id="2009136" available="true">
         <name><![CDATA[Засіб для розплутування/розплутувач для тварин Fiskars, 2/6, 19L (2009136)]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/zasib-dlia-rozplutuvannia-rozplutuvach-dlia-tvaryn-fiskars-2-6-19l-1816506-29339940044536_+86d4a5677e.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/4/zasib-dlia-rozplutuvannia-rozplutuvach-dlia-tvaryn-fiskars-2-6-19l-1816506-34032061364411_+dd836bc0c0.jpg</picture>
@@ -10712,7 +10727,7 @@
       <offer id="2009134" available="true">
         <name><![CDATA[Гребінець сталевий для тварин Fiskars , 2/6, 19L (2009134)]]></name>
         <price>899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/hrebinets-stalevyi-dlia-tvaryn-fiskars-2-6-19l-1816490-25490070556696_+0b2f5fff30.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/5/hrebinets-stalevyi-dlia-tvaryn-fiskars-2-6-19l-1816490-11869273543600_+251a60aef9.jpg</picture>
@@ -10737,7 +10752,7 @@
       <offer id="2009138" available="false">
         <name><![CDATA[Щітка дротяна для тварин Fiskars, 2/6, 19L (2009138)]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/shchitka-drotiana-dlia-tvaryn-fiskars-2-6-19l-1816513-52365508642650_+475fdecdea.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/6/shchitka-drotiana-dlia-tvaryn-fiskars-2-6-19l-1816513-15244716117334_+0ff4db14f1.jpg</picture>
@@ -10762,7 +10777,7 @@
       <offer id="2009144" available="true">
         <name><![CDATA[Сумка для зберігання інструментів для грумінгу FISKARS, 2/6, 19L (2009144)]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/7/sumka-dlia-zberihannia-instrumentiv-dlia-hruminhu-fiskars-2-6-19l-1816544-55397096399844_+7974f3c32c.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/7/sumka-dlia-zberihannia-instrumentiv-dlia-hruminhu-fiskars-2-6-19l-1816544-47667126360409_+2662186932.jpg</picture>
@@ -10787,7 +10802,7 @@
       <offer id="2009132" available="true">
         <name><![CDATA[Кусачки великі для кігтів тварин Fiskars , 2/6, 19L (2009132)]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/kusachky-velyki-dlia-kihtiv-tvaryn-fiskars-2-6-19l-1816483-21980176405223_+61b33ae7cd.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/8/kusachky-velyki-dlia-kihtiv-tvaryn-fiskars-2-6-19l-1816483-11302373923839_+51e6451da7.jpg</picture>
@@ -10816,7 +10831,7 @@
       <offer id="2009130" available="true">
         <name><![CDATA[Кусачки для кігтів тварин Fiskars, 2/6, 19L (2009130)]]></name>
         <price>899</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/kusachky-dlia-kihtiv-tvaryn-fiskars-2-6-19l-1816476-86760677284993_+4c79a29113.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/9/kusachky-dlia-kihtiv-tvaryn-fiskars-2-6-19l-1816476-98965090991984_+e21c68fefc.jpg</picture>
@@ -10843,7 +10858,7 @@
       <offer id="2009142" available="true">
         <name><![CDATA[Пилка для нігтів для тварин Fiskars, 2/6, 19L (2009142)]]></name>
         <price>779</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-dlia-nihtiv-dlia-tvaryn-fiskars-2-6-19l-1816537-56320074752080_+f28095bc32.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-dlia-nihtiv-dlia-tvaryn-fiskars-2-6-19l-1816537-92642854358221_+32aec2c9ea.jpg</picture>
@@ -10868,7 +10883,7 @@
       <offer id="2009124" available="true">
         <name><![CDATA[Ножиці для тварин з закругленими кінцями Fiskars, 2/6, 19L (2009124)]]></name>
         <price>1199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/nozhytsi-dlia-tvaryn-z-zakruhlenymy-kintsiamy-fiskars-2-6-19l-1816445-83110909485205_+9d0ed96364.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/11/nozhytsi-dlia-tvaryn-z-zakruhlenymy-kintsiamy-fiskars-2-6-19l-1816445-87437518294057_+56b0e0016b.jpg</picture>
@@ -10895,7 +10910,7 @@
       <offer id="2009126" available="true">
         <name><![CDATA[Ножиці прямі для тварин Fiskars, 2/6, 19L (2009126)]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/nozhytsi-priami-dlia-tvaryn-fiskars-2-6-19l-1816452-71856194063740_+b99da2d1ee.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/12/nozhytsi-priami-dlia-tvaryn-fiskars-2-6-19l-1816452-81481929345795_+48d5b18bc4.jpg</picture>
@@ -10920,7 +10935,7 @@
       <offer id="2009128" available="true">
         <name><![CDATA[Ножиці філірувальні (блендінг) для тварин (Fiskars), 2/6, 19L (2009128)]]></name>
         <price>1499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336215</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/nozhytsi-filiruvalni-blendinh-dlia-tvaryn-fiskars-2-6-19l-1816469-78361708951723_+5249067c85.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/13/nozhytsi-filiruvalni-blendinh-dlia-tvaryn-fiskars-2-6-19l-1816469-34108446666732_+04c64bf6b4.jpg</picture>
@@ -10971,7 +10986,7 @@
       <offer id="1028483" available="true">
         <name><![CDATA[Виделка туристична Gerber Devour (1028483)]]></name>
         <price>799</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/vydelka-turystychna-gerber-devour-1028483-42051246428676_+d33cdbe56a.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/25/vydelka-turystychna-gerber-devour-1028483-97758557219523_+2578e4aa15.jpg</picture>
@@ -10998,7 +11013,7 @@
       <offer id="1028476" available="true">
         <name><![CDATA[Ножиці Gerber для плетеної ліски (1028476)]]></name>
         <price>1289</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336201</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/nozhytsi-gerber-dlia-pletenoi-lisky-1028476-86746079202169_+32c976db64.jpg</picture>
         <dimensions>
