@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-25 23:56</date>
+    <date>2026-08-26 01:14</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -2883,7 +2883,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-27487367778769_+1137de4d65.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-15228611473368_+01e54b7393.jpg</image>
             <priceRUAH>599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1000567</param>
             <param name="Бренд">Fiskars</param>

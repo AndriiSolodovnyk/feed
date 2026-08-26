@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-25 23:56">
+<yml_catalog date="2026-08-26 01:14">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -325,7 +325,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248/</url>
         <price>1999</price>
         <price_old>5100</price_old>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>18</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-98378400321008_+13c289830e.png</picture>
@@ -2334,7 +2334,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-dlia-shef-kukharia-fiskars-essential-21sm-1065565/</url>
         <price>999</price>
         <price_old>1114</price_old>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-dlia-shef-kukharia-fiskars-essential-21sm-1065565-53553694462884_+1683d9f6e4.jpg</picture>
