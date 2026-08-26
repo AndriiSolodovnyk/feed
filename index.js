@@ -195,6 +195,11 @@ function buildRozetka(products) {
   let xml = `<?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="${new Date().toISOString()}">
   <shop>
+    <categories>
+      <category id="${DEFAULT_GROUP_ID}">Коренева група</category>
+      <category id="${SET_GROUP_ID}">Набір</category>
+      <category id="${KITCHEN_GROUP_ID}">Кухня</category>
+    </categories>
     <offers>`;
 
   for (let p of products) {
