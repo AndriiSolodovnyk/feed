@@ -5,8 +5,27 @@ const PRODUCT_DIMENSIONS = require('./productDimensions');
 
 const FILE_URL = 'https://fiskars-gratis.com.ua/content/export/f21d2ef6d82a517fac09ea84c53cf5c9.xlsx';
 
-const DEFAULT_GROUP_ID = 1;
-const SET_GROUP_ID = 156333769;
+const PROM_GROUPS = Object.freeze({
+  DEFAULT: { id: 1, name: 'Коренева група' },
+  ACTIONS: { id: 156333769, name: 'Акції' },
+  KITCHEN: { id: 156336200, name: 'Кухня' },
+  GERBER: { id: 156336201, name: 'Gerber' },
+  AXES: { id: 156336202, name: 'Сокири' },
+  SHOVELS: { id: 156336203, name: 'Лопати' },
+  PRUNERS: { id: 156336204, name: 'Секатори' },
+  LOPPERS: { id: 156336205, name: 'Сучкорізи' },
+  GARDEN_SCISSORS: { id: 156336206, name: 'Садові ножиці' },
+  SAWS: { id: 156336207, name: 'Пили' },
+  KNIVES: { id: 156336208, name: 'Ножі' },
+  RAKES: { id: 156336209, name: 'Граблі' },
+  GARDEN_INVENTORY: { id: 156336210, name: 'Садовий інвентар' },
+  WATERING: { id: 156336211, name: 'Полив' },
+  MULTITOOLS: { id: 156336212, name: 'Мультитули' },
+  HOME_TOOLS: { id: 156336213, name: 'Інструменти для дому' },
+  CRAFT: { id: 156336214, name: 'Товари для творчості' },
+  PET_ACCESSORIES: { id: 156336215, name: 'Аксесуари для тварин' }
+});
+
 const SET_PRODUCT_SKUS = new Set([
   '1052276',
   '1051085102691',
@@ -39,10 +58,14 @@ const SET_PRODUCT_SKUS = new Set([
   '1003466102349',
   '1062940106119',
   '1063145105984',
-  '1057760'
+  '1057760',
+  '1014828101477',
+  '1023492101482',
+  '1052240107504',
+  '1003466101960',
+  '1066487105983'
 ]);
 
-const KITCHEN_GROUP_ID = 156336200;
 const KITCHEN_PRODUCT_SKUS = new Set([
   '1059096',
   '1024458',
@@ -155,6 +178,37 @@ const KITCHEN_PRODUCT_SKUS = new Set([
   '1054778'
 ]);
 
+function getPromGroup(product) {
+  const sku = String(product.sku).trim();
+  const name = String(product.name || '').toLocaleLowerCase('uk');
+  const section = String(product.section || '').toLocaleLowerCase('uk');
+
+  if (SET_PRODUCT_SKUS.has(sku)) return PROM_GROUPS.ACTIONS;
+  if (KITCHEN_PRODUCT_SKUS.has(sku)) return PROM_GROUPS.KITCHEN;
+  if (name.includes('gerber')) return PROM_GROUPS.GERBER;
+  if (section.includes('сокири та колуни') || section.includes('gerber/сокири')) return PROM_GROUPS.AXES;
+  if (section.includes('лопати садові')) return PROM_GROUPS.SHOVELS;
+  if (section.includes('/секатори')) return PROM_GROUPS.PRUNERS;
+  if (section.includes('гілкорізи')) return PROM_GROUPS.LOPPERS;
+  if (section.includes('ножиці для живоплоту') || section.includes('ножиці для трави')) return PROM_GROUPS.GARDEN_SCISSORS;
+  if (section.includes('садові пилки') || section.includes('gerber/пили')) return PROM_GROUPS.SAWS;
+  if (section.includes('gerber/ножі')) return PROM_GROUPS.KNIVES;
+  if (section.includes('граблі для саду')) return PROM_GROUPS.RAKES;
+  if (
+    section.includes('посадковий інвентар')
+    || section.includes('вила для саду')
+    || section.includes('мотикі, сапи, культиватори')
+    || section.includes('точила для сокир та ножів')
+  ) return PROM_GROUPS.GARDEN_INVENTORY;
+  if (section.includes('садовий полив')) return PROM_GROUPS.WATERING;
+  if (section.includes('gerber/мультитули')) return PROM_GROUPS.MULTITOOLS;
+  if (section.includes('інструменти для дому')) return PROM_GROUPS.HOME_TOOLS;
+  if (section.includes('товари для творчості')) return PROM_GROUPS.CRAFT;
+  if (section.includes('аксесуари для тварин')) return PROM_GROUPS.PET_ACCESSORIES;
+
+  return PROM_GROUPS.DEFAULT;
+}
+
 async function parseProducts() {
   const data = await downloadArrayBuffer(FILE_URL, { label: 'Horoshop XLSX' });
 
@@ -171,6 +225,7 @@ async function parseProducts() {
     const price = Number(row['Цена']) || 0;
     const photos = row['Фото'];
     const quantity = Number(row['Количество']) || 0;
+    const section = row['Раздел'] || '';
 
     if (!sku || !name || price <= 0) continue;
 
@@ -185,7 +240,8 @@ async function parseProducts() {
       stock: quantity,
       available: quantity > 0,
       images,
-      description
+      description,
+      section
     });
   }
 
@@ -193,23 +249,21 @@ async function parseProducts() {
 }
 
 function buildRozetka(products) {
+  const categoriesXml = Object.values(PROM_GROUPS)
+    .map((group) => `      <category id="${group.id}">${group.name}</category>`)
+    .join('\n');
+
   let xml = `<?xml version="1.0" encoding="UTF-8"?>
 <yml_catalog date="${new Date().toISOString()}">
   <shop>
     <categories>
-      <category id="${DEFAULT_GROUP_ID}">Коренева група</category>
-      <category id="${SET_GROUP_ID}">Набір</category>
-      <category id="${KITCHEN_GROUP_ID}">Кухня</category>
+${categoriesXml}
     </categories>
     <offers>`;
 
   for (let p of products) {
     const sku = String(p.sku).trim();
-    const categoryId = KITCHEN_PRODUCT_SKUS.has(sku)
-      ? KITCHEN_GROUP_ID
-      : SET_PRODUCT_SKUS.has(sku)
-        ? SET_GROUP_ID
-        : DEFAULT_GROUP_ID;
+    const categoryId = getPromGroup(p).id;
     const pictures = p.images
       .map((image) => `        <picture>${image}</picture>`)
       .join('\n');
