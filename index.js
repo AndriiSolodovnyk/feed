@@ -185,7 +185,7 @@ function getPromGroup(product) {
 
   if (SET_PRODUCT_SKUS.has(sku)) return PROM_GROUPS.ACTIONS;
   if (KITCHEN_PRODUCT_SKUS.has(sku)) return PROM_GROUPS.KITCHEN;
-  if (name.includes('gerber')) return PROM_GROUPS.GERBER;
+  if (name.includes('gerber') || name.includes('гербер')) return PROM_GROUPS.GERBER;
   if (section.includes('сокири та колуни') || section.includes('gerber/сокири')) return PROM_GROUPS.AXES;
   if (section.includes('лопати садові')) return PROM_GROUPS.SHOVELS;
   if (section.includes('/секатори')) return PROM_GROUPS.PRUNERS;
