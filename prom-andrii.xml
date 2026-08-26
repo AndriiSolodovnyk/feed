@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-26T23:02:30.158Z">
+<yml_catalog date="2026-08-26T23:22:18.600Z">
   <shop>
     <categories>
       <category id="1">Коренева група</category>
@@ -20,6 +20,7 @@
       <category id="156336213">Інструменти для дому</category>
       <category id="156336214">Товари для творчості</category>
       <category id="156336215">Аксесуари для тварин</category>
+      <category id="156336216">Ножиці</category>
     </categories>
     <offers>
       <offer id="1052045" available="true">
@@ -2931,7 +2932,7 @@
       <offer id="1052247" available="false">
         <name><![CDATA[Сковорода Fiskars Hard Face Steel 28 см (1052247)]]></name>
         <price>1999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/skovoroda-fiskars-hard-face-steel-28-sm-1052247-97232654657027_+15a3753e88.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/11/skovoroda-fiskars-hard-face-steel-28-sm-1052247-39122952639056_+a9650d1d39.jpg</picture>
@@ -3114,7 +3115,7 @@
       <offer id="1075860" available="false">
         <name><![CDATA[Сковорода Fiskars All Steel Frying Pan 28 см]]></name>
         <price>5895</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-all-steel-frying-pan-28-sm-96504899099970_+371a734985.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-all-steel-frying-pan-28-sm-46226683312312_+e858148a78.png</picture>
@@ -3144,7 +3145,7 @@
       <offer id="1075863" available="false">
         <name><![CDATA[Сковорода Fiskars All Steel Pure 28 см]]></name>
         <price>5745</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/skovoroda-fiskars-all-steel-pure-28-sm-58464983577340_+2cc4734392.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/11/skovoroda-fiskars-all-steel-pure-28-sm-71326431745414_+bc97d41f7a.png</picture>
@@ -3666,7 +3667,7 @@
       <offer id="1052240" available="false">
         <name><![CDATA[Каструля Fiskars Hard Face Steel 3,5 л (1052240)]]></name>
         <price>3999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/kastrulia-fiskars-hard-face-steel-35-l-1052240-48318519716309_+ab392840bb.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/16/kastrulia-fiskars-hard-face-steel-35-l-1052240-41910918198591_+9b7aeda45a.jpg</picture>
@@ -4182,7 +4183,7 @@
       <offer id="1062546" available="true">
         <name><![CDATA[Ножиці для хоббі 13см]]></name>
         <price>650</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/nozhytsi-dlia-khobbi-13sm-91073731815300_+465de3ec0c.jpg</picture>
         <dimensions>
@@ -4206,7 +4207,7 @@
       <offer id="1062547" available="true">
         <name><![CDATA[Ножиці для рукоділля Fiskars ReNew 13 cm]]></name>
         <price>960</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-rukodillia-fiskars-renew-13-cm-36343035685972_+9d89638da9.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-rukodillia-fiskars-renew-13-cm-72193147075352_+d072448db2.jpg</picture>
@@ -4335,7 +4336,7 @@
       <offer id="1020414" available="true">
         <name><![CDATA[Ножиці FF універсальні 24 см білі]]></name>
         <price>1760</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nozhytsi-ff-universalni-24-sm-bili-28373567575555_+cb47a6d84c.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nozhytsi-ff-universalni-24-sm-bili-72927314367575_+44f8946981.png</picture>
@@ -4361,7 +4362,7 @@
       <offer id="1005153" available="true">
         <name><![CDATA[Ножиці для рукоділля Fiskars Classic Micro-Tip]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip-82669503178396_+f93407c90a.jpeg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip-62508109630323_+d4a34464de.jpeg</picture>
@@ -4388,7 +4389,7 @@
       <offer id="1024882" available="false">
         <name><![CDATA[Ножиці для шиття Fiskars Classic 25 см 1024882]]></name>
         <price>2129</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/nozhytsi-dlia-shyttia-fiskars-classic-25-sm-1024882-38663242992983_+2fa25830d9.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/49/nozhytsi-dlia-shyttia-fiskars-classic-25-sm-1024882-68818282232697_+879493c091.png</picture>
@@ -4425,7 +4426,7 @@
       <offer id="1024881" available="true">
         <name><![CDATA[Ножиці класичні 17см]]></name>
         <price>1360</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/50/nozhytsi-klasychni-17sm-82658124834221_+17c7022a05.png</picture>
         <dimensions>
@@ -4459,7 +4460,7 @@
       <offer id="1076541" available="true">
         <name><![CDATA[Ножиці Фіскарс універсальні 21см]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-fiskars-universalni-21sm-26148281432340_+8eb58a1b4d.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-fiskars-universalni-21sm-76114724909580_+4bc6e719da.png</picture>
@@ -4603,7 +4604,7 @@
       <offer id="1000555" available="true">
         <name><![CDATA[Ножиці садові CLASSIC 18 см]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336206</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-22210719340327_+ee8bf3c126.png</picture>
         <dimensions>
@@ -4627,7 +4628,7 @@
       <offer id="1000813" available="true">
         <name><![CDATA[Ножиці манікюрні вигнуті]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-manikiurni-vyhnuti-80284227185116_+5d48223f65.png</picture>
         <dimensions>
@@ -4653,7 +4654,7 @@
       <offer id="1002934" available="true">
         <name><![CDATA[Ножиці класичні манікюрні Фіскарс]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/23/nozhytsi-klasychni-manikiurni-fiskars-21421427387259_+6074af2b6d.png</picture>
         <dimensions>
@@ -4679,7 +4680,7 @@
       <offer id="1003025" available="true">
         <name><![CDATA[Ножиці перукарські 17 см]]></name>
         <price>1360</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/nozhytsi-perukarski-17-sm-60347979603906_+21224af711.png</picture>
         <dimensions>
@@ -4705,7 +4706,7 @@
       <offer id="1003031" available="true">
         <name><![CDATA[Набір ножиць Фіскарс ]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-45816761369751_+f2fc5224c0.png</picture>
         <dimensions>
@@ -4729,7 +4730,7 @@
       <offer id="1005154" available="true">
         <name><![CDATA[Ножиці для хоббі 13см]]></name>
         <price>499</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/nozhytsi-dlia-khobbi-13sm926-80106799645416_+122e3b8fcc.png</picture>
         <dimensions>
@@ -4755,7 +4756,7 @@
       <offer id="1071493" available="true">
         <name><![CDATA[Ножиці Фіскарс FX1 21 см блакитні]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/nozhytsi-fiskars-fx1-21-sm-blakytni-20982406871786_+9003a05b4e.png</picture>
         <dimensions>
@@ -4781,7 +4782,7 @@
       <offer id="1071494" available="true">
         <name><![CDATA[Ножиці Фіскарс FX1 21 см червоні]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-fiskars-fx1-21-sm-chervoni-54304562295830_+a8ac31ebaf.png</picture>
         <dimensions>
@@ -4807,7 +4808,7 @@
       <offer id="1072689" available="true">
         <name><![CDATA[Ножиці Fiskars Pink Ribbon 21cm]]></name>
         <price>699</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/nozhytsi-fiskars-pink-ribbon-21cm-12837959135893_+c61d795829.png</picture>
         <dimensions>
@@ -4833,7 +4834,7 @@
       <offer id="1072922" available="true">
         <name><![CDATA[Ножиці Фіскарс 375 21 см ]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/43/nozhytsi-fiskars-375-21-sm-52604055440987_+7b6c784840.png</picture>
         <dimensions>
@@ -4859,7 +4860,7 @@
       <offer id="1080088" available="true">
         <name><![CDATA[Ножиці Fiskars Moomin 21cm]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/nozhytsi-fiskars-moomin-21cm-52743294511098_+a581f3cba7.png</picture>
         <dimensions>
@@ -4885,7 +4886,7 @@
       <offer id="1087486" available="true">
         <name><![CDATA[Ножиці Fiskars FF сірі 21cm]]></name>
         <price>999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336216</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/nozhytsi-fiskars-ff-siri-21cm-17765510387793_+509cfe7111.png</picture>
         <dimensions>
@@ -7508,7 +7509,7 @@
       <offer id="1078497" available="true">
         <name><![CDATA[Скребок для льоду Fiskars Solid (1078497)]]></name>
         <price>729</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/skrebok-dlia-lodu-fiskars-solid-1078497-69704877253493_+68d07e6800.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/30/skrebok-dlia-lodu-fiskars-solid-1078497-58463316290665_+765853dd9e.jpg</picture>
@@ -7535,7 +7536,7 @@
       <offer id="1019354" available="true">
         <name><![CDATA[Скребок автомобільний Fiskars Solid (1019354)]]></name>
         <price>319</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336213</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/skrebok-avtomobilnyi-fiskars-solid-1019354-46861657243390_+d1c2ae8995.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/31/skrebok-avtomobilnyi-fiskars-solid-1019354-82231664622799_+61bc64ffe5.jpg</picture>
@@ -9360,7 +9361,7 @@
       <offer id="1023752" available="false">
         <name><![CDATA[Сотейник Fiskars Rotisser 26 см з кришкою (1023752)]]></name>
         <price>2999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336200</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-1023752-44644687503273_+29fa61e697.jpg</picture>
         <dimensions>
@@ -10046,7 +10047,7 @@
       <offer id="1082341" available="true">
         <name><![CDATA[Акумулятор Fiskars 12V-4Ah (1082341)]]></name>
         <price>4199</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336210</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/akumuliator-fiskars-12v-4ah-1082341-65541202309766_+64755191c4.jpg</picture>
         <dimensions>
@@ -10070,7 +10071,7 @@
       <offer id="1082298" available="true">
         <name><![CDATA[Секатор акумуляторний Fiskars ePruner L, Bypass, Tool-Only без АКБ (1082298)]]></name>
         <price>9999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336204</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-akumuliatornyi-fiskars-epruner-l-bypass-tool-only-bez-akb-1082298-43321917548533_+1b48282937.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-akumuliatornyi-fiskars-epruner-l-bypass-tool-only-bez-akb-1082298-25520542414971_+a5825b55f9.jpg</picture>
@@ -10095,7 +10096,7 @@
       <offer id="1082297" available="true">
         <name><![CDATA[Секатор акумуляторний Fiskars ePruner M Bypassі з вбудованим акумулятором 8В 4 4Ah (1082297)]]></name>
         <price>9999</price>
-        <categoryId>1</categoryId>
+        <categoryId>156336204</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/sekator-akumuliatornyi-fiskars-epruner-m-bypassi-z-vbudovanym-akumuliatorom-8v-4-4ah-1082297-33665381691237_+f8640934ac.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/17/sekator-akumuliatornyi-fiskars-epruner-m-bypassi-z-vbudovanym-akumuliatorom-8v-4-4ah-1082297-71495293473480_+29081396f5.jpg</picture>

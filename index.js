@@ -29,7 +29,8 @@ const PERSONAL_PROM_GROUPS = Object.freeze({
   MULTITOOLS: { id: 156336212, name: 'Мультитули' },
   HOME_TOOLS: { id: 156336213, name: 'Інструменти для дому' },
   CRAFT: { id: 156336214, name: 'Товари для творчості' },
-  PET_ACCESSORIES: { id: 156336215, name: 'Аксесуари для тварин' }
+  PET_ACCESSORIES: { id: 156336215, name: 'Аксесуари для тварин' },
+  SCISSORS: { id: 156336216, name: 'Ножиці' }
 });
 
 const SHARED_SET_PRODUCT_SKUS = new Set([
@@ -73,7 +74,14 @@ const PERSONAL_SET_PRODUCT_SKUS = new Set([
   '1023492101482',
   '1052240107504',
   '1003466101960',
-  '1066487105983'
+  '1066487105983',
+  '1003031'
+]);
+
+const PERSONAL_ROOT_PRODUCT_SKUS = new Set([
+  '1062001',
+  '1062000',
+  '1062002'
 ]);
 
 const KITCHEN_PRODUCT_SKUS = new Set([
@@ -202,13 +210,21 @@ function getPersonalPromGroup(product) {
   const section = String(product.section || '').toLocaleLowerCase('uk');
 
   if (PERSONAL_SET_PRODUCT_SKUS.has(sku)) return PERSONAL_PROM_GROUPS.ACTIONS;
+  if (PERSONAL_ROOT_PRODUCT_SKUS.has(sku)) return PERSONAL_PROM_GROUPS.DEFAULT;
   if (KITCHEN_PRODUCT_SKUS.has(sku)) return PERSONAL_PROM_GROUPS.KITCHEN;
   if (name.includes('gerber') || name.includes('гербер')) return PERSONAL_PROM_GROUPS.GERBER;
   if (section.includes('сокири та колуни') || section.includes('gerber/сокири')) return PERSONAL_PROM_GROUPS.AXES;
   if (section.includes('лопати садові')) return PERSONAL_PROM_GROUPS.SHOVELS;
-  if (section.includes('/секатори')) return PERSONAL_PROM_GROUPS.PRUNERS;
+  if (section.includes('/секатори') || name.includes('секатор')) return PERSONAL_PROM_GROUPS.PRUNERS;
   if (section.includes('гілкорізи')) return PERSONAL_PROM_GROUPS.LOPPERS;
-  if (section.includes('ножиці для живоплоту') || section.includes('ножиці для трави')) return PERSONAL_PROM_GROUPS.GARDEN_SCISSORS;
+  if (
+    section.includes('ножиці для живоплоту')
+    || section.includes('ножиці для трави')
+    || name.includes('ножиці садові')
+    || name.includes('садові ножиці')
+  ) return PERSONAL_PROM_GROUPS.GARDEN_SCISSORS;
+  if (section.includes('посуд та кухонний інвентар fiskars/ножиці')) return PERSONAL_PROM_GROUPS.SCISSORS;
+  if (section.includes('посуд та кухонний інвентар fiskars')) return PERSONAL_PROM_GROUPS.KITCHEN;
   if (section.includes('садові пилки') || section.includes('gerber/пили')) return PERSONAL_PROM_GROUPS.SAWS;
   if (section.includes('gerber/ножі')) return PERSONAL_PROM_GROUPS.KNIVES;
   if (section.includes('граблі для саду')) return PERSONAL_PROM_GROUPS.RAKES;
@@ -217,10 +233,11 @@ function getPersonalPromGroup(product) {
     || section.includes('вила для саду')
     || section.includes('мотикі, сапи, культиватори')
     || section.includes('точила для сокир та ножів')
+    || section.includes('акумуляторний інструмент')
   ) return PERSONAL_PROM_GROUPS.GARDEN_INVENTORY;
   if (section.includes('садовий полив')) return PERSONAL_PROM_GROUPS.WATERING;
   if (section.includes('gerber/мультитули')) return PERSONAL_PROM_GROUPS.MULTITOOLS;
-  if (section.includes('інструменти для дому')) return PERSONAL_PROM_GROUPS.HOME_TOOLS;
+  if (section.includes('інструменти для дому') || section.includes('автоаксесуари')) return PERSONAL_PROM_GROUPS.HOME_TOOLS;
   if (section.includes('товари для творчості')) return PERSONAL_PROM_GROUPS.CRAFT;
   if (section.includes('аксесуари для тварин')) return PERSONAL_PROM_GROUPS.PET_ACCESSORIES;
 
