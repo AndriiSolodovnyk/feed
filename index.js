@@ -5,7 +5,13 @@ const PRODUCT_DIMENSIONS = require('./productDimensions');
 
 const FILE_URL = 'https://fiskars-gratis.com.ua/content/export/f21d2ef6d82a517fac09ea84c53cf5c9.xlsx';
 
-const PROM_GROUPS = Object.freeze({
+const SHARED_PROM_GROUPS = Object.freeze({
+  DEFAULT: { id: 1, name: 'Коренева група' },
+  SETS: { id: 156333769, name: 'Набір' },
+  KITCHEN: { id: 156336200, name: 'Кухня' }
+});
+
+const PERSONAL_PROM_GROUPS = Object.freeze({
   DEFAULT: { id: 1, name: 'Коренева група' },
   ACTIONS: { id: 156333769, name: 'Акції' },
   KITCHEN: { id: 156336200, name: 'Кухня' },
@@ -26,7 +32,7 @@ const PROM_GROUPS = Object.freeze({
   PET_ACCESSORIES: { id: 156336215, name: 'Аксесуари для тварин' }
 });
 
-const SET_PRODUCT_SKUS = new Set([
+const SHARED_SET_PRODUCT_SKUS = new Set([
   '1052276',
   '1051085102691',
   '1001622106119',
@@ -58,7 +64,11 @@ const SET_PRODUCT_SKUS = new Set([
   '1003466102349',
   '1062940106119',
   '1063145105984',
-  '1057760',
+  '1057760'
+]);
+
+const PERSONAL_SET_PRODUCT_SKUS = new Set([
+  ...SHARED_SET_PRODUCT_SKUS,
   '1014828101477',
   '1023492101482',
   '1052240107504',
@@ -178,35 +188,43 @@ const KITCHEN_PRODUCT_SKUS = new Set([
   '1054778'
 ]);
 
-function getPromGroup(product) {
+function getSharedPromGroup(product) {
+  const sku = String(product.sku).trim();
+
+  if (KITCHEN_PRODUCT_SKUS.has(sku)) return SHARED_PROM_GROUPS.KITCHEN;
+  if (SHARED_SET_PRODUCT_SKUS.has(sku)) return SHARED_PROM_GROUPS.SETS;
+  return SHARED_PROM_GROUPS.DEFAULT;
+}
+
+function getPersonalPromGroup(product) {
   const sku = String(product.sku).trim();
   const name = String(product.name || '').toLocaleLowerCase('uk');
   const section = String(product.section || '').toLocaleLowerCase('uk');
 
-  if (SET_PRODUCT_SKUS.has(sku)) return PROM_GROUPS.ACTIONS;
-  if (KITCHEN_PRODUCT_SKUS.has(sku)) return PROM_GROUPS.KITCHEN;
-  if (name.includes('gerber') || name.includes('гербер')) return PROM_GROUPS.GERBER;
-  if (section.includes('сокири та колуни') || section.includes('gerber/сокири')) return PROM_GROUPS.AXES;
-  if (section.includes('лопати садові')) return PROM_GROUPS.SHOVELS;
-  if (section.includes('/секатори')) return PROM_GROUPS.PRUNERS;
-  if (section.includes('гілкорізи')) return PROM_GROUPS.LOPPERS;
-  if (section.includes('ножиці для живоплоту') || section.includes('ножиці для трави')) return PROM_GROUPS.GARDEN_SCISSORS;
-  if (section.includes('садові пилки') || section.includes('gerber/пили')) return PROM_GROUPS.SAWS;
-  if (section.includes('gerber/ножі')) return PROM_GROUPS.KNIVES;
-  if (section.includes('граблі для саду')) return PROM_GROUPS.RAKES;
+  if (PERSONAL_SET_PRODUCT_SKUS.has(sku)) return PERSONAL_PROM_GROUPS.ACTIONS;
+  if (KITCHEN_PRODUCT_SKUS.has(sku)) return PERSONAL_PROM_GROUPS.KITCHEN;
+  if (name.includes('gerber') || name.includes('гербер')) return PERSONAL_PROM_GROUPS.GERBER;
+  if (section.includes('сокири та колуни') || section.includes('gerber/сокири')) return PERSONAL_PROM_GROUPS.AXES;
+  if (section.includes('лопати садові')) return PERSONAL_PROM_GROUPS.SHOVELS;
+  if (section.includes('/секатори')) return PERSONAL_PROM_GROUPS.PRUNERS;
+  if (section.includes('гілкорізи')) return PERSONAL_PROM_GROUPS.LOPPERS;
+  if (section.includes('ножиці для живоплоту') || section.includes('ножиці для трави')) return PERSONAL_PROM_GROUPS.GARDEN_SCISSORS;
+  if (section.includes('садові пилки') || section.includes('gerber/пили')) return PERSONAL_PROM_GROUPS.SAWS;
+  if (section.includes('gerber/ножі')) return PERSONAL_PROM_GROUPS.KNIVES;
+  if (section.includes('граблі для саду')) return PERSONAL_PROM_GROUPS.RAKES;
   if (
     section.includes('посадковий інвентар')
     || section.includes('вила для саду')
     || section.includes('мотикі, сапи, культиватори')
     || section.includes('точила для сокир та ножів')
-  ) return PROM_GROUPS.GARDEN_INVENTORY;
-  if (section.includes('садовий полив')) return PROM_GROUPS.WATERING;
-  if (section.includes('gerber/мультитули')) return PROM_GROUPS.MULTITOOLS;
-  if (section.includes('інструменти для дому')) return PROM_GROUPS.HOME_TOOLS;
-  if (section.includes('товари для творчості')) return PROM_GROUPS.CRAFT;
-  if (section.includes('аксесуари для тварин')) return PROM_GROUPS.PET_ACCESSORIES;
+  ) return PERSONAL_PROM_GROUPS.GARDEN_INVENTORY;
+  if (section.includes('садовий полив')) return PERSONAL_PROM_GROUPS.WATERING;
+  if (section.includes('gerber/мультитули')) return PERSONAL_PROM_GROUPS.MULTITOOLS;
+  if (section.includes('інструменти для дому')) return PERSONAL_PROM_GROUPS.HOME_TOOLS;
+  if (section.includes('товари для творчості')) return PERSONAL_PROM_GROUPS.CRAFT;
+  if (section.includes('аксесуари для тварин')) return PERSONAL_PROM_GROUPS.PET_ACCESSORIES;
 
-  return PROM_GROUPS.DEFAULT;
+  return PERSONAL_PROM_GROUPS.DEFAULT;
 }
 
 async function parseProducts() {
@@ -248,8 +266,8 @@ async function parseProducts() {
   return products;
 }
 
-function buildRozetka(products) {
-  const categoriesXml = Object.values(PROM_GROUPS)
+function buildPromFeed(products, { filename, groups, resolveGroup }) {
+  const categoriesXml = Object.values(groups)
     .map((group) => `      <category id="${group.id}">${group.name}</category>`)
     .join('\n');
 
@@ -263,7 +281,7 @@ ${categoriesXml}
 
   for (let p of products) {
     const sku = String(p.sku).trim();
-    const categoryId = getPromGroup(p).id;
+    const categoryId = resolveGroup(p).id;
     const pictures = p.images
       .map((image) => `        <picture>${image}</picture>`)
       .join('\n');
@@ -293,12 +311,29 @@ ${pictures ? `${pictures}\n` : ''}${dimensionsXml}        <description><![CDATA[
   </shop>
 </yml_catalog>`;
 
-  fs.writeFileSync('rozetka.xml', xml);
+  fs.writeFileSync(filename, xml);
+}
+
+function buildRozetka(products) {
+  buildPromFeed(products, {
+    filename: 'rozetka.xml',
+    groups: SHARED_PROM_GROUPS,
+    resolveGroup: getSharedPromGroup
+  });
+}
+
+function buildPersonalProm(products) {
+  buildPromFeed(products, {
+    filename: 'prom-andrii.xml',
+    groups: PERSONAL_PROM_GROUPS,
+    resolveGroup: getPersonalPromGroup
+  });
 }
 
 async function run() {
   const products = await parseProducts();
   buildRozetka(products);
+  buildPersonalProm(products);
 }
 
 run();
