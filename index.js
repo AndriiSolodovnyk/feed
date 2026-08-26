@@ -208,7 +208,7 @@ function getPersonalPromGroup(product) {
   const name = String(product.name || '').toLocaleLowerCase('uk');
   const section = String(product.section || '').toLocaleLowerCase('uk');
 
-  if (PERSONAL_SET_PRODUCT_SKUS.has(sku)) return PERSONAL_PROM_GROUPS.ACTIONS;
+  if (PERSONAL_SET_PRODUCT_SKUS.has(sku) || name.includes('+')) return PERSONAL_PROM_GROUPS.ACTIONS;
   if (PERSONAL_ROOT_PRODUCT_SKUS.has(sku)) return PERSONAL_PROM_GROUPS.DEFAULT;
   if (KITCHEN_PRODUCT_SKUS.has(sku)) return PERSONAL_PROM_GROUPS.KITCHEN;
   if (name.includes('gerber') || name.includes('гербер')) return PERSONAL_PROM_GROUPS.GERBER;

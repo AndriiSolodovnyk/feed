@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-26T23:23:38.234Z">
+<yml_catalog date="2026-08-26T23:26:34.295Z">
   <shop>
     <categories>
       <category id="1">Коренева група</category>
@@ -277,7 +277,7 @@
       <offer id="1075437" available="false">
         <name><![CDATA[Набір сокира універсальна Fiskars Х13 + точило 1075437]]></name>
         <price>1699</price>
-        <categoryId>156336202</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/nabir-sokyra-universalna-fiskars-kh13-tochylo-1075437-28649377492852_+f14fdd8e60.png</picture>
         <dimensions>
@@ -2302,7 +2302,7 @@
       <offer id="1056927" available="true">
         <name><![CDATA[Набір Fiskars мітла дворова М + Граблі Solid (1056927)]]></name>
         <price>1199</price>
-        <categoryId>156336209</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/nabir-fiskars-mitla-dvorova-m-hrabli-solid-1056927-82433085609314_+55060e055c.jpg</picture>
         <dimensions>
@@ -8373,7 +8373,7 @@
       <offer id="1024632" available="true">
         <name><![CDATA[Ніж Paraframe Mini+Vise (1024632)]]></name>
         <price>1899</price>
-        <categoryId>156336208</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/nizh-paraframe-minivise-40057652861407_+441a2b911e.jpg</picture>
         <dimensions>
@@ -9713,7 +9713,7 @@
       <offer id="1057609" available="true">
         <name><![CDATA[Пістолет Fiskars FiberComp multi+ з швидким з'єднувачем (1057609)]]></name>
         <price>1499</price>
-        <categoryId>156336211</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/pystolet-fiskars-fibercomp-multi-z-shvydkym-ziednuvachem-1057609-24669724926125_+de430c8b86.png</picture>
         <dimensions>
@@ -9902,7 +9902,7 @@
       <offer id="1065493" available="true">
         <name><![CDATA[Пістолет-розпилювач регульований + конектор для шланга 13мм(1/2”) аквастоп CF]]></name>
         <price>1899</price>
-        <categoryId>156336211</categoryId>
+        <categoryId>156333769</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-39611419912780_+5b97a05091.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-72857547644534_+2f423bddbb.png</picture>
