@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-26 23:27">
+<yml_catalog date="2026-08-27 03:26">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -2373,7 +2373,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599/</url>
         <price>499</price>
         <price_old>555</price_old>
-        <stock_quantity>28</stock_quantity>
+        <stock_quantity>27</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599-91647425061699_+efb38d53f1.jpg</picture>
@@ -2596,7 +2596,7 @@
       <offer id="1000773" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773/</url>
         <price>3999</price>
-        <stock_quantity>562</stock_quantity>
+        <stock_quantity>564</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-63780900637716_+75525b7782.jpg</picture>
@@ -4430,6 +4430,84 @@
         <param name="Стан товару">Новий</param>
         <param name="Категорія Хорошоп">GERBER / Ножі Gerber / Складні ножі Gerber</param>
       </offer>
+      <offer id="1062000" available="true">
+        <url>https://fiskars-gratis.com.ua/nabir-nozhiv-dlia-steiku-6sht/</url>
+        <price>699</price>
+        <price_old>1226</price_old>
+        <stock_quantity>4</stock_quantity>
+        <currencyId>UAH</currencyId>
+        <categoryId>1005</categoryId>
+        <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-nozhiv-dlia-steiku-6sht-38883339442184_+b8691bf326.png</picture>
+        <vendor>Fiskars</vendor>
+        <article>1062000</article>
+        <name>Набір ножів для стейку 6шт</name>
+        <name_ua>Набір ножів для стейку 6шт</name_ua>
+        <description><![CDATA[<p data-end="280" data-start="20"><strong data-end="70" data-start="20">Набір ножів для стейку Fiskars 6 шт. (1062000)</strong>&nbsp;&mdash; практичний комплект із шести однакових столових ножів для нарізання та сервірування стейків, м&#39;ясних і інших страв. Ножі мають гострі зубчасті леза, які легко розрізають м&#39;ясо, не пошкоджуючи його структуру.</p>
+
+<p data-end="389" data-start="282"><strong data-end="298" data-start="282">Призначення:</strong>&nbsp;для нарізання та сервірування стейків, м&#39;яса, птиці, ковбасних виробів та інших продуктів.</p>
+
+<p data-end="555" data-start="391"><strong data-end="407" data-start="391">Конструкція:</strong>&nbsp;ножі оснащені зубчастими лезами, які забезпечують ефективне нарізання м&#39;ясних страв. Ергономічні ручки забезпечують комфортне та надійне утримання.</p>
+
+<p data-end="637" data-start="557"><strong data-end="571" data-start="557">Матеріали:</strong>&nbsp;леза виготовлені з нержавіючої сталі, ручки &mdash; з міцного пластику.</p>
+
+<p data-end="764" data-start="639"><strong data-end="655" data-start="639">Особливості:</strong>&nbsp;6 однакових ножів у комплекті, зубчасте лезо, ергономічна форма ручки та зручність у щоденному використанні.</p>
+
+<p data-end="810" data-start="766"><strong data-end="783" data-start="766">Комплектація:</strong>&nbsp;ніж для стейку &mdash;&nbsp;<strong data-end="810" data-start="801">6 шт.</strong></p>]]></description>
+        <description_ua><![CDATA[<p data-end="280" data-start="20"><strong data-end="70" data-start="20">Набір ножів для стейку Fiskars 6 шт. (1062000)</strong>&nbsp;&mdash; практичний комплект із шести однакових столових ножів для нарізання та сервірування стейків, м&#39;ясних і інших страв. Ножі мають гострі зубчасті леза, які легко розрізають м&#39;ясо, не пошкоджуючи його структуру.</p>
+
+<p data-end="389" data-start="282"><strong data-end="298" data-start="282">Призначення:</strong>&nbsp;для нарізання та сервірування стейків, м&#39;яса, птиці, ковбасних виробів та інших продуктів.</p>
+
+<p data-end="555" data-start="391"><strong data-end="407" data-start="391">Конструкція:</strong>&nbsp;ножі оснащені зубчастими лезами, які забезпечують ефективне нарізання м&#39;ясних страв. Ергономічні ручки забезпечують комфортне та надійне утримання.</p>
+
+<p data-end="637" data-start="557"><strong data-end="571" data-start="557">Матеріали:</strong>&nbsp;леза виготовлені з нержавіючої сталі, ручки &mdash; з міцного пластику.</p>
+
+<p data-end="764" data-start="639"><strong data-end="655" data-start="639">Особливості:</strong>&nbsp;6 однакових ножів у комплекті, зубчасте лезо, ергономічна форма ручки та зручність у щоденному використанні.</p>
+
+<p data-end="810" data-start="766"><strong data-end="783" data-start="766">Комплектація:</strong>&nbsp;ніж для стейку &mdash;&nbsp;<strong data-end="810" data-start="801">6 шт.</strong></p>]]></description_ua>
+        <param name="Артикул">1062000</param>
+        <param name="Бренд">Fiskars</param>
+        <param name="Стан товару">Новий</param>
+        <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
+      </offer>
+      <offer id="1062002" available="true">
+        <url>https://fiskars-gratis.com.ua/nabir-nozhiv-dlia-steiku-6sht-chervoni/</url>
+        <price>699</price>
+        <price_old>1226</price_old>
+        <stock_quantity>3</stock_quantity>
+        <currencyId>UAH</currencyId>
+        <categoryId>1005</categoryId>
+        <picture>https://fiskars-gratis.com.ua/content/images/37/nabir-nozhiv-dlia-steiku-6sht-chervoni-48969342318790_+d1016a8732.png</picture>
+        <vendor>Fiskars</vendor>
+        <article>1062002</article>
+        <name>Набір ножів для стейку 6шт червоні</name>
+        <name_ua>Набір ножів для стейку 6шт червоні</name_ua>
+        <description><![CDATA[<p data-end="263" data-start="20"><strong data-end="78" data-start="20">Набір ножів для стейку Fiskars 6 шт. червоні (1062002)</strong>&nbsp;&mdash; практичний комплект столових ножів для сервірування м&#39;ясних страв, стейків та іншої їжі. Гострі леза забезпечують зручне нарізання м&#39;яса, а ергономічні ручки комфортно лежать у руці.</p>
+
+<p data-end="372" data-start="265"><strong data-end="281" data-start="265">Призначення:</strong>&nbsp;для нарізання та сервірування стейків, м&#39;яса, птиці, ковбасних виробів та інших продуктів.</p>
+
+<p data-end="565" data-start="374"><strong data-end="390" data-start="374">Конструкція:</strong>&nbsp;ножі мають гострі леза із зубчастою ріжучою кромкою, яка полегшує нарізання м&#39;ясних страв. Ергономічні ручки забезпечують надійне та комфортне утримання під час використання.</p>
+
+<p data-end="647" data-start="567"><strong data-end="581" data-start="567">Матеріали:</strong>&nbsp;леза виготовлені з нержавіючої сталі, ручки &mdash; з міцного пластику.</p>
+
+<p data-end="860" data-start="649"><strong data-end="665" data-start="649">Особливості:</strong>&nbsp;6 однакових ножів у комплекті, зубчасте лезо для ефективного нарізання м&#39;яса, зручні ручки та яскравий червоний колір. Ножі підходять для щоденного використання та сервірування святкового столу.</p>
+
+<p data-end="902" data-start="862"><strong data-end="879" data-start="862">Комплектація:</strong>&nbsp;ніж для стейку &mdash; 6 шт.</p>]]></description>
+        <description_ua><![CDATA[<p data-end="263" data-start="20"><strong data-end="78" data-start="20">Набір ножів для стейку Fiskars 6 шт. червоні (1062002)</strong>&nbsp;&mdash; практичний комплект столових ножів для сервірування м&#39;ясних страв, стейків та іншої їжі. Гострі леза забезпечують зручне нарізання м&#39;яса, а ергономічні ручки комфортно лежать у руці.</p>
+
+<p data-end="372" data-start="265"><strong data-end="281" data-start="265">Призначення:</strong>&nbsp;для нарізання та сервірування стейків, м&#39;яса, птиці, ковбасних виробів та інших продуктів.</p>
+
+<p data-end="565" data-start="374"><strong data-end="390" data-start="374">Конструкція:</strong>&nbsp;ножі мають гострі леза із зубчастою ріжучою кромкою, яка полегшує нарізання м&#39;ясних страв. Ергономічні ручки забезпечують надійне та комфортне утримання під час використання.</p>
+
+<p data-end="647" data-start="567"><strong data-end="581" data-start="567">Матеріали:</strong>&nbsp;леза виготовлені з нержавіючої сталі, ручки &mdash; з міцного пластику.</p>
+
+<p data-end="860" data-start="649"><strong data-end="665" data-start="649">Особливості:</strong>&nbsp;6 однакових ножів у комплекті, зубчасте лезо для ефективного нарізання м&#39;яса, зручні ручки та яскравий червоний колір. Ножі підходять для щоденного використання та сервірування святкового столу.</p>
+
+<p data-end="902" data-start="862"><strong data-end="879" data-start="862">Комплектація:</strong>&nbsp;ніж для стейку &mdash; 6 шт.</p>]]></description_ua>
+        <param name="Артикул">1062002</param>
+        <param name="Бренд">Fiskars</param>
+        <param name="Стан товару">Новий</param>
+        <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
+      </offer>
       <offer id="1023752" available="false">
         <url>https://fiskars-gratis.com.ua/soteinyk-fiskars-rotisser-26-sm-z-kryshkoiu-1023752/</url>
         <price>2999</price>
@@ -4889,7 +4967,7 @@
       <offer id="1059852" available="true">
         <url>https://fiskars-gratis.com.ua/multytul-gerber-lockdown-pry-onyx-1059852/</url>
         <price>2389</price>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>33</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/multytul-gerber-lockdown-pry-onyx-1059852-20803579743545_+8c789146ec.png</picture>
