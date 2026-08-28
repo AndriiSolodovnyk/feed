@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-27 23:54">
+<yml_catalog date="2026-08-28 09:47">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -116,7 +116,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-fiskars-handy-28-sm-1024458/</url>
         <price>1299</price>
         <price_old>1900</price_old>
-        <stock_quantity>151</stock_quantity>
+        <stock_quantity>150</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/skovoroda-fiskars-handy-28-sm-1024458-35260909044832_+5273e73a6e.jpg</picture>
@@ -325,7 +325,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248/</url>
         <price>1999</price>
         <price_old>5100</price_old>
-        <stock_quantity>18</stock_quantity>
+        <stock_quantity>16</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-98378400321008_+13c289830e.png</picture>
@@ -2596,7 +2596,7 @@
       <offer id="1000773" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773/</url>
         <price>3999</price>
-        <stock_quantity>564</stock_quantity>
+        <stock_quantity>563</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-63780900637716_+75525b7782.jpg</picture>
@@ -3632,7 +3632,6 @@
         <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-53713228255323_+0a8b481f39.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-82792887488946_+5f0e63959c.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-66978984975983_+cdac0202c6.png</picture>
-        <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-84188805793472_+64784c41aa.png</picture>
         <vendor>Gerber</vendor>
         <article>1027873</article>
         <name>Ніж складний Гербер FlatIron Folder - G10</name>
