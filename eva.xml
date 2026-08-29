@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-28 21:06">
+<yml_catalog date="2026-08-29 03:14">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -116,7 +116,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-fiskars-handy-28-sm-1024458/</url>
         <price>1299</price>
         <price_old>1900</price_old>
-        <stock_quantity>150</stock_quantity>
+        <stock_quantity>142</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/skovoroda-fiskars-handy-28-sm-1024458-35260909044832_+5273e73a6e.jpg</picture>
@@ -328,9 +328,8 @@
         <stock_quantity>16</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
-        <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-98378400321008_+13c289830e.png</picture>
-        <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-29048726153739_+b09a08875e.png</picture>
-        <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-56125755460555_+423153ce9e.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-97850798404853_+b78b49f20e.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-64000520964392_+2dfed7db65.png</picture>
         <vendor>Fiskars</vendor>
         <article>1052248</article>
         <name>Сковорода з кришкою Fiskars Hard Face 26 см 1052248</name>
@@ -338,25 +337,29 @@
         <description><![CDATA[<p>
 <style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
 </style>
-<strong>Сковорода з кришкою Fiskars Hard Face, 26 см</strong> &mdash; кухонний посуд для щоденного приготування різноманітних страв. Підходить для смаження, тушкування та розігріву, забезпечуючи рівномірне нагрівання та зручність у використанні.</p>
+</p>
 
-<p><strong>Призначення: </strong>використовується для приготування м&rsquo;яса, овочів, яєць та інших страв у домашніх умовах.</p>
+<p dir="ltr"><strong>Сковорода з кришкою Fiskars Hard Face, 26 см</strong> &mdash; кухонний посуд для щоденного приготування різноманітних страв.Універсальна сталева сковорода від фінського бренду Fiskars, створена для щоденного приготування страв з максимальною ефективністю та довговічністю.</p>
 
-<p><strong>Конструкція:</strong> гладка робоча поверхня з антипригарним покриттям запобігає пригоранню, а кришка дозволяє зберігати вологу та смак страв.</p>
+<p dir="ltr"><strong>Внутрішнє покриття </strong>Hardtec Superior витримує інтенсивне використання навіть при готуванні найвибагливіших страв, а трьохшарове дно забезпечує рівномірний розподіл тепла по всій поверхні &mdash; страви прогріваються швидко та без пригорання.</p>
 
-<p><strong>Матеріали:</strong> виготовлена з міцного алюмінію з антипригарним покриттям, що забезпечує легкість догляду та довговічність.</p>
+<p dir="ltr"><strong>Сковорода підходить для всіх типів плит</strong>: газових, електричних, керамічних та індукційних, тож стане зручним вибором для будь-якої кухні.</p>
+
+<p dir="ltr"><strong>У комплекті</strong> &mdash; зручна кришка з функцією зливу, що дозволяє легко зливати рідину під час готування, не знімаючи кришку повністю.</p>
 
 <p><strong>Особливості: </strong>належить до серії Hard Face бренду Fiskars, підходить для більшості типів плит та щоденного інтенсивного використання.</p>]]></description>
         <description_ua><![CDATA[<p>
 <style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->
 </style>
-<strong>Сковорода з кришкою Fiskars Hard Face, 26 см</strong> &mdash; кухонний посуд для щоденного приготування різноманітних страв. Підходить для смаження, тушкування та розігріву, забезпечуючи рівномірне нагрівання та зручність у використанні.</p>
+</p>
 
-<p><strong>Призначення: </strong>використовується для приготування м&rsquo;яса, овочів, яєць та інших страв у домашніх умовах.</p>
+<p dir="ltr"><strong>Сковорода з кришкою Fiskars Hard Face, 26 см</strong> &mdash; кухонний посуд для щоденного приготування різноманітних страв.Універсальна сталева сковорода від фінського бренду Fiskars, створена для щоденного приготування страв з максимальною ефективністю та довговічністю.</p>
 
-<p><strong>Конструкція:</strong> гладка робоча поверхня з антипригарним покриттям запобігає пригоранню, а кришка дозволяє зберігати вологу та смак страв.</p>
+<p dir="ltr"><strong>Внутрішнє покриття </strong>Hardtec Superior витримує інтенсивне використання навіть при готуванні найвибагливіших страв, а трьохшарове дно забезпечує рівномірний розподіл тепла по всій поверхні &mdash; страви прогріваються швидко та без пригорання.</p>
 
-<p><strong>Матеріали:</strong> виготовлена з міцного алюмінію з антипригарним покриттям, що забезпечує легкість догляду та довговічність.</p>
+<p dir="ltr"><strong>Сковорода підходить для всіх типів плит</strong>: газових, електричних, керамічних та індукційних, тож стане зручним вибором для будь-якої кухні.</p>
+
+<p dir="ltr"><strong>У комплекті</strong> &mdash; зручна кришка з функцією зливу, що дозволяє легко зливати рідину під час готування, не знімаючи кришку повністю.</p>
 
 <p><strong>Особливості: </strong>належить до серії Hard Face бренду Fiskars, підходить для більшості типів плит та щоденного інтенсивного використання.</p>]]></description_ua>
         <param name="Артикул">1052248</param>
@@ -2140,7 +2143,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-asada-1055364/</url>
         <price>999</price>
         <price_old>2999</price_old>
-        <stock_quantity>375</stock_quantity>
+        <stock_quantity>373</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
@@ -2294,7 +2297,7 @@
       <offer id="1065567" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-fileinyi-fiskars-essential-18-sm-1065567/</url>
         <price>1114</price>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/nizh-fileinyi-fiskars-essential-18-sm-1065567-50960032720090_+eb1df98459.jpg</picture>
@@ -2596,7 +2599,7 @@
       <offer id="1000773" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773/</url>
         <price>3999</price>
-        <stock_quantity>563</stock_quantity>
+        <stock_quantity>555</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-63780900637716_+75525b7782.jpg</picture>
@@ -2634,7 +2637,7 @@
       <offer id="1063144" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-gerber-ceviche-7eboxgrnblk-1063144/</url>
         <price>1769</price>
-        <stock_quantity>754</stock_quantity>
+        <stock_quantity>753</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1007</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/nizh-gerber-ceviche-7eboxgrnblk-1063144-39831877532524_+da92454f0c.jpg</picture>
@@ -2910,7 +2913,7 @@
       <offer id="1059841" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-gerber-downwind-caper-siryi-1059841/</url>
         <price>1999</price>
-        <stock_quantity>363</stock_quantity>
+        <stock_quantity>362</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1014</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/nizh-gerber-downwind-caper-siryi-1059841-50619684979548_+8787d257c1.jpg</picture>
@@ -3373,7 +3376,7 @@
       <offer id="1075834" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-santoku-fiskars-cleaver-all-steel-16-sm/</url>
         <price>6089</price>
-        <stock_quantity>14</stock_quantity>
+        <stock_quantity>13</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74483750015361_+69f412eaa8.png</picture>
@@ -3566,10 +3569,10 @@
         <param name="Код УКТ ЗЕД">8204200000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
-      <offer id="1016474" available="true">
+      <offer id="1016474" available="false">
         <url>https://fiskars-gratis.com.ua/nozh-santuko-norr/</url>
         <price>3299</price>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/nozh-santuko-norr-74928608842305_+34900e504d.png</picture>
@@ -3965,7 +3968,7 @@
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-ff-z-chornoiu-pidstavkoiu-5-sht/</url>
         <price>6099</price>
         <price_old>6795</price_old>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/nabir-nozhiv-ff-z-chornoiu-pidstavkoiu-5-sht-31554546570960_+7ab6cfb7e2.png</picture>
@@ -4011,7 +4014,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-koreneplodiv/</url>
         <price>589</price>
         <price_old>653</price_old>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>11</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-42899483639817_+d6e48dfb3a.png</picture>
@@ -5057,7 +5060,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-scout4lblsonyx3-12-1064399/</url>
         <price>899</price>
         <price_old>2389</price_old>
-        <stock_quantity>30</stock_quantity>
+        <stock_quantity>29</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
@@ -5186,7 +5189,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-lockdown-slim16lbox-1059836/</url>
         <price>1999</price>
         <price_old>2389</price_old>
-        <stock_quantity>323</stock_quantity>
+        <stock_quantity>324</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-59251443973745_+9a8ef0fa11.jpg</picture>
@@ -5413,7 +5416,7 @@
         <url>https://fiskars-gratis.com.ua/pyla-gerber-gator-exchange-a-blade-1014028/</url>
         <price>1138</price>
         <price_old>1499</price_old>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>19</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1008</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/pyla-gerber-gator-exchange-a-blade-1014028-11267224789152_+686a1638f5.jpg</picture>
@@ -5747,7 +5750,7 @@
         <url>https://fiskars-gratis.com.ua/lopatka-dereviana-dlia-hrylia-norden-1066429/</url>
         <price>999</price>
         <price_old>1400</price_old>
-        <stock_quantity>21</stock_quantity>
+        <stock_quantity>20</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/lopatka-dereviana-dlia-hrylia-norden-1066429-30015308621525_+56abbedc52.png</picture>
@@ -5787,7 +5790,7 @@
       <offer id="1066431" available="true">
         <url>https://fiskars-gratis.com.ua/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431/</url>
         <price>5750</price>
-        <stock_quantity>28</stock_quantity>
+        <stock_quantity>27</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-11480062848910_+77d5d7c5c4.jpg</picture>
@@ -6001,7 +6004,7 @@
       <offer id="1066426" available="true">
         <url>https://fiskars-gratis.com.ua/shchyptsi-dlia-hrylia-norden-grill/</url>
         <price>6865</price>
-        <stock_quantity>14</stock_quantity>
+        <stock_quantity>13</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33434838095190_+9f34370262.png</picture>
@@ -6066,7 +6069,7 @@
       <offer id="1066427" available="true">
         <url>https://fiskars-gratis.com.ua/vydelka-dlia-hrylia-norden-grill/</url>
         <price>3865</price>
-        <stock_quantity>33</stock_quantity>
+        <stock_quantity>32</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-56405175162690_+ac66798614.png</picture>
