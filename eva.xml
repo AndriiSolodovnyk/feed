@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-08-29 23:54">
+<yml_catalog date="2026-08-30 03:52">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -116,7 +116,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-fiskars-handy-28-sm-1024458/</url>
         <price>1299</price>
         <price_old>1900</price_old>
-        <stock_quantity>142</stock_quantity>
+        <stock_quantity>141</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/skovoroda-fiskars-handy-28-sm-1024458-35260909044832_+5273e73a6e.jpg</picture>
@@ -2599,7 +2599,7 @@
       <offer id="1000773" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773/</url>
         <price>3999</price>
-        <stock_quantity>555</stock_quantity>
+        <stock_quantity>554</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-63780900637716_+75525b7782.jpg</picture>
@@ -4014,7 +4014,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-koreneplodiv/</url>
         <price>589</price>
         <price_old>653</price_old>
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>12</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-42899483639817_+d6e48dfb3a.png</picture>
@@ -5060,7 +5060,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-scout4lblsonyx3-12-1064399/</url>
         <price>899</price>
         <price_old>2389</price_old>
-        <stock_quantity>29</stock_quantity>
+        <stock_quantity>30</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
@@ -5105,7 +5105,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-cork-shimmer-gold-1052456/</url>
         <price>998</price>
         <price_old>1899</price_old>
-        <stock_quantity>242</stock_quantity>
+        <stock_quantity>241</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/multytul-gerber-armbar-cork-shimmer-gold-1052456-40506406008064_+3402bd7e26.jpg</picture>
@@ -5189,7 +5189,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-lockdown-slim16lbox-1059836/</url>
         <price>1999</price>
         <price_old>2389</price_old>
-        <stock_quantity>324</stock_quantity>
+        <stock_quantity>323</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-59251443973745_+9a8ef0fa11.jpg</picture>
