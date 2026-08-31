@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-30 23:41</date>
+    <date>2026-08-31 03:55</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -5583,7 +5583,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</image>
             <priceRUAH>1899</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">120</guarantee>
             <param name="Артикул">1001538</param>
             <param name="Бренд">Fiskars</param>
