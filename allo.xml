@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-08-31 22:30</date>
+    <date>2026-09-01 01:40</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -1540,7 +1540,7 @@
             <url>https://fiskars-gratis.com.ua/lopata-shtykova-zahostrena-fiskars-1071927/</url>
             <image>https://fiskars-gratis.com.ua/content/images/43/lopata-shtykova-zahostrena-fiskars-1071927-20380707249706_+d458073775.jpg</image>
             <priceRUAH>599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1071927</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -2883,7 +2883,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-27487367778769_+1137de4d65.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-15228611473368_+01e54b7393.jpg</image>
             <priceRUAH>599</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1000567</param>
             <param name="Бренд">Fiskars</param>
@@ -5317,7 +5317,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/21/nozhytsi-dlia-kushchiv-solid-hs21-53203319405827_+1fcb36e454.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/21/nozhytsi-dlia-kushchiv-solid-hs21-35787076133493_+a9d9d75222.jpg</image>
             <priceRUAH>1499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1026827</param>
             <param name="Бренд">Fiskars</param>
@@ -6687,7 +6687,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/17/boltoriz-fiskars-powergear-76sm-1027215-18914892771798_+e24a5a7770.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/17/boltoriz-fiskars-powergear-76sm-1027215-95255167378896_+242a899585.jpg</image>
             <priceRUAH>1699</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1027215</param>
             <param name="Бренд">Fiskars</param>
@@ -12777,7 +12777,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/5/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553-41850968687303_+a0e0f8cd43.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/5/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553-25024222887881_+ee7c4b2b58.jpg</image>
             <priceRUAH>3599</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1001553</param>
             <param name="Бренд">Fiskars</param>
