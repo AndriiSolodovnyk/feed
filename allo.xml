@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-01 22:43</date>
+    <date>2026-09-02 00:49</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -514,9 +514,11 @@
 <p data-end="1069" data-is-last-node="" data-is-only-node="" data-start="900"><span style="font-size:18px;"><strong data-end="916" data-start="900">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії X XXL бренду Fiskars та призначений для інтенсивного розколювання деревини великого діаметру.</span></p>
 </article>]]></description>
             <url>https://fiskars-gratis.com.ua/fiskars-x27-xxl-1015644-sokyra-kolun/</url>
-            <image>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-79732584602054_+ce3da73ad6.jpg</image>
-            <image>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-67174473385678_+54ebe318ea.jpg</image>
-            <image>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-39354558219530_+9d5f2bbc29.jpg</image>
+            <image>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-60534600335018_+9710418154.jpg</image>
+            <image>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-97493924483987_+e573fcd4dd.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-61820673735928_+6fbe29b79e.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-67029863720297_+586f3c7611.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-15330733465158_+dc9c003075.png</image>
             <priceRUAH>4199</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
@@ -1571,7 +1573,7 @@
             <url>https://fiskars-gratis.com.ua/lopata-sadova-klasychna-fiskars-fsc-1071929/</url>
             <image>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</image>
             <priceRUAH>699</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1071929</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -2269,7 +2271,7 @@
             <url>https://fiskars-gratis.com.ua/nabir-sadovyi-fiskars-lopatka-kultyvator-1052090/</url>
             <image>https://fiskars-gratis.com.ua/content/images/18/nabir-sadovyi-fiskars-lopatka-kultyvator-1052090-80101712747137_+bc1c79f3c3.jpg</image>
             <priceRUAH>298</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1052090</param>
             <param name="Бренд">Fiskars</param>
@@ -2851,7 +2853,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/1/sekator-ploshchynnyi-fiskars-smartfit-p541-1057169-69400811095303_+90e650892c.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/1/sekator-ploshchynnyi-fiskars-smartfit-p541-1057169-48928306012836_+14ad4c1792.jpg</image>
             <priceRUAH>1049</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1057169</param>
             <param name="Бренд">Fiskars</param>
@@ -5445,7 +5447,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/25/nozhytsi-dytiachi-blyskucho-rozhevi-fiskars-1023915-48249417384839_+a6af80ceab.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/25/nozhytsi-dytiachi-blyskucho-rozhevi-fiskars-1023915-64923948439413_+96b46a9836.jpg</image>
             <priceRUAH>490</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1023915</param>
             <param name="Бренд">Fiskars</param>
@@ -5583,7 +5585,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</image>
             <priceRUAH>1899</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">120</guarantee>
             <param name="Артикул">1001538</param>
             <param name="Бренд">Fiskars</param>
@@ -12948,7 +12950,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-35474026370230_+90790ee644.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-64583290013540_+3d9d390129.png</image>
             <priceRUAH>999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1057760</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
