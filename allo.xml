@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-03 23:49</date>
+    <date>2026-09-04 03:06</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -5873,7 +5873,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip-71566431559076_+a21b53afc8.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip-84043187414663_+b02e132407.png</image>
             <priceRUAH>499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1005153</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -6176,7 +6176,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-12696129623489_+b89b029279.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-70074195178608_+947c0e580f.png</image>
             <priceRUAH>499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1000555</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -13016,7 +13016,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/33/multytul-brelok-vidkryvachka-gerber-shardxl-topo-4l-1064441-74352534279192_+fa1939e922.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/33/multytul-brelok-vidkryvachka-gerber-shardxl-topo-4l-1064441-47170351487140_+47ac22ae7b.jpg</image>
             <priceRUAH>499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1064441</param>
             <param name="Бренд">Gerber</param>

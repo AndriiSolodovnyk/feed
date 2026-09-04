@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-03 23:49">
+<yml_catalog date="2026-09-04 03:06">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -3968,7 +3968,7 @@
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-ff-z-chornoiu-pidstavkoiu-5-sht/</url>
         <price>6099</price>
         <price_old>6795</price_old>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/nabir-nozhiv-ff-z-chornoiu-pidstavkoiu-5-sht-31554546570960_+7ab6cfb7e2.png</picture>
@@ -4796,11 +4796,11 @@
         <param name="Код УКТ ЗЕД">8211930000</param>
         <param name="Категорія Хорошоп">GERBER / Мультитули Gerber</param>
       </offer>
-      <offer id="1064441" available="true">
+      <offer id="1064441" available="false">
         <url>https://fiskars-gratis.com.ua/multytul-brelok-vidkryvachka-gerber-shardxl-topo-4l-1064441/</url>
         <price>499</price>
         <price_old>1239</price_old>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/multytul-brelok-vidkryvachka-gerber-shardxl-topo-4l-1064441-74352534279192_+fa1939e922.jpg</picture>
