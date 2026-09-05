@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-04 23:44</date>
+    <date>2026-09-05 03:08</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -5873,7 +5873,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip-71566431559076_+a21b53afc8.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip-84043187414663_+b02e132407.png</image>
             <priceRUAH>499</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1005153</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -6176,7 +6176,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-12696129623489_+b89b029279.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-70074195178608_+947c0e580f.png</image>
             <priceRUAH>499</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1000555</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -9452,6 +9452,340 @@
             <param name="Стан товару">Новий</param>
             <param name="Штрихкод">6411501311443</param>
             <param name="Категорія Хорошоп">FISKARS / Садовий інвентар Fiskars / Інструменти для дому</param>
+            <condition>0</condition>
+        </item>
+        <item>
+            <id>1066727105108</id>
+            <categoryId>28</categoryId>
+            <code>1066727105108</code>
+            <barcode>8201 10 00 00</barcode>
+            <vendor>Fiskars</vendor>
+            <name>Лопата совкова Фіскарс PRIMA чорна FSC+Сокира теслярська Solid A10</name>
+            <description><![CDATA[<p><strong>Набір Fiskars (штрихкод&nbsp;</strong>6411501702036&nbsp;<strong>)</strong>&nbsp;для роботи з деревиною, ґрунтом та сипучими матеріалами. Практичне рішення для саду, дачі, будівельних і господарських робіт.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір поєднує теслярську сокиру Fiskars Solid A10 та совкову лопату Fiskars PRIMA. Сокира призначена для роботи з деревиною, обробки та підготовки дерев&#39;яних матеріалів, а лопата допомагає переміщувати ґрунт, пісок, гравій та інші сипучі матеріали. Разом інструменти створюють практичний комплект для різноманітних робіт у приватному господарстві.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>&nbsp;</p>
+
+<p><strong>Л<a href="https://fiskars-gratis.com.ua/lopata-sovkova-fiskars-prima-chorna-fsc/">опата совкова Fiskars PRIMA чорна FSC</a></strong></p>
+
+<p>Совкова лопата Fiskars PRIMA підходить для переміщення ґрунту, піску, гравію та інших сипучих матеріалів. Чорне полотно та конструкція лопати забезпечують практичність під час садових, будівельних і господарських робіт. Сертифікація FSC підтверджує відповідність деревини вимогам відповідального лісокористування.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира Fiskars Solid A10</strong></a></p>
+
+<p>Теслярська сокира Fiskars Solid A10 (1051085) призначена для точної обробки деревини, теслярських і столярних робіт. Високовуглецеве сталеве лезо має кут заточування 30&deg;, а руків&#39;я FiberComp&trade; з поліаміду, армованого скловолокном, забезпечує надійний хват і комфорт під час роботи. Довжина сокири &mdash; 445 мм, вага &mdash; 0,98 кг.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір підходить для виконання різноманітних робіт у саду, на дачі, у майстерні та приватному господарстві.</p>
+
+<ol>
+	<li>
+	<p>Обробка та підготовка деревини.</p>
+	</li>
+	<li>
+	<p>Виконання теслярських і столярних робіт.</p>
+	</li>
+	<li>
+	<p>Переміщення ґрунту, піску та гравію.</p>
+	</li>
+	<li>
+	<p>Робота з сипучими матеріалами.</p>
+	</li>
+	<li>
+	<p>Використання під час садових, будівельних і господарських робіт.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання сокири та совкової лопати.</p>
+	</li>
+	<li>
+	<p>Інструменти для різних видів господарських робіт.</p>
+	</li>
+	<li>
+	<p>Надійні матеріали та продумана конструкція.</p>
+	</li>
+	<li>
+	<p>Підходить для використання вдома, на дачі та в саду.</p>
+	</li>
+	<li>
+	<p>Зручне рішення для тих, хто хоче придбати одразу два необхідні інструменти.</p>
+	</li>
+</ol>]]></description>
+            <url>https://fiskars-gratis.com.ua/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10/</url>
+            <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-37698904701762_+a2497125f9.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-58168144542852_+4614cbb679.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-35556107645267_+9678b0ff8e.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-54539833643298_+ce5b4d963f.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-11191125635471_+da3c78c21a.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-28728430251976_+dd74d4c2ab.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-15413006159961_+58c199b6cb.png</image>
+            <priceRUAH>1999</priceRUAH>
+            <stock>Немає в наявності</stock>
+            <param name="Артикул">1066727105108</param>
+            <param name="Бренд">Fiskars</param>
+            <param name="Оригінальність">Оригінал</param>
+            <param name="Стан товару">Новий</param>
+            <param name="Штрихкод">8201 10 00 00</param>
+            <param name="Код УКТ ЗЕД">641150131190</param>
+            <param name="Категорія Хорошоп">Акції</param>
+            <condition>0</condition>
+        </item>
+        <item>
+            <id>1028376106314</id>
+            <categoryId>28</categoryId>
+            <code>1028376106314</code>
+            <barcode>8202100000</barcode>
+            <vendor>Fiskars</vendor>
+            <name>Пилка садова ручна Solid SW 16 ТМ Fiskars+Ніж Ceviche 9&quot;,E,Box,GRN,BLK</name>
+            <description><![CDATA[<p><strong>Набір Fiskars: пилка садова ручна Solid SW16 + ніж Gerber Ceviche 9&quot;</strong>&nbsp;&mdash; практичне поєднання інструментів для садових, господарських та повсякденних завдань. Пилка підходить для роботи з деревиною, а ніж стане у пригоді для різноманітних побутових задач.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір поєднує ручну садову пилку Fiskars Solid SW16 та ніж Gerber Ceviche 9&quot;. Компактна пилка призначена для обрізання гілок і роботи з деревиною, а ніж доповнює комплект як універсальний інструмент для щоденного використання. Практичний варіант для дому, саду, дачі та виїздів на природу.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два компактні інструменти для різних завдань.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376/"><strong>Пилка садова ручна Fiskars Solid SW16</strong></a></p>
+
+<p>Садова пилка Fiskars Solid SW16 призначена для обрізання гілок та роботи з деревиною. Зручна конструкція робить інструмент практичним для використання в саду та під час догляду за рослинами.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/nizh-gerber-ceviche-9eboxgrnblk-1063145/"><strong>Ніж Gerber Ceviche 9&quot;</strong></a></p>
+
+<p>Ніж Gerber Ceviche 9&quot; &mdash; компактний та практичний інструмент для повсякденного використання. Підходить для різноманітних побутових і туристичних задач.</p>
+
+<p><strong>Застосування</strong></p>
+
+<ol>
+	<li>
+	<p>Обрізання гілок та роботи з деревиною.</p>
+	</li>
+	<li>
+	<p>Догляд за садом і рослинами.</p>
+	</li>
+	<li>
+	<p>Виконання побутових завдань.</p>
+	</li>
+	<li>
+	<p>Використання на дачі та під час відпочинку на природі.</p>
+	</li>
+	<li>
+	<p>Зручний комплект для різноманітних господарських потреб.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Поєднання садової пилки та універсального ножа.</p>
+	</li>
+	<li>
+	<p>Компактність і зручність використання.</p>
+	</li>
+	<li>
+	<p>Практичне рішення для саду, дому та відпочинку.</p>
+	</li>
+	<li>
+	<p>Інструменти від брендів Fiskars і Gerber.</p>
+	</li>
+</ol>]]></description>
+            <url>https://fiskars-gratis.com.ua/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk/</url>
+            <image>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-66822550593995_+6a92c49465.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-67903323560117_+97b42a89cf.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-94299321922368_+72f76e14e0.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-62363235538052_+714404abff.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-95090446200314_+f22dbe1efe.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-76647408135047_+8534cf73fa.png</image>
+            <priceRUAH>999</priceRUAH>
+            <stock>Немає в наявності</stock>
+            <param name="Артикул">1028376106314</param>
+            <param name="Бренд">Fiskars</param>
+            <param name="Оригінальність">Оригінал</param>
+            <param name="Стан товару">Новий</param>
+            <param name="Штрихкод">8202100000</param>
+            <param name="Код УКТ ЗЕД">6411501200419</param>
+            <param name="Категорія Хорошоп">Акції</param>
+            <condition>0</condition>
+        </item>
+        <item>
+            <id>1024706102837</id>
+            <categoryId>28</categoryId>
+            <code>1024706102837</code>
+            <barcode>8201 90 00 00</barcode>
+            <vendor>Fiskars</vendor>
+            <name>Садовий совок Fiskars SRP+Пилка садова ручна Solid SW 16 ТМ Fiskars</name>
+            <description><![CDATA[<p><strong>Садовий совок Fiskars SRP+Пилка садова ручна Solid SW 16 ТМ Fiskars (штрихкод 6411501329943&nbsp;)-</strong> практичне поєднання інструментів для догляду за садом та роботи з рослинами. Садова пилка підходить для обрізання гілок і роботи з деревиною, а совок &mdash; для посадки, пересадки та обробки ґрунту.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір поєднує ручну садову пилку Fiskars Solid SW16 та садовий совок Fiskars SRP. Інструменти доповнюють один одного та допомагають виконувати основні садові роботи &mdash; від обрізання гілок до роботи з ґрунтом під час посадки та пересадки рослин.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p data-end="488" data-start="178"><a href="https://fiskars-gratis.com.ua/sadovyi-sovok-fiskars-srp/"><strong>Садовий совок&nbsp;Fiskars SRP (1024706)&nbsp;</strong></a>&mdash; це точний і надійний інструмент для посадки, пересадки та роботи з ґрунтом у клумбах, горщиках і грядках. Завдяки вузькому металевому лезу він легко входить навіть у щільний ґрунт і дозволяє акуратно формувати лунки без пошкодження кореневої системи рослин.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376/"><strong>Пилка садова ручна Fiskars Solid SW 16 (1028376)</strong></a>&nbsp;&mdash; ручний інструмент для обрізання, розпилювання та догляду за деревними насадженнями на присадибних ділянках, у садах і ландшафтних зонах. Використовується для зрізання сухих і живих гілок, випилювання деревини середнього діаметру та формування крон дерев і кущів.</p>
+
+<p data-end="488" data-start="178"><strong>Застосування</strong></p>
+
+<ol data-spread="false" start="1">
+	<li>Обрізання гілок та роботи з деревиною.</li>
+	<li>Посадка та пересадка рослин.</li>
+	<li>Робота з ґрунтом.</li>
+	<li>Догляд за клумбами, грядками та садовими рослинами.</li>
+	<li>Використання вдома, на дачі та в саду.</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol data-spread="false" start="1">
+	<li>Практичне поєднання двох необхідних садових інструментів.</li>
+	<li>Підходить для різних видів робіт у саду.</li>
+	<li>Зручний комплект для догляду за рослинами.</li>
+	<li>Компактні інструменти, які легко зберігати та транспортувати.</li>
+</ol>]]></description>
+            <url>https://fiskars-gratis.com.ua/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars/</url>
+            <image>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-54979820415643_+54ab95c7a5.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-83642833114852_+1e0f27c8c0.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-35010132069884_+4162aa913e.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-55469477182580_+2b97dbf28f.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-86427114739844_+558092b185.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-44299190617853_+5b7aa5e691.png</image>
+            <priceRUAH>999</priceRUAH>
+            <stock>Немає в наявності</stock>
+            <param name="Артикул">1024706102837</param>
+            <param name="Бренд">Fiskars</param>
+            <param name="Оригінальність">Оригінал</param>
+            <param name="Стан товару">Новий</param>
+            <param name="Штрихкод">8201 90 00 00</param>
+            <param name="Код УКТ ЗЕД">6411501329943</param>
+            <param name="Категорія Хорошоп">Акції</param>
+            <condition>0</condition>
+        </item>
+        <item>
+            <id>1023492105983</id>
+            <categoryId>28</categoryId>
+            <code>1023492105983</code>
+            <barcode>8203 30 00 00</barcode>
+            <vendor>Fiskars</vendor>
+            <name>Граблі великі для листя М помаранчеві+Мультитул Lockdown Slim,16L,BOX</name>
+            <description><![CDATA[<p><strong>Набір Fiskars + Gerber: граблі великі для листя M помаранчеві + мультитул Lockdown Slim (штрихкод 1</strong>6411501350282<strong>)</strong>&nbsp;&mdash; практичне поєднання садового інструменту та компактного багатофункціонального мультитула для роботи в саду, вдома, на дачі та під час виїздів на природу.</p>
+
+<p><strong>Опис набору</strong></p>
+
+<p>Набір поєднує великі віялові граблі Fiskars M та мультитул Gerber Lockdown Slim. Граблі призначені для швидкого прибирання опалого листя, скошеної трави та легкого садового сміття, а мультитул допомагає виконувати різноманітні побутові, технічні та польові задачі. Разом інструменти створюють універсальний комплект для господарських потреб.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492/"><strong>Граблі великі для листя Fiskars M помаранчеві</strong></a></p>
+
+<p>Великі віялові граблі Fiskars призначені для прибирання листя, трави, гілочок та іншого легкого органічного сміття. Широка робоча частина дозволяє охоплювати значну площу за один прохід, тому інструмент зручний для догляду за газонами, клумбами, садовими ділянками та іншими відкритими поверхнями.</p>
+
+<p>Граблі оснащені 25 зубцями та алюмінієвим держаком довжиною 1750 мм. Робоча частина виготовлена з пластику, а легка конструкція вагою 565 г забезпечує комфортне використання під час тривалої роботи.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/multytul-gerber-lockdown-slim16lbox-1059836/"><strong>Мультитул Gerber Lockdown Slim, 16L, BOX</strong></a></p>
+
+<p>Gerber Lockdown Slim &mdash; компактний багатофункціональний інструмент для побутових, технічних і польових завдань. Складана конструкція дозволяє зручно зберігати та транспортувати мультитул, а кілька функціональних елементів допомагають обходитися без окремого набору інструментів.</p>
+
+<p>Клинок виготовлений із нержавіючої сталі, рукоятка &mdash; з анодованого алюмінію. Вага мультитула становить 110 г, що робить його зручним для щоденного носіння.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<ul data-spread="false">
+	<li>Граблі великі для листя Fiskars M помаранчеві &mdash; 1 шт.</li>
+	<li>Мультитул Gerber Lockdown Slim, 16L, BOX &mdash; 1 шт.</li>
+</ul>
+
+<p><strong>Застосування</strong></p>
+
+<ol data-spread="false" start="1">
+	<li>Збирання опалого листя та скошеної трави.</li>
+	<li>Прибирання садової ділянки та газону.</li>
+	<li>Очищення території від легкого рослинного сміття.</li>
+	<li>Виконання дрібних побутових і технічних робіт.</li>
+	<li>Використання вдома, на дачі, у саду та під час відпочинку на природі.</li>
+</ol>]]></description>
+            <url>https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox/</url>
+            <image>https://fiskars-gratis.com.ua/content/images/7/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox-38644895204824_+40910d1970.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/7/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox-73497500431164_+94fe2d25cb.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/7/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox-61973118586256_+ef7f1d8c89.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/7/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox-41468766158985_+a1f448cc68.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/7/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox-80247619507473_+548e39e81f.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/7/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox-59773648676706_+2fb1d4a363.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/7/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox-18670644062765_+637154204d.png</image>
+            <priceRUAH>999</priceRUAH>
+            <stock>Немає в наявності</stock>
+            <param name="Артикул">1023492105983</param>
+            <param name="Бренд">Fiskars</param>
+            <param name="Оригінальність">Оригінал</param>
+            <param name="Стан товару">Новий</param>
+            <param name="Штрихкод">8203 30 00 00</param>
+            <param name="Код УКТ ЗЕД">6411501350282</param>
+            <param name="Категорія Хорошоп">Акції</param>
+            <condition>0</condition>
+        </item>
+        <item>
+            <id>1071929105983</id>
+            <categoryId>28</categoryId>
+            <code>1071929105983</code>
+            <barcode>8201 10 00 00</barcode>
+            <vendor>Fiskars</vendor>
+            <name>Лопата садова класична фіскарс FSC+Мультитул Lockdown Slim,16L,BOX</name>
+            <description><![CDATA[<p><strong>Набір Fiskars + Gerber: лопата садова класична Fiskars FSC + мультитул Lockdown Slim, 16L, BOX(штрихкод </strong>6411501600547<strong>)</strong>&nbsp;&mdash; практичне поєднання садового інструмента та компактного мультитула для роботи в саду, на дачі, вдома та під час відпочинку на природі.</p>
+
+<p><strong>Опис набору</strong></p>
+
+<p>Набір поєднує класичну садову лопату Fiskars FSC та багатофункціональний мультитул Gerber Lockdown Slim. Лопата призначена для роботи з ґрунтом, перекопування, підготовки посадкових ям і догляду за рослинами. Мультитул допомагає виконувати дрібні побутові, технічні та господарські задачі. Разом вони створюють практичний комплект для різноманітних робіт.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/lopata-sadova-klasychna-fiskars-fsc-1071929/"><strong>Лопата садова класична Fiskars FSC</strong></a></p>
+
+<p>Класична садова лопата Fiskars призначена для роботи з ґрунтом та виконання основних садових задач. Міцне полотно підходить для перекопування землі, підготовки ґрунту, викопування посадкових ям та інших робіт на присадибній ділянці. Ергономічна конструкція забезпечує зручність під час роботи та дозволяє ефективно використовувати інструмент у саду й на дачі.</p>
+
+<p><strong><a href="https://fiskars-gratis.com.ua/multytul-gerber-lockdown-slim16lbox-1059836/">Мультитул Gerber Lockdown Slim, 16L, BOX</a></strong></p>
+
+<p>Gerber Lockdown Slim &mdash; компактний мультитул, який поєднує декілька функціональних інструментів в одному корпусі. Завдяки складаній конструкції його зручно зберігати та носити із собою. Мультитул стане у пригоді під час дрібного ремонту, побутових і технічних робіт, а також у поїздках та на природі.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<ul data-spread="false">
+	<li>Лопата садова класична Fiskars FSC &mdash; 1 шт.</li>
+	<li>Мультитул Gerber Lockdown Slim, 16L, BOX &mdash; 1 шт.</li>
+</ul>
+
+<p><strong>Застосування</strong></p>
+
+<ol data-spread="false" start="1">
+	<li>Перекопування та розпушування ґрунту.</li>
+	<li>Підготовка землі до посадки рослин.</li>
+	<li>Викопування посадкових ям.</li>
+	<li>Виконання дрібних побутових і технічних робіт.</li>
+	<li>Використання в саду, на дачі, вдома та під час поїздок.</li>
+</ol>]]></description>
+            <url>https://fiskars-gratis.com.ua/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox/</url>
+            <image>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-59312000672501_+3698519bd7.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-85208754697884_+37b6739466.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-64050499684131_+ecaa6b7a48.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-80238380470812_+8a44bd02d7.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-19865136130160_+087ffc686f.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-98375671659086_+cdf55518bc.png</image>
+            <priceRUAH>999</priceRUAH>
+            <stock>Немає в наявності</stock>
+            <param name="Артикул">1071929105983</param>
+            <param name="Бренд">Fiskars</param>
+            <param name="Оригінальність">Оригінал</param>
+            <param name="Стан товару">Новий</param>
+            <param name="Штрихкод">8201 10 00 00</param>
+            <param name="Код УКТ ЗЕД">6411501600547</param>
+            <param name="Категорія Хорошоп">Акції</param>
             <condition>0</condition>
         </item>
         <item>
