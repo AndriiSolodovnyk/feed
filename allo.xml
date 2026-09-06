@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-05 23:34</date>
+    <date>2026-09-06 03:08</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -6176,7 +6176,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-12696129623489_+b89b029279.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-70074195178608_+947c0e580f.png</image>
             <priceRUAH>499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1000555</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -8744,7 +8744,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/28/nabir-hrabli-dlia-lystia-fiskars-ergonomic-xl-universalni-hrabli-fiskars-solid-18191009642298_+48e2b218d9.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/28/nabir-hrabli-dlia-lystia-fiskars-ergonomic-xl-universalni-hrabli-fiskars-solid-44799749590344_+1ea050917c.png</image>
             <priceRUAH>1849</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1000660100346</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -9388,6 +9388,43 @@
             <param name="Стан товару">Новий</param>
             <param name="Гарантійний строк, міс.">300</param>
             <param name="Категорія Хорошоп">Акції</param>
+            <condition>0</condition>
+        </item>
+        <item>
+            <id>1027212</id>
+            <categoryId>27</categoryId>
+            <code>1027212</code>
+            <barcode>6411501701305</barcode>
+            <vendor>Fiskars</vendor>
+            <name>Ножиці для металу з коротким лезом PowerGear</name>
+            <description><![CDATA[<p data-end="322" data-start="20"><strong data-end="86" data-start="20">Ножиці для металу Fiskars PowerGear з коротким лезом (1027212)</strong>&nbsp;&mdash; міцний ручний інструмент для точного різання металевих листів та інших тонких металевих матеріалів. Коротке лезо забезпечує кращий контроль під час роботи, а конструкція PowerGear допомагає зменшити необхідне зусилля під час різання.</p>
+
+<p data-end="556" data-start="324"><strong data-end="340" data-start="324">Призначення:</strong>&nbsp;підходять для різання тонкого листового металу, металевих профілів та інших матеріалів, які потребують точного й контрольованого різання. Можуть використовуватися під час монтажних, ремонтних та господарських робіт.</p>
+
+<p data-end="796" data-start="558"><strong data-end="574" data-start="558">Конструкція:</strong>&nbsp;короткі ріжучі леза забезпечують точність і контроль під час різання. Механізм PowerGear оптимізує передачу зусилля, допомагаючи зменшити навантаження на руку. Ергономічні ручки забезпечують надійне утримання інструмента.</p>
+
+<p data-end="964" data-start="798"><strong data-end="812" data-start="798">Матеріали:</strong>&nbsp;ріжучі елементи виготовлені з міцної сталі, стійкої до зношування. Ручки виконані з міцного матеріалу та мають ергономічну форму для комфортної роботи.</p>
+
+<p data-end="1209" data-start="966"><strong data-end="982" data-start="966">Особливості:</strong>&nbsp;коротке лезо забезпечує точний контроль лінії різу. Технологія PowerGear сприяє ефективнішій передачі зусилля та полегшує роботу з металом. Інструмент підходить для регулярного використання під час ремонтних і монтажних робіт.</p>
+
+<p data-end="1289" data-start="1211"><strong data-end="1228" data-start="1211">Комплектація:</strong>&nbsp;ножиці для металу Fiskars PowerGear з коротким лезом &mdash; 1 шт</p>]]></description>
+            <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear/</url>
+            <image>https://fiskars-gratis.com.ua/content/images/14/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear-69377146487899_+c7b60afc60.jpg</image>
+            <image>https://fiskars-gratis.com.ua/content/images/14/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear-15054524274374_+a361d8a33b.jpg</image>
+            <image>https://fiskars-gratis.com.ua/content/images/14/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear-59075632773303_+01f07448dd.jpg</image>
+            <image>https://fiskars-gratis.com.ua/content/images/14/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear-56657637768875_+fba0d2ed6c.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/14/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear-34743926839796_+e005ffab41.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/14/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear-85707600752185_+cf843ac702.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/14/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear-90849708156931_+028f36cada.png</image>
+            <priceRUAH>1599</priceRUAH>
+            <stock>В наявності</stock>
+            <param name="Артикул">1027212</param>
+            <param name="Бренд">Fiskars</param>
+            <param name="Оригінальність">Оригінал</param>
+            <param name="Стан товару">Новий</param>
+            <param name="Штрихкод">6411501701305</param>
+            <param name="Код УКТ ЗЕД">8203 30 00 00</param>
+            <param name="Категорія Хорошоп">FISKARS / Садовий інвентар Fiskars / Інструменти для дому</param>
             <condition>0</condition>
         </item>
         <item>
