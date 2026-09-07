@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-07 00:42">
+<yml_catalog date="2026-09-07 05:42">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -2913,7 +2913,7 @@
       <offer id="1059841" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-gerber-downwind-caper-siryi-1059841/</url>
         <price>1999</price>
-        <stock_quantity>363</stock_quantity>
+        <stock_quantity>362</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1014</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/nizh-gerber-downwind-caper-siryi-1059841-50619684979548_+8787d257c1.jpg</picture>
