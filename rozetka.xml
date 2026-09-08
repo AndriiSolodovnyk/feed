@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-07T23:17:10.344Z">
+<yml_catalog date="2026-09-08T01:17:31.611Z">
   <shop>
     <categories>
       <category id="1">Коренева група</category>
@@ -89,7 +89,7 @@
 <p data-end="1095" data-is-last-node="" data-is-only-node="" data-start="908"><span style="font-size:18px;"><strong data-end="924" data-start="908">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії M бренду Fiskars та призначений для систематичного розколювання деревини в побутових і напівпрофесійних умовах.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="1015643" available="false">
         <name><![CDATA[Сокира-колун Fiskars X25 XL (1015643)]]></name>
@@ -254,7 +254,7 @@
 
 <p data-end="1178" data-is-last-node="" data-is-only-node="" data-start="1022"><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;топор та колун&nbsp;Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
-        <stock_quantity>902</stock_quantity>
+        <stock_quantity>895</stock_quantity>
       </offer>
       <offer id="1075437" available="false">
         <name><![CDATA[Набір сокира універсальна Fiskars Х13 + точило 1075437]]></name>
@@ -308,7 +308,7 @@
 
 <p>Особливості: належить до серії Norden бренду Fiskars, ідеально підходить як подарунковий набір.</p>
 ]]></description>
-        <stock_quantity>193</stock_quantity>
+        <stock_quantity>192</stock_quantity>
       </offer>
       <offer id="1075438" available="true">
         <name><![CDATA[Сокира Fiskars Norden 375, ювілейне видання]]></name>
@@ -511,7 +511,7 @@
 
 <p data-end="1074" data-is-last-node="" data-is-only-node="" data-start="900"><span style="font-size:18px;"><strong data-end="916" data-start="900">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного садового догляду за деревними насадженнями.</span></p>
 ]]></description>
-        <stock_quantity>1013</stock_quantity>
+        <stock_quantity>826</stock_quantity>
       </offer>
       <offer id="1028375" available="true">
         <name><![CDATA[Пила садова ручна Fiskars SW47 (1028375)]]></name>
@@ -593,7 +593,7 @@
       </offer>
       <offer id="1066715" available="false">
         <name><![CDATA[Лопата туристична Fiskars Solid Metal (1066715)]]></name>
-        <price>1199</price>
+        <price>1299</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-92481688276251_+1dd47097eb.jpg</picture>
@@ -615,9 +615,9 @@
 ]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="1066716" available="true">
+      <offer id="1066716" available="false">
         <name><![CDATA[Лопата штикова Fiskars Solid (1066716)]]></name>
-        <price>1299</price>
+        <price>1399</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-30193213527913_+c5a51c1118.jpg</picture>
@@ -639,7 +639,7 @@
 
 <p data-end="987" data-is-last-node="" data-is-only-node="" data-start="824"><span style="font-size:18px;"><strong data-end="840" data-start="824">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для повсякденних земляних робіт у побутових умовах.</span></p>
 ]]></description>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1067540" available="true">
         <name><![CDATA[Лопата мала Fiskars White S (1067540)]]></name>
@@ -669,7 +669,7 @@
       </offer>
       <offer id="1014776" available="true">
         <name><![CDATA[Лопата загострена Fiskars ClassicPro червона FSC (1014776)]]></name>
-        <price>1600</price>
+        <price>1499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/lopata-zahostrena-fiskars-classicpro-chervona-fsc-1014776-62107306863773_+98e9bf6697.jpeg</picture>
@@ -845,7 +845,7 @@
 
 <p data-end="1175" data-is-last-node="" data-is-only-node="" data-start="958"><span style="font-size:14px;"><strong data-end="974" data-start="958">Особливості:</strong> модель належить до серії Ergonomic Pro бренду Fiskars та призначена для регулярних будівельних і господарських робіт, де потрібне ефективне переміщення сипких матеріалів</span></p>
 ]]></description>
-        <stock_quantity>36</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1066724" available="true">
         <name><![CDATA[Лопата совкова з дерев'яною ручкою Fiskars Solid (1066724)]]></name>
@@ -1232,7 +1232,7 @@
 
 <p data-end="1399" data-start="1339"><strong data-end="1356" data-start="1339">Комплектація:</strong>&nbsp;лопата совкова Fiskars Classic FSC &mdash; 1 шт.</p>
 ]]></description>
-        <stock_quantity>99</stock_quantity>
+        <stock_quantity>100</stock_quantity>
       </offer>
       <offer id="1070715" available="true">
         <name><![CDATA[Вила садові Fiskars White (1070715)]]></name>
@@ -1618,7 +1618,7 @@
 <p data-end="1313" data-is-last-node="" data-is-only-node="" data-start="1114"><span style="font-size:18px;"><strong data-end="1130" data-start="1114">Особливості:</strong></span><span style="font-size:14px;"> комплект належить до серії бренду Fiskars та призначений для дрібних садових і городніх робіт, де потрібен контроль над ґрунтом і доглядом за рослинами.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>35</stock_quantity>
+        <stock_quantity>36</stock_quantity>
       </offer>
       <offer id="1025564" available="true">
         <name><![CDATA[Лопатка для пересадки Fiskars Solid (1025564)]]></name>
@@ -1690,7 +1690,7 @@
 
 <p data-end="1188" data-is-last-node="" data-is-only-node="" data-start="1012"><span style="font-size:18px;"><strong data-end="1028" data-start="1012">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом у домашніх садових умовах.</span></p>
 ]]></description>
-        <stock_quantity>36</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="1027034" available="true">
         <name><![CDATA[Вилка для посадки Fiskars White (1027034)]]></name>
@@ -1714,7 +1714,7 @@
 
 <p data-end="1156" data-is-last-node="" data-is-only-node="" data-start="983"><span style="font-size:18px;"><strong data-end="999" data-start="983">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за ґрунтом і посадковими роботами.</span></p>
 ]]></description>
-        <stock_quantity>1018</stock_quantity>
+        <stock_quantity>1019</stock_quantity>
       </offer>
       <offer id="1025567" available="true">
         <name><![CDATA[Сапка Fiskars Solid Planter (1025567)]]></name>
@@ -1969,7 +1969,7 @@
 
 <p data-end="1062" data-start="995"><strong data-end="1012" data-start="995">Комплектація:</strong>&nbsp;інструмент для видалення бур&#39;янів Fiskars &mdash; 1 шт.</p>
 ]]></description>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
       </offer>
       <offer id="1001530" available="false">
         <name><![CDATA[Секатор професійний Fiskars Pro P90 (1001530)]]></name>
@@ -2024,7 +2024,7 @@
 <p data-end="971" data-is-last-node="" data-is-only-node="" data-start="819"><span style="font-size:18px;"><strong data-end="835" data-start="819">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>104</stock_quantity>
+        <stock_quantity>100</stock_quantity>
       </offer>
       <offer id="1057162" available="true">
         <name><![CDATA[Секатор площинний Fiskars Solid M P321 (1057162)]]></name>
@@ -2073,9 +2073,9 @@
 
 <p data-end="1007" data-is-last-node="" data-is-only-node="" data-start="852"><span style="font-size:18px;"><strong data-end="868" data-start="852">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії SmartFit бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 ]]></description>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>11</stock_quantity>
       </offer>
-      <offer id="1000567" available="true">
+      <offer id="1000567" available="false">
         <name><![CDATA[Секатор площинний Fiskars SingleStep P26 (1000567)]]></name>
         <price>599</price>
         <categoryId>1</categoryId>
@@ -2098,7 +2098,7 @@
 
 <p data-end="997" data-is-last-node="" data-is-only-node="" data-start="840"><span style="font-size:18px;"><strong data-end="856" data-start="840">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії SingleStep бренду Fiskars та призначений для систематичного догляду за рослинами.</span></p>
 ]]></description>
-        <stock_quantity>13</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1024711" available="true">
         <name><![CDATA[Секатор Fiskars SoftGrip M (1024711)]]></name>
@@ -2255,7 +2255,7 @@
 
 <p data-end="1241" data-is-last-node="" data-is-only-node="" data-start="1058"><span style="font-size:18px;"><strong data-end="1074" data-start="1058">Особливості:</strong></span><span style="font-size:14px;"> інструмент вироблений брендом Fiskars та призначений для регулярного збору листя й рослинних відходів на присадибних ділянках і газонах.</span></p>
 ]]></description>
-        <stock_quantity>396</stock_quantity>
+        <stock_quantity>306</stock_quantity>
       </offer>
       <offer id="1024720" available="true">
         <name><![CDATA[Граблі Fiskars Solid (1024720)]]></name>
@@ -2421,7 +2421,7 @@
 
 <p data-end="1448" data-start="1152"><span style="font-size:18px;"><strong data-end="1168" data-start="1152">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars, має вагу близько <strong data-end="1276" data-start="1267">600 г</strong> і призначений для універсального сезонного використання у садових роботах. Передбачена петля для підвішування та зручного зберігання.</span></p>
 ]]></description>
-        <stock_quantity>419</stock_quantity>
+        <stock_quantity>410</stock_quantity>
       </offer>
       <offer id="1001584" available="true">
         <name><![CDATA[Граблі класичні для листя Fiskars XL FSC (1001584)]]></name>
@@ -4136,7 +4136,7 @@
 
 <p data-end="1122" data-start="1061"><strong data-end="1078" data-start="1061">Комплектація:</strong>&nbsp;ножиці садові Fiskars Classic 25 см &mdash; 1 шт.</p>
 ]]></description>
-        <stock_quantity>186</stock_quantity>
+        <stock_quantity>193</stock_quantity>
       </offer>
       <offer id="1026826" available="true">
         <name><![CDATA[Ножиці для трави Solid GS21 (1026826)]]></name>
@@ -4162,7 +4162,7 @@
 
 <p data-end="1137" data-is-last-node="" data-is-only-node="" data-start="918"><span style="font-size:18px;"><strong data-end="934" data-start="918">Особливості:</strong></span><span style="font-size:14px;"> модель входить до серії Solid бренду Fiskars та призначена для регулярного догляду за газонами й декоративними насадженнями, де потрібна висока точність підстригання трави.</span></p>
 ]]></description>
-        <stock_quantity>29</stock_quantity>
+        <stock_quantity>28</stock_quantity>
       </offer>
       <offer id="1062546" available="true">
         <name><![CDATA[Ножиці для хоббі 13см]]></name>
@@ -4892,6 +4892,26 @@
 <p data-end="1360" data-start="1298"><strong data-end="1315" data-start="1298">Комплектація:</strong>&nbsp;ножиці Fiskars Functional Form 21 см &mdash; 1 шт.</p>
 ]]></description>
         <stock_quantity>4</stock_quantity>
+      </offer>
+      <offer id="1000956" available="true">
+        <name><![CDATA[Ножиці для живоплоту PowerGear HS72]]></name>
+        <price>3199</price>
+        <categoryId>1</categoryId>
+        <currencyId>UAH</currencyId>
+        <picture>https://fiskars-gratis.com.ua/content/images/50/nozhytsi-dlia-zhyvoplotu-powergear-hs72-77888120373288_+8d6488b094.png</picture>
+        <description><![CDATA[<p><strong>Ножиці для живоплоту Fiskars PowerGear HS72 57 см </strong>&mdash; практичний садовий інструмент для формування та догляду за живоплотом, кущами й декоративними рослинами. Гострі леза забезпечують чистий зріз, а технологія PowerGear&trade; допомагає зменшити зусилля під час роботи з гілками.</p>
+
+<p><strong>Призначення:</strong>&nbsp;підходять для підстригання живоплоту, формування кущів та обрізання молодих пагонів. Зручні для регулярного догляду за декоративними рослинами та підтримання їхньої форми.</p>
+
+<p><strong>Конструкція:</strong>&nbsp;ножиці оснащені довгими лезами для швидкого охоплення більшої площі під час підстригання. Механізм PowerGear&trade; оптимізує передачу зусилля та полегшує зріз. Ергономічні рукоятки забезпечують комфортне утримання та контроль інструмента під час роботи.</p>
+
+<p><strong>Матеріали:</strong>&nbsp;леза виготовлені з якісної загартованої сталі, стійкої до регулярного використання. Рукоятки виконані з міцного легкого матеріалу, що допомагає зменшити навантаження на руки.</p>
+
+<p><strong>Особливості:</strong>&nbsp;ножиці належать до серії PowerGear&trade; та призначені для ефективного підстригання живоплоту. Довжина інструмента &mdash; 57 см. Спеціальна конструкція механізму забезпечує додаткову потужність під час різання та допомагає працювати з меншими зусиллями.</p>
+
+<p><strong>Комплектація:</strong>&nbsp;ножиці для живоплоту Fiskars PowerGear HS72 &mdash; 1 шт.</p>
+]]></description>
+        <stock_quantity>133</stock_quantity>
       </offer>
       <offer id="1061193" available="true">
         <name><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></name>
@@ -6013,7 +6033,7 @@
 
 <p><span style="font-size:16px;">Набір Gerber &mdash; це практичне рішення для тих, хто хоче мати під рукою інструменти для роботи та відпочинку на природі в одному комплекті. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>8</stock_quantity>
       </offer>
       <offer id="1014773105108" available="true">
         <name><![CDATA[Набір Лопата садова штикова Fiskars Classic FSC+ Сокира теслярська Fiskars Solid A10]]></name>
@@ -6563,7 +6583,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для точного догляду за рослинами та газоном в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>59</stock_quantity>
+        <stock_quantity>57</stock_quantity>
       </offer>
       <offer id="1026680102691" available="true">
         <name><![CDATA[Набір Fiskars: Котушка зі шлангом Waterwheel S+ Ножиці для трави White GS41]]></name>
@@ -6647,7 +6667,7 @@
 ]]></description>
         <stock_quantity>47</stock_quantity>
       </offer>
-      <offer id="1000660100346" available="false">
+      <offer id="1000660100346" available="true">
         <name><![CDATA[Набір Граблі для листя Fiskars Ergonomic XL+ Універсальні граблі Fiskars Solid]]></name>
         <price>1849</price>
         <categoryId>156333769</categoryId>
@@ -6705,7 +6725,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує інструменти для ефективного прибирання листя та догляду за ділянкою в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
       </offer>
       <offer id="1070715101477" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White +Лопата садова штикова Fiskars Classic FSC]]></name>
@@ -6766,7 +6786,7 @@
 
 <p data-end="2027" data-is-last-node="" data-is-only-node="" data-start="1840"><span style="font-size:16px;">Набір Fiskars поєднує інструменти для обробки ґрунту та догляду за ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>30</stock_quantity>
+        <stock_quantity>29</stock_quantity>
       </offer>
       <offer id="1023492101477" available="true">
         <name><![CDATA[Набір Fiskars: Граблі великі для листя М помаранчеві + Лопата садова штикова Classic FSC]]></name>
@@ -6971,7 +6991,7 @@
 	<li><span style="font-size:16px;">У комплекті&nbsp;<strong>20 змінних лез</strong></span></li>
 </ul>
 ]]></description>
-        <stock_quantity>157</stock_quantity>
+        <stock_quantity>151</stock_quantity>
       </offer>
       <offer id="1000665" available="true">
         <name><![CDATA[Тримач телескопічний QuikFit L]]></name>
@@ -7103,7 +7123,7 @@
 	<li data-end="1212" data-section-id="1hfc0xk" data-start="1174"><span style="font-size:16px;">Ідеальний для посадки та пересадки</span></li>
 </ul>
 ]]></description>
-        <stock_quantity>534</stock_quantity>
+        <stock_quantity>533</stock_quantity>
       </offer>
       <offer id="1023540" available="true">
         <name><![CDATA[Кувалда 5кг Fiskars]]></name>
@@ -7332,7 +7352,7 @@
 
 <p data-end="941" data-start="891"><strong data-end="908" data-start="891">Комплектація:</strong>&nbsp;щітка Fiskars Ergo Broom &mdash; 1 шт.</p>
 ]]></description>
-        <stock_quantity>209</stock_quantity>
+        <stock_quantity>214</stock_quantity>
       </offer>
       <offer id="1066727105108" available="false">
         <name><![CDATA[Лопата совкова Фіскарс PRIMA чорна FSC+Сокира теслярська Solid A10]]></name>
@@ -7591,15 +7611,133 @@
         <price>1499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Граблі великі для листя М помаранчеві+Граблі універсальн садові Solid+Пилка садова ручна Solid SW 16 ТМ Fiskars]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-33512893616603_+51463e480d.png</picture>
+        <description><![CDATA[<p><strong>Граблі великі для листя М помаранчеві+Граблі універсальн садові Solid+Пилка садова ручна Solid SW 16 ТМ Fiskars&nbsp;</strong>- <strong>Набір Fiskars</strong>&nbsp;для комплексного догляду за садом і ділянкою. Практичне рішення для прибирання листя, роботи з ґрунтом та обрізання деревини.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір включає великі граблі для листя M, універсальні садові граблі Solid та садову ручну пилку Solid SW 16. Граблі допомагають підтримувати порядок на ділянці та працювати з ґрунтом, а пилка призначена для обрізання гілок і роботи з деревиною. Інструменти доповнюють один одного та підходять для регулярного догляду за садом.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає три практичні інструменти для різних садових завдань.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492/"><strong>Граблі великі для листя Fiskars M</strong></a></p>
+
+<p>Великі граблі для збирання опалого листя, трави та садового сміття. Широка робоча частина дозволяє швидко очищати газон і ділянку від рослинних залишків.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/universalni-hrabli-fiskars-solid-1003466/"><strong>Граблі універсальні садові Fiskars Solid</strong></a></p>
+
+<p>Універсальні граблі для розпушування та вирівнювання ґрунту, підготовки грядок і виконання інших садових робіт. Підходять для регулярного використання на ділянці.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376/"><strong>Пилка садова ручна Fiskars Solid SW 16</strong></a></p>
+
+<p>Компактна ручна пилка для обрізання гілок та роботи з деревиною. Зручна для садових робіт, коли потрібен точний і контрольований різ.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання основних робіт із догляду за садом.</p>
+
+<ol>
+	<li>
+	<p>Збирання листя, трави та садового сміття.</p>
+	</li>
+	<li>
+	<p>Розпушування та вирівнювання ґрунту.</p>
+	</li>
+	<li>
+	<p>Підготовка грядок і догляд за ділянкою.</p>
+	</li>
+	<li>
+	<p>Обрізання гілок та робота з деревиною.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Три практичні інструменти для комплексного догляду за садом.</p>
+	</li>
+	<li>
+	<p>Підходить для газону, городу та садової ділянки.</p>
+	</li>
+	<li>
+	<p>Великі граблі зручні для прибирання значних площ.</p>
+	</li>
+	<li>
+	<p>Універсальні граблі допомагають працювати з ґрунтом.</p>
+	</li>
+	<li>
+	<p>Ручна пилка підходить для обрізання гілок і деревини.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1023492107192" available="false">
-        <name><![CDATA[Граблі великі для листя М помаранчеві+Лопата садова класична фіскарс FSC]]></name>
+        <name><![CDATA[Граблі великі для листя М помаранчеві+Лопата садова класична Fiskars FSC]]></name>
         <price>1499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Граблі великі для листя М помаранчеві+Лопата садова класична фіскарс FSC]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-17906357745877_+5cfd9f63c4.png</picture>
+        <description><![CDATA[<p><strong>Граблі великі для листя М помаранчеві+Лопата садова класична Fiskars FSC - н</strong><strong>абір Fiskars</strong>&nbsp;для догляду за садом та підтримання порядку на ділянці. Практичне рішення для прибирання листя, роботи з ґрунтом і виконання основних садових завдань.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір включає великі граблі для листя M та класичну садову лопату Fiskars FSC. Граблі призначені для збирання листя, трави та садового сміття, а лопата &mdash; для перекопування ґрунту, посадки рослин та інших робіт на ділянці. Інструменти доповнюють один одного та підходять для регулярного догляду за садом.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для виконання різних садових робіт.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492/"><strong>Граблі великі для листя Fiskars M</strong></a></p>
+
+<p>Великі граблі для збирання опалого листя, трави та іншого садового сміття. Широка робоча частина дозволяє швидко очищати газон і ділянку від рослинних залишків.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/lopata-sadova-klasychna-fiskars-fsc-1071929/"><strong>Лопата садова класична Fiskars FSC</strong></a></p>
+
+<p>Класична садова лопата для перекопування та підготовки ґрунту, посадки рослин і виконання інших робіт на ділянці. Підходить для регулярного використання в саду та на городі.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання основних садових робіт.</p>
+
+<ol>
+	<li>
+	<p>Збирання листя, трави та садового сміття.</p>
+	</li>
+	<li>
+	<p>Очищення газону та садової ділянки.</p>
+	</li>
+	<li>
+	<p>Перекопування та підготовка ґрунту.</p>
+	</li>
+	<li>
+	<p>Посадка рослин і догляд за грядками.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання граблів і садової лопати.</p>
+	</li>
+	<li>
+	<p>Підходить для саду, городу та дачної ділянки.</p>
+	</li>
+	<li>
+	<p>Широкі граблі дозволяють швидко прибирати листя.</p>
+	</li>
+	<li>
+	<p>Лопата підходить для різноманітних робіт із ґрунтом.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для регулярного догляду за ділянкою.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1023492105204" available="false">
@@ -7607,7 +7745,66 @@
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Граблі великі для листя М помаранчеві+Сокира-колун Solid A18]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-68825027967585_+02c668ef12.png</picture>
+        <description><![CDATA[<p><strong>Граблі великі для листя М помаранчеві+Сокира-колун Solid A18 -&nbsp;</strong></p>
+
+<p><strong>Набір Fiskars</strong>&nbsp;для догляду за садом та роботи з деревиною. Практичне рішення для прибирання ділянки, заготівлі дров і виконання основних господарських завдань.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір включає великі граблі для листя M та сокиру-колун Solid A18. Граблі призначені для збирання листя, трави та садового сміття, а сокира &mdash; для розколювання деревини та заготівлі дров. Інструменти доповнюють один одного та підходять для використання в саду, на дачі й біля приватного будинку.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для різних видів садових і господарських робіт.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492/"><strong>Граблі великі для листя Fiskars M</strong></a></p>
+
+<p>Великі граблі для збирання опалого листя, трави та іншого садового сміття. Широка робоча частина допомагає швидко очищати газон і ділянку від рослинних залишків.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/"><strong>Сокира-колун Fiskars Solid A18</strong></a></p>
+
+<p>Сокира-колун для розколювання колод і полін та заготівлі дров. Спеціальна форма леза допомагає ефективно розділяти деревину, а міцна конструкція підходить для регулярного використання.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання садових і господарських робіт.</p>
+
+<ol>
+	<li>
+	<p>Збирання листя, трави та садового сміття.</p>
+	</li>
+	<li>
+	<p>Очищення газону та садової ділянки.</p>
+	</li>
+	<li>
+	<p>Розколювання деревини та заготівля дров.</p>
+	</li>
+	<li>
+	<p>Робота з колодами та полінами.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання граблів і сокири-колуна.</p>
+	</li>
+	<li>
+	<p>Підходить для саду, дачі та приватної ділянки.</p>
+	</li>
+	<li>
+	<p>Широкі граблі дозволяють швидко прибирати листя.</p>
+	</li>
+	<li>
+	<p>Сокира ефективна для розколювання деревини.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для садових і господарських завдань.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1000956102349" available="false">
@@ -7615,15 +7812,129 @@
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Ножиці для живоплоту PowerGear HS72+Граблі великі для листя М помаранчеві]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/2/nozhytsi-dlia-zhyvoplotu-powergear-hs72hrabli-velyki-dlia-lystia-m-pomaranchevi-71927945272579_+70a99d069f.png</picture>
+        <description><![CDATA[<p><strong>Ножиці для живоплоту PowerGear HS72+Граблі великі для листя М помаранчеві- н</strong><strong>абір Fiskars</strong>&nbsp;для догляду за живоплотом, кущами та садовою ділянкою. Практичне рішення для підрізання рослин і прибирання листя та садового сміття.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір включає ножиці для живоплоту PowerGear HS72 та великі граблі для листя M. Ножиці призначені для підрізання живоплоту й формування кущів, а граблі &mdash; для збирання опалого листя, трави та іншого садового сміття. Інструменти доповнюють один одного та підходять для регулярного догляду за ділянкою.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для догляду за рослинами та підтримання порядку в саду.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/nozhytsi-dlia-zhyvoplotu-powergear-hs72/"><strong>Ножиці для живоплоту Fiskars PowerGear HS72</strong></a></p>
+
+<p>Ножиці для підрізання живоплоту та формування кущів. Підходять для регулярного догляду за декоративними рослинами та допомагають підтримувати акуратну форму живоплоту.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492/"><strong>Граблі великі для листя Fiskars M</strong></a></p>
+
+<p>Великі граблі для збирання опалого листя, трави та садового сміття. Широка робоча частина дозволяє швидко очищати газон і ділянку від рослинних залишків.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання основних робіт із догляду за садом.</p>
+
+<ol>
+	<li>
+	<p>Підрізання та формування живоплоту.</p>
+	</li>
+	<li>
+	<p>Догляд за кущами та декоративними рослинами.</p>
+	</li>
+	<li>
+	<p>Збирання опалого листя та трави.</p>
+	</li>
+	<li>
+	<p>Очищення газону та садової ділянки.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання ножиць для живоплоту та граблів.</p>
+	</li>
+	<li>
+	<p>Підходить для регулярного догляду за садом.</p>
+	</li>
+	<li>
+	<p>Ножиці допомагають підтримувати акуратну форму кущів і живоплоту.</p>
+	</li>
+	<li>
+	<p>Широкі граблі зручні для прибирання значних площ.</p>
+	</li>
+	<li>
+	<p>Два необхідні інструменти в одному наборі.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1000956107192" available="false">
-        <name><![CDATA[Ножиці для живоплоту PowerGear HS72+Лопата садова класична фіскарс FSC]]></name>
+        <name><![CDATA[Ножиці для живоплоту PowerGear HS72+Лопата садова класична Fiskars FSC]]></name>
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Ножиці для живоплоту PowerGear HS72+Лопата садова класична фіскарс FSC]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/3/nozhytsi-dlia-zhyvoplotu-powergear-hs72lopata-sadova-klasychna-fiskars-fsc-18064225369334_+a2f70f0f11.png</picture>
+        <description><![CDATA[<p><strong>Ножиці для живоплоту PowerGear HS72+Лопата садова класична Fiskars FSC&nbsp;</strong>- н<strong>абір Fiskars</strong>&nbsp;для догляду за садом та виконання основних робіт на ділянці. Практичне рішення для підрізання живоплоту, догляду за кущами та роботи з ґрунтом.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір включає ножиці для живоплоту PowerGear HS72 та класичну садову лопату Fiskars FSC. Ножиці призначені для підрізання живоплоту та формування кущів, а лопата &mdash; для перекопування ґрунту, посадки рослин та інших садових робіт. Інструменти доповнюють один одного та підходять для регулярного догляду за ділянкою.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для догляду за рослинами та роботи з ґрунтом.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/nozhytsi-dlia-zhyvoplotu-powergear-hs72/"><strong>Ножиці для живоплоту Fiskars PowerGear HS72</strong></a></p>
+
+<p>Ножиці призначені для підрізання живоплоту та формування кущів. Підходять для регулярного догляду за декоративними рослинами та допомагають підтримувати їх акуратну форму.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/lopata-sadova-klasychna-fiskars-fsc-1071929/"><strong>Лопата садова класична Fiskars FSC</strong></a></p>
+
+<p>Класична садова лопата для перекопування та підготовки ґрунту, висаджування рослин і виконання інших робіт на ділянці. Підходить для регулярного використання в саду та на городі.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання основних садових робіт.</p>
+
+<ol>
+	<li>
+	<p>Підрізання та формування живоплоту.</p>
+	</li>
+	<li>
+	<p>Догляд за кущами та декоративними рослинами.</p>
+	</li>
+	<li>
+	<p>Перекопування та підготовка ґрунту.</p>
+	</li>
+	<li>
+	<p>Посадка рослин і догляд за ділянкою.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання ножиць для живоплоту та садової лопати.</p>
+	</li>
+	<li>
+	<p>Підходить для саду, городу та дачної ділянки.</p>
+	</li>
+	<li>
+	<p>Ножиці допомагають підтримувати акуратну форму кущів і живоплоту.</p>
+	</li>
+	<li>
+	<p>Лопата підходить для різноманітних робіт із ґрунтом.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для регулярного догляду за ділянкою.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1000956102471" available="false">
@@ -7631,7 +7942,64 @@
         <price>2499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Ножиці для живоплоту PowerGear HS72+Секатор Fiskars SoftGrip M]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/4/nozhytsi-dlia-zhyvoplotu-powergear-hs72sekator-fiskars-softgrip-m-72309225941196_+1c34e34721.png</picture>
+        <description><![CDATA[<p><strong>Ножиці для живоплоту PowerGear HS72+Секатор Fiskars SoftGrip M - н</strong><strong>абір Fiskars</strong>&nbsp;для догляду за живоплотом, кущами та декоративними рослинами. Практичне рішення для підрізання гілок і підтримання охайного вигляду саду.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір включає ножиці для живоплоту PowerGear HS72 та секатор Fiskars SoftGrip M. Ножиці призначені для формування живоплоту й кущів, а секатор &mdash; для точного обрізання окремих гілок. Інструменти доповнюють один одного та підходять для регулярного догляду за садом.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для обрізання та формування рослин.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/nozhytsi-dlia-zhyvoplotu-powergear-hs72/"><strong>Ножиці для живоплоту Fiskars PowerGear HS72</strong></a></p>
+
+<p>Ножиці призначені для підрізання живоплоту та формування кущів. Допомагають підтримувати акуратну форму декоративних рослин і виконувати регулярний догляд за садом.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sekator-fiskars-softgrip-m-1024711/"><strong>Секатор Fiskars SoftGrip M</strong></a></p>
+
+<p>Секатор для точного обрізання гілок і догляду за кущами та іншими садовими рослинами. Зручний для виконання різноманітних робіт, де потрібен акуратний контрольований зріз.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання основних робіт із догляду за рослинами.</p>
+
+<ol>
+	<li>
+	<p>Підрізання та формування живоплоту.</p>
+	</li>
+	<li>
+	<p>Формування кущів і декоративних рослин.</p>
+	</li>
+	<li>
+	<p>Обрізання окремих гілок.</p>
+	</li>
+	<li>
+	<p>Регулярний догляд за садом і ділянкою.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання ножиць для живоплоту та секатора.</p>
+	</li>
+	<li>
+	<p>Підходить для різних видів обрізання рослин.</p>
+	</li>
+	<li>
+	<p>Ножиці зручні для формування великих кущів і живоплоту.</p>
+	</li>
+	<li>
+	<p>Секатор підходить для точного обрізання гілок.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для регулярного догляду за садом.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1000956105108" available="false">
@@ -7639,7 +8007,64 @@
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Ножиці для живоплоту PowerGear HS72+Сокира теслярська SolidA10]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/5/nozhytsi-dlia-zhyvoplotu-powergear-hs72sokyra-tesliarska-solida10-71932673917419_+54180165d6.png</picture>
+        <description><![CDATA[<p><strong>Ножиці для живоплоту PowerGear HS72+Сокира теслярська SolidA10-набір Fiskars</strong>&nbsp;для догляду за садом та роботи з деревиною. Практичне рішення для підрізання живоплоту, кущів і виконання господарських робіт із деревиною.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір включає ножиці для живоплоту PowerGear HS72 та теслярську сокиру Solid A10. Ножиці призначені для підрізання живоплоту та формування кущів, а сокира &mdash; для роботи з деревиною та виконання теслярських і господарських завдань. Інструменти доповнюють один одного та підходять для дому, дачі й саду.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для догляду за рослинами та роботи з деревиною.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/nozhytsi-dlia-zhyvoplotu-powergear-hs72/"><strong>Ножиці для живоплоту Fiskars PowerGear HS72</strong></a></p>
+
+<p>Ножиці призначені для підрізання живоплоту та формування кущів. Допомагають підтримувати акуратну форму декоративних рослин і виконувати регулярний догляд за садом.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира теслярська Fiskars Solid A10</strong></a></p>
+
+<p>Компактна та збалансована сокира для роботи з деревиною. Підходить для теслярських, садових і господарських завдань, де важливі точність та контроль під час роботи.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання садових і господарських робіт.</p>
+
+<ol>
+	<li>
+	<p>Підрізання та формування живоплоту.</p>
+	</li>
+	<li>
+	<p>Догляд за кущами та декоративними рослинами.</p>
+	</li>
+	<li>
+	<p>Робота з деревиною.</p>
+	</li>
+	<li>
+	<p>Виконання теслярських і господарських завдань.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання садових ножиць і сокири.</p>
+	</li>
+	<li>
+	<p>Підходить для дому, дачі та садової ділянки.</p>
+	</li>
+	<li>
+	<p>Ножиці зручні для формування живоплоту та кущів.</p>
+	</li>
+	<li>
+	<p>Компактна сокира підходить для точних робіт із деревиною.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для регулярного використання.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1024711105983" available="false">
@@ -7647,7 +8072,66 @@
         <price>999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Секатор Fiskars SoftGrip M+Мультитул Lockdown Slim,16L,BOX]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/6/sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-54600437581112_+6989279292.png</picture>
+        <description><![CDATA[<p><strong>Секатор Fiskars SoftGrip M+Мультитул Lockdown Slim,16L,BOX -&nbsp;</strong></p>
+
+<p><strong>Набір Fiskars та Gerber</strong>&nbsp;для догляду за садом і виконання різноманітних побутових завдань. Практичне рішення для обрізання рослин, дрібного ремонту та використання вдома чи на природі.</p>
+
+<p><strong>Опис набору</strong></p>
+
+<p>Набір включає секатор Fiskars SoftGrip M та мультитул Gerber Lockdown Slim. Секатор призначений для точного обрізання гілок і догляду за рослинами, а мультитул допомагає виконувати різні дрібні побутові та господарські завдання. Інструменти доповнюють один одного та підходять для регулярного використання.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два компактні інструменти для садових, побутових і господарських робіт.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sekator-fiskars-softgrip-m-1024711/"><strong>Секатор Fiskars SoftGrip M</strong></a></p>
+
+<p>Секатор для точного обрізання гілок і догляду за кущами та садовими рослинами. Підходить для регулярного використання під час сезонних робіт у саду.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/multytul-gerber-lockdown-slim16lbox-1059836/"><strong>Мультитул Gerber Lockdown Slim, 16L, BOX</strong></a></p>
+
+<p>Компактний мультитул для виконання різноманітних дрібних завдань. Зручний для побутових робіт, ремонту, подорожей та використання під час відпочинку на природі.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання садових, побутових і господарських завдань.</p>
+
+<ol>
+	<li>
+	<p>Обрізання гілок та догляд за рослинами.</p>
+	</li>
+	<li>
+	<p>Формування та догляд за кущами.</p>
+	</li>
+	<li>
+	<p>Виконання дрібних ремонтних і побутових робіт.</p>
+	</li>
+	<li>
+	<p>Використання під час подорожей та виїздів на природу.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання секатора та мультитула.</p>
+	</li>
+	<li>
+	<p>Підходить для саду, дому, дачі та подорожей.</p>
+	</li>
+	<li>
+	<p>Секатор зручний для точного обрізання гілок.</p>
+	</li>
+	<li>
+	<p>Компактний мультитул підходить для різних повсякденних завдань.</p>
+	</li>
+	<li>
+	<p>Два універсальні інструменти в одному наборі.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1024711102837" available="false">
@@ -7655,7 +8139,64 @@
         <price>999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Секатор Fiskars SoftGrip M+Пилка садова ручна Solid SW 16 ТМ Fiskars]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-66856692547031_+f0de17be15.png</picture>
+        <description><![CDATA[<p><strong>Секатор Fiskars SoftGrip M+Пилка садова ручна Solid SW 16 ТМ Fiskars- набір Fiskars</strong>&nbsp;для догляду за садом та обрізання рослин. Практичне рішення для точного обрізання гілок і роботи з деревиною на ділянці.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір включає секатор Fiskars SoftGrip M та садову ручну пилку Solid SW 16. Секатор призначений для точного обрізання гілок, а пилка &mdash; для роботи з товстішими гілками та деревиною. Інструменти доповнюють один одного та підходять для регулярного догляду за садом.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для обрізання рослин і роботи з деревиною.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sekator-fiskars-softgrip-m-1024711/"><strong>Секатор Fiskars SoftGrip M</strong></a></p>
+
+<p>Секатор для точного обрізання гілок і догляду за кущами та садовими рослинами. Підходить для регулярних сезонних робіт та формування рослин.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376/"><strong>Пилка садова ручна Fiskars Solid SW 16</strong></a></p>
+
+<p>Ручна садова пилка для обрізання гілок і роботи з деревиною. Зручна для виконання садових робіт, де потрібен контрольований і точний різ.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання основних робіт із догляду за садом.</p>
+
+<ol>
+	<li>
+	<p>Обрізання тонких і середніх гілок.</p>
+	</li>
+	<li>
+	<p>Догляд за кущами та садовими рослинами.</p>
+	</li>
+	<li>
+	<p>Обрізання товстіших гілок за допомогою пилки.</p>
+	</li>
+	<li>
+	<p>Робота з деревиною на садовій ділянці.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання секатора та садової пилки.</p>
+	</li>
+	<li>
+	<p>Підходить для різних видів обрізання.</p>
+	</li>
+	<li>
+	<p>Секатор зручний для точних робіт із гілками.</p>
+	</li>
+	<li>
+	<p>Пилка підходить для товстіших гілок і деревини.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для регулярного догляду за садом.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1051085100346" available="false">
@@ -7663,7 +8204,64 @@
         <price>2499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сокира теслярська Solid A10+Граблі універсальні садові Solid]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/8/sokyra-tesliarska-solid-a10hrabli-universalni-sadovi-solid-84273655246079_+3fca3c9436.png</picture>
+        <description><![CDATA[<p><strong>Сокира теслярська Solid A10+Граблі універсальні садові Solid&nbsp;- набір Fiskars</strong>&nbsp;для роботи в саду та на присадибній ділянці. Поєднує сокиру для роботи з деревиною та граблі для догляду за ґрунтом і прибирання території.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір включає сокиру теслярську Solid A10 та універсальні садові граблі Solid. Сокира підходить для теслярських робіт, обробки та рубання деревини, а граблі &mdash; для розпушування ґрунту, вирівнювання ділянки та збирання садового сміття. Інструменти доповнюють один одного та стануть у пригоді для різноманітних робіт на ділянці.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір складається з теслярської сокири Fiskars Solid A10 та універсальних садових граблів Fiskars Solid.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира теслярська Solid A10</strong></a></p>
+
+<p>Сокира призначена для теслярських робіт, обробки та рубання деревини. Практичний інструмент для роботи з дерев&#39;яними матеріалами та виконання господарських завдань.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/universalni-hrabli-fiskars-solid-1003466/"><strong>Граблі універсальні садові Solid</strong></a></p>
+
+<p>Граблі для догляду за ґрунтом, розпушування та вирівнювання поверхні. Також зручні для збирання листя, трави та іншого садового сміття.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір підходить для виконання різноманітних робіт на садовій та присадибній ділянці.</p>
+
+<ol>
+	<li>
+	<p>Обробка та рубання деревини.</p>
+	</li>
+	<li>
+	<p>Теслярські та господарські роботи.</p>
+	</li>
+	<li>
+	<p>Розпушування та вирівнювання ґрунту.</p>
+	</li>
+	<li>
+	<p>Збирання листя, трави та садового сміття.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Поєднання сокири та універсальних садових граблів.</p>
+	</li>
+	<li>
+	<p>Підходить для різних господарських і садових робіт.</p>
+	</li>
+	<li>
+	<p>Сокира призначена для роботи з деревиною.</p>
+	</li>
+	<li>
+	<p>Граблі підходять для догляду за ґрунтом і територією.</p>
+	</li>
+	<li>
+	<p>Практичний набір для регулярного використання на ділянці.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1052045102485" available="false">
@@ -7671,7 +8269,66 @@
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сокира-колун Solid A18 + Мачете Compact Clearpath]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-86642605311000_+ca12383c19.png</picture>
+        <description><![CDATA[<p><strong>Сокира-колун Solid A18 + Мачете Compact Clearpath -&nbsp;</strong></p>
+
+<p><strong>Набір Fiskars</strong>&nbsp;для роботи з деревиною та догляду за присадибною ділянкою. Поєднує сокиру-колун для заготівлі дров і мачете для розчищення території та роботи з рослинністю.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір включає сокиру-колун Solid A18 та мачете Compact Clearpath. Сокира призначена для розколювання дров і роботи з деревиною, а мачете &mdash; для обрізання густої рослинності, трави та невеликих гілок. Разом інструменти підходять для різноманітних робіт у саду, на дачі та присадибній ділянці.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір складається із сокири-колуна Fiskars Solid A18 та мачете Fiskars Compact Clearpath.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира-колун Solid A18</strong></a></p>
+
+<p>Сокира-колун призначена для розколювання дров та роботи з деревиною. Підходить для заготівлі дров і виконання господарських робіт на ділянці.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/machete-gerber-compact-clearpath-1024856/"><strong>Мачете Compact Clearpath</strong></a></p>
+
+<p>Компактне мачете для роботи з густою рослинністю, травою та невеликими гілками. Зручний інструмент для розчищення території та догляду за ділянкою.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для різних робіт із деревиною та рослинністю.</p>
+
+<ol>
+	<li>
+	<p>Розколювання дров.</p>
+	</li>
+	<li>
+	<p>Робота з деревиною.</p>
+	</li>
+	<li>
+	<p>Розчищення ділянки від густої рослинності.</p>
+	</li>
+	<li>
+	<p>Обрізання трави та невеликих гілок.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання сокири-колуна та мачете.</p>
+	</li>
+	<li>
+	<p>Підходить для роботи з деревиною та рослинністю.</p>
+	</li>
+	<li>
+	<p>Сокира ефективна для розколювання дров.</p>
+	</li>
+	<li>
+	<p>Мачете зручне для розчищення території.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для садових і господарських робіт.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1052045105983" available="false">
@@ -7679,15 +8336,133 @@
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сокира-колун Solid A18 +Мультитул Lockdown Slim,16L,BOX]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/10/sokyra-kolun-solid-a18-multytul-lockdown-slim16lbox-93811543123555_+dcc34866af.jpg</picture>
+        <description><![CDATA[<p><strong>Сокира-колун Solid A18 +Мультитул Lockdown Slim,16L,BOX&nbsp;</strong>-&nbsp;</p>
+
+<p><strong>Набір Fiskars та Gerber</strong>&nbsp;для роботи з деревиною та виконання різноманітних господарських завдань. Практичне рішення для дому, дачі, майстерні та виїздів на природу.</p>
+
+<p><strong>Опис набору</strong></p>
+
+<p>Набір включає сокиру-колун Fiskars Solid A18 та мультитул Gerber Lockdown Slim. Сокира призначена для розколювання деревини та заготівлі дров, а мультитул допомагає виконувати різні дрібні ремонтні й побутові завдання. Інструменти доповнюють один одного та підходять для універсального використання.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для роботи з деревиною та виконання повсякденних завдань.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/"><strong>Сокира-колун Fiskars Solid A18</strong></a></p>
+
+<p>Сокира-колун для розколювання колод і полін та заготівлі дров. Спеціальна форма леза допомагає ефективно розділяти деревину, а міцна конструкція підходить для регулярного використання.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/multytul-gerber-lockdown-slim16lbox-1059836/"><strong>Мультитул Gerber Lockdown Slim, 16L, BOX</strong></a></p>
+
+<p>Компактний мультитул Gerber Lockdown Slim для виконання різноманітних дрібних завдань. Завдяки багатофункціональній конструкції може стати у пригоді під час ремонту, побутових робіт, подорожей та відпочинку на природі.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання господарських і побутових завдань.</p>
+
+<ol>
+	<li>
+	<p>Розколювання деревини та заготівля дров.</p>
+	</li>
+	<li>
+	<p>Робота з колодами та полінами.</p>
+	</li>
+	<li>
+	<p>Виконання дрібних ремонтних і побутових робіт.</p>
+	</li>
+	<li>
+	<p>Використання під час виїздів на природу та подорожей.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання сокири-колуна та мультитула.</p>
+	</li>
+	<li>
+	<p>Підходить для дому, дачі, майстерні та відпочинку на природі.</p>
+	</li>
+	<li>
+	<p>Сокира ефективна для роботи з деревиною.</p>
+	</li>
+	<li>
+	<p>Компактний мультитул зручний для повсякденних завдань.</p>
+	</li>
+	<li>
+	<p>Два практичні інструменти в одному наборі.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="1070715105204" available="false">
+      <offer id="1052045107071" available="false">
         <name><![CDATA[Сокира-колун Solid A18+Вила садові White]]></name>
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сокира-колун Solid A18+Вила садові White]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-34700090871095_+ab46608c96.jpg</picture>
+        <description><![CDATA[<p><strong>Сокира-колун Solid A18+Вила садові White</strong>-&nbsp;</p>
+
+<p><strong>Набір Fiskars</strong>&nbsp;для роботи з деревиною та догляду за садом. Практичне рішення для заготівлі дров, роботи з ґрунтом і виконання основних господарських завдань на ділянці.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір Fiskars включає сокиру-колун Solid A18 та садові вила White. Сокира призначена для розколювання деревини та заготівлі дров, а вила &mdash; для роботи з ґрунтом, переміщення рослинних матеріалів та виконання садових робіт. Інструменти доповнюють один одного та підходять для використання вдома, на дачі й у саду.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для різних видів господарських і садових робіт.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/"><strong>Сокира-колун Fiskars Solid A18</strong></a></p>
+
+<p>Сокира-колун для розколювання колод і полін та заготівлі дров. Спеціальна форма леза допомагає ефективно розділяти деревину, а міцна конструкція підходить для регулярного використання.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/vyla-sadovi-white/"><strong>Вила садові Fiskars White</strong></a></p>
+
+<p>Садові вила для роботи з ґрунтом, переміщення трави, листя та інших рослинних матеріалів. Практичний інструмент для підготовки ґрунту, догляду за грядками та виконання різноманітних робіт на ділянці.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання основних садових і господарських завдань.</p>
+
+<ol>
+	<li>
+	<p>Розколювання деревини та заготівля дров.</p>
+	</li>
+	<li>
+	<p>Робота з колодами та полінами.</p>
+	</li>
+	<li>
+	<p>Робота з ґрунтом і підготовка грядок.</p>
+	</li>
+	<li>
+	<p>Переміщення трави, листя та рослинних матеріалів.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання сокири-колуна та садових вил.</p>
+	</li>
+	<li>
+	<p>Підходить для дому, дачі та приватної ділянки.</p>
+	</li>
+	<li>
+	<p>Сокира ефективна для роботи з деревиною.</p>
+	</li>
+	<li>
+	<p>Вила зручні для різноманітних садових робіт.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для господарських завдань.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1052045100346" available="false">
@@ -7695,7 +8470,66 @@
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сокира-колун Solid A18+Граблі універсальн садові Solid]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-28568877624496_+051bc719db.png</picture>
+        <description><![CDATA[<p>&nbsp;</p>
+
+<p><strong>Набір Fiskars Solid</strong>&nbsp;для роботи з деревиною та догляду за садом. Практичне рішення для заготівлі дров, прибирання ділянки та виконання основних господарських робіт.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір Fiskars включає сокиру-колун Solid A18 та універсальні садові граблі Solid. Сокира призначена для розколювання деревини та заготівлі дров, а граблі &mdash; для розпушування ґрунту, вирівнювання поверхні та догляду за ділянкою. Інструменти доповнюють один одного та підходять для регулярного використання.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для різних видів садових і господарських робіт.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/"><strong>Сокира-колун Fiskars Solid A18</strong></a></p>
+
+<p>Сокира-колун для розколювання колод і полін та заготівлі дров. Спеціальна форма леза допомагає ефективно розділяти деревину, а міцна конструкція підходить для регулярного використання.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/universalni-hrabli-fiskars-solid-1003466/"><strong>Граблі універсальні садові Fiskars Solid</strong></a></p>
+
+<p>Універсальні садові граблі для догляду за ґрунтом і ділянкою. Підходять для розпушування та вирівнювання ґрунту, підготовки грядок і виконання інших садових робіт.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання основних господарських і садових завдань.</p>
+
+<ol>
+	<li>
+	<p>Розколювання деревини та заготівля дров.</p>
+	</li>
+	<li>
+	<p>Робота з колодами та полінами.</p>
+	</li>
+	<li>
+	<p>Розпушування та вирівнювання ґрунту.</p>
+	</li>
+	<li>
+	<p>Підготовка грядок і догляд за садовою ділянкою.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання сокири-колуна та садових граблів.</p>
+	</li>
+	<li>
+	<p>Підходить для дому, дачі та приватної ділянки.</p>
+	</li>
+	<li>
+	<p>Сокира ефективна для роботи з деревиною.</p>
+	</li>
+	<li>
+	<p>Граблі універсальні для різних садових завдань.</p>
+	</li>
+	<li>
+	<p>Два необхідні інструменти в одному наборі.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1052045107192" available="false">
@@ -7703,7 +8537,64 @@
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сокира-колун Solid A18+Лопата садова класична фіскарс FSC]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/13/sokyra-kolun-solid-a18lopata-sadova-klasychna-fiskars-fsc-29797010726143_+c191274e9a.png</picture>
+        <description><![CDATA[<p><strong>Сокира-колун Solid A18+Лопата садова класична фіскарс FSC</strong>- набір&nbsp;&nbsp;для роботи з деревиною та виконання основних садових робіт. Практичне рішення для дому, дачі та приватної ділянки.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір Fiskars включає сокиру-колун Solid A18 та класичну садову лопату Fiskars FSC. Сокира призначена для розколювання деревини та заготівлі дров, а лопата &mdash; для роботи з ґрунтом, посадки рослин і виконання інших садових завдань. Інструменти доповнюють один одного та підходять для регулярного використання.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для роботи на ділянці та з деревиною. Кожен елемент виконує свою функцію та допомагає впоратися з різними господарськими завданнями.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/"><strong>Сокира-колун Fiskars Solid A18</strong></a></p>
+
+<p>Сокира-колун для розколювання колод і полін та заготівлі дров. Спеціальна форма леза допомагає ефективно розділяти деревину, а міцна конструкція підходить для регулярного використання.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/lopata-sadova-klasychna-fiskars-fsc-1071929/"><strong>Лопата садова класична Fiskars FSC</strong></a></p>
+
+<p>Класична садова лопата для перекопування ґрунту, підготовки посадкових місць, висаджування рослин та інших робіт на ділянці. Практична конструкція робить її зручною для регулярного використання в саду та на городі.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання садових і господарських робіт.</p>
+
+<ol>
+	<li>
+	<p>Розколювання деревини та заготівля дров.</p>
+	</li>
+	<li>
+	<p>Робота з колодами та полінами.</p>
+	</li>
+	<li>
+	<p>Перекопування та підготовка ґрунту.</p>
+	</li>
+	<li>
+	<p>Посадка рослин і догляд за ділянкою.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання сокири-колуна та садової лопати.</p>
+	</li>
+	<li>
+	<p>Підходить для дому, дачі та приватної ділянки.</p>
+	</li>
+	<li>
+	<p>Сокира ефективна для розколювання деревини.</p>
+	</li>
+	<li>
+	<p>Лопата підходить для різноманітних робіт із ґрунтом.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для садових і господарських завдань.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1052045106314" available="false">
@@ -7711,7 +8602,64 @@
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сокира-колун Solid A18+Ніж Ceviche 9",E,Box,GRN,BLK]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/14/sokyra-kolun-solid-a18nizh-ceviche-9eboxgrnblk-64825806758081_+cf1f604424.png</picture>
+        <description><![CDATA[<p><strong>Сокира-колун Solid A18+Ніж Ceviche 9&quot;,E,Box,GRN,BLK</strong> -набір Fiskars та Gerbe<strong>r</strong>&nbsp;для роботи з деревиною та виконання господарських завдань. Практичне поєднання сокири-колуна для заготівлі дров і компактного ножа для повсякденного використання.</p>
+
+<p><strong>Опис набору</strong></p>
+
+<p>Набір включає сокиру-колун Fiskars Solid A18 та ніж Gerber Ceviche 9&quot;. Сокира призначена для розколювання деревини та заготівлі дров, а ніж підходить для різноманітних побутових, туристичних і господарських завдань. Інструменти доповнюють один одного та стануть у пригоді вдома, на дачі чи під час виїздів на природу.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для різних завдань. Кожен елемент має своє призначення та може використовуватися окремо.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/"><strong>Сокира-колун Fiskars Solid A18</strong></a></p>
+
+<p>Сокира-колун для розколювання колод і полін та заготівлі дров. Спеціальна форма леза спрямована на ефективне розколювання деревини, а міцна конструкція підходить для регулярного використання.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/nizh-gerber-ceviche-9eboxgrnblk-1063145/"><strong>Ніж Gerber Ceviche 9&quot;, E, Box, GRN, BLK</strong></a></p>
+
+<p>Практичний ніж Gerber Ceviche для повсякденних і господарських завдань. Компактний формат робить його зручним для використання вдома, на природі та під час різних робіт, де потрібен надійний ріжучий інструмент.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання різноманітних господарських і побутових завдань.</p>
+
+<ol>
+	<li>
+	<p>Розколювання деревини та заготівля дров.</p>
+	</li>
+	<li>
+	<p>Робота з колодами та полінами.</p>
+	</li>
+	<li>
+	<p>Виконання побутових і господарських робіт ножем.</p>
+	</li>
+	<li>
+	<p>Використання під час відпочинку на природі та виїздів за місто.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання сокири-колуна та ножа.</p>
+	</li>
+	<li>
+	<p>Підходить для дому, дачі та відпочинку на природі.</p>
+	</li>
+	<li>
+	<p>Сокира ефективна для розколювання деревини.</p>
+	</li>
+	<li>
+	<p>Ніж зручний для повсякденних завдань.</p>
+	</li>
+	<li>
+	<p>Два універсальні інструменти в одному наборі.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1027528102349" available="false">
@@ -7719,7 +8667,64 @@
         <price>1499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сучкоріз площинний телескопічний Solid L13+Граблі великі для листя М помаранчеві]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432_+d153e7aa15.png</picture>
+        <description><![CDATA[<p><strong>Сучкоріз площинний телескопічний Solid L13+Граблі великі для листя М помаранчеві&nbsp;</strong>-&nbsp;набір Fiskars&nbsp;для догляду за садом та підтримання чистоти на ділянці. Практичне рішення для обрізання гілок і прибирання листя та садового сміття.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір Fiskars включає сучкоріз площинний телескопічний Solid L13 та великі граблі для листя M. Сучкоріз призначений для обрізання гілок дерев і кущів, а граблі &mdash; для збирання опалого листя, трави та іншого садового сміття. Інструменти доповнюють один одного та підходять для регулярного догляду за ділянкою.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для садових робіт. Кожен елемент виконує свою функцію та допомагає підтримувати порядок на ділянці.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13/"><strong>Сучкоріз площинний телескопічний Fiskars Solid L13</strong></a></p>
+
+<p>Телескопічний сучкоріз для обрізання гілок дерев і кущів. Площинний тип різання забезпечує точний зріз, а телескопічна конструкція дозволяє працювати з гілками на висоті та у важкодоступних місцях.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492/"><strong>Граблі великі для листя Fiskars M</strong></a></p>
+
+<p>Великі граблі для збирання опалого листя, трави та садового сміття. Широка робоча частина допомагає охоплювати більшу площу під час прибирання, що робить інструмент зручним для догляду за газоном і садом.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання основних робіт із догляду за садом.</p>
+
+<ol>
+	<li>
+	<p>Обрізання гілок дерев і кущів.</p>
+	</li>
+	<li>
+	<p>Збирання опалого листя та трави.</p>
+	</li>
+	<li>
+	<p>Очищення газону й садової ділянки.</p>
+	</li>
+	<li>
+	<p>Підтримання порядку на території протягом сезону.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання сучкоріза та граблів.</p>
+	</li>
+	<li>
+	<p>Підходить для саду, газону та дачної ділянки.</p>
+	</li>
+	<li>
+	<p>Телескопічний сучкоріз зручний для роботи з гілками на висоті.</p>
+	</li>
+	<li>
+	<p>Широкі граблі дозволяють швидко прибирати листя з великої площі.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для регулярного догляду за територією.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1027528107192" available="false">
@@ -7727,7 +8732,64 @@
         <price>1499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сучкоріз площинний телескопічний Solid L13+Лопата садова класична фіскарс FSC]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-84247034469713_+a44b8ba605.png</picture>
+        <description><![CDATA[<p><strong>Набір Fiskars</strong>&nbsp;для догляду за садом та роботи на ділянці. Практичне рішення для обрізання гілок, підготовки ґрунту та виконання основних садових робіт.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір Fiskars включає сучкоріз площинний телескопічний Solid L13 та класичну садову лопату Fiskars FSC. Сучкоріз призначений для обрізання гілок дерев і кущів, а лопата &mdash; для перекопування ґрунту, посадки рослин та інших садових робіт. Інструменти доповнюють один одного та підходять для регулярного догляду за ділянкою.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два практичні інструменти для саду. Кожен елемент виконує свою функцію та допомагає ефективно справлятися з сезонними роботами.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13/"><strong>Сучкоріз площинний телескопічний Fiskars Solid L13</strong></a></p>
+
+<p>Телескопічний сучкоріз для обрізання гілок дерев і кущів. Площинний тип різання забезпечує точний зріз, а телескопічна конструкція дозволяє працювати з гілками на висоті та у важкодоступних місцях.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/lopata-sadova-klasychna-fiskars-fsc-1071929/"><strong>Лопата садова класична Fiskars FSC</strong></a></p>
+
+<p>Класична садова лопата для перекопування ґрунту, підготовки посадкових місць, висаджування рослин та інших робіт на ділянці. Міцна конструкція підходить для регулярного використання в саду та на городі.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання основних садових робіт.</p>
+
+<ol>
+	<li>
+	<p>Обрізання гілок дерев і кущів.</p>
+	</li>
+	<li>
+	<p>Догляд за садовими рослинами.</p>
+	</li>
+	<li>
+	<p>Перекопування та підготовка ґрунту.</p>
+	</li>
+	<li>
+	<p>Посадка рослин і виконання господарських робіт на ділянці.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання сучкоріза та садової лопати.</p>
+	</li>
+	<li>
+	<p>Підходить для саду, городу та дачної ділянки.</p>
+	</li>
+	<li>
+	<p>Телескопічний сучкоріз зручний для роботи з гілками на висоті.</p>
+	</li>
+	<li>
+	<p>Лопата підходить для різноманітних робіт із ґрунтом.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для регулярного догляду за ділянкою.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1027528105108" available="false">
@@ -7735,7 +8797,64 @@
         <price>1999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сучкоріз площинний телескопічний Solid L13+Сокира теслярська Solid A10]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
+        <description><![CDATA[<p><strong>Набір Fiskars Solid</strong>&nbsp;для догляду за садом та роботи з деревиною. Практичне рішення для обрізання гілок і виконання господарських робіт на ділянці.</p>
+
+<p><strong>Опис набору Fiskars</strong></p>
+
+<p>Набір Fiskars включає сучкоріз площинний телескопічний Solid L13 та теслярську сокиру Solid A10. Сучкоріз призначений для обрізання гілок дерев і кущів, а сокира &mdash; для роботи з деревиною, теслярських та господарських завдань. Інструменти доповнюють один одного та підходять для використання в саду, на дачі й біля приватного будинку.</p>
+
+<p><strong>Що входить у комплект</strong></p>
+
+<p>Набір включає два інструменти для різних видів робіт. Кожен елемент виконує свою функцію та забезпечує зручність під час догляду за ділянкою і роботи з деревиною.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13/"><strong>Сучкоріз площинний телескопічний Fiskars Solid L13</strong></a></p>
+
+<p>Телескопічний сучкоріз для обрізання гілок дерев і кущів. Площинний тип різання забезпечує точний зріз, а телескопічна конструкція дозволяє працювати з гілками на висоті та у важкодоступних місцях.</p>
+
+<p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира теслярська Fiskars Solid A10</strong></a></p>
+
+<p>Компактна та збалансована сокира для роботи з деревиною. Підходить для теслярських, садових і господарських завдань, де потрібні точність та контроль під час роботи.</p>
+
+<p><strong>Застосування</strong></p>
+
+<p>Набір використовується для виконання садових і господарських робіт.</p>
+
+<ol>
+	<li>
+	<p>Обрізання гілок дерев і кущів.</p>
+	</li>
+	<li>
+	<p>Догляд за садом та формування крони.</p>
+	</li>
+	<li>
+	<p>Робота з деревиною в побутових умовах.</p>
+	</li>
+	<li>
+	<p>Виконання теслярських та господарських завдань.</p>
+	</li>
+</ol>
+
+<p><strong>Основні переваги набору</strong></p>
+
+<ol>
+	<li>
+	<p>Практичне поєднання сучкоріза та сокири.</p>
+	</li>
+	<li>
+	<p>Підходить для саду, дачі та приватного будинку.</p>
+	</li>
+	<li>
+	<p>Телескопічний сучкоріз дозволяє працювати з гілками на висоті.</p>
+	</li>
+	<li>
+	<p>Компактна сокира зручна для точних робіт із деревиною.</p>
+	</li>
+	<li>
+	<p>Універсальний набір для регулярного використання.</p>
+	</li>
+</ol>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1027528105204" available="false">
@@ -7743,10 +8862,34 @@
         <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
-        <description><![CDATA[Сучкоріз площинний телескопічний Solid L13+Сокира-колун Solid A18]]></description>
+        <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-68712988809834_+0b31b52540.png</picture>
+        <description><![CDATA[<p><strong>Сучкоріз площинний телескопічний Solid L13+Сокира-колун Solid A18-&nbsp;</strong>&nbsp;практичний набір Fiskars Solid для садових і господарських робіт. Сучкоріз L13 призначений для обрізання гілок, а сокира-колун A18 &mdash; для розколювання деревини та заготівлі дров.&nbsp;</p>
+
+<p><span style="font-size:16px;"><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13/">Сучкоріз площинний телескопічний Solid L13</a><br />
+Сучкоріз із висувною телескопічною ручкою та плоским механізмом різу. Розсувна конструкція дозволяє регулювати довжину інструмента залежно від висоти гілки.</span></p>
+
+<p><span style="font-size:16px;"><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/">Сокира-колун Solid A18</a><br />
+Сокира-колун із суцільним руків&#39;ям із композитного матеріалу FiberComp та загартованим лезом із вуглецевої сталі. Форма голівки та розподіл ваги розраховані на розколювання поліняк і колод діаметром до 18 см.</span></p>
+
+<h3>Комплектація</h3>
+
+<ul data-spread="false">
+	<li>Сучкоріз площинний телескопічний Fiskars Solid L13 &mdash; 1 шт.</li>
+	<li>Сокира-колун Fiskars Solid A18 &mdash; 1 шт.</li>
+</ul>
+
+<h3>Основні переваги набору</h3>
+
+<ul data-spread="false">
+	<li>два інструменти для різних садових і господарських завдань;</li>
+	<li>сучкоріз для обрізання гілок;</li>
+	<li>сокира-колун для роботи з деревиною;</li>
+	<li>практичний набір для саду, дачі та приватного будинку.</li>
+</ul>
+]]></description>
         <stock_quantity>0</stock_quantity>
       </offer>
-      <offer id="1000601" available="true">
+      <offer id="1000601" available="false">
         <name><![CDATA[Точило для сокир та ножів Fiskars Xsharp (1000601)]]></name>
         <price>799</price>
         <categoryId>1</categoryId>
@@ -7768,7 +8911,7 @@
 
 <p data-end="1135" data-is-last-node="" data-is-only-node="" data-start="942"><span style="font-size:18px;"><strong data-end="958" data-start="942">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Xsharp бренду Fiskars та призначений для періодичного обслуговування та відновлення гостроти лез ручних інструментів.</span></p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1026797" available="true">
         <name><![CDATA[Точило для сокир та ножів Fiskars Solid (1026797)]]></name>
@@ -8229,7 +9372,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії Asada бренду Gerber та орієнтована на практичне щоденне застосування.</span></p>
 ]]></description>
-        <stock_quantity>372</stock_quantity>
+        <stock_quantity>371</stock_quantity>
       </offer>
       <offer id="1028494" available="true">
         <name><![CDATA[Ніж складаний Gerber Fastball Warncliff FSG BOX (1028494)]]></name>
@@ -8532,7 +9675,7 @@
 
 <p data-end="1387" data-is-last-node="" data-is-only-node="" data-start="1142"><span style="font-size:18px;"><strong data-end="1158" data-start="1142">Особливості:</strong> </span><span style="font-size:14px;">набір належить до серії Kitchen Devils бренду Fiskars та призначений для систематичного використання під час приготування різноманітних страв із контролем точності і організованим зберіганням ножів.</span></p>
 ]]></description>
-        <stock_quantity>583</stock_quantity>
+        <stock_quantity>586</stock_quantity>
       </offer>
       <offer id="1063144" available="true">
         <name><![CDATA[Ніж Gerber Ceviche 7",E,Box,GRN,BLK (1063144)]]></name>
@@ -8816,7 +9959,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">ніж належить до серії Paraframe бренду Gerber &mdash; це базовий складаний EDC‑інструмент із мінімалістичним дизайном і орієнтований на повсякденні утилітарні</span></p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="1013968" available="true">
         <name><![CDATA[Ніж Paraframe I SE BL (1013968)]]></name>
@@ -8887,7 +10030,7 @@
 <p data-end="1069" data-is-last-node="" data-is-only-node="" data-start="880"><span style="font-size:18px;"><strong data-end="896" data-start="880">Особливості:</strong></span><span style="font-size:14px;"> модель належить до кухонної лінійки бренду Fiskars та призначена для організованого зберігання ножів у домашніх і професійних кухонних умовах.</span></p>
 </section>
 ]]></description>
-        <stock_quantity>114</stock_quantity>
+        <stock_quantity>113</stock_quantity>
       </offer>
       <offer id="1050260" available="true">
         <name><![CDATA[Ніж складний Gerber Ayako Folding Pocket Silver (1050260)]]></name>
@@ -10410,7 +11553,7 @@
 <p data-end="1055" data-is-last-node="" data-is-only-node="" data-start="886"><span style="font-size:18px;"><strong data-end="902" data-start="886">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для догляду за деревними насадженнями середнього розміру.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>71</stock_quantity>
+        <stock_quantity>159</stock_quantity>
       </offer>
       <offer id="1001553" available="true">
         <name><![CDATA[Гілкоріз площинний із загнутим лезом Fiskars PowerGear L76 (1001553)]]></name>
@@ -10437,7 +11580,7 @@
 <p data-end="1190" data-is-last-node="" data-is-only-node="" data-start="977"><span style="font-size:18px;"><strong data-end="993" data-start="977">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії PowerGear бренду Fiskars та призначений для систематичного догляду за деревними насадженнями із застосуванням механічної переваги важеля.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>226</stock_quantity>
+        <stock_quantity>105</stock_quantity>
       </offer>
       <offer id="1073084" available="true">
         <name><![CDATA[Гілкоріз телескопічний Fiskars UPN86 (1073084)]]></name>
@@ -10728,7 +11871,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії LockDown бренду Gerber та орієнтована на універсальні утилітарні операції без спеціалізованого обладнання.</span></p>
 ]]></description>
-        <stock_quantity>33</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1059830" available="true">
         <name><![CDATA[Мультитул Gerber Armbar Slim Cut (1059830)]]></name>
@@ -10785,7 +11928,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Armbar бренду Gerber та орієнтована на базові допоміжні задачі в компактному форматі.</span></p>
 ]]></description>
-        <stock_quantity>18</stock_quantity>
+        <stock_quantity>16</stock_quantity>
       </offer>
       <offer id="1052456" available="true">
         <name><![CDATA[Мультитул Gerber ArmBar Cork Shimmer Gold (1052456)]]></name>
@@ -11121,7 +12264,7 @@
 
 <p data-end="1154" data-is-last-node="" data-is-only-node="" data-start="993"><span style="font-size:18px;"><strong data-end="1009" data-start="993">Особливості:</strong> </span><span style="font-size:14px;">інструмент призначений для систематичного догляду за домашніми тваринами та використовується як частина базового набору аксесуарів для грумінгу.</span></p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="2009136" available="true">
         <name><![CDATA[Засіб для розплутування/розплутувач для тварин Fiskars, 2/6, 19L (2009136)]]></name>
@@ -11171,7 +12314,7 @@
 
 <p data-end="1116" data-is-last-node="" data-is-only-node="" data-start="983"><span style="font-size:18px;"><strong data-end="999" data-start="983">Особливості:</strong></span><span style="font-size:14px;"> інструмент призначений для систематичного використання під час базового грумінгу домашніх тварин у побутових умовах.</span></p>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>2</stock_quantity>
       </offer>
       <offer id="2009138" available="false">
         <name><![CDATA[Щітка дротяна для тварин Fiskars, 2/6, 19L (2009138)]]></name>
@@ -11405,7 +12548,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> виделка належить до серії Control бренду Fiskars та призначена для підтримки стабільності продуктів під час нарізання і обробки в кулінарних задачах.</span></p>
 ]]></description>
-        <stock_quantity>103</stock_quantity>
+        <stock_quantity>104</stock_quantity>
       </offer>
       <offer id="1028483" available="true">
         <name><![CDATA[Виделка туристична Gerber Devour (1028483)]]></name>
