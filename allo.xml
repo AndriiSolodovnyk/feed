@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-09 00:01</date>
+    <date>2026-09-09 04:59</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -8744,7 +8744,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/28/nabir-hrabli-dlia-lystia-fiskars-ergonomic-xl-universalni-hrabli-fiskars-solid-18191009642298_+48e2b218d9.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/28/nabir-hrabli-dlia-lystia-fiskars-ergonomic-xl-universalni-hrabli-fiskars-solid-44799749590344_+1ea050917c.png</image>
             <priceRUAH>1849</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1000660100346</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
