@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-10 23:19">
+<yml_catalog date="2026-09-11 01:19">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -325,7 +325,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248/</url>
         <price>1999</price>
         <price_old>5100</price_old>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-97850798404853_+b78b49f20e.png</picture>
@@ -599,7 +599,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-folken-22-sm/</url>
         <price>3599</price>
         <price_old>3969</price_old>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/skovoroda-chavunna-folken-22-sm-28343019282055_+f6bf8b8182.png</picture>
@@ -3095,7 +3095,7 @@
       <offer id="1013954" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-paraframe-gerber-mini-fe-bl/</url>
         <price>749</price>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-12616963264447_+f5fdd06e8c.jpg</picture>

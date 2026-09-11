@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-10 23:19</date>
+    <date>2026-09-11 01:19</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -702,7 +702,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/38/nabir-podarunkovyi-2-v-1-fiskars-norden-n7-ta-tochylo-1051146-97067670412665_+dcb30bbe42.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/38/nabir-podarunkovyi-2-v-1-fiskars-norden-n7-ta-tochylo-1051146-29296977943042_+c74b1c3ae3.png</image>
             <priceRUAH>4749</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1051146</param>
             <param name="Бренд">Fiskars</param>
@@ -1909,7 +1909,7 @@
             <url>https://fiskars-gratis.com.ua/vyla-dlia-kompostu-fiskars-plastykovi-1011570/</url>
             <image>https://fiskars-gratis.com.ua/content/images/39/vyla-dlia-kompostu-fiskars-plastykovi-1011570-47215227791569_+49c9b09729.jpg</image>
             <priceRUAH>349</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1011570</param>
             <param name="Бренд">Fiskars</param>
