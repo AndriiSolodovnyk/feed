@@ -4,6 +4,7 @@ const { downloadArrayBuffer } = require('./feedDownloader');
 const PRODUCT_DIMENSIONS = require('./productDimensions');
 
 const FILE_URL = 'https://fiskars-gratis.com.ua/content/export/f21d2ef6d82a517fac09ea84c53cf5c9.xlsx';
+const HOROSHOP_PROM_URL = 'https://fiskars-gratis.com.ua/content/export/1e03430db27aa5834c2f6633af9e2c18.xml';
 
 const SHARED_PROM_GROUPS = Object.freeze({
   DEFAULT: { id: 1, name: 'Коренева група' },
@@ -11,27 +12,7 @@ const SHARED_PROM_GROUPS = Object.freeze({
   KITCHEN: { id: 156336200, name: 'Кухня' }
 });
 
-const PERSONAL_PROM_GROUPS = Object.freeze({
-  DEFAULT: { id: 1, name: 'Коренева група' },
-  ACTIONS: { id: 156333769, name: 'Акції' },
-  KITCHEN: { id: 156336200, name: 'Кухня' },
-  GERBER: { id: 156336201, name: 'Gerber' },
-  AXES: { id: 156336202, name: 'Сокири' },
-  SHOVELS: { id: 156336203, name: 'Лопати' },
-  PRUNERS: { id: 156336204, name: 'Секатори' },
-  LOPPERS: { id: 156336205, name: 'Сучкорізи' },
-  GARDEN_SCISSORS: { id: 156336206, name: 'Садові ножиці' },
-  SAWS: { id: 156336207, name: 'Пили' },
-  KNIVES: { id: 156336208, name: 'Ножі' },
-  RAKES: { id: 156336209, name: 'Граблі' },
-  GARDEN_INVENTORY: { id: 156336210, name: 'Садовий інвентар' },
-  WATERING: { id: 156336211, name: 'Полив' },
-  MULTITOOLS: { id: 156336212, name: 'Мультитули' },
-  HOME_TOOLS: { id: 156336213, name: 'Інструменти для дому' },
-  CRAFT: { id: 156336214, name: 'Товари для творчості' },
-  PET_ACCESSORIES: { id: 156336215, name: 'Аксесуари для тварин' },
-  SCISSORS: { id: 156336216, name: 'Ножиці' }
-});
+const PERSONAL_ROOT_CATEGORY = Object.freeze({ id: 1, name: 'Коренева група' });
 
 const SHARED_SET_PRODUCT_SKUS = new Set([
   '1052276',
@@ -203,44 +184,95 @@ function getSharedPromGroup(product) {
   return SHARED_PROM_GROUPS.DEFAULT;
 }
 
-function getPersonalPromGroup(product) {
+function decodeXml(value) {
+  return String(value)
+    .replaceAll('&amp;', '&')
+    .replaceAll('&quot;', '"')
+    .replaceAll('&apos;', "'")
+    .replaceAll('&lt;', '<')
+    .replaceAll('&gt;', '>');
+}
+
+function escapeXml(value) {
+  return String(value)
+    .replaceAll('&', '&amp;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&apos;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;');
+}
+
+function normalizeSectionPath(value) {
+  return String(value || '')
+    .split('/')
+    .map((part) => part.trim().toLocaleLowerCase('uk'))
+    .filter(Boolean)
+    .join('/');
+}
+
+function parseHoroshopPromCatalog(xml) {
+  const categoriesBlock = xml.match(/<categories>([\s\S]*?)<\/categories>/)?.[1];
+  if (!categoriesBlock) throw new Error('Horoshop Prom XML does not contain a categories block');
+
+  const categories = [...categoriesBlock.matchAll(/<category\s+([^>]*)>([\s\S]*?)<\/category>/g)]
+    .map((match) => {
+      const attributes = match[1];
+      const id = attributes.match(/\bid="(\d+)"/)?.[1];
+      const parentId = attributes.match(/\bparentId="(\d+)"/)?.[1];
+
+      return {
+        id,
+        parentId,
+        name: decodeXml(match[2].trim())
+      };
+    })
+    .filter((category) => category.id && category.name);
+
+  if (categories.length === 0) throw new Error('Horoshop Prom XML contains no valid categories');
+
+  const categoryById = new Map(categories.map((category) => [category.id, category]));
+  const categoryByPath = new Map();
+
+  for (const category of categories) {
+    const names = [category.name];
+    const visited = new Set([category.id]);
+    let current = category;
+
+    while (current.parentId && categoryById.has(current.parentId) && !visited.has(current.parentId)) {
+      current = categoryById.get(current.parentId);
+      visited.add(current.id);
+      names.unshift(current.name);
+    }
+
+    categoryByPath.set(normalizeSectionPath(names.join('/')), category);
+  }
+
+  return { categories, categoryByPath };
+}
+
+async function downloadHoroshopPromCatalog() {
+  const data = await downloadArrayBuffer(HOROSHOP_PROM_URL, { label: 'Horoshop Prom XML' });
+  return parseHoroshopPromCatalog(Buffer.from(data).toString('utf8'));
+}
+
+function getPersonalPromCategory(product, catalog) {
   const sku = String(product.sku).trim();
   const name = String(product.name || '').toLocaleLowerCase('uk');
-  const section = String(product.section || '').toLocaleLowerCase('uk');
 
-  if (PERSONAL_SET_PRODUCT_SKUS.has(sku) || name.includes('+')) return PERSONAL_PROM_GROUPS.ACTIONS;
-  if (PERSONAL_ROOT_PRODUCT_SKUS.has(sku)) return PERSONAL_PROM_GROUPS.DEFAULT;
-  if (KITCHEN_PRODUCT_SKUS.has(sku)) return PERSONAL_PROM_GROUPS.KITCHEN;
-  if (name.includes('gerber') || name.includes('гербер')) return PERSONAL_PROM_GROUPS.GERBER;
-  if (section.includes('сокири та колуни') || section.includes('gerber/сокири')) return PERSONAL_PROM_GROUPS.AXES;
-  if (section.includes('лопати садові')) return PERSONAL_PROM_GROUPS.SHOVELS;
-  if (section.includes('/секатори') || name.includes('секатор')) return PERSONAL_PROM_GROUPS.PRUNERS;
-  if (section.includes('гілкорізи')) return PERSONAL_PROM_GROUPS.LOPPERS;
-  if (
-    section.includes('ножиці для живоплоту')
-    || section.includes('ножиці для трави')
-    || name.includes('ножиці садові')
-    || name.includes('садові ножиці')
-  ) return PERSONAL_PROM_GROUPS.GARDEN_SCISSORS;
-  if (section.includes('посуд та кухонний інвентар fiskars/ножиці')) return PERSONAL_PROM_GROUPS.SCISSORS;
-  if (section.includes('посуд та кухонний інвентар fiskars')) return PERSONAL_PROM_GROUPS.KITCHEN;
-  if (section.includes('садові пилки') || section.includes('gerber/пили')) return PERSONAL_PROM_GROUPS.SAWS;
-  if (section.includes('gerber/ножі')) return PERSONAL_PROM_GROUPS.KNIVES;
-  if (section.includes('граблі для саду')) return PERSONAL_PROM_GROUPS.RAKES;
-  if (
-    section.includes('посадковий інвентар')
-    || section.includes('вила для саду')
-    || section.includes('мотикі, сапи, культиватори')
-    || section.includes('точила для сокир та ножів')
-    || section.includes('акумуляторний інструмент')
-  ) return PERSONAL_PROM_GROUPS.GARDEN_INVENTORY;
-  if (section.includes('садовий полив')) return PERSONAL_PROM_GROUPS.WATERING;
-  if (section.includes('gerber/мультитули')) return PERSONAL_PROM_GROUPS.MULTITOOLS;
-  if (section.includes('інструменти для дому') || section.includes('автоаксесуари')) return PERSONAL_PROM_GROUPS.HOME_TOOLS;
-  if (section.includes('товари для творчості')) return PERSONAL_PROM_GROUPS.CRAFT;
-  if (section.includes('аксесуари для тварин')) return PERSONAL_PROM_GROUPS.PET_ACCESSORIES;
+  if (PERSONAL_SET_PRODUCT_SKUS.has(sku) || name.includes('+')) {
+    return catalog.categoryByPath.get(normalizeSectionPath('Акції')) || PERSONAL_ROOT_CATEGORY;
+  }
 
-  return PERSONAL_PROM_GROUPS.DEFAULT;
+  if (PERSONAL_ROOT_PRODUCT_SKUS.has(sku)) return PERSONAL_ROOT_CATEGORY;
+
+  const sectionParts = normalizeSectionPath(product.section).split('/').filter(Boolean);
+  while (sectionParts.length > 0) {
+    const category = catalog.categoryByPath.get(sectionParts.join('/'));
+    if (category) return category;
+    sectionParts.pop();
+  }
+
+  return PERSONAL_ROOT_CATEGORY;
 }
 
 async function parseProducts() {
@@ -257,6 +289,7 @@ async function parseProducts() {
     const name = row['Название (UA)'];
     const description = row['Описание товара (UA)'] || row['Короткое описание (UA)'] || '';
     const price = Number(row['Цена']) || 0;
+    const oldPrice = Number(row['Старая цена']) || 0;
     const photos = row['Фото'];
     const quantity = Number(row['Количество']) || 0;
     const section = row['Раздел'] || '';
@@ -271,6 +304,7 @@ async function parseProducts() {
       sku,
       name,
       price,
+      oldPrice,
       stock: quantity,
       available: quantity > 0,
       images,
@@ -282,9 +316,13 @@ async function parseProducts() {
   return products;
 }
 
-function buildPromFeed(products, { filename, groups, resolveGroup }) {
-  const categoriesXml = Object.values(groups)
-    .map((group) => `      <category id="${group.id}">${group.name}</category>`)
+function buildPromFeed(products, { filename, groups, resolveGroup, includeOldPrice = false }) {
+  const groupList = Array.isArray(groups) ? groups : Object.values(groups);
+  const categoriesXml = groupList
+    .map((group) => {
+      const parentId = group.parentId ? ` parentId="${escapeXml(group.parentId)}"` : '';
+      return `      <category id="${escapeXml(group.id)}"${parentId}>${escapeXml(group.name)}</category>`;
+    })
     .join('\n');
 
   let xml = `<?xml version="1.0" encoding="UTF-8"?>
@@ -310,11 +348,14 @@ ${categoriesXml}
           <length unit="cm">${dimensions.length}</length>
         </dimensions>\n`
       : '';
+    const oldPriceXml = includeOldPrice && p.oldPrice > p.price
+      ? `        <oldprice>${p.oldPrice}</oldprice>\n`
+      : '';
 
     xml += `
       <offer id="${p.sku}" available="${p.available}">
         <name><![CDATA[${p.name}]]></name>
-        <price>${p.price}</price>
+${oldPriceXml}        <price>${p.price}</price>
         <categoryId>${categoryId}</categoryId>
         <currencyId>UAH</currencyId>
 ${pictures ? `${pictures}\n` : ''}${dimensionsXml}        <description><![CDATA[${p.description || p.name}]]></description>
@@ -338,18 +379,27 @@ function buildRozetka(products) {
   });
 }
 
-function buildPersonalProm(products) {
+function buildPersonalProm(products, catalog) {
+  const categories = [
+    PERSONAL_ROOT_CATEGORY,
+    ...catalog.categories.filter((category) => String(category.id) !== String(PERSONAL_ROOT_CATEGORY.id))
+  ];
+
   buildPromFeed(products, {
     filename: 'prom-andrii.xml',
-    groups: PERSONAL_PROM_GROUPS,
-    resolveGroup: getPersonalPromGroup
+    groups: categories,
+    resolveGroup: (product) => getPersonalPromCategory(product, catalog),
+    includeOldPrice: true
   });
 }
 
 async function run() {
-  const products = await parseProducts();
+  const [products, catalog] = await Promise.all([
+    parseProducts(),
+    downloadHoroshopPromCatalog()
+  ]);
   buildRozetka(products);
-  buildPersonalProm(products);
+  buildPersonalProm(products, catalog);
 }
 
 run();
