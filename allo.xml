@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-11 22:20</date>
+    <date>2026-09-12 00:57</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -1541,7 +1541,7 @@
 <p data-end="1239" data-is-last-node="" data-is-only-node="" data-start="1068"><span style="font-size:18px;"><strong data-end="1084" data-start="1068">Особливості:</strong></span><span style="font-size:14px;"> інструмент призначений для регулярного виконання земляних робіт на присадибних територіях та використовується для комплексного догляду за садом і городом.</span></p>]]></description>
             <url>https://fiskars-gratis.com.ua/lopata-shtykova-zahostrena-fiskars-1071927/</url>
             <image>https://fiskars-gratis.com.ua/content/images/43/lopata-shtykova-zahostrena-fiskars-1071927-20380707249706_+d458073775.jpg</image>
-            <priceRUAH>599</priceRUAH>
+            <priceRUAH>699</priceRUAH>
             <stock>Немає в наявності</stock>
             <param name="Артикул">1071927</param>
             <param name="Бренд">Fiskars</param>
@@ -1572,7 +1572,7 @@
 </section>]]></description>
             <url>https://fiskars-gratis.com.ua/lopata-sadova-klasychna-fiskars-fsc-1071929/</url>
             <image>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</image>
-            <priceRUAH>699</priceRUAH>
+            <priceRUAH>799</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1071929</param>
             <param name="Бренд">Fiskars</param>
@@ -1780,7 +1780,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-14072876723525_+20732f2442.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-62887676257613_+a7bcec00d0.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-51433458585582_+9b6af15279.png</image>
-            <priceRUAH>499</priceRUAH>
+            <priceRUAH>599</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1071922</param>
             <param name="Бренд">Fiskars</param>
@@ -3144,7 +3144,7 @@
             <url>https://fiskars-gratis.com.ua/nabir-fiskars-mitla-dvorova-m-hrabli-solid-1056927/</url>
             <image>https://fiskars-gratis.com.ua/content/images/30/nabir-fiskars-mitla-dvorova-m-hrabli-solid-1056927-82433085609314_+55060e055c.jpg</image>
             <priceRUAH>1199</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1056927</param>
             <param name="Бренд">Fiskars</param>
@@ -8064,7 +8064,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-45522949929795_+266713f98b.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-39611485346034_+53b01f3946.jpeg</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1070715105108</param>
             <param name="Бренд">Fiskars</param>
@@ -11940,7 +11940,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/49/nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971-43296075139700_+806ffe6722.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/49/nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971-82533924073313_+22d410ce6c.jpg</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1013971</param>
             <param name="Бренд">Gerber</param>

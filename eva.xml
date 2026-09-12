@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-11 22:20">
+<yml_catalog date="2026-09-12 00:57">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -2018,10 +2018,10 @@
         <param name="Код УКТ ЗЕД">8211930000</param>
         <param name="Категорія Хорошоп">GERBER / Ножі Gerber / Складні ножі Gerber</param>
       </offer>
-      <offer id="1013971" available="true">
+      <offer id="1013971" available="false">
         <url>https://fiskars-gratis.com.ua/nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971/</url>
         <price>1999</price>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971-43296075139700_+806ffe6722.jpg</picture>
