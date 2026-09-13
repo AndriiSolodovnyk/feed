@@ -13,6 +13,8 @@ const SHARED_PROM_GROUPS = Object.freeze({
 });
 
 const PERSONAL_ROOT_CATEGORY = Object.freeze({ id: 1, name: 'Коренева група' });
+const PERSONAL_DISCOUNT_CATEGORY = Object.freeze({ id: 156333769, name: 'Акції' });
+const HOROSHOP_PROMOTION_CATEGORY_ID = '1192';
 
 const SHARED_SET_PRODUCT_SKUS = new Set([
   '1052276',
@@ -247,7 +249,7 @@ function parseHoroshopPromCatalog(xml) {
     categoryByPath.set(normalizeSectionPath(names.join('/')), category);
   }
 
-  return { categories, categoryByPath };
+  return { categories, categoryById, categoryByPath };
 }
 
 async function downloadHoroshopPromCatalog() {
@@ -260,9 +262,10 @@ function getPersonalPromCategory(product, catalog) {
   const name = String(product.name || '').toLocaleLowerCase('uk');
 
   if (PERSONAL_SET_PRODUCT_SKUS.has(sku) || name.includes('+')) {
-    return catalog.categoryByPath.get(normalizeSectionPath('Акції')) || PERSONAL_ROOT_CATEGORY;
+    return catalog.categoryById.get(HOROSHOP_PROMOTION_CATEGORY_ID) || PERSONAL_ROOT_CATEGORY;
   }
 
+  if (product.oldPrice > product.price) return PERSONAL_DISCOUNT_CATEGORY;
   if (PERSONAL_ROOT_PRODUCT_SKUS.has(sku)) return PERSONAL_ROOT_CATEGORY;
 
   const sectionParts = normalizeSectionPath(product.section).split('/').filter(Boolean);
@@ -382,7 +385,12 @@ function buildRozetka(products) {
 function buildPersonalProm(products, catalog) {
   const categories = [
     PERSONAL_ROOT_CATEGORY,
-    ...catalog.categories.filter((category) => String(category.id) !== String(PERSONAL_ROOT_CATEGORY.id))
+    ...catalog.categories
+      .filter((category) => String(category.id) !== String(PERSONAL_ROOT_CATEGORY.id))
+      .map((category) => category.id === HOROSHOP_PROMOTION_CATEGORY_ID
+        ? { ...category, name: '1+1' }
+        : category),
+    PERSONAL_DISCOUNT_CATEGORY
   ];
 
   buildPromFeed(products, {
