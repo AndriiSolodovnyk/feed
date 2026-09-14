@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-13T22:59:17.985Z">
+<yml_catalog date="2026-09-14T00:57:03.325Z">
   <shop>
     <categories>
       <category id="1">Коренева група</category>
@@ -374,7 +374,7 @@
       </offer>
       <offer id=" 1015618" available="false">
         <name><![CDATA[Сокира туристична XS Х7 (F)]]></name>
-        <price>2899</price>
+        <price>2199</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-turystychna-xs-kh7-f-45034158709676_+1aa29d4679.png</picture>
@@ -669,7 +669,7 @@
       </offer>
       <offer id="1014776" available="true">
         <name><![CDATA[Лопата загострена Fiskars ClassicPro червона FSC (1014776)]]></name>
-        <price>1499</price>
+        <price>599</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/lopata-zahostrena-fiskars-classicpro-chervona-fsc-1014776-62107306863773_+98e9bf6697.jpeg</picture>
@@ -694,7 +694,7 @@
       </offer>
       <offer id="1005016" available="true">
         <name><![CDATA[Лопата совкова будівельна Fiskars (1005016)]]></name>
-        <price>2300</price>
+        <price>1299</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sovkova-budivelna-fiskars-1005016-69407303738447_+40a2392cd0.jpg</picture>
@@ -718,7 +718,7 @@
       </offer>
       <offer id="1014823" available="true">
         <name><![CDATA[Лопата совкова FISKARS PARK FSC (1014823)]]></name>
-        <price>1860</price>
+        <price>1399</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/lopata-sovkova-fiskars-park-fsc-1014823-17245250367461_+e958c452c0.png</picture>
@@ -762,11 +762,11 @@
 
 <p data-end="1308" data-is-last-node="" data-is-only-node="" data-start="1128"><span style="font-size:18px;"><strong data-end="1144" data-start="1128">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Classic бренду Fiskars та призначений для систематичних земляних робіт у садових і господарських умовах.</span></p>
 ]]></description>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>16</stock_quantity>
       </offer>
       <offer id="1024472" available="true">
         <name><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name>
-        <price>1899</price>
+        <price>799</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-sadova-klasychna-fiskars-fsc-1024472-57800540377835_+bcbde5a5fc.jpeg</picture>
@@ -849,7 +849,7 @@
       </offer>
       <offer id="1066724" available="true">
         <name><![CDATA[Лопата совкова з дерев'яною ручкою Fiskars Solid (1066724)]]></name>
-        <price>1799</price>
+        <price>899</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/lopata-sovkova-z-derevianoiu-ruchkoiu-fiskars-solid-1066724-51685020203657_+77bbc8ded3.jpg</picture>
@@ -876,7 +876,7 @@
       </offer>
       <offer id="1071919" available="true">
         <name><![CDATA[Лопата класична дренажна Fiskars (1071919)]]></name>
-        <price>1799</price>
+        <price>499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-92806745299362_+4bc29830a8.png</picture>
@@ -981,7 +981,7 @@
       </offer>
       <offer id="1062473" available="true">
         <name><![CDATA[Лопата та граблі MyFirst Fiskars Essentials (1062473)]]></name>
-        <price>1299</price>
+        <price>499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/lopata-ta-hrabli-myfirst-fiskars-essentials-1062473-91359860498999_+f5eced6d89.jpg</picture>
@@ -1005,7 +1005,7 @@
       </offer>
       <offer id="1071921" available="true">
         <name><![CDATA[Лопата дренажна класична Fiskars FSC (1071921)]]></name>
-        <price>1299</price>
+        <price>999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/lopata-drenazhna-klasychna-fiskars-fsc-1071921-86449683880347_+878831c293.jpg</picture>
@@ -1053,7 +1053,7 @@
       </offer>
       <offer id="1071929" available="true">
         <name><![CDATA[Лопата садова класична фіскарс FSC (1071929)]]></name>
-        <price>1999</price>
+        <price>799</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</picture>
@@ -1184,7 +1184,7 @@
       </offer>
       <offer id="1066727" available="true">
         <name><![CDATA[Лопата совкова Фіскарс PRIMA чорна FSC]]></name>
-        <price>1699</price>
+        <price>1199</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/lopata-sovkova-fiskars-prima-chorna-fsc-90945748490249_+42146e29f2.png</picture>
@@ -2210,7 +2210,7 @@
       </offer>
       <offer id="1000660" available="true">
         <name><![CDATA[Граблі для листя Fiskars Ergonomic XL (1000660)]]></name>
-        <price>899</price>
+        <price>999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/hrabli-dlia-lystia-fiskars-ergonomic-xl-1000660-38160386573897_+c708c18211.jpg</picture>
@@ -2425,7 +2425,7 @@
       </offer>
       <offer id="1001584" available="true">
         <name><![CDATA[Граблі класичні для листя Fiskars XL FSC (1001584)]]></name>
-        <price>1899</price>
+        <price>1299</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/6/hrabli-klasychni-dlia-lystia-fiskars-xl-fsc-1001584-79847047257606_+ffe4a02f34.png</picture>
@@ -2531,7 +2531,7 @@
       </offer>
       <offer id="1025578" available="true">
         <name><![CDATA[Граблі класичні для листя XL FSC (1025578)]]></name>
-        <price>1600</price>
+        <price>1399</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-klasychni-dlia-lystia-xl-fsc-1025578-86208153535294_+842a0f52ba.png</picture>
@@ -2557,7 +2557,7 @@
       </offer>
       <offer id="1002177" available="true">
         <name><![CDATA[Граблі для листя Fiskars ERGO]]></name>
-        <price>1556</price>
+        <price>999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/hrabli-dlia-lystia-fiskars-ergo-57942774128057_+5880d55b43.png</picture>
@@ -4136,7 +4136,7 @@
 
 <p data-end="1122" data-start="1061"><strong data-end="1078" data-start="1061">Комплектація:</strong>&nbsp;ножиці садові Fiskars Classic 25 см &mdash; 1 шт.</p>
 ]]></description>
-        <stock_quantity>187</stock_quantity>
+        <stock_quantity>184</stock_quantity>
       </offer>
       <offer id="1026826" available="true">
         <name><![CDATA[Ножиці для трави Solid GS21 (1026826)]]></name>
@@ -5162,7 +5162,7 @@
 
 <p><span style="font-size:14px;">Набір Fiskars поєднує інструменти для роботи з деревиною та догляду за газоном в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>16</stock_quantity>
       </offer>
       <offer id="1001622106119" available="false">
         <name><![CDATA[Набір Fiskars: ніж загального призначення K40 Fiskars + ніж складаний Fiskars CarbonMax]]></name>
@@ -5959,7 +5959,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує практичність і універсальність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>67</stock_quantity>
+        <stock_quantity>66</stock_quantity>
       </offer>
       <offer id="1024856105984" available="true">
         <name><![CDATA[Набір Мачете Gerber Compact Clearpath + Ніж-топірець Gerber DOWNWIND ULU]]></name>
@@ -6088,7 +6088,7 @@
 
 <p><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;топор та лопата Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
-        <stock_quantity>39</stock_quantity>
+        <stock_quantity>38</stock_quantity>
       </offer>
       <offer id="1070715105108" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White + Сокира теслярська Solid A10]]></name>
@@ -6164,7 +6164,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>122</stock_quantity>
+        <stock_quantity>121</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC]]></name>
@@ -6475,7 +6475,7 @@
 
 <p><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;колун та лопата Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>19</stock_quantity>
       </offer>
       <offer id="1003466101960" available="false">
         <name><![CDATA[Набір Fiskars: Універсальні граблі Solid+ Граблі для ґрунту полегшені White]]></name>
@@ -6725,7 +6725,7 @@
 
 <p><span style="font-size:16px;">Набір Fiskars поєднує інструменти для ефективного прибирання листя та догляду за ділянкою в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="1070715101477" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White +Лопата садова штикова Fiskars Classic FSC]]></name>
@@ -6906,7 +6906,7 @@
 
 <p data-end="2173" data-is-last-node="" data-is-only-node="" data-start="1962"><span style="font-size:14px;">Набір Fiskars поєднує інструменти для сезонного прибирання та щоденного догляду за садовою ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>26</stock_quantity>
+        <stock_quantity>25</stock_quantity>
       </offer>
       <offer id="1062940106119" available="true">
         <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax]]></name>
@@ -8197,7 +8197,7 @@
 	</li>
 </ol>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1051085100346" available="true">
         <name><![CDATA[Сокира теслярська Solid A10+Граблі універсальні садові Solid]]></name>
@@ -8463,7 +8463,7 @@
 	</li>
 </ol>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1052045100346" available="true">
         <name><![CDATA[Сокира-колун Solid A18+Граблі універсальн садові Solid]]></name>
@@ -8530,7 +8530,7 @@
 	</li>
 </ol>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1052045107192" available="true">
         <name><![CDATA[Сокира-колун Solid A18+Лопата садова класична фіскарс FSC]]></name>
@@ -8725,7 +8725,7 @@
 	</li>
 </ol>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="1027528107192" available="true">
         <name><![CDATA[Сучкоріз площинний телескопічний Solid L13+Лопата садова класична фіскарс FSC]]></name>
@@ -8940,7 +8940,7 @@
 <p data-end="1177" data-is-last-node="" data-is-only-node="" data-start="984"><span style="font-size:18px;"><strong data-end="1000" data-start="984">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичного обслуговування і відновлення гостроти лез ручних інструментів.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>16</stock_quantity>
       </offer>
       <offer id="1001317" available="true">
         <name><![CDATA[Точило для ножів Fiskars Kitchen Devils (1001317)]]></name>
@@ -10482,7 +10482,7 @@
 
 <p><strong>Комплектація:</strong>&nbsp;пілер Fiskars Functional Form Y-подібний &mdash; 1 шт.</p>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1079909" available="true">
         <name><![CDATA[Пілер Y-образний для жульєну]]></name>

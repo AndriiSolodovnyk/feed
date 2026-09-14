@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-13 22:59">
+<yml_catalog date="2026-09-14 00:57">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -3740,7 +3740,7 @@
         <url>https://fiskars-gratis.com.ua/piler-y-obraznyi/</url>
         <price>399</price>
         <price_old>483</price_old>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-23398994564838_+cd29e570ed.png</picture>
