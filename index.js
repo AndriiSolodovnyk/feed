@@ -15,6 +15,7 @@ const SHARED_PROM_GROUPS = Object.freeze({
 const PERSONAL_ROOT_CATEGORY = Object.freeze({ id: 1, name: 'Коренева група' });
 const PERSONAL_DISCOUNT_CATEGORY = Object.freeze({ id: 156333769, name: 'Акції' });
 const HOROSHOP_PROMOTION_CATEGORY_ID = '1192';
+const AUTO_ACCESSORY_PRODUCT_SKUS = new Set(['1078497', '1019354']);
 
 const SHARED_SET_PRODUCT_SKUS = new Set([
   '1052276',
@@ -278,6 +279,16 @@ function getPersonalPromCategory(product, catalog) {
   return PERSONAL_ROOT_CATEGORY;
 }
 
+function getPersonalPromParameters(product) {
+  const sku = String(product.sku).trim();
+  if (!AUTO_ACCESSORY_PRODUCT_SKUS.has(sku)) return [];
+
+  return [
+    { name: 'Код запчастини', value: sku },
+    { name: 'Виробник', value: product.brand || 'Fiskars' }
+  ];
+}
+
 async function parseProducts() {
   const data = await downloadArrayBuffer(FILE_URL, { label: 'Horoshop XLSX' });
 
@@ -296,6 +307,7 @@ async function parseProducts() {
     const photos = row['Фото'];
     const quantity = Number(row['Количество']) || 0;
     const section = row['Раздел'] || '';
+    const brand = row['Бренд'] || '';
 
     if (!sku || !name || price <= 0) continue;
 
@@ -312,14 +324,22 @@ async function parseProducts() {
       available: quantity > 0,
       images,
       description,
-      section
+      section,
+      brand
     });
   }
 
   return products;
 }
 
-function buildPromFeed(products, { filename, groups, resolveGroup, includeOldPrice = false }) {
+function buildPromFeed(products, {
+  filename,
+  groups,
+  resolveGroup,
+  includeOldPrice = false,
+  includeProductIdentifiers = false,
+  resolveParameters = () => []
+}) {
   const groupList = Array.isArray(groups) ? groups : Object.values(groups);
   const categoriesXml = groupList
     .map((group) => {
@@ -354,6 +374,12 @@ ${categoriesXml}
     const oldPriceXml = includeOldPrice && p.oldPrice > p.price
       ? `        <oldprice>${p.oldPrice}</oldprice>\n`
       : '';
+    const identifiersXml = includeProductIdentifiers
+      ? `        <vendorCode>${escapeXml(sku)}</vendorCode>\n${p.brand ? `        <vendor>${escapeXml(p.brand)}</vendor>\n` : ''}`
+      : '';
+    const parametersXml = resolveParameters(p)
+      .map((parameter) => `        <param name="${escapeXml(parameter.name)}">${escapeXml(parameter.value)}</param>`)
+      .join('\n');
 
     xml += `
       <offer id="${p.sku}" available="${p.available}">
@@ -361,7 +387,7 @@ ${categoriesXml}
 ${oldPriceXml}        <price>${p.price}</price>
         <categoryId>${categoryId}</categoryId>
         <currencyId>UAH</currencyId>
-${pictures ? `${pictures}\n` : ''}${dimensionsXml}        <description><![CDATA[${p.description || p.name}]]></description>
+${pictures ? `${pictures}\n` : ''}${dimensionsXml}${identifiersXml}${parametersXml ? `${parametersXml}\n` : ''}        <description><![CDATA[${p.description || p.name}]]></description>
         <stock_quantity>${p.stock}</stock_quantity>
       </offer>`;
   }
@@ -397,7 +423,9 @@ function buildPersonalProm(products, catalog) {
     filename: 'prom-andrii.xml',
     groups: categories,
     resolveGroup: (product) => getPersonalPromCategory(product, catalog),
-    includeOldPrice: true
+    includeOldPrice: true,
+    includeProductIdentifiers: true,
+    resolveParameters: getPersonalPromParameters
   });
 }
 
