@@ -4,7 +4,10 @@ const { downloadArrayBuffer } = require('./feedDownloader');
 const PRODUCT_DIMENSIONS = require('./productDimensions');
 
 const FILE_URL = 'https://fiskars-gratis.com.ua/content/export/f21d2ef6d82a517fac09ea84c53cf5c9.xlsx';
-const HOROSHOP_PROM_URL = 'https://fiskars-gratis.com.ua/content/export/1e03430db27aa5834c2f6633af9e2c18.xml';
+const HOROSHOP_PROM_URLS = Object.freeze([
+  'https://fiskars-gratis.com.ua/content/export/1e03430db27aa5834c2f6633af9e2c18.xml',
+  'https://fiskars-gratis.com.ua/content/export/e649c9e648cfe80159ba1ece12455095.xml'
+]);
 
 const SHARED_PROM_GROUPS = Object.freeze({
   DEFAULT: { id: 1, name: 'Коренева група' },
@@ -15,6 +18,11 @@ const SHARED_PROM_GROUPS = Object.freeze({
 const PERSONAL_ROOT_CATEGORY = Object.freeze({ id: 1, name: 'Коренева група' });
 const PERSONAL_DISCOUNT_CATEGORY = Object.freeze({ id: 156333769, name: 'Акції' });
 const HOROSHOP_PROMOTION_CATEGORY_ID = '1192';
+const HOROSHOP_MISSING_CATEGORIES = Object.freeze([
+  { id: '1120', parentId: '1175', name: 'Сокири Gerber' },
+  { id: '1140', parentId: '1193', name: 'Щітки та скрібки для авто' },
+  { id: '1144', parentId: '1072', name: 'Кухонні ножі Fiskars Functional Form' }
+]);
 const AUTO_ACCESSORY_PRODUCT_SKUS = new Set(['1078497', '1019354']);
 
 const SHARED_SET_PRODUCT_SKUS = new Set([
@@ -59,12 +67,6 @@ const PERSONAL_SET_PRODUCT_SKUS = new Set([
   '1052240107504',
   '1003466101960',
   '1066487105983'
-]);
-
-const PERSONAL_ROOT_PRODUCT_SKUS = new Set([
-  '1062001',
-  '1062000',
-  '1062002'
 ]);
 
 const KITCHEN_PRODUCT_SKUS = new Set([
@@ -205,14 +207,6 @@ function escapeXml(value) {
     .replaceAll('>', '&gt;');
 }
 
-function normalizeSectionPath(value) {
-  return String(value || '')
-    .split('/')
-    .map((part) => part.trim().toLocaleLowerCase('uk'))
-    .filter(Boolean)
-    .join('/');
-}
-
 function parseHoroshopPromCatalog(xml) {
   const categoriesBlock = xml.match(/<categories>([\s\S]*?)<\/categories>/)?.[1];
   if (!categoriesBlock) throw new Error('Horoshop Prom XML does not contain a categories block');
@@ -233,50 +227,66 @@ function parseHoroshopPromCatalog(xml) {
 
   if (categories.length === 0) throw new Error('Horoshop Prom XML contains no valid categories');
 
-  const categoryById = new Map(categories.map((category) => [category.id, category]));
-  const categoryByPath = new Map();
+  return { categories };
+}
 
-  for (const category of categories) {
-    const names = [category.name];
-    const visited = new Set([category.id]);
-    let current = category;
+function extractXmlElementText(xml, tagName) {
+  const match = xml.match(new RegExp(`<${tagName}(?:\\s[^>]*)?>([\\s\\S]*?)<\\/${tagName}>`));
+  if (!match) return '';
 
-    while (current.parentId && categoryById.has(current.parentId) && !visited.has(current.parentId)) {
-      current = categoryById.get(current.parentId);
-      visited.add(current.id);
-      names.unshift(current.name);
+  return decodeXml(match[1]
+    .replace(/^<!\[CDATA\[/, '')
+    .replace(/\]\]>$/, '')
+    .trim());
+}
+
+function parseHoroshopPromSource(xml) {
+  const catalog = parseHoroshopPromCatalog(xml);
+  const offersBlock = xml.match(/<offers>([\s\S]*?)<\/offers>/)?.[1];
+  if (!offersBlock) throw new Error('Horoshop Prom XML does not contain an offers block');
+
+  const offers = [...offersBlock.matchAll(/<offer\b[\s\S]*?<\/offer>/g)]
+    .map((match) => {
+      const offerXml = match[0];
+      const sku = extractXmlElementText(offerXml, 'vendorCode');
+      const name = extractXmlElementText(offerXml, 'name');
+      const price = Number(extractXmlElementText(offerXml, 'price')) || 0;
+      const oldPrice = Number(extractXmlElementText(offerXml, 'oldprice')) || 0;
+      const categoryId = extractXmlElementText(offerXml, 'categoryId');
+
+      return { sku, name, price, oldPrice, categoryId, offerXml };
+    })
+    .filter((offer) => offer.sku && offer.name && offer.price > 0);
+
+  if (offers.length === 0) throw new Error('Horoshop Prom XML contains no valid offers');
+  return { categories: catalog.categories, offers };
+}
+
+async function downloadPersonalPromSources() {
+  const sourceXmlFiles = await Promise.all(HOROSHOP_PROM_URLS.map(async (url, index) => {
+    const data = await downloadArrayBuffer(url, { label: `Horoshop Prom XML ${index + 1}` });
+    return Buffer.from(data).toString('utf8');
+  }));
+
+  const categoryById = new Map();
+  const offerBySku = new Map();
+
+  for (const xml of sourceXmlFiles) {
+    const source = parseHoroshopPromSource(xml);
+    for (const category of source.categories) categoryById.set(String(category.id), category);
+    for (const offer of source.offers) {
+      if (!offerBySku.has(String(offer.sku))) offerBySku.set(String(offer.sku), offer);
     }
-
-    categoryByPath.set(normalizeSectionPath(names.join('/')), category);
   }
 
-  return { categories, categoryById, categoryByPath };
-}
-
-async function downloadHoroshopPromCatalog() {
-  const data = await downloadArrayBuffer(HOROSHOP_PROM_URL, { label: 'Horoshop Prom XML' });
-  return parseHoroshopPromCatalog(Buffer.from(data).toString('utf8'));
-}
-
-function getPersonalPromCategory(product, catalog) {
-  const sku = String(product.sku).trim();
-  const name = String(product.name || '').toLocaleLowerCase('uk');
-
-  if (PERSONAL_SET_PRODUCT_SKUS.has(sku) || name.includes('+')) {
-    return catalog.categoryById.get(HOROSHOP_PROMOTION_CATEGORY_ID) || PERSONAL_ROOT_CATEGORY;
+  for (const category of HOROSHOP_MISSING_CATEGORIES) {
+    if (!categoryById.has(category.id)) categoryById.set(category.id, category);
   }
 
-  if (product.oldPrice > product.price) return PERSONAL_DISCOUNT_CATEGORY;
-  if (PERSONAL_ROOT_PRODUCT_SKUS.has(sku)) return PERSONAL_ROOT_CATEGORY;
-
-  const sectionParts = normalizeSectionPath(product.section).split('/').filter(Boolean);
-  while (sectionParts.length > 0) {
-    const category = catalog.categoryByPath.get(sectionParts.join('/'));
-    if (category) return category;
-    sectionParts.pop();
-  }
-
-  return PERSONAL_ROOT_CATEGORY;
+  return {
+    categories: [...categoryById.values()],
+    offers: [...offerBySku.values()]
+  };
 }
 
 function getPersonalPromParameters(product) {
@@ -287,6 +297,77 @@ function getPersonalPromParameters(product) {
     { name: 'Код запчастини', value: sku },
     { name: 'Виробник', value: product.brand || 'Fiskars' }
   ];
+}
+
+function getPersonalSourceCategoryId(product) {
+  const sku = String(product.sku).trim();
+  const name = String(product.name || '').toLocaleLowerCase('uk');
+
+  if (PERSONAL_SET_PRODUCT_SKUS.has(sku) || name.includes('+')) {
+    return HOROSHOP_PROMOTION_CATEGORY_ID;
+  }
+
+  if (product.oldPrice > product.price || String(product.categoryId) === HOROSHOP_PROMOTION_CATEGORY_ID) {
+    return String(PERSONAL_DISCOUNT_CATEGORY.id);
+  }
+
+  return String(product.categoryId || PERSONAL_ROOT_CATEGORY.id);
+}
+
+function formatDimension(value) {
+  const number = Number(value);
+  return Number.isFinite(number) ? String(Number(number.toFixed(3))) : String(value);
+}
+
+function enrichHoroshopPromOffer(product) {
+  const sku = String(product.sku).trim();
+  const categoryId = getPersonalSourceCategoryId(product);
+  let offerXml = product.offerXml;
+
+  // Keep the existing personal-feed identity so the next import updates products instead of duplicating them.
+  offerXml = offerXml.replace(/<offer\b([^>]*)>/, (fullMatch, attributes) => {
+    const updatedAttributes = /\bid=(['"])[\s\S]*?\1/.test(attributes)
+      ? attributes.replace(/\bid=(['"])[\s\S]*?\1/, `id="${escapeXml(sku)}"`)
+      : ` id="${escapeXml(sku)}"${attributes}`;
+    return `<offer${updatedAttributes}>`;
+  });
+
+  if (/<categoryId>[\s\S]*?<\/categoryId>/.test(offerXml)) {
+    offerXml = offerXml.replace(
+      /<categoryId>[\s\S]*?<\/categoryId>/,
+      `<categoryId>${escapeXml(categoryId)}</categoryId>`
+    );
+  }
+
+  const dimensions = PRODUCT_DIMENSIONS[sku];
+  if (dimensions && !/<dimensions>/.test(offerXml)) {
+    const dimensionsXml = `    <dimensions>
+     <weight unit="kg">${formatDimension(dimensions.weight)}</weight>
+     <width unit="cm">${formatDimension(dimensions.width)}</width>
+     <height unit="cm">${formatDimension(dimensions.height)}</height>
+     <length unit="cm">${formatDimension(dimensions.length)}</length>
+    </dimensions>`;
+    const vendorCodeOffset = offerXml.search(/^\s*<vendorCode>/m);
+
+    offerXml = vendorCodeOffset >= 0
+      ? `${offerXml.slice(0, vendorCodeOffset)}${dimensionsXml}\n${offerXml.slice(vendorCodeOffset)}`
+      : offerXml.replace(/\s*<\/offer>\s*$/, `\n${dimensionsXml}\n   </offer>`);
+  }
+
+  for (const parameter of getPersonalPromParameters({
+    ...product,
+    brand: extractXmlElementText(offerXml, 'vendor')
+  })) {
+    const parameterPattern = new RegExp(`<param\\s+name=(['"])${parameter.name}\\1>`);
+    if (parameterPattern.test(offerXml)) continue;
+
+    offerXml = offerXml.replace(
+      /\s*<\/offer>\s*$/,
+      `\n    <param name="${escapeXml(parameter.name)}">${escapeXml(parameter.value)}</param>\n   </offer>`
+    );
+  }
+
+  return offerXml;
 }
 
 async function parseProducts() {
@@ -408,34 +489,52 @@ function buildRozetka(products) {
   });
 }
 
-function buildPersonalProm(products, catalog) {
+function buildPersonalProm(source) {
   const categories = [
     PERSONAL_ROOT_CATEGORY,
-    ...catalog.categories
+    ...source.categories
       .filter((category) => String(category.id) !== String(PERSONAL_ROOT_CATEGORY.id))
       .map((category) => category.id === HOROSHOP_PROMOTION_CATEGORY_ID
         ? { ...category, name: '1+1' }
         : category),
     PERSONAL_DISCOUNT_CATEGORY
   ];
+  const categoriesXml = categories
+    .filter((category, index, all) => all.findIndex((item) => String(item.id) === String(category.id)) === index)
+    .map((category) => {
+      const parentId = category.parentId ? ` parentId="${escapeXml(category.parentId)}"` : '';
+      return `   <category id="${escapeXml(category.id)}"${parentId}>${escapeXml(category.name)}</category>`;
+    })
+    .join('\n');
+  const offersXml = source.offers.map(enrichHoroshopPromOffer).join('\n');
+  const generatedAt = new Date().toISOString().replace('T', ' ').slice(0, 16);
 
-  buildPromFeed(products, {
-    filename: 'prom-andrii.xml',
-    groups: categories,
-    resolveGroup: (product) => getPersonalPromCategory(product, catalog),
-    includeOldPrice: true,
-    includeProductIdentifiers: true,
-    resolveParameters: getPersonalPromParameters
-  });
+  const xml = `<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="${generatedAt}">
+ <shop>
+  <currencies>
+   <currency id="UAH" rate="1"/>
+  </currencies>
+  <categories>
+${categoriesXml}
+  </categories>
+  <offers>
+${offersXml}
+  </offers>
+ </shop>
+</yml_catalog>`;
+
+  fs.writeFileSync('prom-andrii.xml', xml);
 }
 
 async function run() {
-  const [products, catalog] = await Promise.all([
+  const [products, personalSource] = await Promise.all([
     parseProducts(),
-    downloadHoroshopPromCatalog()
+    downloadPersonalPromSources()
   ]);
   buildRozetka(products);
-  buildPersonalProm(products, catalog);
+  buildPersonalProm(personalSource);
 }
 
 run();
