@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-14 23:00</date>
+    <date>2026-09-15 01:22</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -840,7 +840,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/24/sokyra-turystychna-xxs-x5-98821374667868_+6dbaaf8e37.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/24/sokyra-turystychna-xxs-x5-18516043559180_+750518d50e.png</image>
             <priceRUAH>2699</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1015617</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -2591,7 +2591,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-51741053469699_+53665dd558.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-72592475113180_+ec48c23413.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">36</guarantee>
             <param name="Артикул">1020126</param>
             <param name="Бренд">Fiskars</param>
@@ -6176,7 +6176,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-12696129623489_+b89b029279.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-70074195178608_+947c0e580f.png</image>
             <priceRUAH>499</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1000555</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
