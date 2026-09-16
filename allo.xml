@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-16 00:07</date>
+    <date>2026-09-16 05:44</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -2885,7 +2885,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-27487367778769_+1137de4d65.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-15228611473368_+01e54b7393.jpg</image>
             <priceRUAH>599</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1000567</param>
             <param name="Бренд">Fiskars</param>
@@ -6176,7 +6176,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-12696129623489_+b89b029279.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-sadovi-classic-18-sm-70074195178608_+947c0e580f.png</image>
             <priceRUAH>499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1000555</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -15035,7 +15035,7 @@
             <url>https://fiskars-gratis.com.ua/multytul-brelok-vidkryvachka-gerber-shardxl-micarta-4l-1064440/</url>
             <image>https://fiskars-gratis.com.ua/content/images/34/multytul-brelok-vidkryvachka-gerber-shardxl-micarta-4l-1064440-80192971815697_+6f5b4012b0.jpg</image>
             <priceRUAH>499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1064440</param>
             <param name="Бренд">Gerber</param>
