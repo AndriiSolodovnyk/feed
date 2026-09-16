@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-16 13:51">
+<yml_catalog date="2026-09-16 18:10">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -5079,7 +5079,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>11</stock_quantity>
+                    <stock_quantity>10</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1059836105536/6a57649ece665_multytul-gerber-lockdown-slim16lbox-podarunok-nizh-skladanyi-asada-34372247253003-ebdca2ede6.jpg</picture>
@@ -5649,7 +5649,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>38</stock_quantity>
+                    <stock_quantity>36</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1023492101477/6a5764a18a68e_nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-80695237000335-d0c22218b0.png</picture>
@@ -6797,7 +6797,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>3</stock_quantity>
+                    <stock_quantity>2</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1028494/6a5764b577148_nizh-skladanyi-gerber-fastball-warncliff-fsg-box-1028494-49088892769137-40fa5c549b.jpg</picture>
@@ -8955,7 +8955,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>26</stock_quantity>
+                    <stock_quantity>25</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1082297/6a5764e53e6da_sekator-akumuliatornyi-fiskars-epruner-m-bypassi-z-vbudovanym-akumuliatorom-8v-4-4ah-1082297-33665381691237-f8640934ac.jpg</picture>
