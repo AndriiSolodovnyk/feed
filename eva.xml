@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-16 22:43">
+<yml_catalog date="2026-09-17 01:09">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -505,7 +505,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-all-steel-pure-28-sm-matova/</url>
         <price>4599</price>
         <price_old>5140</price_old>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-58181003871289_+1bc4ebae2a.png</picture>
@@ -2143,7 +2143,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-asada-1055364/</url>
         <price>999</price>
         <price_old>2999</price_old>
-        <stock_quantity>370</stock_quantity>
+        <stock_quantity>369</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
@@ -2181,7 +2181,7 @@
       <offer id="1028494" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-fastball-warncliff-fsg-box-1028494/</url>
         <price>7099</price>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/3/nizh-skladanyi-gerber-fastball-warncliff-fsg-box-1028494-49088892769137_+40fa5c549b.jpg</picture>
