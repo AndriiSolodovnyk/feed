@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-17 09:57">
+<yml_catalog date="2026-09-17 14:58">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -5578,7 +5578,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>16</stock_quantity>
+                    <stock_quantity>17</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1070715101477/6a5764a14857f_nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-62787540131119-bb75c4a299.png</picture>
@@ -5649,7 +5649,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>36</stock_quantity>
+                    <stock_quantity>34</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1023492101477/6a5764a18a68e_nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-80695237000335-d0c22218b0.png</picture>
@@ -6188,7 +6188,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>16</stock_quantity>
+                    <stock_quantity>15</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1026797/6a5764a9b5f23_tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-26347769480417-dbde59df1f.jpg</picture>
@@ -14832,7 +14832,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>966</stock_quantity>
+                    <stock_quantity>965</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1057760/6a8910b77d2b2_nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767-7f9d9f3c0a.png</picture>
@@ -16536,7 +16536,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>30</stock_quantity>
+                    <stock_quantity>29</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528102349/6a9f7a413f529_suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432-d153e7aa15.png</picture>
