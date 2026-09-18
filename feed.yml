@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-18 18:24">
+<yml_catalog date="2026-09-18 21:38">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -5079,7 +5079,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>10</stock_quantity>
+                    <stock_quantity>9</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1059836105536/6a57649ece665_multytul-gerber-lockdown-slim16lbox-podarunok-nizh-skladanyi-asada-34372247253003-ebdca2ede6.jpg</picture>
@@ -7588,7 +7588,7 @@
                                             <description><![CDATA[Ніж Gerber Paraframe I SE BL 1013968 — універсальний складаний ніж для щоденних задач. Призначення: використовується для різання матеріалів у побуті та на природі. Конструкція: рамкова конструкція забезпечує легкість і надійність. Матеріали: виготовлений із міцної сталі, стійкої до корозії. Особливості: поєднання функціональності та зручності]]></description>
                                     </offer>
                                             
-                <offer id="1013954" available="true">
+                <offer id="1013954" available="false">
                     <!-- Ідентифікатори -->
                     <vendorCode>1013954</vendorCode>
                                             <barcode>13658484856</barcode>
@@ -7604,7 +7604,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>1</stock_quantity>
+                    <stock_quantity>0</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1013954/6a5764c349f9e_nizh-paraframe-gerber-mini-fe-bl-12616963264447-f5fdd06e8c.jpg</picture>
