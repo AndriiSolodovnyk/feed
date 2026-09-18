@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-18 14:29">
+<yml_catalog date="2026-09-18 18:24">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -303,7 +303,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>8</stock_quantity>
+                    <stock_quantity>7</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1015644/6a57644e1fb3e_fiskars-x27-xxl-1015644-sokyra-kolun-79732584602054-ce3da73ad6.jpg</picture>
@@ -16536,7 +16536,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>27</stock_quantity>
+                    <stock_quantity>25</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528102349/6a9f7a413f529_suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432-d153e7aa15.png</picture>
