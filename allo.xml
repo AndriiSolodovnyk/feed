@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-18 00:03</date>
+    <date>2026-09-18 05:37</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -449,7 +449,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/19/sokyra-kolun-l-kh21-f-65787424604347_+a937218a2a.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/19/sokyra-kolun-l-kh21-f-22103199446323_+a1993e600f.jpg</image>
             <priceRUAH>3599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1015642</param>
             <param name="Бренд">Fiskars</param>

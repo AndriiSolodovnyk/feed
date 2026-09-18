@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-18 00:03">
+<yml_catalog date="2026-09-18 05:37">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -2143,7 +2143,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-asada-1055364/</url>
         <price>999</price>
         <price_old>2999</price_old>
-        <stock_quantity>369</stock_quantity>
+        <stock_quantity>367</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
@@ -2913,7 +2913,7 @@
       <offer id="1059841" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-gerber-downwind-caper-siryi-1059841/</url>
         <price>1999</price>
-        <stock_quantity>362</stock_quantity>
+        <stock_quantity>361</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1014</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/nizh-gerber-downwind-caper-siryi-1059841-50619684979548_+8787d257c1.jpg</picture>
@@ -2952,7 +2952,7 @@
       <offer id="1059842" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-topirets-gerber-downwind-ulu-1059842/</url>
         <price>2999</price>
-        <stock_quantity>132</stock_quantity>
+        <stock_quantity>129</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1014</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/nizh-topirets-gerber-downwind-ulu-1059842-31084073354006_+dce6069d81.jpg</picture>
@@ -4357,7 +4357,7 @@
         <url>https://fiskars-gratis.com.ua/nabir-kukhonykh-nozhiv-6-sht-safron/</url>
         <price>699</price>
         <price_old>1200</price_old>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/nabir-kukhonykh-nozhiv-6-sht-safron-70031454622799_+3416e06490.png</picture>
@@ -5060,7 +5060,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-scout4lblsonyx3-12-1064399/</url>
         <price>899</price>
         <price_old>2389</price_old>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>11</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
@@ -5375,7 +5375,7 @@
       <offer id="1024856" available="true">
         <url>https://fiskars-gratis.com.ua/machete-gerber-compact-clearpath-1024856/</url>
         <price>2249</price>
-        <stock_quantity>205</stock_quantity>
+        <stock_quantity>202</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1008</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-46076303649247_+2be344ae48.jpg</picture>
@@ -6617,7 +6617,7 @@
       <offer id="1014412" available="true">
         <url>https://fiskars-gratis.com.ua/terka-ff-malenka-dlia-tsedry-lymonu-imbyru-shokoladu/</url>
         <price>1515</price>
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>10</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/terka-ff-malenka-dlia-tsedry-lymonu-imbyru-shokoladu-77192424262448_+d7792c6dad.jpeg</picture>
