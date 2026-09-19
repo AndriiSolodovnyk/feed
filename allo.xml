@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-18 23:58</date>
+    <date>2026-09-19 04:26</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -12845,7 +12845,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-12616963264447_+f5fdd06e8c.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-25189904097641_+fc2ae20355.jpg</image>
             <priceRUAH>749</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1013954</param>
             <param name="Бренд">Fiskars</param>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-18 23:58">
+<yml_catalog date="2026-09-19 04:26">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -1574,7 +1574,7 @@
         <url>https://fiskars-gratis.com.ua/kastrulia-chavunna-folken-4l/</url>
         <price>5999</price>
         <price_old>6755</price_old>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/kastrulia-chavunna-folken-4l-52813707490101_+f982a59daa.png</picture>
@@ -3092,10 +3092,10 @@
         <param name="Код УКТ ЗЕД">8211930000</param>
         <param name="Категорія Хорошоп">GERBER / Ножі Gerber / Складні ножі Gerber</param>
       </offer>
-      <offer id="1013954" available="true">
+      <offer id="1013954" available="false">
         <url>https://fiskars-gratis.com.ua/nizh-paraframe-gerber-mini-fe-bl/</url>
         <price>749</price>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-12616963264447_+f5fdd06e8c.jpg</picture>
@@ -5147,7 +5147,7 @@
       <offer id="1021134" available="true">
         <url>https://fiskars-gratis.com.ua/multytul-gerber-brelok-vidkryvachka-shardecardblk-1021134/</url>
         <price>499</price>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/multytul-gerber-brelok-vidkryvachka-shardecardblk-1021134-64409445674384_+9f132e06f5.png</picture>

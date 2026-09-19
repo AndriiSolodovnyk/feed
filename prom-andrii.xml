@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-18 23:58">
+<yml_catalog date="2026-09-19 04:26">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -280,7 +280,7 @@
     <price>4199</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-60534600335018_+9710418154.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-97493924483987_+e573fcd4dd.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-61820673735928_+6fbe29b79e.png</picture>
@@ -327,7 +327,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1125</categoryId>
-    <quantity_in_stock>100</quantity_in_stock>
+    <quantity_in_stock>99</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-86012777730212_+d64300a136.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-59156442773986_+01158ecd68.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-30705972979269_+f52bebd257.jpg</picture>
@@ -507,7 +507,7 @@
     <price>1749</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/lopata-mala-fiskars-white-s-1067540-41347606308531_+4c043b7635.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/lopata-mala-fiskars-white-s-1067540-50594586793063_+60bccf61ce.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/lopata-mala-fiskars-white-s-1067540-11112499568728_+bb1ea3562d.jpg</picture>
@@ -575,7 +575,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>711</quantity_in_stock>
+    <quantity_in_stock>709</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -728,7 +728,7 @@
     <price>277</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/20/lopatka-fiskars-solid-1025563-57182449374359_+48018cd8f5.jpg</picture>
     <dimensions>
      <weight unit="kg">0.5</weight>
@@ -900,7 +900,7 @@
     <price>1399</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>163</quantity_in_stock>
+    <quantity_in_stock>153</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492-98820689201740_+9388495fc8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492-98601955629513_+cc461c8e2f.jpg</picture>
     <dimensions>
@@ -2024,7 +2024,7 @@
     <price>499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1116</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/41/multytul-gerber-brelok-vidkryvachka-shardecardblk-1021134-64409445674384_+9f132e06f5.png</picture>
     <dimensions>
      <weight unit="kg">0.3</weight>
@@ -2951,28 +2951,6 @@
     <description_ua><![CDATA[Ніж Gerber Paraframe I SE BL 1013968   універсальний складаний ніж для щоденних задач. Призначення: використовується для різання матеріалів у побуті та на природі. Конструкція: рамкова конструкція забезпечує легкість і надійність. Матеріали: виготовлений із міцної сталі, стійкої до корозії. Особливості: поєднання функціональності та зручності]]></description_ua>
     <param name="Гарантия">24 мес.</param>
    </offer>
-<offer id="1013954" group_id="35493" available="true">
-    <url>https://fiskars-gratis.com.ua/nizh-paraframe-gerber-mini-fe-bl/</url>
-    <price>749</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1107</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-12616963264447_+f5fdd06e8c.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-25189904097641_+fc2ae20355.jpg</picture>
-    <dimensions>
-     <weight unit="kg">0.3</weight>
-     <width unit="cm">10</width>
-     <height unit="cm">3</height>
-     <length unit="cm">22</length>
-    </dimensions>
-    <vendorCode>1013954</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Ніж Paraframe Gerber Mini FE BL]]></name>
-    <description><![CDATA[<p><strong>Ніж Gerber Paraframe Mini FE BL 1013954</strong><span style="font-size:14px;"> &mdash; компактний складаний ніж для щоденного використання.</span></p>    <p><strong>Призначення: </strong><span style="font-size:14px;">підходить для різання різних матеріалів у побуті та на природі. </span></p>    <p><strong>Конструкція: </strong><span style="font-size:14px;">легка рамкова конструкція забезпечує зручність і надійність.</span></p>    <p><strong>Матеріали: </strong><span style="font-size:14px;">виготовлений із міцної сталі, стійкої до зношування.</span></p>    <p><strong>Особливості: </strong><span style="font-size:14px;">компактний розмір і простота у використанні.</span></p>  ]]></description>
-    <name_ua><![CDATA[Ніж Paraframe Gerber Mini FE BL]]></name_ua>
-    <description_ua><![CDATA[<p><strong>Ніж Gerber Paraframe Mini FE BL 1013954</strong><span style="font-size:14px;"> &mdash; компактний складаний ніж для щоденного використання.</span></p>    <p><strong>Призначення: </strong><span style="font-size:14px;">підходить для різання різних матеріалів у побуті та на природі. </span></p>    <p><strong>Конструкція: </strong><span style="font-size:14px;">легка рамкова конструкція забезпечує зручність і надійність.</span></p>    <p><strong>Матеріали: </strong><span style="font-size:14px;">виготовлений із міцної сталі, стійкої до зношування.</span></p>    <p><strong>Особливості: </strong><span style="font-size:14px;">компактний розмір і простота у використанні.</span></p>  ]]></description_ua>
-    <param name="Гарантия">24 мес.</param>
-   </offer>
 <offer id="1026931102693" group_id="10489" available="true">
     <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32/</url>
     <oldprice>4198</oldprice>
@@ -3089,7 +3067,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/46/multytul-gerber-lockdown-slim16lbox-podarunok-nizh-skladanyi-asada-34372247253003_+ebdca2ede6.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/46/multytul-gerber-lockdown-slim16lbox-podarunok-nizh-skladanyi-asada-28905027618080_+ba64589e8d.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/46/multytul-gerber-lockdown-slim16lbox-podarunok-nizh-skladanyi-asada-16554531833629_+9ca454d4b2.jpeg</picture>
@@ -3642,7 +3620,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/23/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-63687954062353_+8a5f71bfb4.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/23/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-35628542216604_+458fb79f76.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/23/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-40818558612553_+c6f6bd96b4.jpeg</picture>
@@ -4095,7 +4073,7 @@
     <price>2499</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-65431477501912_+80659f6ea2.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-32539857287513_+7423617b27.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/43/instrument-dlia-vydalennia-burianiv-teleskopychnyi-smartfit-1020125-46070998568731_+38dddcdf63.png</picture>
@@ -4171,7 +4149,7 @@
     <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>159</quantity_in_stock>
+    <quantity_in_stock>155</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -4221,7 +4199,7 @@
     <price>1549</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>50</quantity_in_stock>
+    <quantity_in_stock>49</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-53859063065044_+b45e38e5f1.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-93548410822903_+accd02aa20.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-65393682270740_+57e1726ea8.png</picture>
@@ -4292,7 +4270,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-22538686036885_+6d958097a4.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-41830892844812_+7816ce0b58.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-50918913262005_+21eff59fcf.jpg</picture>
@@ -4428,7 +4406,7 @@
     <price>499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1087</categoryId>
-    <quantity_in_stock>207</quantity_in_stock>
+    <quantity_in_stock>205</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-92806745299362_+4bc29830a8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-32333286623091_+2eccc9588e.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-35508909773053_+89adfb5098.png</picture>
@@ -4889,7 +4867,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330_+0cb49eabd7.png</picture>
     <dimensions>
      <weight unit="kg">0.805</weight>
@@ -4933,7 +4911,7 @@
     <price>499</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/41/lopata-ta-hrabli-myfirst-fiskars-essentials-1062473-91359860498999_+f5eced6d89.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -4954,7 +4932,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>112</quantity_in_stock>
+    <quantity_in_stock>111</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/42/lopata-drenazhna-klasychna-fiskars-fsc-1071921-86449683880347_+878831c293.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -5017,7 +4995,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/46/hrabli-sadovi-ergonomic-1004809-68529857771138_+ff8f5607ad.jpeg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -5378,7 +5356,7 @@
     <price>1477</price>
     <currencyId>UAH</currencyId>
     <categoryId>1125</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-87735988845479_+10b2260602.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-47929734743131_+bc4a3a2b51.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-14886014694608_+99db58e107.png</picture>
@@ -5797,7 +5775,7 @@
     <price>299</price>
     <currencyId>UAH</currencyId>
     <categoryId>1177</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/trymach-instrumentu-fiskars-54255456404097_+ba4e1257c7.png</picture>
     <dimensions>
      <weight unit="kg">0.6</weight>
@@ -5839,7 +5817,7 @@
     <price>1949</price>
     <currencyId>UAH</currencyId>
     <categoryId>1177</categoryId>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-72996207398300_+e582902888.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-22014061178414_+bb77ea2298.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-52477224865978_+d585a0137f.png</picture>
@@ -6435,7 +6413,7 @@
     <price>5999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/kastrulia-chavunna-folken-4l-52813707490101_+f982a59daa.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/kastrulia-chavunna-folken-4l-82252643239587_+b832643d2f.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/kastrulia-chavunna-folken-4l-79064945235599_+a28fdc1c42.png</picture>
@@ -7656,7 +7634,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>964</quantity_in_stock>
+    <quantity_in_stock>960</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -7981,7 +7959,7 @@
     <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>214</quantity_in_stock>
+    <quantity_in_stock>213</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/35/shchitka-fiskars-erhonomichna-broom-dk-17702200346109_+f56e35cc92.png</picture>
     <dimensions>
      <weight unit="kg">0.4</weight>
@@ -8044,7 +8022,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/38/instrument-dlia-vydalennia-burianiv-96288475859217_+f10de849f1.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/38/instrument-dlia-vydalennia-burianiv-57304555138764_+1b26092665.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/38/instrument-dlia-vydalennia-burianiv-50055512092828_+021da0fc8a.png</picture>
@@ -8307,7 +8285,7 @@
     <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>97</quantity_in_stock>
+    <quantity_in_stock>95</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-17131597943110_+167e84e65d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-94903583528626_+4e4f781015.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-81496573318508_+2bea131b87.png</picture>
@@ -8350,7 +8328,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-37698904701762_+a2497125f9.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-58168144542852_+4614cbb679.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-35556107645267_+9678b0ff8e.png</picture>
@@ -8371,7 +8349,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-66822550593995_+6a92c49465.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-67903323560117_+97b42a89cf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-94299321922368_+72f76e14e0.png</picture>
@@ -8474,7 +8452,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-17906357745877_+5cfd9f63c4.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-50497162672661_+ab2bf62efb.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-19136950986926_+2868c4edcf.png</picture>
@@ -8494,7 +8472,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-68825027967585_+02c668ef12.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-83756400918725_+e678e0def8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-12622172661488_+937825116e.png</picture>
@@ -8702,7 +8680,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-34700090871095_+ab46608c96.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-15365417385023_+a0255b34ae.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-51419633299471_+ec55a9ae11.png</picture>
@@ -8725,7 +8703,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-28568877624496_+051bc719db.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-38119201586292_+87d4d88b48.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-50017954335258_+65dcc6bba5.png</picture>
@@ -8788,7 +8766,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432_+d153e7aa15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-96260386852426_+8bc07edb90.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-79179470127551_+08e280bb6b.png</picture>
@@ -8807,7 +8785,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-84247034469713_+a44b8ba605.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-37842163366507_+3cb25e370f.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-81674711878161_+559bebfbe0.png</picture>
@@ -9012,6 +8990,28 @@
     <description><![CDATA[<p><span style="font-size:18px;"><b>Ніж складний Gerber Paraframe II SE BL (1013971)</b></span><span style="font-size:14px;"> &mdash; складаний ручний інструмент для повсякденного використання та базових утилітарних робіт. Застосовується для різання пакувальних матеріалів, картону, мотузок, пластику та виконання допоміжних завдань у побуті або в дорозі.</span></p>    <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-носіння, поїздок, міських умов, а також як резервний ніж у туристичному спорядженні.</span></p>    <p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> складаний формат із фіксацією леза забезпечує безпечну експлуатацію. Клинок із серейторною крайкою (SE) розрахований на ефективне різання волокнистих матеріалів. Відкрита рамкова конструкція зменшує вагу та спрощує очищення ножа.</span></p>    <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> лезо виготовлене з нержавіючої сталі, стійкої до корозії при регулярному використанні. Металеве руків&rsquo;я забезпечує жорсткість конструкції та стабільний хват.</span></p>    <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Paraframe бренду Gerber та орієнтована на практичні щоденні задачі.</span></p>  ]]></description>
     <name_ua><![CDATA[Ніж складний Gerber Paraframe II SE BL (1013971)]]></name_ua>
     <description_ua><![CDATA[<p><span style="font-size:18px;"><b>Ніж складний Gerber Paraframe II SE BL (1013971)</b></span><span style="font-size:14px;"> &mdash; складаний ручний інструмент для повсякденного використання та базових утилітарних робіт. Застосовується для різання пакувальних матеріалів, картону, мотузок, пластику та виконання допоміжних завдань у побуті або в дорозі.</span></p>    <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-носіння, поїздок, міських умов, а також як резервний ніж у туристичному спорядженні.</span></p>    <p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> складаний формат із фіксацією леза забезпечує безпечну експлуатацію. Клинок із серейторною крайкою (SE) розрахований на ефективне різання волокнистих матеріалів. Відкрита рамкова конструкція зменшує вагу та спрощує очищення ножа.</span></p>    <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> лезо виготовлене з нержавіючої сталі, стійкої до корозії при регулярному використанні. Металеве руків&rsquo;я забезпечує жорсткість конструкції та стабільний хват.</span></p>    <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Paraframe бренду Gerber та орієнтована на практичні щоденні задачі.</span></p>  ]]></description_ua>
+    <param name="Гарантия">24 мес.</param>
+   </offer>
+<offer id="1013954" group_id="35493" available="">
+    <url>https://fiskars-gratis.com.ua/nizh-paraframe-gerber-mini-fe-bl/</url>
+    <price>749</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1107</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-12616963264447_+f5fdd06e8c.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/39/nizh-paraframe-gerber-mini-fe-bl-25189904097641_+fc2ae20355.jpg</picture>
+    <dimensions>
+     <weight unit="kg">0.3</weight>
+     <width unit="cm">10</width>
+     <height unit="cm">3</height>
+     <length unit="cm">22</length>
+    </dimensions>
+    <vendorCode>1013954</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Ніж Paraframe Gerber Mini FE BL]]></name>
+    <description><![CDATA[<p><strong>Ніж Gerber Paraframe Mini FE BL 1013954</strong><span style="font-size:14px;"> &mdash; компактний складаний ніж для щоденного використання.</span></p>    <p><strong>Призначення: </strong><span style="font-size:14px;">підходить для різання різних матеріалів у побуті та на природі. </span></p>    <p><strong>Конструкція: </strong><span style="font-size:14px;">легка рамкова конструкція забезпечує зручність і надійність.</span></p>    <p><strong>Матеріали: </strong><span style="font-size:14px;">виготовлений із міцної сталі, стійкої до зношування.</span></p>    <p><strong>Особливості: </strong><span style="font-size:14px;">компактний розмір і простота у використанні.</span></p>  ]]></description>
+    <name_ua><![CDATA[Ніж Paraframe Gerber Mini FE BL]]></name_ua>
+    <description_ua><![CDATA[<p><strong>Ніж Gerber Paraframe Mini FE BL 1013954</strong><span style="font-size:14px;"> &mdash; компактний складаний ніж для щоденного використання.</span></p>    <p><strong>Призначення: </strong><span style="font-size:14px;">підходить для різання різних матеріалів у побуті та на природі. </span></p>    <p><strong>Конструкція: </strong><span style="font-size:14px;">легка рамкова конструкція забезпечує зручність і надійність.</span></p>    <p><strong>Матеріали: </strong><span style="font-size:14px;">виготовлений із міцної сталі, стійкої до зношування.</span></p>    <p><strong>Особливості: </strong><span style="font-size:14px;">компактний розмір і простота у використанні.</span></p>  ]]></description_ua>
     <param name="Гарантия">24 мес.</param>
    </offer>
 <offer id="1051146" group_id="25460" available="">
