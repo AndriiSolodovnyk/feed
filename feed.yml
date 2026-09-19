@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-19 00:17">
+<yml_catalog date="2026-09-19 05:49">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -11657,7 +11657,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>93</stock_quantity>
+                    <stock_quantity>91</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1070715105108/6a57b0c7a6ff3_vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643-7c9ca353de.jpg</picture>
