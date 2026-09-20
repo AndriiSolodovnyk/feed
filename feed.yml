@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-20 11:19">
+<yml_catalog date="2026-09-20 16:00">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -11528,7 +11528,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>63</stock_quantity>
+                    <stock_quantity>62</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1051085101477/6a57b0c719312_sokyra-tesliarskafiskars-solid-a10-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-58824550677247-06d832a157.jpg</picture>
@@ -14832,7 +14832,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>960</stock_quantity>
+                    <stock_quantity>959</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1057760/6a8910b77d2b2_nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767-7f9d9f3c0a.png</picture>
