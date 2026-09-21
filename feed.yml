@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-21 10:39">
+<yml_catalog date="2026-09-21 17:00">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -117,7 +117,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>252</stock_quantity>
+                    <stock_quantity>192</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1052045/6a57644b02142_sokyra-kolun-solid-a18-32816859905940-d9511c6405.jpg</picture>
@@ -343,7 +343,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>683</stock_quantity>
+                    <stock_quantity>643</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1051085/6a5764568b6b0_sokyra-tesliarskafiskars-solid-a10-1051085-32349492837763-2f75112269.jpg</picture>
@@ -500,7 +500,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>715</stock_quantity>
+                    <stock_quantity>689</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1028376/6a57645966143_pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717-6167d795ea.jpg</picture>
@@ -1191,7 +1191,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>147</stock_quantity>
+                    <stock_quantity>128</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1071929/6a576466bf360_lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182-68cf3ee8c9.jpg</picture>
@@ -1300,7 +1300,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>188</stock_quantity>
+                    <stock_quantity>168</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1070715/6a5764684dd25_vyla-sadovi-white-62686653962191-c46fc2327b.jpg</picture>
@@ -2302,7 +2302,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>135</stock_quantity>
+                    <stock_quantity>75</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1024711/6a576471a3b88_sekator-fiskars-softgrip-m-1024711-33272296243147-9fe0140605.jpg</picture>
@@ -2657,7 +2657,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>73</stock_quantity>
+                    <stock_quantity>370</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1003466/6a5764784c232_universalni-hrabli-fiskars-solid-1003466-78110306972162-c520d25b83.jpg</picture>
@@ -3666,7 +3666,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>2</stock_quantity>
+                    <stock_quantity>3</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1052248/6a57648391814_skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-98378400321008-13c289830e.png</picture>
@@ -5720,7 +5720,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>21</stock_quantity>
+                    <stock_quantity>20</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1003466102349/6a5764a1cc63c_nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330-0cb49eabd7.png</picture>
@@ -9492,7 +9492,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>202</stock_quantity>
+                    <stock_quantity>182</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1024856/6a5764ef8f64a_machete-gerber-compact-clearpath-1024856-46076303649247-2be344ae48.jpg</picture>
@@ -11591,7 +11591,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>34</stock_quantity>
+                    <stock_quantity>33</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1014773105108/6a57b0c75c82d_lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-56572278643966-9114879737.jpg</picture>
@@ -12431,7 +12431,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>341</stock_quantity>
+                    <stock_quantity>281</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528/6a57b0cc5835d_hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-35773768022595-e04fe55b4f.jpg</picture>
@@ -12543,7 +12543,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>248</stock_quantity>
+                    <stock_quantity>218</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1059836/6a57b0cf4317c_multytul-gerber-lockdown-slim16lbox-1059836-59251443973745-9a8ef0fa11.jpg</picture>
@@ -15786,7 +15786,7 @@
                                         
                     <!-- Ціни та знижки -->
                     <price>2999</price>
-                                            <oldprice>5798</oldprice>
+                                            <oldprice>5998</oldprice>
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
@@ -15872,7 +15872,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>5</stock_quantity>
+                    <stock_quantity>36</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1024711105983/6a9f7a3e54c26_sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-54600437581112-6989279292.png</picture>
@@ -15956,7 +15956,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>4</stock_quantity>
+                    <stock_quantity>38</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1024711102837/6a9f7a3eb13ab_sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-66856692547031-f0de17be15.png</picture>
@@ -16120,7 +16120,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>8</stock_quantity>
+                    <stock_quantity>29</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1052045102485/6a9f7a3f66f7b_sokyra-kolun-solid-a18-machete-compact-clearpath-86642605311000-ca12383c19.png</picture>
@@ -16288,7 +16288,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>7</stock_quantity>
+                    <stock_quantity>29</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1052045100346/6a9f7a4033c7a_sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-28568877624496-051bc719db.png</picture>
@@ -16536,7 +16536,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>19</stock_quantity>
+                    <stock_quantity>18</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528102349/6a9f7a413f529_suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432-d153e7aa15.png</picture>
@@ -16618,7 +16618,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>8</stock_quantity>
+                    <stock_quantity>28</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528107192/6a9f7a41a4116_suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-84247034469713-a44b8ba605.png</picture>
@@ -16700,7 +16700,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>7</stock_quantity>
+                    <stock_quantity>29</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528105108/6a9f7a41eaf5b_suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484-f66232f806.png</picture>
@@ -16782,7 +16782,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>6</stock_quantity>
+                    <stock_quantity>28</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528105204/6a9f7a424a135_suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-68712988809834-0b31b52540.png</picture>
@@ -16831,7 +16831,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>7</stock_quantity>
+                    <stock_quantity>28</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1052045107071/6a9f7a3fd7a75_sokyra-kolun-solid-a18vyla-sadovi-white-34700090871095-ab46608c96.jpg</picture>
