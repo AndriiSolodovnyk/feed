@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-21 17:00">
+<yml_catalog date="2026-09-21 21:02">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -1518,7 +1518,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>4</stock_quantity>
+                    <stock_quantity>3</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1070675/6a576469dd9fe_vyla-sadovi-prima-u-grip-fsc-1070675-46089449031083-c55e236024.png</picture>
@@ -5578,7 +5578,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>17</stock_quantity>
+                    <stock_quantity>16</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1070715101477/6a5764a14857f_nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-62787540131119-bb75c4a299.png</picture>
@@ -5720,7 +5720,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>20</stock_quantity>
+                    <stock_quantity>19</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1003466102349/6a5764a1cc63c_nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330-0cb49eabd7.png</picture>
@@ -11657,7 +11657,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>84</stock_quantity>
+                    <stock_quantity>83</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1070715105108/6a57b0c7a6ff3_vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643-7c9ca353de.jpg</picture>
@@ -16120,7 +16120,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>29</stock_quantity>
+                    <stock_quantity>28</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1052045102485/6a9f7a3f66f7b_sokyra-kolun-solid-a18-machete-compact-clearpath-86642605311000-ca12383c19.png</picture>
