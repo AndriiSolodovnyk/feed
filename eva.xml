@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-21 23:54">
+<yml_catalog date="2026-09-22 03:57">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -325,7 +325,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248/</url>
         <price>1999</price>
         <price_old>5100</price_old>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-97850798404853_+b78b49f20e.png</picture>
@@ -5189,7 +5189,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-lockdown-slim16lbox-1059836/</url>
         <price>1999</price>
         <price_old>2389</price_old>
-        <stock_quantity>248</stock_quantity>
+        <stock_quantity>218</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-59251443973745_+9a8ef0fa11.jpg</picture>
@@ -5375,7 +5375,7 @@
       <offer id="1024856" available="true">
         <url>https://fiskars-gratis.com.ua/machete-gerber-compact-clearpath-1024856/</url>
         <price>2249</price>
-        <stock_quantity>202</stock_quantity>
+        <stock_quantity>182</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1008</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-46076303649247_+2be344ae48.jpg</picture>

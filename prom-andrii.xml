@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-21 23:54">
+<yml_catalog date="2026-09-22 03:57">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -90,7 +90,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>252</quantity_in_stock>
+    <quantity_in_stock>192</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-kolun-solid-a18-32816859905940_+d9511c6405.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/41650360493183_+e16acac9d5.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-kolun-solid-a18-32081552193963_+eed79a03b8.jpg</picture>
@@ -233,7 +233,7 @@
     <price>2099</price>
     <currencyId>UAH</currencyId>
     <categoryId>1088</categoryId>
-    <quantity_in_stock>188</quantity_in_stock>
+    <quantity_in_stock>168</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/26/vyla-sadovi-white-62686653962191_+c46fc2327b.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/vyla-sadovi-white-60988540014067_+db5cb4a77e.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/vyla-sadovi-white-66385483801039_+784208e76a.jpg</picture>
@@ -280,7 +280,7 @@
     <price>4199</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-60534600335018_+9710418154.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-97493924483987_+e573fcd4dd.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/31/fiskars-x27-xxl-1015644-sokyra-kolun-61820673735928_+6fbe29b79e.png</picture>
@@ -305,7 +305,7 @@
     <price>2499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1083</categoryId>
-    <quantity_in_stock>683</quantity_in_stock>
+    <quantity_in_stock>643</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/47/sokyra-tesliarskafiskars-solid-a10-1051085-32349492837763_+2f75112269.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/47/sokyra-tesliarskafiskars-solid-a10-1051085-19406112949108_+2d6c5d965d.jpg</picture>
     <dimensions>
@@ -418,7 +418,7 @@
     <price>2300</price>
     <currencyId>UAH</currencyId>
     <categoryId>1126</categoryId>
-    <quantity_in_stock>341</quantity_in_stock>
+    <quantity_in_stock>281</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/3/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-35773768022595_+e04fe55b4f.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-70456469269564_+d577bc798a.jpg</picture>
     <dimensions>
@@ -575,7 +575,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>716</quantity_in_stock>
+    <quantity_in_stock>689</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -878,7 +878,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/27/hrabli-dlia-lystia-fiskars-ergonomic-xl-1000660-38160386573897_+c708c18211.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -1009,7 +1009,7 @@
     <price>849</price>
     <currencyId>UAH</currencyId>
     <categoryId>1178</categoryId>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-26347769480417_+dbde59df1f.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-87343014667764_+0bd0d6d85f.jpg</picture>
     <dimensions>
@@ -2046,7 +2046,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>248</quantity_in_stock>
+    <quantity_in_stock>218</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-59251443973745_+9a8ef0fa11.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-48043308013193_+b58132b0b8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-62045655688555_+9744fbc528.jpg</picture>
@@ -2616,7 +2616,7 @@
     <price>2249</price>
     <currencyId>UAH</currencyId>
     <categoryId>1119</categoryId>
-    <quantity_in_stock>202</quantity_in_stock>
+    <quantity_in_stock>182</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-46076303649247_+2be344ae48.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-31655412254585_+f7f1b3d9e0.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-80301680838209_+1771102e69.jpg</picture>
@@ -3731,7 +3731,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>34</quantity_in_stock>
+    <quantity_in_stock>33</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-56572278643966_+9114879737.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-35424771017291_+aa236078a8.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-89896663174918_+af731c2105.jpeg</picture>
@@ -3759,7 +3759,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>85</quantity_in_stock>
+    <quantity_in_stock>83</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643_+7c9ca353de.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-71214196768880_+3a4d4a7cc9.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-58483850974172_+ef36107030.jpeg</picture>
@@ -4024,7 +4024,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-97850798404853_+b78b49f20e.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-64000520964392_+2dfed7db65.png</picture>
     <dimensions>
@@ -4099,7 +4099,7 @@
     <price>1399</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/44/vyla-sadovi-prima-u-grip-fsc-1070675-46089449031083_+c55e236024.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/44/vyla-sadovi-prima-u-grip-fsc-1070675-65346996310946_+e902645c12.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/44/vyla-sadovi-prima-u-grip-fsc-1070675-17747778153098_+11c4f10bb7.png</picture>
@@ -4247,7 +4247,7 @@
     <price>1577</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>73</quantity_in_stock>
+    <quantity_in_stock>370</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-78110306972162_+c520d25b83.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-29526465452975_+4e194a5ba7.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-23971255304224_+e384eabfbd.jpg</picture>
@@ -4263,31 +4263,6 @@
     <description><![CDATA[<p data-end="330" data-start="0"><span style="font-size:18px;"><strong data-end="47" data-start="0">Універсальні граблі Fiskars Solid (1003466)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для догляду за ґрунтом, газонами та прибирання садових залишків на присадибних ділянках. Використовуються для розпушування верхнього шару ґрунту, вирівнювання поверхні, згрібання листя, трави, дрібних гілок і сміття.</span></p>    <p data-end="622" data-start="332"><span style="font-size:18px;"><strong data-end="348" data-start="332">Призначення:</strong> </span><span style="font-size:14px;">підходять для обробки клумб, грядок, газонів і декоративних зон, де потрібен універсальний інструмент для ґрунтових і прибиральних робіт. Широко розташовані зубці дозволяють працювати як із пухким ґрунтом, так і з рослинними залишками.</span></p>    <p data-end="916" data-start="624"><span style="font-size:18px;"><strong data-end="640" data-start="624">Конструкція:</strong></span><span style="font-size:14px;"> граблі оснащені робочою частиною шириною близько <strong data-end="699" data-start="690">41 см</strong> із <strong data-end="717" data-start="703">12 зубцями</strong> та довгим алюмінієвим держаком. Легка конструкція забезпечує комфортне використання під час тривалої ручної роботи без надмірного навантаження на руки та спину.</span></p>    <p data-end="1150" data-start="918"><span style="font-size:18px;"><strong data-end="932" data-start="918">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена з армованого поліаміду FiberComp&trade;, стійкого до деформації та впливу вологи. Держак виконаний з алюмінію, що поєднує невелику вагу та механічну міцність.</span></p>    <p data-end="1448" data-start="1152"><span style="font-size:18px;"><strong data-end="1168" data-start="1152">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars, має вагу близько <strong data-end="1276" data-start="1267">600 г</strong> і призначений для універсального сезонного використання у садових роботах. Передбачена петля для підвішування та зручного зберігання.</span></p>  ]]></description>
     <name_ua><![CDATA[Універсальні граблі Fiskars Solid (1003466)]]></name_ua>
     <description_ua><![CDATA[<p data-end="330" data-start="0"><span style="font-size:18px;"><strong data-end="47" data-start="0">Універсальні граблі Fiskars Solid (1003466)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для догляду за ґрунтом, газонами та прибирання садових залишків на присадибних ділянках. Використовуються для розпушування верхнього шару ґрунту, вирівнювання поверхні, згрібання листя, трави, дрібних гілок і сміття.</span></p>    <p data-end="622" data-start="332"><span style="font-size:18px;"><strong data-end="348" data-start="332">Призначення:</strong> </span><span style="font-size:14px;">підходять для обробки клумб, грядок, газонів і декоративних зон, де потрібен універсальний інструмент для ґрунтових і прибиральних робіт. Широко розташовані зубці дозволяють працювати як із пухким ґрунтом, так і з рослинними залишками.</span></p>    <p data-end="916" data-start="624"><span style="font-size:18px;"><strong data-end="640" data-start="624">Конструкція:</strong></span><span style="font-size:14px;"> граблі оснащені робочою частиною шириною близько <strong data-end="699" data-start="690">41 см</strong> із <strong data-end="717" data-start="703">12 зубцями</strong> та довгим алюмінієвим держаком. Легка конструкція забезпечує комфортне використання під час тривалої ручної роботи без надмірного навантаження на руки та спину.</span></p>    <p data-end="1150" data-start="918"><span style="font-size:18px;"><strong data-end="932" data-start="918">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена з армованого поліаміду FiberComp&trade;, стійкого до деформації та впливу вологи. Держак виконаний з алюмінію, що поєднує невелику вагу та механічну міцність.</span></p>    <p data-end="1448" data-start="1152"><span style="font-size:18px;"><strong data-end="1168" data-start="1152">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars, має вагу близько <strong data-end="1276" data-start="1267">600 г</strong> і призначений для універсального сезонного використання у садових роботах. Передбачена петля для підвішування та зручного зберігання.</span></p>  ]]></description_ua>
-   </offer>
-<offer id="1066708" group_id="13464" available="true">
-    <url>https://fiskars-gratis.com.ua/lopata-shtykova-fiskars-ergonomic-1066708/</url>
-    <oldprice>2399</oldprice>
-    <price>1999</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>156333769</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-22538686036885_+6d958097a4.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-41830892844812_+7816ce0b58.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-50918913262005_+21eff59fcf.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-88929360447204_+4c1e679a24.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-93378579851367_+42897ce89e.jpg</picture>
-    <dimensions>
-     <weight unit="kg">2.1</weight>
-     <width unit="cm">25</width>
-     <height unit="cm">12</height>
-     <length unit="cm">130</length>
-    </dimensions>
-    <vendorCode>1066708</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Лопата штикова Fiskars Ergonomic (1066708)]]></name>
-    <description><![CDATA[<section data-scroll-anchor="false" data-testid="conversation-turn-277" data-turn="user" data-turn-id="f2a889cd-1a36-44f0-9989-a42a4d803e6e" data-turn-id-container="f2a889cd-1a36-44f0-9989-a42a4d803e6e" dir="auto">&nbsp;</section>    <section data-scroll-anchor="false" data-testid="conversation-turn-278" data-turn="assistant" data-turn-id="07c1f277-7723-4324-8d17-eba8eda012bf" data-turn-id-container="07c1f277-7723-4324-8d17-eba8eda012bf" dir="auto">  <p data-end="354" data-start="0"><span style="font-size:18px;"><strong data-end="46" data-start="0">Лопата штикова Fiskars Ergonomic (1066708)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для перекопування, аерації та обробки щільного ґрунту на присадибних ділянках. Використовується для копання, розпушування землі, обрізання коренів, підготовки грядок і виконання земельних робіт у твердому, кам&rsquo;янистому або глинистому ґрунті.</span></p>    <p data-end="655" data-start="356"><span style="font-size:18px;"><strong data-end="372" data-start="356">Призначення:</strong></span><span style="font-size:14px;"> підходить для перекопування городу, посадкових робіт, підготовки клумб, аерації ґрунту та обробки ділянок із підвищеною щільністю землі. Загострене лезо полегшує проникнення в твердий ґрунт і дозволяє ефективно працювати з кореневими системами.</span></p>    <p data-end="1028" data-start="657"><span style="font-size:18px;"><strong data-end="673" data-start="657">Конструкція:</strong> </span><span style="font-size:14px;">лопата оснащена гострокінцевим полотном шириною близько <strong data-end="740" data-start="730">193 мм</strong> та довжиною <strong data-end="763" data-start="753">290 мм</strong>, а також ергономічним держаком із D-подібною ручкою для надійного захвату. Оптимізований кут нахилу зменшує навантаження на спину, руки та зап&rsquo;ястя під час тривалої роботи. Загальна довжина інструмента &mdash; приблизно <strong data-end="989" data-start="978">1249 мм</strong>.</span></p>    <p data-end="1339" data-start="1030"><span style="font-size:18px;"><strong data-end="1044" data-start="1030">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, зокрема борвмісної або хромованої сталі, стійкої до механічних навантажень і деформацій. Держак поєднує сталеву основу та покриття з поліаміду FiberComp&trade;, що забезпечує міцність, комфортний хват і захист рук від холоду.</span></p>    <p data-end="1714" data-start="1341"><span style="font-size:18px;"><strong data-end="1357" data-start="1341">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Ergonomic бренду Fiskars та орієнтований на комфортну роботу з мінімальним фізичним навантаженням. Зварне з&rsquo;єднання між лезом і держаком підвищує жорсткість конструкції, а вага близько <strong data-end="1613" data-start="1602">2,06 кг</strong> забезпечує баланс між міцністю та керованістю під час копання.</span></p>  </section>  ]]></description>
-    <name_ua><![CDATA[Лопата штикова Fiskars Ergonomic (1066708)]]></name_ua>
-    <description_ua><![CDATA[<section data-scroll-anchor="false" data-testid="conversation-turn-277" data-turn="user" data-turn-id="f2a889cd-1a36-44f0-9989-a42a4d803e6e" data-turn-id-container="f2a889cd-1a36-44f0-9989-a42a4d803e6e" dir="auto">&nbsp;</section>    <section data-scroll-anchor="false" data-testid="conversation-turn-278" data-turn="assistant" data-turn-id="07c1f277-7723-4324-8d17-eba8eda012bf" data-turn-id-container="07c1f277-7723-4324-8d17-eba8eda012bf" dir="auto">  <p data-end="354" data-start="0"><span style="font-size:18px;"><strong data-end="46" data-start="0">Лопата штикова Fiskars Ergonomic (1066708)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для перекопування, аерації та обробки щільного ґрунту на присадибних ділянках. Використовується для копання, розпушування землі, обрізання коренів, підготовки грядок і виконання земельних робіт у твердому, кам&rsquo;янистому або глинистому ґрунті.</span></p>    <p data-end="655" data-start="356"><span style="font-size:18px;"><strong data-end="372" data-start="356">Призначення:</strong></span><span style="font-size:14px;"> підходить для перекопування городу, посадкових робіт, підготовки клумб, аерації ґрунту та обробки ділянок із підвищеною щільністю землі. Загострене лезо полегшує проникнення в твердий ґрунт і дозволяє ефективно працювати з кореневими системами.</span></p>    <p data-end="1028" data-start="657"><span style="font-size:18px;"><strong data-end="673" data-start="657">Конструкція:</strong> </span><span style="font-size:14px;">лопата оснащена гострокінцевим полотном шириною близько <strong data-end="740" data-start="730">193 мм</strong> та довжиною <strong data-end="763" data-start="753">290 мм</strong>, а також ергономічним держаком із D-подібною ручкою для надійного захвату. Оптимізований кут нахилу зменшує навантаження на спину, руки та зап&rsquo;ястя під час тривалої роботи. Загальна довжина інструмента &mdash; приблизно <strong data-end="989" data-start="978">1249 мм</strong>.</span></p>    <p data-end="1339" data-start="1030"><span style="font-size:18px;"><strong data-end="1044" data-start="1030">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, зокрема борвмісної або хромованої сталі, стійкої до механічних навантажень і деформацій. Держак поєднує сталеву основу та покриття з поліаміду FiberComp&trade;, що забезпечує міцність, комфортний хват і захист рук від холоду.</span></p>    <p data-end="1714" data-start="1341"><span style="font-size:18px;"><strong data-end="1357" data-start="1341">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Ergonomic бренду Fiskars та орієнтований на комфортну роботу з мінімальним фізичним навантаженням. Зварне з&rsquo;єднання між лезом і держаком підвищує жорсткість конструкції, а вага близько <strong data-end="1613" data-start="1602">2,06 кг</strong> забезпечує баланс між міцністю та керованістю під час копання.</span></p>  </section>  ]]></description_ua>
    </offer>
 <offer id="1000728" group_id="12467" available="true">
     <url>https://fiskars-gratis.com.ua/kultyvar-fiskars-premium-planters-1000728/</url>
@@ -4591,7 +4566,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1125</categoryId>
-    <quantity_in_stock>135</quantity_in_stock>
+    <quantity_in_stock>75</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/sekator-fiskars-softgrip-m-1024711-33272296243147_+9fe0140605.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/sekator-fiskars-softgrip-m-1024711-13785399709375_+46b8962db4.jpg</picture>
     <dimensions>
@@ -4818,7 +4793,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-53836038514040_+c982773cf6.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-62787540131119_+bb75c4a299.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-36092243959372_+26893d22be.png</picture>
@@ -4867,7 +4842,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330_+0cb49eabd7.png</picture>
     <dimensions>
      <weight unit="kg">0.805</weight>
@@ -4953,7 +4928,7 @@
     <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>147</quantity_in_stock>
+    <quantity_in_stock>128</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -4995,7 +4970,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/46/hrabli-sadovi-ergonomic-1004809-68529857771138_+ff8f5607ad.jpeg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -8307,7 +8282,7 @@
    </offer>
 <offer id="1000956" group_id="40487" available="true">
     <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-zhyvoplotu-powergear-hs72/</url>
-    <price>3199</price>
+    <price>3499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1129</categoryId>
     <quantity_in_stock>93</quantity_in_stock>
@@ -8430,7 +8405,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>42</quantity_in_stock>
+    <quantity_in_stock>41</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-33512893616603_+51463e480d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-60487590035005_+6cc650d24d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-99659829587933_+63215a1ca9.png</picture>
@@ -8489,7 +8464,7 @@
    </offer>
 <offer id="1000956102349" group_id="66489" available="true">
     <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-zhyvoplotu-powergear-hs72hrabli-velyki-dlia-lystia-m-pomaranchevi/</url>
-    <oldprice>4598</oldprice>
+    <oldprice>5099</oldprice>
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
@@ -8509,7 +8484,7 @@
    </offer>
 <offer id="1000956107192" group_id="67489" available="true">
     <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-zhyvoplotu-powergear-hs72lopata-sadova-klasychna-fiskars-fsc/</url>
-    <oldprice>3898</oldprice>
+    <oldprice>5799</oldprice>
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
@@ -8551,7 +8526,7 @@
    </offer>
 <offer id="1000956105108" group_id="69489" available="true">
     <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-zhyvoplotu-powergear-hs72sokyra-tesliarska-solida10/</url>
-    <oldprice>5798</oldprice>
+    <oldprice>5998</oldprice>
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
@@ -8576,7 +8551,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>36</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/6/sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-54600437581112_+6989279292.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/6/sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-36793640419421_+e06a9430ef.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/6/sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-98767789810734_+02ea94fc3a.png</picture>
@@ -8597,7 +8572,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>38</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-66856692547031_+f0de17be15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-52724028681852_+f6ef372b50.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-26853019685921_+84c62f42b9.png</picture>
@@ -8636,7 +8611,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-86642605311000_+ca12383c19.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-89409643592159_+6bfe4ec5df.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-64265084868992_+0a3e982128.png</picture>
@@ -8680,7 +8655,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-34700090871095_+ab46608c96.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-15365417385023_+a0255b34ae.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-51419633299471_+ec55a9ae11.png</picture>
@@ -8703,7 +8678,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-28568877624496_+051bc719db.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-38119201586292_+87d4d88b48.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-50017954335258_+65dcc6bba5.png</picture>
@@ -8766,7 +8741,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432_+d153e7aa15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-96260386852426_+8bc07edb90.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-79179470127551_+08e280bb6b.png</picture>
@@ -8785,7 +8760,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-84247034469713_+a44b8ba605.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-37842163366507_+3cb25e370f.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-81674711878161_+559bebfbe0.png</picture>
@@ -8803,7 +8778,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
@@ -8822,7 +8797,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-68712988809834_+0b31b52540.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-46234444984194_+df1d982d30.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-66343082443110_+89bfe7cbf2.png</picture>
@@ -9013,6 +8988,31 @@
     <name_ua><![CDATA[Ніж Paraframe Gerber Mini FE BL]]></name_ua>
     <description_ua><![CDATA[<p><strong>Ніж Gerber Paraframe Mini FE BL 1013954</strong><span style="font-size:14px;"> &mdash; компактний складаний ніж для щоденного використання.</span></p>    <p><strong>Призначення: </strong><span style="font-size:14px;">підходить для різання різних матеріалів у побуті та на природі. </span></p>    <p><strong>Конструкція: </strong><span style="font-size:14px;">легка рамкова конструкція забезпечує зручність і надійність.</span></p>    <p><strong>Матеріали: </strong><span style="font-size:14px;">виготовлений із міцної сталі, стійкої до зношування.</span></p>    <p><strong>Особливості: </strong><span style="font-size:14px;">компактний розмір і простота у використанні.</span></p>  ]]></description_ua>
     <param name="Гарантия">24 мес.</param>
+   </offer>
+<offer id="1066708" group_id="13464" available="">
+    <url>https://fiskars-gratis.com.ua/lopata-shtykova-fiskars-ergonomic-1066708/</url>
+    <oldprice>2399</oldprice>
+    <price>1999</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>156333769</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-22538686036885_+6d958097a4.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-41830892844812_+7816ce0b58.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-50918913262005_+21eff59fcf.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-88929360447204_+4c1e679a24.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-93378579851367_+42897ce89e.jpg</picture>
+    <dimensions>
+     <weight unit="kg">2.1</weight>
+     <width unit="cm">25</width>
+     <height unit="cm">12</height>
+     <length unit="cm">130</length>
+    </dimensions>
+    <vendorCode>1066708</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Лопата штикова Fiskars Ergonomic (1066708)]]></name>
+    <description><![CDATA[<section data-scroll-anchor="false" data-testid="conversation-turn-277" data-turn="user" data-turn-id="f2a889cd-1a36-44f0-9989-a42a4d803e6e" data-turn-id-container="f2a889cd-1a36-44f0-9989-a42a4d803e6e" dir="auto">&nbsp;</section>    <section data-scroll-anchor="false" data-testid="conversation-turn-278" data-turn="assistant" data-turn-id="07c1f277-7723-4324-8d17-eba8eda012bf" data-turn-id-container="07c1f277-7723-4324-8d17-eba8eda012bf" dir="auto">  <p data-end="354" data-start="0"><span style="font-size:18px;"><strong data-end="46" data-start="0">Лопата штикова Fiskars Ergonomic (1066708)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для перекопування, аерації та обробки щільного ґрунту на присадибних ділянках. Використовується для копання, розпушування землі, обрізання коренів, підготовки грядок і виконання земельних робіт у твердому, кам&rsquo;янистому або глинистому ґрунті.</span></p>    <p data-end="655" data-start="356"><span style="font-size:18px;"><strong data-end="372" data-start="356">Призначення:</strong></span><span style="font-size:14px;"> підходить для перекопування городу, посадкових робіт, підготовки клумб, аерації ґрунту та обробки ділянок із підвищеною щільністю землі. Загострене лезо полегшує проникнення в твердий ґрунт і дозволяє ефективно працювати з кореневими системами.</span></p>    <p data-end="1028" data-start="657"><span style="font-size:18px;"><strong data-end="673" data-start="657">Конструкція:</strong> </span><span style="font-size:14px;">лопата оснащена гострокінцевим полотном шириною близько <strong data-end="740" data-start="730">193 мм</strong> та довжиною <strong data-end="763" data-start="753">290 мм</strong>, а також ергономічним держаком із D-подібною ручкою для надійного захвату. Оптимізований кут нахилу зменшує навантаження на спину, руки та зап&rsquo;ястя під час тривалої роботи. Загальна довжина інструмента &mdash; приблизно <strong data-end="989" data-start="978">1249 мм</strong>.</span></p>    <p data-end="1339" data-start="1030"><span style="font-size:18px;"><strong data-end="1044" data-start="1030">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, зокрема борвмісної або хромованої сталі, стійкої до механічних навантажень і деформацій. Держак поєднує сталеву основу та покриття з поліаміду FiberComp&trade;, що забезпечує міцність, комфортний хват і захист рук від холоду.</span></p>    <p data-end="1714" data-start="1341"><span style="font-size:18px;"><strong data-end="1357" data-start="1341">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Ergonomic бренду Fiskars та орієнтований на комфортну роботу з мінімальним фізичним навантаженням. Зварне з&rsquo;єднання між лезом і держаком підвищує жорсткість конструкції, а вага близько <strong data-end="1613" data-start="1602">2,06 кг</strong> забезпечує баланс між міцністю та керованістю під час копання.</span></p>  </section>  ]]></description>
+    <name_ua><![CDATA[Лопата штикова Fiskars Ergonomic (1066708)]]></name_ua>
+    <description_ua><![CDATA[<section data-scroll-anchor="false" data-testid="conversation-turn-277" data-turn="user" data-turn-id="f2a889cd-1a36-44f0-9989-a42a4d803e6e" data-turn-id-container="f2a889cd-1a36-44f0-9989-a42a4d803e6e" dir="auto">&nbsp;</section>    <section data-scroll-anchor="false" data-testid="conversation-turn-278" data-turn="assistant" data-turn-id="07c1f277-7723-4324-8d17-eba8eda012bf" data-turn-id-container="07c1f277-7723-4324-8d17-eba8eda012bf" dir="auto">  <p data-end="354" data-start="0"><span style="font-size:18px;"><strong data-end="46" data-start="0">Лопата штикова Fiskars Ergonomic (1066708)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для перекопування, аерації та обробки щільного ґрунту на присадибних ділянках. Використовується для копання, розпушування землі, обрізання коренів, підготовки грядок і виконання земельних робіт у твердому, кам&rsquo;янистому або глинистому ґрунті.</span></p>    <p data-end="655" data-start="356"><span style="font-size:18px;"><strong data-end="372" data-start="356">Призначення:</strong></span><span style="font-size:14px;"> підходить для перекопування городу, посадкових робіт, підготовки клумб, аерації ґрунту та обробки ділянок із підвищеною щільністю землі. Загострене лезо полегшує проникнення в твердий ґрунт і дозволяє ефективно працювати з кореневими системами.</span></p>    <p data-end="1028" data-start="657"><span style="font-size:18px;"><strong data-end="673" data-start="657">Конструкція:</strong> </span><span style="font-size:14px;">лопата оснащена гострокінцевим полотном шириною близько <strong data-end="740" data-start="730">193 мм</strong> та довжиною <strong data-end="763" data-start="753">290 мм</strong>, а також ергономічним держаком із D-подібною ручкою для надійного захвату. Оптимізований кут нахилу зменшує навантаження на спину, руки та зап&rsquo;ястя під час тривалої роботи. Загальна довжина інструмента &mdash; приблизно <strong data-end="989" data-start="978">1249 мм</strong>.</span></p>    <p data-end="1339" data-start="1030"><span style="font-size:18px;"><strong data-end="1044" data-start="1030">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, зокрема борвмісної або хромованої сталі, стійкої до механічних навантажень і деформацій. Держак поєднує сталеву основу та покриття з поліаміду FiberComp&trade;, що забезпечує міцність, комфортний хват і захист рук від холоду.</span></p>    <p data-end="1714" data-start="1341"><span style="font-size:18px;"><strong data-end="1357" data-start="1341">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Ergonomic бренду Fiskars та орієнтований на комфортну роботу з мінімальним фізичним навантаженням. Зварне з&rsquo;єднання між лезом і держаком підвищує жорсткість конструкції, а вага близько <strong data-end="1613" data-start="1602">2,06 кг</strong> забезпечує баланс між міцністю та керованістю під час копання.</span></p>  </section>  ]]></description_ua>
    </offer>
 <offer id="1051146" group_id="25460" available="">
     <url>https://fiskars-gratis.com.ua/nabir-podarunkovyi-2-v-1-fiskars-norden-n7-ta-tochylo-1051146/</url>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-21 23:54</date>
+    <date>2026-09-22 03:57</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -1266,7 +1266,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-88929360447204_+4c1e679a24.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-93378579851367_+42897ce89e.jpg</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1066708</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
