@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-22 14:49">
+<yml_catalog date="2026-09-22 18:51">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -117,7 +117,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>190</stock_quantity>
+                    <stock_quantity>189</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1052045/6a57644b02142_sokyra-kolun-solid-a18-32816859905940-d9511c6405.jpg</picture>
@@ -500,7 +500,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>686</stock_quantity>
+                    <stock_quantity>685</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1028376/6a57645966143_pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717-6167d795ea.jpg</picture>
@@ -6635,7 +6635,7 @@
 ]]></description>
                                     </offer>
                                             
-                <offer id="1013971" available="false">
+                <offer id="1013971" available="true">
                     <!-- Ідентифікатори -->
                     <vendorCode>1013971</vendorCode>
                                             <barcode>13658484474</barcode>
@@ -6651,7 +6651,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>0</stock_quantity>
+                    <stock_quantity>2</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1013971/6a5764b26390f_nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971-43296075139700-806ffe6722.jpg</picture>
@@ -14832,7 +14832,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>957</stock_quantity>
+                    <stock_quantity>956</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1057760/6a8910b77d2b2_nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767-7f9d9f3c0a.png</picture>
@@ -16700,7 +16700,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>28</stock_quantity>
+                    <stock_quantity>27</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528105108/6a9f7a41eaf5b_suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484-f66232f806.png</picture>
