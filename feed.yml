@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-22 00:03">
+<yml_catalog date="2026-09-22 04:49">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -5390,7 +5390,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>35</stock_quantity>
+                    <stock_quantity>34</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1024856105984/6a5764a078939_machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-45918477240956-9c023ee19f.jpg</picture>
@@ -7147,7 +7147,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>401</stock_quantity>
+                    <stock_quantity>400</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1001319/6a5764bb900dc_nabir-nozhiv-fiskars-control-2-sht-1001319-80276608406322-d89ee1affc.jpg</picture>
@@ -11465,7 +11465,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>27</stock_quantity>
+                    <stock_quantity>26</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528102682/6a57b0c6c3813_hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-nozhytsi-dlia-kushchiv-fiskars-solid-hs21-12451067573719-4d332d8338.jpg</picture>
@@ -14795,7 +14795,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>5</stock_quantity>
+                    <stock_quantity>4</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1000778/6a8910b719306_nizh-fiskars-lifestyle-92564604568039-4c8abe6a92.png</picture>
@@ -16700,7 +16700,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>29</stock_quantity>
+                    <stock_quantity>28</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528105108/6a9f7a41eaf5b_suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484-f66232f806.png</picture>
