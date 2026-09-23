@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-23 00:28">
+<yml_catalog date="2026-09-23 05:56">
     <shop>
         <name>Laravel</name>
         <company>Laravel</company>
@@ -2453,7 +2453,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>3</stock_quantity>
+                    <stock_quantity>2</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1000660/6a576475b57f1_hrabli-dlia-lystia-fiskars-ergonomic-xl-1000660-38160386573897-c708c18211.jpg</picture>
@@ -5327,7 +5327,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>17</stock_quantity>
+                    <stock_quantity>16</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1027528101477/6a5764a02ce96_hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-63687954062353-8a5f71bfb4.jpg</picture>
@@ -5578,7 +5578,7 @@
                                         <currencyId>UAH</currencyId>
                     
                     <!-- Залишки -->
-                    <stock_quantity>16</stock_quantity>
+                    <stock_quantity>15</stock_quantity>
                     
                     <!-- Фотографії -->
                                                                         <picture>https://drop-crm.com/storage/products/1070715101477/6a5764a14857f_nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-62787540131119-bb75c4a299.png</picture>
