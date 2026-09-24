@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-23 23:27</date>
+    <date>2026-09-24 03:48</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -375,7 +375,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/17/sokyra-kolun-xl-kh25-91633830371666_+7b8fe1663b.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/17/sokyra-kolun-xl-kh25-68763325500908_+dc6fe57951.jpg</image>
             <priceRUAH>3999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1015643</param>
             <param name="Бренд">Fiskars</param>
@@ -1062,7 +1062,7 @@
 
 <p data-end="622" data-start="440"><span style="font-size:18px;"><strong data-end="456" data-start="440">Конструкція:</strong> </span><span style="font-size:14px;">зменшене полотно дозволяє точно дозувати об&rsquo;єм ґрунту та працювати поблизу кореневої системи рослин. Короткий держак забезпечує контроль рухів під час ручної роботи.</span></p>
 
-<p data-end="787" data-start="624"><span style="font-size:18px;"><strong data-end="638" data-start="624">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до корозії та механічного зношування. Руків&rsquo;я адаптоване для регулярного використання в садових умовах.</span></p>
+<p data-end="787" data-start="624"><span style="font-size:18px;"><strong data-end="638" data-start="624">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до корозії та механічного зношування та&nbsp;&nbsp;ручка з поліаміду (FiberComp&trade;) зі сталлю.</span></p>
 
 <p data-end="939" data-is-last-node="" data-is-only-node="" data-start="789"><span style="font-size:18px;"><strong data-end="805" data-start="789">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для акуратних допоміжних робіт у саду.Лопата з зубчастим краєм.</span></p>]]></description>
             <url>https://fiskars-gratis.com.ua/lopata-mala-fiskars-white-s-1067540/</url>
@@ -2084,7 +2084,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/18/vyla-sadovi-solid-75496346967844_+866963075b.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/18/vyla-sadovi-solid-48135196575337_+af894a7e8e.png</image>
             <priceRUAH>1199</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1003458</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
