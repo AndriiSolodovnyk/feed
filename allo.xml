@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-24 22:06</date>
+    <date>2026-09-25 01:14</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -449,7 +449,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/19/sokyra-kolun-l-kh21-f-65787424604347_+a937218a2a.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/19/sokyra-kolun-l-kh21-f-22103199446323_+a1993e600f.jpg</image>
             <priceRUAH>3599</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1015642</param>
             <param name="Бренд">Fiskars</param>
@@ -1001,7 +1001,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-92481688276251_+1dd47097eb.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-38348334293020_+adfab19384.jpg</image>
             <priceRUAH>1299</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1066715</param>
             <param name="Бренд">Fiskars</param>
@@ -1037,7 +1037,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-65300994722293_+c85142b97c.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-90786615442320_+e1514b37dc.jpg</image>
             <priceRUAH>1399</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1066716</param>
             <param name="Бренд">Fiskars</param>
@@ -1843,7 +1843,7 @@
             <url>https://fiskars-gratis.com.ua/vyla-korotki-solid/</url>
             <image>https://fiskars-gratis.com.ua/content/images/27/vyla-korotki-solid-30245336963469_+61b3f9a06d.jpeg</image>
             <priceRUAH>649</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1014810</param>
             <param name="Бренд">Fiskars</param>
@@ -2591,7 +2591,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-51741053469699_+53665dd558.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-72592475113180_+ec48c23413.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">36</guarantee>
             <param name="Артикул">1020126</param>
             <param name="Бренд">Fiskars</param>
@@ -2753,7 +2753,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-67228565350612_+3651437728.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-44572510144021_+ecda01e9d6.jpg</image>
             <priceRUAH>1399</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1001530</param>
             <param name="Бренд">Fiskars</param>
@@ -4152,7 +4152,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-97850798404853_+b78b49f20e.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248-64000520964392_+2dfed7db65.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1052248</param>
             <param name="Бренд">Fiskars</param>
@@ -4373,7 +4373,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/skovoroda-chavunna-folken-22-sm-87569346451995_+97ef7600f6.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/skovoroda-chavunna-folken-22-sm-97252486840241_+20d4dd0508.png</image>
             <priceRUAH>3599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1075701</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -5873,7 +5873,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip-71566431559076_+a21b53afc8.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/8/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip-84043187414663_+b02e132407.png</image>
             <priceRUAH>499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1005153</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -11526,7 +11526,7 @@
             <url>https://fiskars-gratis.com.ua/tochylo-dlia-nozhiv-fiskars-kitchen-devils-1001317/</url>
             <image>https://fiskars-gratis.com.ua/content/images/42/tochylo-dlia-nozhiv-fiskars-kitchen-devils-1001317-13605935195027_+7be8f52585.jpg</image>
             <priceRUAH>699</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1001317</param>
             <param name="Бренд">Fiskars</param>
