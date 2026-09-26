@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-25 22:04</date>
+    <date>2026-09-26 01:16</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -2752,7 +2752,7 @@
             <url>https://fiskars-gratis.com.ua/sekator-profesiinyi-fiskars-pro-p90-1001530/</url>
             <image>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-67228565350612_+3651437728.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-44572510144021_+ecda01e9d6.jpg</image>
-            <priceRUAH>1399</priceRUAH>
+            <priceRUAH>1599</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1001530</param>
@@ -2820,7 +2820,7 @@
 <p data-end="1004" data-is-last-node="" data-is-only-node="" data-start="835"><span style="font-size:18px;"><strong data-end="851" data-start="835">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за рослинами в садових умовах.</span></p>]]></description>
             <url>https://fiskars-gratis.com.ua/sekator-ploshchynnyi-fiskars-solid-m-p321-1057162/</url>
             <image>https://fiskars-gratis.com.ua/content/images/50/sekator-ploshchynnyi-fiskars-solid-m-p321-1057162-98393035338109_+022dbe4bcb.jpg</image>
-            <priceRUAH>699</priceRUAH>
+            <priceRUAH>799</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1057162</param>
@@ -2884,7 +2884,7 @@
             <url>https://fiskars-gratis.com.ua/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567/</url>
             <image>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-27487367778769_+1137de4d65.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-15228611473368_+01e54b7393.jpg</image>
-            <priceRUAH>599</priceRUAH>
+            <priceRUAH>699</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1000567</param>
@@ -2949,7 +2949,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-14886014694608_+99db58e107.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-75459728545920_+c3c301b7f6.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-77270375312000_+26893fdcec.png</image>
-            <priceRUAH>1477</priceRUAH>
+            <priceRUAH>1577</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1075314</param>
@@ -7167,7 +7167,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/44/sekator-ploshchynnyi-fiskars-white-p57-podarunok-lopata-sadova-shtykova-classic-fsc-12679558214602_+3c54f88dec.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/44/sekator-ploshchynnyi-fiskars-white-p57-podarunok-lopata-sadova-shtykova-classic-fsc-98447641542950_+09697b5f65.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/44/sekator-ploshchynnyi-fiskars-white-p57-podarunok-lopata-sadova-shtykova-classic-fsc-12000438514654_+1a36fb8f0c.jpeg</image>
-            <priceRUAH>1199</priceRUAH>
+            <priceRUAH>1499</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1026916101477</param>
@@ -8450,7 +8450,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/49/sokyra-kolun-fiskars-l-kh21-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-62456933660342_+aaff17c481.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/49/sokyra-kolun-fiskars-l-kh21-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-46042453718856_+bcf45dc633.png</image>
             <priceRUAH>3599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1015642101477</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -11458,7 +11458,7 @@
 <p data-end="1135" data-is-last-node="" data-is-only-node="" data-start="942"><span style="font-size:18px;"><strong data-end="958" data-start="942">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Xsharp бренду Fiskars та призначений для періодичного обслуговування та відновлення гостроти лез ручних інструментів.</span></p>]]></description>
             <url>https://fiskars-gratis.com.ua/tochylo-dlia-sokyr-ta-nozhiv-xsharp/</url>
             <image>https://fiskars-gratis.com.ua/content/images/29/tochylo-dlia-sokyr-ta-nozhiv-xsharp-59972761299982_+3c6707bfc4.jpg</image>
-            <priceRUAH>799</priceRUAH>
+            <priceRUAH>877</priceRUAH>
             <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1000601</param>
