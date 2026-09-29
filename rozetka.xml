@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-09-28T21:40:21.450Z">
+<yml_catalog date="2026-09-29T01:34:50.019Z">
   <shop>
     <categories>
       <category id="1">Коренева група</category>
@@ -762,7 +762,7 @@
 
 <p data-end="1308" data-is-last-node="" data-is-only-node="" data-start="1128"><span style="font-size:18px;"><strong data-end="1144" data-start="1128">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Classic бренду Fiskars та призначений для систематичних земляних робіт у садових і господарських умовах.</span></p>
 ]]></description>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1024472" available="true">
         <name><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name>
@@ -954,7 +954,7 @@
       </offer>
       <offer id="1057179" available="true">
         <name><![CDATA[Лопата ролер для снігу Fiskars SnowXpert Roller X-series (1057179)]]></name>
-        <price>3099</price>
+        <price>3299</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/lopata-roler-dlia-snihu-fiskars-snowxpert-roller-x-series-1057179-40568881200832_+88acb7e4e6.jpg</picture>
@@ -1893,7 +1893,7 @@
       </offer>
       <offer id="1072103" available="true">
         <name><![CDATA[Вила для бур'янів Solid (1072103)]]></name>
-        <price>377</price>
+        <price>399</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/vyla-dlia-burianiv-solid-1072103-95562995986357_+f06220616e.jpg</picture>
@@ -2052,7 +2052,7 @@
       </offer>
       <offer id="1057169" available="true">
         <name><![CDATA[Секатор площинний Fiskars SmartFit P541 (1057169)]]></name>
-        <price>1049</price>
+        <price>1899</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/1/sekator-ploshchynnyi-fiskars-smartfit-p541-1057169-69400811095303_+90e650892c.jpg</picture>
@@ -2447,7 +2447,7 @@
 <p data-end="1108" data-is-last-node="" data-is-only-node="" data-start="937"><span style="font-size:18px;"><strong data-end="953" data-start="937">Особливості:</strong></span><span style="font-size:14px;"> модель належить до класичної серії бренду Fiskars та призначена для регулярного догляду за садовими й парковими територіями.</span></p>
 </section>
 ]]></description>
-        <stock_quantity>127</stock_quantity>
+        <stock_quantity>126</stock_quantity>
       </offer>
       <offer id="1004809" available="true">
         <name><![CDATA[Граблі садові Ergonomic (1004809)]]></name>
@@ -2501,7 +2501,7 @@
       </offer>
       <offer id="1016036" available="false">
         <name><![CDATA[Граблі для ґрунту Solid (1016036)]]></name>
-        <price>1377</price>
+        <price>1499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/hrabli-dlia-gruntu-solid-1016036-88925939007371_+5cf7d79562.png</picture>
@@ -2961,7 +2961,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">сковорода належить до серії Handy бренду Fiskars та призначена для зручного та тривалого використання у повсякденному приготуванні страв із контролем температури та легким очищенням.</span></p>
 ]]></description>
-        <stock_quantity>133</stock_quantity>
+        <stock_quantity>132</stock_quantity>
       </offer>
       <offer id="1075041" available="true">
         <name><![CDATA[Сковорода Fiskars 375 Anniversary 24cm (1075041)]]></name>
@@ -3908,7 +3908,7 @@
       </offer>
       <offer id="1026827" available="false">
         <name><![CDATA[Ножиці для кущів Fiskars Solid HS21 (1026827)]]></name>
-        <price>1499</price>
+        <price>1677</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nozhytsi-dlia-kushchiv-solid-hs21-20763220951022_+de2132e5e6.jpg</picture>
@@ -3932,7 +3932,7 @@
       </offer>
       <offer id="1001433" available="true">
         <name><![CDATA[Ножиці для кущів Fiskars SingleStep HS22 (1001433)]]></name>
-        <price>1899</price>
+        <price>2999</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-dlia-kushchiv-singlestep-hs22-91351692354029_+46d7768a8b.jpg</picture>
@@ -4136,11 +4136,11 @@
 
 <p data-end="1122" data-start="1061"><strong data-end="1078" data-start="1061">Комплектація:</strong>&nbsp;ножиці садові Fiskars Classic 25 см &mdash; 1 шт.</p>
 ]]></description>
-        <stock_quantity>136</stock_quantity>
+        <stock_quantity>135</stock_quantity>
       </offer>
       <offer id="1026826" available="true">
         <name><![CDATA[Ножиці для трави Solid GS21 (1026826)]]></name>
-        <price>1477</price>
+        <price>1499</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-travy-solid-gs21-1026826-57945662742617_+8b7fd2e4ea.jpg</picture>
@@ -4709,7 +4709,7 @@
 
 <p data-end="1488" data-start="1187"><strong data-end="1203" data-start="1187">Особливості:</strong>&nbsp;набір складається з двох ножиць &mdash; універсальних довжиною 21 см та швейних довжиною 13 см. Конструкція підходить як для побутового використання, так і для рукоділля, шиття, офісних та творчих робіт. Ножиці придатні для миття в посудомийній машині.&nbsp;</p>
 ]]></description>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1005154" available="true">
         <name><![CDATA[Ножиці для хоббі 13см]]></name>
@@ -4970,7 +4970,7 @@
       </offer>
       <offer id="1001622" available="true">
         <name><![CDATA[Ніж загального призначення K40 Fiskars (1001622)]]></name>
-        <price>999</price>
+        <price>1199</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-zahalnoho-pryznachennia-k40-fiskars-1001622-38969493694733_+aa39636bec.jpg</picture>
@@ -5700,7 +5700,7 @@
 
 <p>Набір Fiskars + Gerber поєднує практичність і універсальність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>15</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1051085105983" available="true">
         <name><![CDATA[Набір Fiskars: Сокира Solid A10 + Мультитул Gerber Lockdown Slim 16L]]></name>
@@ -5803,7 +5803,7 @@
 
 <p>Набір Fiskars поєднує практичність і універсальність в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>19</stock_quantity>
       </offer>
       <offer id="1027528101477" available="true">
         <name><![CDATA[Набір Fiskars: Гілкоріз телескопічний Solid L13 + Лопата садова штикова Classic FSC]]></name>
@@ -6033,7 +6033,7 @@
 
 <p><span style="font-size:16px;">Набір Gerber &mdash; це практичне рішення для тих, хто хоче мати під рукою інструменти для роботи та відпочинку на природі в одному комплекті. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>34</stock_quantity>
+        <stock_quantity>33</stock_quantity>
       </offer>
       <offer id="1014773105108" available="true">
         <name><![CDATA[Набір Лопата садова штикова Fiskars Classic FSC+ Сокира теслярська Fiskars Solid A10]]></name>
@@ -6088,7 +6088,7 @@
 
 <p><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;топор та лопата Фискарс напевно, є найкращими у світі.</p>
 ]]></description>
-        <stock_quantity>29</stock_quantity>
+        <stock_quantity>27</stock_quantity>
       </offer>
       <offer id="1070715105108" available="true">
         <name><![CDATA[Набір Fiskars: Вила садові White + Сокира теслярська Solid A10]]></name>
@@ -6164,7 +6164,7 @@
 
 <p>Набір Fiskars поєднує інструменти для роботи з ґрунтом і деревиною в одному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</p>
 ]]></description>
-        <stock_quantity>71</stock_quantity>
+        <stock_quantity>69</stock_quantity>
       </offer>
       <offer id="1028376101477" available="true">
         <name><![CDATA[Набір Fiskars: Пилка садова ручна Solid SW 16 + Лопата садова штикова Classic FSC]]></name>
@@ -6786,7 +6786,7 @@
 
 <p data-end="2027" data-is-last-node="" data-is-only-node="" data-start="1840"><span style="font-size:16px;">Набір Fiskars поєднує інструменти для обробки ґрунту та догляду за ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>
 ]]></description>
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>10</stock_quantity>
       </offer>
       <offer id="1023492101477" available="true">
         <name><![CDATA[Набір Fiskars: Граблі великі для листя М помаранчеві + Лопата садова штикова Classic FSC]]></name>
@@ -7056,7 +7056,7 @@
       </offer>
       <offer id="1028372" available="true">
         <name><![CDATA[Складаний садовий мішок для листя 175 літри Fiskars Solid]]></name>
-        <price>1949</price>
+        <price>2099</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-72996207398300_+e582902888.png</picture>
@@ -7604,7 +7604,7 @@
 	<li>Використання в саду, на дачі, вдома та під час поїздок.</li>
 </ol>
 ]]></description>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="1023492100346" available="true">
         <name><![CDATA[Граблі великі для листя М помаранчеві+Граблі універсальн садові Solid+Пилка садова ручна Solid SW 16 ТМ Fiskars]]></name>
@@ -7673,7 +7673,7 @@
 	</li>
 </ol>
 ]]></description>
-        <stock_quantity>34</stock_quantity>
+        <stock_quantity>33</stock_quantity>
       </offer>
       <offer id="1023492107192" available="true">
         <name><![CDATA[Граблі великі для листя М помаранчеві+Лопата садова класична Fiskars FSC]]></name>
@@ -8262,7 +8262,7 @@
 	</li>
 </ol>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1052045102485" available="true">
         <name><![CDATA[Сокира-колун Solid A18 + Мачете Compact Clearpath]]></name>
@@ -8329,7 +8329,7 @@
 	</li>
 </ol>
 ]]></description>
-        <stock_quantity>26</stock_quantity>
+        <stock_quantity>27</stock_quantity>
       </offer>
       <offer id="1052045105983" available="true">
         <name><![CDATA[Сокира-колун Solid A18 +Мультитул Lockdown Slim,16L,BOX]]></name>
@@ -8725,7 +8725,7 @@
 	</li>
 </ol>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>3</stock_quantity>
       </offer>
       <offer id="1027528107192" available="true">
         <name><![CDATA[Сучкоріз площинний телескопічний Solid L13+Лопата садова класична фіскарс FSC]]></name>
@@ -8790,7 +8790,7 @@
 	</li>
 </ol>
 ]]></description>
-        <stock_quantity>25</stock_quantity>
+        <stock_quantity>24</stock_quantity>
       </offer>
       <offer id="1027528105108" available="true">
         <name><![CDATA[Сучкоріз площинний телескопічний Solid L13+Сокира теслярська Solid A10]]></name>
@@ -8915,7 +8915,7 @@
       </offer>
       <offer id="1026797" available="true">
         <name><![CDATA[Точило для сокир та ножів Fiskars Solid (1026797)]]></name>
-        <price>849</price>
+        <price>899</price>
         <categoryId>1</categoryId>
         <currencyId>UAH</currencyId>
         <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-26347769480417_+dbde59df1f.jpg</picture>
@@ -8940,7 +8940,7 @@
 <p data-end="1177" data-is-last-node="" data-is-only-node="" data-start="984"><span style="font-size:18px;"><strong data-end="1000" data-start="984">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичного обслуговування і відновлення гостроти лез ручних інструментів.</span></p>
 </article>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
       </offer>
       <offer id="1001317" available="false">
         <name><![CDATA[Точило для ножів Fiskars Kitchen Devils (1001317)]]></name>
@@ -9125,7 +9125,7 @@
 ]]></description>
         <stock_quantity>23</stock_quantity>
       </offer>
-      <offer id="1065587" available="true">
+      <offer id="1065587" available="false">
         <name><![CDATA[Кухонний ніж Fiskars Essential для сиру 21 см Black (1065587)]]></name>
         <price>635</price>
         <categoryId>156336200</categoryId>
@@ -9144,7 +9144,7 @@
 
 <p>Компактний дизайн і легкість у догляді &mdash; помічник на кожен день на вашій кухні.</p>
 ]]></description>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1050245" available="true">
         <name><![CDATA[Ніж складний Gerber Wingtip Modern малий (1050245)]]></name>
@@ -9372,7 +9372,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії Asada бренду Gerber та орієнтована на практичне щоденне застосування.</span></p>
 ]]></description>
-        <stock_quantity>364</stock_quantity>
+        <stock_quantity>363</stock_quantity>
       </offer>
       <offer id="1028494" available="true">
         <name><![CDATA[Ніж складаний Gerber Fastball Warncliff FSG BOX (1028494)]]></name>
@@ -9597,7 +9597,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">ніж належить до серії бренду Fiskars та призначений для контрольованої та точної обробки грибів і схожих за текстурою продуктів у кулінарних задачах.</span></p>
 ]]></description>
-        <stock_quantity>99</stock_quantity>
+        <stock_quantity>98</stock_quantity>
       </offer>
       <offer id="1000776" available="true">
         <name><![CDATA[Набір ножів Fiskars Lifestyle, 3 штуки (1000776)]]></name>
@@ -9675,7 +9675,7 @@
 
 <p data-end="1387" data-is-last-node="" data-is-only-node="" data-start="1142"><span style="font-size:18px;"><strong data-end="1158" data-start="1142">Особливості:</strong> </span><span style="font-size:14px;">набір належить до серії Kitchen Devils бренду Fiskars та призначений для систематичного використання під час приготування різноманітних страв із контролем точності і організованим зберіганням ножів.</span></p>
 ]]></description>
-        <stock_quantity>574</stock_quantity>
+        <stock_quantity>573</stock_quantity>
       </offer>
       <offer id="1063144" available="true">
         <name><![CDATA[Ніж Gerber Ceviche 7",E,Box,GRN,BLK (1063144)]]></name>
@@ -10185,7 +10185,7 @@
 
 <p data-end="1237" data-is-last-node="" data-is-only-node="" data-start="975"><span style="font-size:16px;"><strong data-end="991" data-start="975">Особливості:</strong>&nbsp;модель входить до преміальної серії&nbsp;<strong data-end="1049" data-start="1028">Fiskars All Steel</strong>, поєднуючи сучасний мінімалістичний дизайн, професійну продуктивність і довговічність. Для збереження ріжучих властивостей рекомендовано ручне миття</span></p>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="1015987" available="true">
         <name><![CDATA[Ніж FF для м'якого сиру]]></name>
@@ -11709,7 +11709,7 @@
 
 <p><b data-index-in-node="1272" data-path-to-node="0">Комплектація:</b>&nbsp;гілкоріз площинний SingleStep SL28 &mdash; 1 шт., секатор площинний SingleStep P26 &mdash; 1 шт.</p>
 ]]></description>
-        <stock_quantity>934</stock_quantity>
+        <stock_quantity>932</stock_quantity>
       </offer>
       <offer id="1052457" available="true">
         <name><![CDATA[Мультитул Gerber LockDown Drive (1052457)]]></name>
@@ -11955,7 +11955,7 @@
 
 <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії ArmBar бренду Gerber та орієнтована на щоденні утилітарні операції в компактному форматі.</span></p>
 ]]></description>
-        <stock_quantity>240</stock_quantity>
+        <stock_quantity>238</stock_quantity>
       </offer>
       <offer id="1021134" available="true">
         <name><![CDATA[Мультитул Gerber брелок відкривачка Shard,E,Card,BLK (1021134)]]></name>
@@ -12010,7 +12010,7 @@
 
 <p data-end="1371" data-start="1223"><span style="font-size:18px;"><strong data-end="1239" data-start="1223">Особливості:</strong></span><span style="font-size:14px;"> модель належить до серії Lockdown бренду Gerber та орієнтована на універсальні утилітарні операції без спеціалізованого обладнання.</span></p>
 ]]></description>
-        <stock_quantity>207</stock_quantity>
+        <stock_quantity>206</stock_quantity>
       </offer>
       <offer id="1014905" available="true">
         <name><![CDATA[Мультитул Gerber eFECT Military Maintenance (1014905)]]></name>
@@ -12623,7 +12623,7 @@
 
 <p data-end="1064" data-is-last-node="" data-is-only-node="" data-start="889"><strong data-end="905" data-start="889">Особливості:</strong> <span style="font-size:14px;">інструмент належить до кухонної лінійки Fiskars та призначений для щоденного використання. Легка у догляді, поєднує практичність і естетичний вигляд на кухні.</span></p>
 ]]></description>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>15</stock_quantity>
       </offer>
       <offer id="1066429" available="true">
         <name><![CDATA[Лопатка дерев'яна для гриля Norden 1066429]]></name>
@@ -12647,7 +12647,7 @@
 
 <p data-end="1086" data-is-last-node="" data-is-only-node="" data-start="906"><span style="font-size:18px;"><strong>Особливості: </strong></span><span style="font-size:14px;">інструмент належить до серії Norden бренду Fiskars та призначений для приготування страв на відкритому вогні та кухні. Поєднує природний матеріал, міцність і естетику.</span></p>
 ]]></description>
-        <stock_quantity>17</stock_quantity>
+        <stock_quantity>14</stock_quantity>
       </offer>
       <offer id="1066431" available="true">
         <name><![CDATA[Кошик для приготування на пару Fiskars Norden Grill 30см (1066431)]]></name>
@@ -12675,7 +12675,7 @@
 
 <p data-end="1214" data-is-last-node="" data-is-only-node="" data-start="989"><span style="font-size:18px;"><strong data-end="1005" data-start="989">Особливості:</strong></span><span style="font-size:14px;"> модель входить до серії Norden Grill бренду Fiskars та призначена для приготування продуктів на грилі з рівномірним розподілом тепла й мінімальним контактом із жаровою поверхнею.</span></p>
 ]]></description>
-        <stock_quantity>23</stock_quantity>
+        <stock_quantity>20</stock_quantity>
       </offer>
       <offer id="1066552" available="true">
         <name><![CDATA[Набір для гриля (лопатка та щипці) Fiskars Norden Grill]]></name>
@@ -12817,7 +12817,7 @@
 	<li data-end="1474" data-is-last-node="" data-section-id="1d17rqx" data-start="1440"><span style="font-size:16px;">Рекомендується лише ручне миття.</span></li>
 </ul>
 ]]></description>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>7</stock_quantity>
       </offer>
       <offer id="1066427" available="true">
         <name><![CDATA[Виделка для гриля Norden Grill]]></name>
@@ -12856,7 +12856,7 @@
 	<li data-end="1533" data-is-last-node="" data-section-id="1d17rqx" data-start="1499"><span style="font-size:16px;">Рекомендується лише ручне миття.</span></li>
 </ul>
 ]]></description>
-        <stock_quantity>29</stock_quantity>
+        <stock_quantity>26</stock_quantity>
       </offer>
       <offer id="1066425" available="true">
         <name><![CDATA[Лопатка для гриля Norden Grill]]></name>
@@ -13086,7 +13086,7 @@
 ]]></description>
         <stock_quantity>2</stock_quantity>
       </offer>
-      <offer id="1065593" available="true">
+      <offer id="1065593" available="false">
         <name><![CDATA[Ложка для спагетті Fiskars Essential]]></name>
         <price>299</price>
         <categoryId>156336200</categoryId>
@@ -13118,7 +13118,7 @@
 
 <p data-path-to-node="4,6,0">&nbsp;</p>
 ]]></description>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
       </offer>
       <offer id="1016471" available="true">
         <name><![CDATA[Набір ножів Fiskars NORR 2 шт]]></name>
@@ -13216,7 +13216,7 @@
 
 <p data-path-to-node="5,5,0"><b data-index-in-node="0" data-path-to-node="5,5,0">Країна-виробник:</b>&nbsp;Фінляндія</p>
 ]]></description>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
       </offer>
       <offer id="1014412" available="true">
         <name><![CDATA[Терка FF маленька для цедри лимону, імбиру, шоколаду]]></name>

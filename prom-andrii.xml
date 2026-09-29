@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-28 21:40">
+<yml_catalog date="2026-09-29 01:34">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -59,31 +59,6 @@
    <category id="156333769">Акції</category>
   </categories>
   <offers>
-<offer id="1065587" group_id="1493" available="true">
-    <url>https://fiskars-gratis.com.ua/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587/</url>
-    <oldprice>900</oldprice>
-    <price>635</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>156333769</categoryId>
-    <quantity_in_stock>3</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/13/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587-59179465975563_+685acdbc75.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/13/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587-87024309318355_+29ccd0cfc3.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/13/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587-36437256096250_+6b3e7e0392.jpg</picture>
-    <dimensions>
-     <weight unit="kg">0.3</weight>
-     <width unit="cm">10</width>
-     <height unit="cm">3</height>
-     <length unit="cm">22</length>
-    </dimensions>
-    <vendorCode>1065587</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Кухонний ніж Fiskars Essential для сиру 21 см Black (1065587)]]></name>
-    <description><![CDATA[<p>Ніж слайсер для сиру&nbsp;<strong data-end="50" data-start="29">Fiskars Essential</strong>&nbsp;21 см (1065587) з гострим лезом зі сталі. Кут леза мінімізує кришення. Ергономічна чорна ручка &mdash; легкість і контроль.</p>    <p>Ніж слайсер для сиру&nbsp;<strong data-end="42" data-start="21">Fiskars Essential</strong>&nbsp;(21 см, 1065587) &mdash; надійний інструмент для ідеальних скибок пармезану, чеддера або інших твердих сирів. Унікальний кут леза з нержавіючої сталі дозволяє нарізати рівно й без кришення сиру. Ергономічна ручка з якісного пластику дає комфорт і контроль.</p>    <p>Компактний дизайн і легкість у догляді &mdash; помічник на кожен день на вашій кухні.</p>  ]]></description>
-    <name_ua><![CDATA[Кухонний ніж Fiskars Essential для сиру 21 см Black (1065587)]]></name_ua>
-    <description_ua><![CDATA[<p>Ніж слайсер для сиру&nbsp;<strong data-end="50" data-start="29">Fiskars Essential</strong>&nbsp;21 см (1065587) з гострим лезом зі сталі. Кут леза мінімізує кришення. Ергономічна чорна ручка &mdash; легкість і контроль.</p>    <p>Ніж слайсер для сиру&nbsp;<strong data-end="42" data-start="21">Fiskars Essential</strong>&nbsp;(21 см, 1065587) &mdash; надійний інструмент для ідеальних скибок пармезану, чеддера або інших твердих сирів. Унікальний кут леза з нержавіючої сталі дозволяє нарізати рівно й без кришення сиру. Ергономічна ручка з якісного пластику дає комфорт і контроль.</p>    <p>Компактний дизайн і легкість у догляді &mdash; помічник на кожен день на вашій кухні.</p>  ]]></description_ua>
-    <param name="Гарантия">300 мес.</param>
-    <param name="Цвет">Сірий</param>
-   </offer>
 <offer id="1052045" group_id="2460" available="true">
     <url>https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/</url>
     <oldprice>3949</oldprice>
@@ -136,6 +111,32 @@
     <description><![CDATA[<article data-scroll-anchor="false" data-testid="conversation-turn-53" data-turn="user" data-turn-id="b945c1a9-35fb-4445-822d-f47ad5f82bb3" dir="auto" tabindex="-1">&nbsp;</article>    <article data-scroll-anchor="true" data-testid="conversation-turn-54" data-turn="assistant" data-turn-id="request-WEB:b3f4340d-c2c6-4e86-a74b-1bce73fc80d0-26" dir="auto" tabindex="-1">  <p data-end="318" data-start="0"><span style="font-size:18px;"><strong data-end="40" data-start="0">Сокира колун Фіскарс M Х17 (1015641)</strong></span><span style="font-size:14px;"> &mdash; ручний інструмент для оброблення і розколювання деревини в господарських і польових умовах. Використовується для розколювання колод і середніх за розміром деревних заготовок, підготовки дров для опалення, очищення деревини від сучків і роботи з сухою та напівсухою деревиною.</span></p>    <p data-end="507" data-start="320"><span style="font-size:18px;"><strong data-end="336" data-start="320">Призначення:</strong></span><span style="font-size:14px;"> підходить для заготівлі палива, розколювання середніх колод, підготовки деревини для вогнища або печі, де потрібне ефективне розділення волокон деревини за кілька ударів.</span></p>    <p data-end="726" data-start="509"><span style="font-size:18px;"><strong data-end="525" data-start="509">Конструкція:</strong></span><span style="font-size:14px;"> клиноподібне лезо розраховане на проникнення в деревину і забезпечення ефективного розколу за один два удари. Збалансована форма робочої частини і держака сприяє контролю рухів під час замаху і удару.</span></p>    <p data-end="906" data-start="728"><span style="font-size:18px;"><strong data-end="742" data-start="728">Матеріали:</strong></span><span style="font-size:14px;"> р</span>іжуча частина ви<span style="font-size:14px;">готовлена зі сталі, стійкої до ударних навантажень і зношування. Держак адаптований для ручної експлуатації і забезпечує надійний захват у роботі.&nbsp;В&nbsp;комплекті&nbsp;захисний пластиковий чохол для зберігання та транспортування</span></p>    <p data-end="1095" data-is-last-node="" data-is-only-node="" data-start="908"><span style="font-size:18px;"><strong data-end="924" data-start="908">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії M бренду Fiskars та призначений для систематичного розколювання деревини в побутових і напівпрофесійних умовах.</span></p>  </article>  ]]></description>
     <name_ua><![CDATA[Сокира-колун Fiskars M Х17 (1015641)]]></name_ua>
     <description_ua><![CDATA[<article data-scroll-anchor="false" data-testid="conversation-turn-53" data-turn="user" data-turn-id="b945c1a9-35fb-4445-822d-f47ad5f82bb3" dir="auto" tabindex="-1">&nbsp;</article>    <article data-scroll-anchor="true" data-testid="conversation-turn-54" data-turn="assistant" data-turn-id="request-WEB:b3f4340d-c2c6-4e86-a74b-1bce73fc80d0-26" dir="auto" tabindex="-1">  <p data-end="318" data-start="0"><span style="font-size:18px;"><strong data-end="40" data-start="0">Сокира колун Фіскарс M Х17 (1015641)</strong></span><span style="font-size:14px;"> &mdash; ручний інструмент для оброблення і розколювання деревини в господарських і польових умовах. Використовується для розколювання колод і середніх за розміром деревних заготовок, підготовки дров для опалення, очищення деревини від сучків і роботи з сухою та напівсухою деревиною.</span></p>    <p data-end="507" data-start="320"><span style="font-size:18px;"><strong data-end="336" data-start="320">Призначення:</strong></span><span style="font-size:14px;"> підходить для заготівлі палива, розколювання середніх колод, підготовки деревини для вогнища або печі, де потрібне ефективне розділення волокон деревини за кілька ударів.</span></p>    <p data-end="726" data-start="509"><span style="font-size:18px;"><strong data-end="525" data-start="509">Конструкція:</strong></span><span style="font-size:14px;"> клиноподібне лезо розраховане на проникнення в деревину і забезпечення ефективного розколу за один два удари. Збалансована форма робочої частини і держака сприяє контролю рухів під час замаху і удару.</span></p>    <p data-end="906" data-start="728"><span style="font-size:18px;"><strong data-end="742" data-start="728">Матеріали:</strong></span><span style="font-size:14px;"> р</span>іжуча частина ви<span style="font-size:14px;">готовлена зі сталі, стійкої до ударних навантажень і зношування. Держак адаптований для ручної експлуатації і забезпечує надійний захват у роботі.&nbsp;В&nbsp;комплекті&nbsp;захисний пластиковий чохол для зберігання та транспортування</span></p>    <p data-end="1095" data-is-last-node="" data-is-only-node="" data-start="908"><span style="font-size:18px;"><strong data-end="924" data-start="908">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії M бренду Fiskars та призначений для систематичного розколювання деревини в побутових і напівпрофесійних умовах.</span></p>  </article>  ]]></description_ua>
+    <param name="Гарантия">300 мес.</param>
+   </offer>
+<offer id="1015643" group_id="4460" available="true">
+    <url>https://fiskars-gratis.com.ua/sokyra-kolun-xl-kh25/</url>
+    <oldprice>5399</oldprice>
+    <price>3999</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>156333769</categoryId>
+    <quantity_in_stock>7</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/sokyra-kolun-xl-kh25-56701410361483_+c9ad3ba224.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/35643170110978_+bb2e606e2a.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/96121390402824_+3be0d007bf.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/sokyra-kolun-xl-kh25-91633830371666_+7b8fe1663b.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/sokyra-kolun-xl-kh25-68763325500908_+dc6fe57951.jpg</picture>
+    <dimensions>
+     <weight unit="kg">1.8</weight>
+     <width unit="cm">20</width>
+     <height unit="cm">4</height>
+     <length unit="cm">60</length>
+    </dimensions>
+    <vendorCode>1015643</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Сокира-колун Fiskars X25 XL (1015643)]]></name>
+    <description><![CDATA[<p data-end="303" data-start="0"><span style="font-size:18px;"><strong data-end="41" data-start="0">Сокира колун </strong></span><strong data-end="40" data-start="0">Фіскарс</strong><span style="font-size:18px;"><strong data-end="41" data-start="0"> X25 XL (1015643)</strong> </span><span style="font-size:14px;">&mdash; ручний інструмент для оброблення та розколювання деревини великого об&rsquo;єму. Використовується для розколювання великих колод, підготовки дров для опалення, очищення деревини від сучків та роботи з сухою чи напівсухою деревиною у господарських і польових умовах.</span></p>    <p data-end="486" data-start="305"><span style="font-size:18px;"><strong data-end="321" data-start="305">Призначення:</strong></span><span style="font-size:14px;"> підходить для заготівлі палива, розколювання товстих колод і великих заготовок, де необхідне максимальне розділення волокон деревини за мінімальну кількість ударів.</span></p>    <p data-end="700" data-start="488"><span style="font-size:18px;"><strong data-end="504" data-start="488">Конструкція:</strong></span><span style="font-size:14px;"> клиновидне лезо великої площі призначене для глибокого проникнення у деревину й ефективного розколювання. Подовжений дерев&rsquo;яний держак забезпечує значний розмах і контроль під час замаху й удару.</span></p>    <p data-end="882" data-start="702"><span style="font-size:18px;"><strong data-end="716" data-start="702">Матеріали:</strong></span><span style="font-size:14px;"> ріжуча частина виготовлена зі сталі, що витримує високі ударні навантаження і знос. Держак розрахований на тривалу ручну експлуатацію та надійну фіксацію при роботі.&nbsp;В&nbsp;комплекті&nbsp;захисний&nbsp;пластиковий чохол для зберігання та транспортування</span></p>    <p data-end="1052" data-is-last-node="" data-is-only-node="" data-start="884"><span style="font-size:18px;"><strong data-end="900" data-start="884">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії X XL бренду Fiskars та призначений для інтенсивного розколювання деревини великого діаметру.</span></p>  ]]></description>
+    <name_ua><![CDATA[Сокира-колун Fiskars X25 XL (1015643)]]></name_ua>
+    <description_ua><![CDATA[<p data-end="303" data-start="0"><span style="font-size:18px;"><strong data-end="41" data-start="0">Сокира колун </strong></span><strong data-end="40" data-start="0">Фіскарс</strong><span style="font-size:18px;"><strong data-end="41" data-start="0"> X25 XL (1015643)</strong> </span><span style="font-size:14px;">&mdash; ручний інструмент для оброблення та розколювання деревини великого об&rsquo;єму. Використовується для розколювання великих колод, підготовки дров для опалення, очищення деревини від сучків та роботи з сухою чи напівсухою деревиною у господарських і польових умовах.</span></p>    <p data-end="486" data-start="305"><span style="font-size:18px;"><strong data-end="321" data-start="305">Призначення:</strong></span><span style="font-size:14px;"> підходить для заготівлі палива, розколювання товстих колод і великих заготовок, де необхідне максимальне розділення волокон деревини за мінімальну кількість ударів.</span></p>    <p data-end="700" data-start="488"><span style="font-size:18px;"><strong data-end="504" data-start="488">Конструкція:</strong></span><span style="font-size:14px;"> клиновидне лезо великої площі призначене для глибокого проникнення у деревину й ефективного розколювання. Подовжений дерев&rsquo;яний держак забезпечує значний розмах і контроль під час замаху й удару.</span></p>    <p data-end="882" data-start="702"><span style="font-size:18px;"><strong data-end="716" data-start="702">Матеріали:</strong></span><span style="font-size:14px;"> ріжуча частина виготовлена зі сталі, що витримує високі ударні навантаження і знос. Держак розрахований на тривалу ручну експлуатацію та надійну фіксацію при роботі.&nbsp;В&nbsp;комплекті&nbsp;захисний&nbsp;пластиковий чохол для зберігання та транспортування</span></p>    <p data-end="1052" data-is-last-node="" data-is-only-node="" data-start="884"><span style="font-size:18px;"><strong data-end="900" data-start="884">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії X XL бренду Fiskars та призначений для інтенсивного розколювання деревини великого діаметру.</span></p>  ]]></description_ua>
     <param name="Гарантия">300 мес.</param>
    </offer>
 <offer id="1015640" group_id="5460" available="true">
@@ -209,10 +210,9 @@
    </offer>
 <offer id="1001433" group_id="3487" available="true">
     <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-kushchiv-singlestep-hs22/</url>
-    <oldprice>2199</oldprice>
-    <price>1899</price>
+    <price>2999</price>
     <currencyId>UAH</currencyId>
-    <categoryId>156333769</categoryId>
+    <categoryId>1129</categoryId>
     <quantity_in_stock>19</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-dlia-kushchiv-singlestep-hs22-91351692354029_+46d7768a8b.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-dlia-kushchiv-singlestep-hs22-63454915878333_+eb5770e006.jpg</picture>
@@ -326,6 +326,28 @@
     <description_ua><![CDATA[<p data-end="240" data-start="0"><span style="font-size:18px;"><strong data-end="39" data-start="0">Вила садові </strong><strong data-end="40" data-start="0">Фіскарс</strong><strong data-end="39" data-start="0"> White (1070715)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент, призначений для розпушування ґрунту, перекопування грядок і переміщення органічних матеріалів. Використовується під час догляду за городом, садом і присадибними ділянками.</span></p>    <p data-end="442" data-start="242"><span style="font-size:18px;"><strong data-end="258" data-start="242">Призначення:</strong></span><span style="font-size:14px;"> підходять для аерації ґрунту, підняття та перевертання землі, роботи з компостом, перегноєм, гноєм, мульчею, а також для збирання рослинних залишків після обрізки або збирання врожаю.</span></p>    <p data-end="659" data-start="444"><span style="font-size:18px;"><strong data-end="460" data-start="444">Конструкція:</strong></span><span style="font-size:14px;"> кілька міцних загострених зубців забезпечують рівномірне проникнення в ґрунт і зручне підхоплення матеріалу. Подовжений держак дозволяє працювати у вертикальному положенні з контрольованим зусиллям.</span></p>    <p data-end="798" data-start="661"><span style="font-size:18px;"><strong data-end="675" data-start="661">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до навантажень і деформацій. Держак оптимізований для тривалої ручної роботи.</span></p>    <p data-end="948" data-is-last-node="" data-is-only-node="" data-start="800"><span style="font-size:18px;"><strong data-end="816" data-start="800">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до лінійки White бренду Fiskars та орієнтований на регулярне садове використання.</span></p>  ]]></description_ua>
     <param name="Гарантия">60 мес.</param>
    </offer>
+<offer id="1014810" group_id="2465" available="true">
+    <url>https://fiskars-gratis.com.ua/vyla-korotki-solid/</url>
+    <oldprice>1199</oldprice>
+    <price>649</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>156333769</categoryId>
+    <quantity_in_stock>10</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/27/vyla-korotki-solid-30245336963469_+61b3f9a06d.jpeg</picture>
+    <dimensions>
+     <weight unit="kg">2.1</weight>
+     <width unit="cm">25</width>
+     <height unit="cm">12</height>
+     <length unit="cm">130</length>
+    </dimensions>
+    <vendorCode>1014810</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Вила короткі Fiskars Solid (1014810)]]></name>
+    <description><![CDATA[<p data-end="255" data-start="0"><span style="font-size:18px;"><strong data-end="40" data-start="0">Вила короткі Fiskars Solid (1014810)</strong> </span><span style="font-size:14px;">&mdash; компактний ручний садовий інструмент для локальних робіт із ґрунтом та органічними матеріалами. Використовуються для розпушування землі в обмеженому просторі, роботи на грядках, у теплицях, контейнерах і клумбах.</span></p>    <p data-end="428" data-start="257"><span style="font-size:18px;"><strong data-end="273" data-start="257">Призначення:</strong></span><span style="font-size:14px;"> підходять для аерації ґрунту, підняття та переміщення компосту, мульчі, перегною, рослинних залишків, а також для догляду за посадками на невеликій площі.</span></p>    <p data-end="625" data-start="430"><span style="font-size:18px;"><strong data-end="446" data-start="430">Конструкція:</strong> </span><span style="font-size:14px;">короткий держак забезпечує точний контроль інструмента та зручну роботу однією або двома руками. Загострені зубці дозволяють легко входити в ґрунт і підхоплювати сипкі матеріали.</span></p>    <p data-end="759" data-start="627"><span style="font-size:18px;"><strong data-end="641" data-start="627">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до механічних навантажень. Держак адаптований до тривалої ручної роботи.</span></p>    <p data-end="926" data-is-last-node="" data-is-only-node="" data-start="761"><span style="font-size:18px;"><strong data-end="777" data-start="761">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars і розрахований на регулярне використання в побутових садових умовах.</span></p>  ]]></description>
+    <name_ua><![CDATA[Вила короткі Fiskars Solid (1014810)]]></name_ua>
+    <description_ua><![CDATA[<p data-end="255" data-start="0"><span style="font-size:18px;"><strong data-end="40" data-start="0">Вила короткі Fiskars Solid (1014810)</strong> </span><span style="font-size:14px;">&mdash; компактний ручний садовий інструмент для локальних робіт із ґрунтом та органічними матеріалами. Використовуються для розпушування землі в обмеженому просторі, роботи на грядках, у теплицях, контейнерах і клумбах.</span></p>    <p data-end="428" data-start="257"><span style="font-size:18px;"><strong data-end="273" data-start="257">Призначення:</strong></span><span style="font-size:14px;"> підходять для аерації ґрунту, підняття та переміщення компосту, мульчі, перегною, рослинних залишків, а також для догляду за посадками на невеликій площі.</span></p>    <p data-end="625" data-start="430"><span style="font-size:18px;"><strong data-end="446" data-start="430">Конструкція:</strong> </span><span style="font-size:14px;">короткий держак забезпечує точний контроль інструмента та зручну роботу однією або двома руками. Загострені зубці дозволяють легко входити в ґрунт і підхоплювати сипкі матеріали.</span></p>    <p data-end="759" data-start="627"><span style="font-size:18px;"><strong data-end="641" data-start="627">Матеріали:</strong></span><span style="font-size:14px;"> робоча частина виготовлена зі сталі, стійкої до механічних навантажень. Держак адаптований до тривалої ручної роботи.</span></p>    <p data-end="926" data-is-last-node="" data-is-only-node="" data-start="761"><span style="font-size:18px;"><strong data-end="777" data-start="761">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars і розрахований на регулярне використання в побутових садових умовах.</span></p>  ]]></description_ua>
+    <param name="Гарантия">60 мес.</param>
+   </offer>
 <offer id="1001577" group_id="3465" available="true">
     <url>https://fiskars-gratis.com.ua/vyla-dlia-sina-ergocomfort/</url>
     <oldprice>3299</oldprice>
@@ -421,7 +443,7 @@
    </offer>
 <offer id="1057162" group_id="3470" available="true">
     <url>https://fiskars-gratis.com.ua/sekator-ploshchynnyi-fiskars-solid-m-p321-1057162/</url>
-    <oldprice>1049</oldprice>
+    <oldprice>1099</oldprice>
     <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
@@ -444,7 +466,7 @@
 <offer id="1057169" group_id="4470" available="true">
     <url>https://fiskars-gratis.com.ua/sekator-ploshchynnyi-fiskars-smartfit-p541-1057169/</url>
     <oldprice>2077</oldprice>
-    <price>1049</price>
+    <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
     <quantity_in_stock>34</quantity_in_stock>
@@ -733,7 +755,7 @@
    </offer>
 <offer id="1001622" group_id="3489" available="true">
     <url>https://fiskars-gratis.com.ua/nizh-zahalnoho-pryznachennia-k40-fiskars-1001622/</url>
-    <price>999</price>
+    <price>1199</price>
     <currencyId>UAH</currencyId>
     <categoryId>1177</categoryId>
     <quantity_in_stock>41</quantity_in_stock>
@@ -1080,10 +1102,10 @@
    </offer>
 <offer id="1026797" group_id="2490" available="true">
     <url>https://fiskars-gratis.com.ua/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797/</url>
-    <price>849</price>
+    <price>899</price>
     <currencyId>UAH</currencyId>
     <categoryId>1178</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-26347769480417_+dbde59df1f.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-87343014667764_+0bd0d6d85f.jpg</picture>
     <dimensions>
@@ -2055,7 +2077,7 @@
     <price>998</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>240</quantity_in_stock>
+    <quantity_in_stock>238</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/40/multytul-gerber-armbar-cork-shimmer-gold-1052456-40506406008064_+3402bd7e26.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/40/multytul-gerber-armbar-cork-shimmer-gold-1052456-11421919249017_+3e9aec9eb5.jpg</picture>
     <dimensions>
@@ -2099,7 +2121,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>207</quantity_in_stock>
+    <quantity_in_stock>206</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-59251443973745_+9a8ef0fa11.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-48043308013193_+b58132b0b8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/multytul-gerber-lockdown-slim16lbox-1059836-62045655688555_+9744fbc528.jpg</picture>
@@ -2281,7 +2303,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>364</quantity_in_stock>
+    <quantity_in_stock>363</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-77661275374613_+389a3888f3.jpg</picture>
     <dimensions>
@@ -2489,7 +2511,7 @@
     <price>1299</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>133</quantity_in_stock>
+    <quantity_in_stock>132</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/12/skovoroda-fiskars-handy-28-sm-1024458-35260909044832_+5273e73a6e.jpg</picture>
     <dimensions>
      <weight unit="kg">1.65</weight>
@@ -2602,7 +2624,7 @@
     <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>99</quantity_in_stock>
+    <quantity_in_stock>98</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-67183323000267_+700321228a.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-36019443437645_+4b19ad1864.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-42066089788938_+04073fe35d.jpg</picture>
@@ -2669,7 +2691,7 @@
     <price>3999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>574</quantity_in_stock>
+    <quantity_in_stock>573</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-63780900637716_+75525b7782.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-98312023505074_+813f2acc62.png</picture>
     <dimensions>
@@ -3191,7 +3213,7 @@
     <price>2000</price>
     <currencyId>UAH</currencyId>
     <categoryId>1087</categoryId>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/lopata-sadova-shtykova-fiskars-classic-fsc-1014773-68987635325854_+259fdc7151.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -3555,7 +3577,7 @@
     <price>3599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/20/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox-93226855119976_+5d5a3d88f3.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/20/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox-74440498905364_+2f07e7cd24.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/20/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox-47222597205478_+b9418b08be.jpeg</picture>
@@ -3611,7 +3633,7 @@
     <price>1299</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/22/pylka-sadova-ruchna-fiskars-solid-sw-16-podarunok-multytul-gerber-lockdown-slim16lbox-44325887308020_+d71bbb92bb.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/pylka-sadova-ruchna-fiskars-solid-sw-16-podarunok-multytul-gerber-lockdown-slim16lbox-88421065593005_+58bcdf33ca.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/pylka-sadova-ruchna-fiskars-solid-sw-16-podarunok-multytul-gerber-lockdown-slim16lbox-58814037023767_+fb062cce33.jpeg</picture>
@@ -3723,7 +3745,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>34</quantity_in_stock>
+    <quantity_in_stock>33</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/26/machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-45918477240956_+9c023ee19f.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-64637580659607_+c9d384b787.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-98107994949241_+59af1d2273.jpeg</picture>
@@ -3751,7 +3773,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-56572278643966_+9114879737.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-35424771017291_+aa236078a8.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-89896663174918_+af731c2105.jpeg</picture>
@@ -3779,7 +3801,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>71</quantity_in_stock>
+    <quantity_in_stock>69</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643_+7c9ca353de.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-71214196768880_+3a4d4a7cc9.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-58483850974172_+ef36107030.jpeg</picture>
@@ -3914,7 +3936,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/35/doshka-dlia-rizki-khliba-bambukova-fiskars-1057551-47209706366341_+c6e44e0a3e.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/35/doshka-dlia-rizki-khliba-bambukova-fiskars-1057551-61341738961011_+e3d5a932c7.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/35/doshka-dlia-rizki-khliba-bambukova-fiskars-1057551-83846809737306_+5741df12fe.png</picture>
@@ -3940,7 +3962,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/36/lopatka-dereviana-dlia-hrylia-norden-1066429-30015308621525_+56abbedc52.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/36/lopatka-dereviana-dlia-hrylia-norden-1066429-42972024497797_+7785570662.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/36/lopatka-dereviana-dlia-hrylia-norden-1066429-42207035514320_+98258ac972.png</picture>
@@ -4145,7 +4167,7 @@
     <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>136</quantity_in_stock>
+    <quantity_in_stock>135</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -4260,7 +4282,7 @@
     <price>1299</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>127</quantity_in_stock>
+    <quantity_in_stock>126</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/6/hrabli-klasychni-dlia-lystia-fiskars-xl-fsc-1001584-79847047257606_+ffe4a02f34.png</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -4396,7 +4418,7 @@
     <price>5750</price>
     <currencyId>UAH</currencyId>
     <categoryId>1093</categoryId>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-11480062848910_+77d5d7c5c4.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-27177459571730_+69c3d0dc43.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-21053062737135_+770506eb59.jpg</picture>
@@ -4553,7 +4575,7 @@
    </offer>
 <offer id="1026826" group_id="12487" available="true">
     <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-travy-solid-gs21-1026826/</url>
-    <price>1477</price>
+    <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1176</categoryId>
     <quantity_in_stock>27</quantity_in_stock>
@@ -4575,7 +4597,7 @@
    </offer>
 <offer id="1072103" group_id="13467" available="true">
     <url>https://fiskars-gratis.com.ua/vyla-dlia-burianiv-solid-1072103/</url>
-    <price>377</price>
+    <price>399</price>
     <currencyId>UAH</currencyId>
     <categoryId>1090</categoryId>
     <quantity_in_stock>16</quantity_in_stock>
@@ -4762,7 +4784,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-53836038514040_+c982773cf6.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-62787540131119_+bb75c4a299.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-36092243959372_+26893d22be.png</picture>
@@ -4828,7 +4850,7 @@
    </offer>
 <offer id="1057179" group_id="19464" available="true">
     <url>https://fiskars-gratis.com.ua/lopata-roler-dlia-snihu-fiskars-snowxpert-roller-x-series-1057179/</url>
-    <price>3099</price>
+    <price>3299</price>
     <currencyId>UAH</currencyId>
     <categoryId>1087</categoryId>
     <quantity_in_stock>4</quantity_in_stock>
@@ -5181,7 +5203,7 @@
     <price>6089</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74483750015361_+69f412eaa8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-24265086835934_+17f66091ec.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74090879002246_+9c4e87df21.png</picture>
@@ -5295,6 +5317,28 @@
     <name_ua><![CDATA[Секатор площинний для кімнатних рослин]]></name_ua>
     <description_ua><![CDATA[<p><strong>Секатор площинний для кімнатних рослин Fiskars (1075314)</strong>&nbsp;призначений для точного обрізання кімнатних рослин, молодих пагонів, стебел і квітконосів. Інструмент стане у пригоді під час догляду за домашніми квітами, розсадою, зеленню та декоративними рослинами, забезпечуючи акуратний зріз і комфортне використання.</p>    <p><strong>Призначення.</strong>&nbsp;Модель підходить для формування крони кімнатних рослин, видалення відцвілих бутонів, обрізання молодих пагонів, сухого листя та тонких стебел. Також використовується для догляду за орхідеями, сукулентами, декоративно-листяними рослинами, розсадою, пряними травами та іншими культурами, які потребують делікатної обрізки.</p>    <p><strong>Конструкція.</strong>&nbsp;Площинний механізм (<strong>bypass</strong>) забезпечує чистий і рівний зріз живих тканин рослин, мінімізуючи їх пошкодження. Компактна конструкція та вузькі леза дозволяють легко працювати між густим листям і в інших важкодоступних місцях. Ергономічні руків&#39;я забезпечують надійний хват і точний контроль інструмента, а вбудований фіксатор лез підвищує безпеку під час зберігання.</p>    <p><strong>Матеріали.</strong>&nbsp;Ріжучі леза виготовлені з високоякісної сталі, стійкої до корозії та механічного зношування, що гарантує тривалий термін служби. Руків&#39;я виконані з легкого та міцного матеріалу, який забезпечує комфортне утримання навіть під час тривалої роботи.</p>    <p><strong>Особливості.</strong>&nbsp;Секатор Fiskars розроблений спеціально для догляду за кімнатними рослинами та виконання делікатних робіт. Компактні розміри, гострі площинні леза, ергономічна конструкція та висока точність різання роблять його практичним інструментом для щоденного догляду за домашніми й декоративними рослинами.</p>  ]]></description_ua>
     <param name="Гарантия">24 мес.</param>
+   </offer>
+<offer id="1062940106119" group_id="41489" available="true">
+    <url>https://fiskars-gratis.com.ua/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax/</url>
+    <oldprice>2440</oldprice>
+    <price>699</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1192</categoryId>
+    <quantity_in_stock>7</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax-88650502944038_+868c055bb7.png</picture>
+    <dimensions>
+     <weight unit="kg">0.345</weight>
+     <width unit="cm">10</width>
+     <height unit="cm">4</height>
+     <length unit="cm">22</length>
+    </dimensions>
+    <vendorCode>1062940106119</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax]]></name>
+    <description><![CDATA[<p><span style="font-size:18px;"><strong>Набір лез </strong></span><span style="font-size:14px;"><strong>(штрихкод </strong>5907222066447<strong>)</strong></span><span style="font-size:18px;"><strong> для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax</strong></span></p>    <p><span style="font-size:16px;"><strong>Опис набору</strong></span></p>    <p><span style="font-size:16px;">Набір поєднує 20 змінних лез Fiskars CarbonMax та складаний універсальний ніж Fiskars CarbonMax &mdash; практичне рішення для професійного та щоденного використання. Леза забезпечують тривалу гостроту й чистий різ, а складаний ніж дозволяє швидко виконувати різноманітні монтажні, ремонтні та будівельні роботи. Комплект стане у пригоді як майстрам, так і для домашнього використання.</span></p>    <h2 data-end="516" data-section-id="xdh47f" data-start="492"><span style="font-size:16px;">Що входить у комплект</span></h2>    <p data-end="687" data-start="518"><span style="font-size:16px;">Набір включає змінні леза та універсальний складаний ніж. Кожен елемент доповнює інший і забезпечує комфортну роботу без необхідності окремо купувати витратні матеріали.</span></p>    <h1><a href="https://fiskars-gratis.com.ua/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars-20-sht/"><span style="font-size:16px;">Набір лез для універсальних ножів CarbonMax, 20 шт (1062940)</span></a></h1>    <p><span style="font-size:16px;">Змінні леза CarbonMax виготовлені за спеціальною технологією, що дозволяє їм залишатися гострими значно довше порівняно зі стандартними лезами. Підходять для більшості універсальних ножів зі стандартним трапецієподібним лезом. Оптимальні для інтенсивної експлуатації.</span></p>    <h3 data-end="1079" data-section-id="dhdw8t" data-start="1032"><span style="font-size:16px;"><a href="https://fiskars-gratis.com.ua/nizh-skladanyi-fiskars-carbonmax-1061193/">Складаний ніж Fiskars CarbonMax (1061193</a>)&nbsp;</span></h3>    <p data-end="1422" data-start="1081"><span style="font-size:16px;">Компактний складаний ніж із міцною конструкцією, призначений для щоденних робіт. Оснащений механізмом швидкої заміни леза, що дозволяє виконувати заміну без використання додаткових інструментів. Ергономічна рукоятка забезпечує надійний хват і комфорт під час роботи, а складна конструкція робить ніж безпечним та зручним для транспортування.</span></p>    <h2 data-end="1439" data-section-id="bbpkvk" data-start="1424"><span style="font-size:16px;">Застосування</span></h2>    <p data-end="1530" data-start="1441"><span style="font-size:16px;">Набір використовується для широкого спектра монтажних, будівельних і господарських робіт.</span></p>    <ul data-end="1779" data-start="1532">   <li data-end="1583" data-section-id="16s2ixz" data-start="1532"><span style="font-size:16px;">Різання картону, паперу та пакувальних матеріалів</span></li>   <li data-end="1651" data-section-id="x3uy97" data-start="1584"><span style="font-size:16px;">Робота з плівкою, утеплювачами та іншими будівельними матеріалами</span></li>   <li data-end="1681" data-section-id="1y4lh7m" data-start="1652"><span style="font-size:16px;">Монтажні та ремонтні роботи</span></li>   <li data-end="1714" data-section-id="vmvfx" data-start="1682"><span style="font-size:16px;">Виконання оздоблювальних робіт</span></li>   <li data-end="1779" data-section-id="91ruid" data-start="1715"><span style="font-size:16px;">Використання вдома, у майстерні або на будівельному майданчику</span></li>  </ul>    <h2 data-end="1807" data-section-id="5c0shj" data-start="1781"><span style="font-size:16px;">Основні переваги набору</span></h2>    <ul data-end="2074" data-start="1809">   <li data-end="1865" data-section-id="1i0489h" data-start="1809"><span style="font-size:16px;">Комплект із ножа та 20 змінних лез для тривалої роботи</span></li>   <li data-end="1909" data-section-id="1ck2yoz" data-start="1866"><span style="font-size:16px;">Леза CarbonMax довше залишаються гострими</span></li>   <li data-end="1968" data-section-id="cywjm8" data-start="1910"><span style="font-size:16px;">Швидка та проста заміна леза без додаткових інструментів</span></li>   <li data-end="2021" data-section-id="1xc1p1r" data-start="1969"><span style="font-size:16px;">Надійна конструкція та ергономічний дизайн Fiskars</span></li>   <li data-end="2074" data-section-id="1lkbxdi" data-start="2022"><span style="font-size:16px;">Вигідна покупка комплекту завдяки ножу в подарунок</span></li>  </ul>  ]]></description>
+    <name_ua><![CDATA[Набір лез для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax]]></name_ua>
+    <description_ua><![CDATA[<p><span style="font-size:18px;"><strong>Набір лез </strong></span><span style="font-size:14px;"><strong>(штрихкод </strong>5907222066447<strong>)</strong></span><span style="font-size:18px;"><strong> для універсальних ножів CarbonMax Fiskars,20 шт+подарунокНіж складаний Fiskars CarbonMax</strong></span></p>    <p><span style="font-size:16px;"><strong>Опис набору</strong></span></p>    <p><span style="font-size:16px;">Набір поєднує 20 змінних лез Fiskars CarbonMax та складаний універсальний ніж Fiskars CarbonMax &mdash; практичне рішення для професійного та щоденного використання. Леза забезпечують тривалу гостроту й чистий різ, а складаний ніж дозволяє швидко виконувати різноманітні монтажні, ремонтні та будівельні роботи. Комплект стане у пригоді як майстрам, так і для домашнього використання.</span></p>    <h2 data-end="516" data-section-id="xdh47f" data-start="492"><span style="font-size:16px;">Що входить у комплект</span></h2>    <p data-end="687" data-start="518"><span style="font-size:16px;">Набір включає змінні леза та універсальний складаний ніж. Кожен елемент доповнює інший і забезпечує комфортну роботу без необхідності окремо купувати витратні матеріали.</span></p>    <h1><a href="https://fiskars-gratis.com.ua/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars-20-sht/"><span style="font-size:16px;">Набір лез для універсальних ножів CarbonMax, 20 шт (1062940)</span></a></h1>    <p><span style="font-size:16px;">Змінні леза CarbonMax виготовлені за спеціальною технологією, що дозволяє їм залишатися гострими значно довше порівняно зі стандартними лезами. Підходять для більшості універсальних ножів зі стандартним трапецієподібним лезом. Оптимальні для інтенсивної експлуатації.</span></p>    <h3 data-end="1079" data-section-id="dhdw8t" data-start="1032"><span style="font-size:16px;"><a href="https://fiskars-gratis.com.ua/nizh-skladanyi-fiskars-carbonmax-1061193/">Складаний ніж Fiskars CarbonMax (1061193</a>)&nbsp;</span></h3>    <p data-end="1422" data-start="1081"><span style="font-size:16px;">Компактний складаний ніж із міцною конструкцією, призначений для щоденних робіт. Оснащений механізмом швидкої заміни леза, що дозволяє виконувати заміну без використання додаткових інструментів. Ергономічна рукоятка забезпечує надійний хват і комфорт під час роботи, а складна конструкція робить ніж безпечним та зручним для транспортування.</span></p>    <h2 data-end="1439" data-section-id="bbpkvk" data-start="1424"><span style="font-size:16px;">Застосування</span></h2>    <p data-end="1530" data-start="1441"><span style="font-size:16px;">Набір використовується для широкого спектра монтажних, будівельних і господарських робіт.</span></p>    <ul data-end="1779" data-start="1532">   <li data-end="1583" data-section-id="16s2ixz" data-start="1532"><span style="font-size:16px;">Різання картону, паперу та пакувальних матеріалів</span></li>   <li data-end="1651" data-section-id="x3uy97" data-start="1584"><span style="font-size:16px;">Робота з плівкою, утеплювачами та іншими будівельними матеріалами</span></li>   <li data-end="1681" data-section-id="1y4lh7m" data-start="1652"><span style="font-size:16px;">Монтажні та ремонтні роботи</span></li>   <li data-end="1714" data-section-id="vmvfx" data-start="1682"><span style="font-size:16px;">Виконання оздоблювальних робіт</span></li>   <li data-end="1779" data-section-id="91ruid" data-start="1715"><span style="font-size:16px;">Використання вдома, у майстерні або на будівельному майданчику</span></li>  </ul>    <h2 data-end="1807" data-section-id="5c0shj" data-start="1781"><span style="font-size:16px;">Основні переваги набору</span></h2>    <ul data-end="2074" data-start="1809">   <li data-end="1865" data-section-id="1i0489h" data-start="1809"><span style="font-size:16px;">Комплект із ножа та 20 змінних лез для тривалої роботи</span></li>   <li data-end="1909" data-section-id="1ck2yoz" data-start="1866"><span style="font-size:16px;">Леза CarbonMax довше залишаються гострими</span></li>   <li data-end="1968" data-section-id="cywjm8" data-start="1910"><span style="font-size:16px;">Швидка та проста заміна леза без додаткових інструментів</span></li>   <li data-end="2021" data-section-id="1xc1p1r" data-start="1969"><span style="font-size:16px;">Надійна конструкція та ергономічний дизайн Fiskars</span></li>   <li data-end="2074" data-section-id="1lkbxdi" data-start="2022"><span style="font-size:16px;">Вигідна покупка комплекту завдяки ножу в подарунок</span></li>  </ul>  ]]></description_ua>
+    <param name="Гарантия">60 мес.</param>
    </offer>
 <offer id="1062940" group_id="42489" available="true">
     <url>https://fiskars-gratis.com.ua/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars-20-sht/</url>
@@ -5432,7 +5476,7 @@
     <price>6865</price>
     <currencyId>UAH</currencyId>
     <categoryId>1093</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33434838095190_+9f34370262.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-60186051108908_+6f09f7c9f8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33631942862025_+9ee1c696dc.png</picture>
@@ -5457,7 +5501,7 @@
     <price>3865</price>
     <currencyId>UAH</currencyId>
     <categoryId>1093</categoryId>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-56405175162690_+ac66798614.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-64306798115102_+fee810cf32.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-12786823956196_+bd0076d4ad.png</picture>
@@ -5643,31 +5687,6 @@
     <name_ua><![CDATA[Сокира Fiskars Norden 375, ювілейне видання]]></name_ua>
     <description_ua><![CDATA[<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Сокира Fiskars Norden 375 Ювілейне видання (1075438)</b> &mdash; це ексклюзивний колекційний інструмент преміум-класу, випущений обмеженим тиражем на честь 375-річчя легендарного фінського бренду Fiskars. Ця модель уособлює бездоганне поєднання вікових традицій обробки металу та дерева з найсучаснішими інженерними технологіями. Сокира Norden 375 створена не лише як висококласний робочий інструмент для поціновувачів преміальної якості, але й як цінний подарунок для туристів, мисливців, колекціонерів та прихильників бренду.</p>    <p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> розрахована на універсальне використання в польових та побутових умовах: заготівля трісок і дров для багаття, теслярські роботи, підрізання гілок, розчищення чагарників у походах, на кемпінгу, полюванні чи на присадибній ділянці.</p>    <p data-path-to-node="4,1,0"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> має ідеально збалансовану геометрію для точного, глибокого та ефективного рубання. Обух надійно зафіксований у топорищі за запатентованою технологією тривалого лиття, що гарантує 100% безпеку та унеможливлює зрив леза. Інноваційний захист від промахів із матеріалу FiberComp&nbsp;захищає дерев&#39;яну рукоятку від пошкоджень у разі неправильного удару. Постачається зі спеціальним захисним чохлом для безпечного транспортування та зберігання.</p>    <p data-path-to-node="4,2,0"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> сокирище виготовлене з добірної деревини преміального американського горіха (гікорі), яка проходить ретельну обробку, приємно лежить у руці та ефективно поглинає вібрацію від ударів. Лезо виготовлене з високоякісної вуглецевої сталі з подвійним загартуванням. Фірмове антифрикційне покриття захищає метал від корозії та значно зменшує тертя, не дозволяючи сокирі застрягати в деревині.</p>    <p data-path-to-node="4,3,0"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> загальна довжина інструмента становить 386 мм, ширина робочої частини (леза) &mdash; 172 мм. Вага обуха &mdash; 470 г, загальна вага сокири в зборі &mdash; 791 г.</p>    <p data-path-to-node="4,4,0"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> унікальне ювілейне видання (Anniversary Edition), присвячене 375-річчю Fiskars. Кожна сокира лімітованої серії Norden має неповторну природну текстуру дерева, індивідуальне гравіювання на лезі та постачається в особливій стильній упаковці. Інструмент повністю виготовляється безпосередньо у Фінляндії.</p>    <p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Фінляндія.</p>  ]]></description_ua>
    </offer>
-<offer id="1065593" group_id="17505" available="true">
-    <url>https://fiskars-gratis.com.ua/lozhka-dlia-spahetti-fiskars-essential/</url>
-    <price>299</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1093</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-51548347964897_+0243f2e2a7.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-53773282362921_+840ef871b2.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-40768927718272_+d982aa8dad.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-98321957091075_+3bb5328976.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-95908135471616_+1bed32774d.png</picture>
-    <dimensions>
-     <weight unit="kg">0.6</weight>
-     <width unit="cm">15</width>
-     <height unit="cm">8</height>
-     <length unit="cm">30</length>
-    </dimensions>
-    <vendorCode>1065593</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Ложка для спагетті Fiskars Essential]]></name>
-    <description><![CDATA[<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Ложка для спагетті Fiskars Essential (1065593)</b> &mdash; це незамінний і практичний кухонний аксесуар, розроблений спеціально для зручного приготування, виймання та порційного сервірування спагетті, лінгвіні, тальятелле та інших видів довгої пасти. Продумана форма робочої частини дозволяє акуратно та надійно захоплювати макаронні вироби безпосередньо з киплячої води чи соусу, не пошкоджуючи їх структуру та повністю захищаючи руки від гарячої пари.</p>    <p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> підходить для перемішування пасти під час варіння, виймання готових макаронних виробів із каструлі, проціджування залишків води та швидкого розкладання порцій по тарілках.</p>    <p data-path-to-node="4,1,0"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> кругла чаша ложки оснащена спеціальними зубцями по краях, які надійно утримують слизькі спагетті та не дозволяють їм вислизати назад у каструлю. По центру робочої частини передбачено отвір для швидкого відведення зайвої води чи бульйону, який також слугує вбудованим мірником &mdash; кількість сухих спагетті, що проходить крізь цей отвір, дорівнює одній стандартній порції. Ергономічна ручка має отвір для зручного підвішування на рейлінг або гачок.</p>    <p data-path-to-node="4,2,0"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> виріб повністю виготовлений із високоякісного, міцного та термостійкого пластику (поліаміду), армованого скловоложними нитками. Матеріал витримує високі температури до +180&deg;C, абсолютно безпечний для контакту з харчовими продуктами, не дряпає делікатне антипригарне, керамічне чи тефлонове покриття посуду та не нагрівається в процесі роботи.</p>    <p data-path-to-node="4,3,0"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> загальна довжина інструмента становить 295 мм, ширина робочої частини &mdash; 64 мм, висота (глибина) &mdash; 45 мм. Вага аксесуара &mdash; всього 40 г, що забезпечує максимальну легкість під час використання.</p>    <p data-path-to-node="4,4,0"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> ложка належить до базової лінійки кухонного приладдя Essential бренду Fiskars. Має лаконічний чорний дизайн, не вбирає запахи їжі, не фарбується від соусів (наприклад, томатних) та підходить для щоденного миття в посудомийній машині.</p>    <p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Фінляндія.</p>    <p data-path-to-node="4,6,0">&nbsp;</p>  ]]></description>
-    <name_ua><![CDATA[Ложка для спагетті Fiskars Essential]]></name_ua>
-    <description_ua><![CDATA[<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Ложка для спагетті Fiskars Essential (1065593)</b> &mdash; це незамінний і практичний кухонний аксесуар, розроблений спеціально для зручного приготування, виймання та порційного сервірування спагетті, лінгвіні, тальятелле та інших видів довгої пасти. Продумана форма робочої частини дозволяє акуратно та надійно захоплювати макаронні вироби безпосередньо з киплячої води чи соусу, не пошкоджуючи їх структуру та повністю захищаючи руки від гарячої пари.</p>    <p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> підходить для перемішування пасти під час варіння, виймання готових макаронних виробів із каструлі, проціджування залишків води та швидкого розкладання порцій по тарілках.</p>    <p data-path-to-node="4,1,0"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> кругла чаша ложки оснащена спеціальними зубцями по краях, які надійно утримують слизькі спагетті та не дозволяють їм вислизати назад у каструлю. По центру робочої частини передбачено отвір для швидкого відведення зайвої води чи бульйону, який також слугує вбудованим мірником &mdash; кількість сухих спагетті, що проходить крізь цей отвір, дорівнює одній стандартній порції. Ергономічна ручка має отвір для зручного підвішування на рейлінг або гачок.</p>    <p data-path-to-node="4,2,0"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> виріб повністю виготовлений із високоякісного, міцного та термостійкого пластику (поліаміду), армованого скловоложними нитками. Матеріал витримує високі температури до +180&deg;C, абсолютно безпечний для контакту з харчовими продуктами, не дряпає делікатне антипригарне, керамічне чи тефлонове покриття посуду та не нагрівається в процесі роботи.</p>    <p data-path-to-node="4,3,0"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> загальна довжина інструмента становить 295 мм, ширина робочої частини &mdash; 64 мм, висота (глибина) &mdash; 45 мм. Вага аксесуара &mdash; всього 40 г, що забезпечує максимальну легкість під час використання.</p>    <p data-path-to-node="4,4,0"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> ложка належить до базової лінійки кухонного приладдя Essential бренду Fiskars. Має лаконічний чорний дизайн, не вбирає запахи їжі, не фарбується від соусів (наприклад, томатних) та підходить для щоденного миття в посудомийній машині.</p>    <p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Фінляндія.</p>    <p data-path-to-node="4,6,0">&nbsp;</p>  ]]></description_ua>
-    <param name="Гарантия">60 мес.</param>
-   </offer>
 <offer id="1065134" group_id="49493" available="true">
     <url>https://fiskars-gratis.com.ua/nabir-nozhiv-kaimano-italicus-3-sht/</url>
     <price>1999</price>
@@ -5734,7 +5753,7 @@
    </offer>
 <offer id="1028372" group_id="45489" available="true">
     <url>https://fiskars-gratis.com.ua/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid/</url>
-    <price>1949</price>
+    <price>2099</price>
     <currencyId>UAH</currencyId>
     <categoryId>1177</categoryId>
     <quantity_in_stock>15</quantity_in_stock>
@@ -6137,7 +6156,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1009</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/nabor-terok-functional-form-95741964645743_+f1a3b9034b.png</picture>
     <dimensions>
      <weight unit="kg">0.6</weight>
@@ -7506,7 +7525,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>934</quantity_in_stock>
+    <quantity_in_stock>932</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -7595,6 +7614,29 @@
     <name_ua><![CDATA[Ножиці класичні манікюрні Фіскарс]]></name_ua>
     <description_ua><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Ножиці класичні манікюрні Fiskars Classic 10 см (1002934)</b>&nbsp;&mdash; компактний інструмент прецизійної точності, призначений для акуратного догляду за нігтями. Завдяки прямому профілю та гостро заточеним лезам ножиці забезпечують чистий, рівний та контрольований зріз.</p>    <p><b data-index-in-node="275" data-path-to-node="0">Призначення:</b>&nbsp;застосовуються для манікюру й педикюру, підрізання нігтьової пластини, корекції форми нігтів та виконання дрібних гігієнічних чи косметологічних процедур.&nbsp;</p>    <p><b data-index-in-node="443" data-path-to-node="0">Конструкція:</b>&nbsp;прямі й тонкі леза дозволяють точно контролювати лінію зрізу. Класичні кільця рукоятки розроблені з урахуванням анатомії кисті для комфортного утримання та плавного ходу лез під час роботи.</p>    <p><b data-index-in-node="646" data-path-to-node="0">Матеріали:</b>&nbsp;леза виготовлені з якісної нержавіючої сталі високої твердості, стійкої до корозії, зношування та дезінфікуючих засобів. Рукоятки виконані з міцного гігієнічного пластику фірмового оранжевого кольору.</p>    <p><b data-index-in-node="858" data-path-to-node="0">Особливості:</b>&nbsp;спеціальне заточення лез гарантує довговічну гостроту без заломлювання нігтя. Легка та компактна конструкція робить ножиці зручними для щоденного використання вдома або в дорозі. Інструмент легко очищується та підходить для регулярної санобробки.</p>    <p><b data-index-in-node="1118" data-path-to-node="0">Комплектація:</b>&nbsp;ножиці класичні манікюрні Fiskars Classic 10 см (1002934) &mdash; 1 шт.</p>  ]]></description_ua>
    </offer>
+<offer id="1015617" group_id="29460" available="true">
+    <url>https://fiskars-gratis.com.ua/sokyra-turystychna-xxs-x5/</url>
+    <price>2699</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1083</categoryId>
+    <quantity_in_stock>1</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/24/sokyra-turystychna-xxs-x5-77733053362590_+84575a45a9.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/24/sokyra-turystychna-xxs-x5-39305750747031_+7291609b94.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/24/sokyra-turystychna-xxs-x5-98821374667868_+6dbaaf8e37.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/24/sokyra-turystychna-xxs-x5-18516043559180_+750518d50e.png</picture>
+    <dimensions>
+     <weight unit="kg">1.8</weight>
+     <width unit="cm">20</width>
+     <height unit="cm">4</height>
+     <length unit="cm">60</length>
+    </dimensions>
+    <vendorCode>1015617</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Сокира туристична XXS X5]]></name>
+    <description><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Сокира туристична XXS X5 (1015617)</b>&nbsp;&mdash; найкомпактніша модель у лінійці сокир Fiskars, створена для активного відпочинку, походів та туризму. Завдяки мінімальній вазі та невеликим розмірам вона легко вміщується в рюкзак чи кріпиться на пояс, забезпечуючи високу ефективність у польових умовах.&nbsp;</p>    <p><b data-index-in-node="306" data-path-to-node="0">Призначення:</b>&nbsp;призначена для заготівлі трісок, розпалювання багаття, рубання дрібних гілок, обчісування кілочків для намету та виконання інших господарських робіт під час походів, кемпінгу, полювання чи риболовлі.&nbsp;</p>    <p><b data-index-in-node="519" data-path-to-node="0">Конструкція:</b>&nbsp;обух суцільно відлитий разом із топорищем, що повністю виключає ризик зриву леза під час роботи. Порожниста конструкція рукоятки полегшує загальну вагу та гасить вібрації від ударів. Закруглена форма на кінці ручки запобігає вислизанню сокири з рук.&nbsp;</p>    <p><b data-index-in-node="782" data-path-to-node="0">Матеріали:</b>&nbsp;лезо виготовлене з загартованої вуглецевої сталі з подвійним ступенем загартування та антифрикційним покриттям. Топорище виконане з надміцного та легкого армованого скловолокном поліаміду (FiberComp&trade;). Чохол виготовлений із міцного пластику.</p>    <p><b data-index-in-node="1035" data-path-to-node="0">Особливості:</b>&nbsp;спеціальне тефлонове покриття зменшує тертя при входженні в деревину на 25% та надійно захищає сталь від корозії. Сокира відмінно збалансована для точного та потужного удару. Комплектний пластиковий чохол оснащений надійною засувкою та зручною ручкою для переноски чи кріплення до спорядження.&nbsp;</p>    <p><b data-index-in-node="1342" data-path-to-node="0">Комплектація:</b>&nbsp;сокира туристична XXS X5 (1015617) &mdash; 1 шт., захисний пластиковий чохол &mdash; 1 шт.</p>  ]]></description>
+    <name_ua><![CDATA[Сокира туристична XXS X5]]></name_ua>
+    <description_ua><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Сокира туристична XXS X5 (1015617)</b>&nbsp;&mdash; найкомпактніша модель у лінійці сокир Fiskars, створена для активного відпочинку, походів та туризму. Завдяки мінімальній вазі та невеликим розмірам вона легко вміщується в рюкзак чи кріпиться на пояс, забезпечуючи високу ефективність у польових умовах.&nbsp;</p>    <p><b data-index-in-node="306" data-path-to-node="0">Призначення:</b>&nbsp;призначена для заготівлі трісок, розпалювання багаття, рубання дрібних гілок, обчісування кілочків для намету та виконання інших господарських робіт під час походів, кемпінгу, полювання чи риболовлі.&nbsp;</p>    <p><b data-index-in-node="519" data-path-to-node="0">Конструкція:</b>&nbsp;обух суцільно відлитий разом із топорищем, що повністю виключає ризик зриву леза під час роботи. Порожниста конструкція рукоятки полегшує загальну вагу та гасить вібрації від ударів. Закруглена форма на кінці ручки запобігає вислизанню сокири з рук.&nbsp;</p>    <p><b data-index-in-node="782" data-path-to-node="0">Матеріали:</b>&nbsp;лезо виготовлене з загартованої вуглецевої сталі з подвійним ступенем загартування та антифрикційним покриттям. Топорище виконане з надміцного та легкого армованого скловолокном поліаміду (FiberComp&trade;). Чохол виготовлений із міцного пластику.</p>    <p><b data-index-in-node="1035" data-path-to-node="0">Особливості:</b>&nbsp;спеціальне тефлонове покриття зменшує тертя при входженні в деревину на 25% та надійно захищає сталь від корозії. Сокира відмінно збалансована для точного та потужного удару. Комплектний пластиковий чохол оснащений надійною засувкою та зручною ручкою для переноски чи кріплення до спорядження.&nbsp;</p>    <p><b data-index-in-node="1342" data-path-to-node="0">Комплектація:</b>&nbsp;сокира туристична XXS X5 (1015617) &mdash; 1 шт., захисний пластиковий чохол &mdash; 1 шт.</p>  ]]></description_ua>
+   </offer>
 <offer id="1003025" group_id="31487" available="true">
     <url>https://fiskars-gratis.com.ua/nozhytsi-perukarski-17-sm/</url>
     <price>1360</price>
@@ -7621,7 +7663,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-45816761369751_+f2fc5224c0.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-39814503546151_+2589e642c3.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-68201763405941_+3b7de7dd69.png</picture>
@@ -8282,7 +8324,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-59312000672501_+3698519bd7.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-85208754697884_+37b6739466.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-64050499684131_+ecaa6b7a48.png</picture>
@@ -8302,7 +8344,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>34</quantity_in_stock>
+    <quantity_in_stock>33</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-33512893616603_+51463e480d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-60487590035005_+6cc650d24d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-99659829587933_+63215a1ca9.png</picture>
@@ -8489,7 +8531,7 @@
     <price>2499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/8/sokyra-tesliarska-solid-a10hrabli-universalni-sadovi-solid-84273655246079_+3fca3c9436.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/8/sokyra-tesliarska-solid-a10hrabli-universalni-sadovi-solid-95745089578268_+b05e883c1e.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/8/sokyra-tesliarska-solid-a10hrabli-universalni-sadovi-solid-93445579682769_+91332d5eb2.png</picture>
@@ -8508,7 +8550,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>27</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-86642605311000_+ca12383c19.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-89409643592159_+6bfe4ec5df.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-64265084868992_+0a3e982128.png</picture>
@@ -8638,7 +8680,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432_+d153e7aa15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-96260386852426_+8bc07edb90.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-79179470127551_+08e280bb6b.png</picture>
@@ -8657,7 +8699,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-84247034469713_+a44b8ba605.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-37842163366507_+3cb25e370f.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-81674711878161_+559bebfbe0.png</picture>
@@ -8707,6 +8749,31 @@
     <description><![CDATA[<p><strong>Сучкоріз площинний телескопічний Solid L13+Сокира-колун Solid A18-&nbsp;</strong>&nbsp;практичний набір Fiskars Solid для садових і господарських робіт. Сучкоріз L13 призначений для обрізання гілок, а сокира-колун A18 &mdash; для розколювання деревини та заготівлі дров.&nbsp;</p>    <p><span style="font-size:16px;"><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13/">Сучкоріз площинний телескопічний Solid L13</a><br />  Сучкоріз із висувною телескопічною ручкою та плоским механізмом різу. Розсувна конструкція дозволяє регулювати довжину інструмента залежно від висоти гілки.</span></p>    <p><span style="font-size:16px;"><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/">Сокира-колун Solid A18</a><br />  Сокира-колун із суцільним руків&#39;ям із композитного матеріалу FiberComp та загартованим лезом із вуглецевої сталі. Форма голівки та розподіл ваги розраховані на розколювання поліняк і колод діаметром до 18 см.</span></p>    <h3>Комплектація</h3>    <ul data-spread="false">   <li>Сучкоріз площинний телескопічний Fiskars Solid L13 &mdash; 1 шт.</li>   <li>Сокира-колун Fiskars Solid A18 &mdash; 1 шт.</li>  </ul>    <h3>Основні переваги набору</h3>    <ul data-spread="false">   <li>два інструменти для різних садових і господарських завдань;</li>   <li>сучкоріз для обрізання гілок;</li>   <li>сокира-колун для роботи з деревиною;</li>   <li>практичний набір для саду, дачі та приватного будинку.</li>  </ul>  ]]></description>
     <name_ua><![CDATA[Сучкоріз площинний телескопічний Solid L13+Сокира-колун Solid A18]]></name_ua>
     <description_ua><![CDATA[<p><strong>Сучкоріз площинний телескопічний Solid L13+Сокира-колун Solid A18-&nbsp;</strong>&nbsp;практичний набір Fiskars Solid для садових і господарських робіт. Сучкоріз L13 призначений для обрізання гілок, а сокира-колун A18 &mdash; для розколювання деревини та заготівлі дров.&nbsp;</p>    <p><span style="font-size:16px;"><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13/">Сучкоріз площинний телескопічний Solid L13</a><br />  Сучкоріз із висувною телескопічною ручкою та плоским механізмом різу. Розсувна конструкція дозволяє регулювати довжину інструмента залежно від висоти гілки.</span></p>    <p><span style="font-size:16px;"><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/">Сокира-колун Solid A18</a><br />  Сокира-колун із суцільним руків&#39;ям із композитного матеріалу FiberComp та загартованим лезом із вуглецевої сталі. Форма голівки та розподіл ваги розраховані на розколювання поліняк і колод діаметром до 18 см.</span></p>    <h3>Комплектація</h3>    <ul data-spread="false">   <li>Сучкоріз площинний телескопічний Fiskars Solid L13 &mdash; 1 шт.</li>   <li>Сокира-колун Fiskars Solid A18 &mdash; 1 шт.</li>  </ul>    <h3>Основні переваги набору</h3>    <ul data-spread="false">   <li>два інструменти для різних садових і господарських завдань;</li>   <li>сучкоріз для обрізання гілок;</li>   <li>сокира-колун для роботи з деревиною;</li>   <li>практичний набір для саду, дачі та приватного будинку.</li>  </ul>  ]]></description_ua>
+   </offer>
+<offer id="1065587" group_id="1493" available="">
+    <url>https://fiskars-gratis.com.ua/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587/</url>
+    <oldprice>900</oldprice>
+    <price>635</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>156333769</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/13/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587-59179465975563_+685acdbc75.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/13/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587-87024309318355_+29ccd0cfc3.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/13/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587-36437256096250_+6b3e7e0392.jpg</picture>
+    <dimensions>
+     <weight unit="kg">0.3</weight>
+     <width unit="cm">10</width>
+     <height unit="cm">3</height>
+     <length unit="cm">22</length>
+    </dimensions>
+    <vendorCode>1065587</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Кухонний ніж Fiskars Essential для сиру 21 см Black (1065587)]]></name>
+    <description><![CDATA[<p>Ніж слайсер для сиру&nbsp;<strong data-end="50" data-start="29">Fiskars Essential</strong>&nbsp;21 см (1065587) з гострим лезом зі сталі. Кут леза мінімізує кришення. Ергономічна чорна ручка &mdash; легкість і контроль.</p>    <p>Ніж слайсер для сиру&nbsp;<strong data-end="42" data-start="21">Fiskars Essential</strong>&nbsp;(21 см, 1065587) &mdash; надійний інструмент для ідеальних скибок пармезану, чеддера або інших твердих сирів. Унікальний кут леза з нержавіючої сталі дозволяє нарізати рівно й без кришення сиру. Ергономічна ручка з якісного пластику дає комфорт і контроль.</p>    <p>Компактний дизайн і легкість у догляді &mdash; помічник на кожен день на вашій кухні.</p>  ]]></description>
+    <name_ua><![CDATA[Кухонний ніж Fiskars Essential для сиру 21 см Black (1065587)]]></name_ua>
+    <description_ua><![CDATA[<p>Ніж слайсер для сиру&nbsp;<strong data-end="50" data-start="29">Fiskars Essential</strong>&nbsp;21 см (1065587) з гострим лезом зі сталі. Кут леза мінімізує кришення. Ергономічна чорна ручка &mdash; легкість і контроль.</p>    <p>Ніж слайсер для сиру&nbsp;<strong data-end="42" data-start="21">Fiskars Essential</strong>&nbsp;(21 см, 1065587) &mdash; надійний інструмент для ідеальних скибок пармезану, чеддера або інших твердих сирів. Унікальний кут леза з нержавіючої сталі дозволяє нарізати рівно й без кришення сиру. Ергономічна ручка з якісного пластику дає комфорт і контроль.</p>    <p>Компактний дизайн і легкість у догляді &mdash; помічник на кожен день на вашій кухні.</p>  ]]></description_ua>
+    <param name="Гарантия">300 мес.</param>
+    <param name="Цвет">Сірий</param>
    </offer>
 <offer id="1000601" group_id="1490" available="">
     <url>https://fiskars-gratis.com.ua/tochylo-dlia-sokyr-ta-nozhiv-xsharp/</url>
@@ -8893,7 +8960,7 @@
    </offer>
 <offer id="1066708" group_id="13464" available="">
     <url>https://fiskars-gratis.com.ua/lopata-shtykova-fiskars-ergonomic-1066708/</url>
-    <oldprice>2399</oldprice>
+    <oldprice>2599</oldprice>
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
@@ -8939,6 +9006,31 @@
     <description><![CDATA[<p data-end="243" data-start="41"><span style="font-size:16px;"><strong data-end="107" data-start="41">Ножиці для рукоділля Fiskars Classic Micro-Tip 13 см </strong>&nbsp;&mdash; точний ручний інструмент для делікатного різання тканини, ниток, паперу та дрібних деталей під час рукоділля, шиття та творчих робіт.</span></p>    <p data-end="428" data-start="245"><span style="font-size:16px;"><strong data-end="261" data-start="245">Призначення:</strong>&nbsp;призначені для точних робіт у шитті, пэчворку, рукоділлі та творчості &mdash; вирізання дрібних елементів, обрізання ниток, обробка швів і виконання тонких різальних задач.</span></p>    <p data-end="625" data-start="430"><span style="font-size:16px;"><strong data-end="446" data-start="430">Конструкція:</strong>&nbsp;тонкі леза Micro-Tip із загостреними кінчиками забезпечують максимальну точність і доступ до дрібних ділянок. Ергономічна форма руків&rsquo;я гарантує комфортний і контрольований хват.</span></p>    <p data-end="818" data-start="627"><span style="font-size:16px;"><strong data-end="641" data-start="627">Матеріали:</strong>&nbsp;леза з високоякісної нержавіючої сталі забезпечують довговічність і чистий, точний різ. Руків&rsquo;я з міцного пластику забезпечує легкість і надійність у використанні.</span></p>    <p data-end="999" data-start="820"><span style="font-size:16px;"><strong data-end="836" data-start="820">Особливості:</strong>&nbsp;серія Fiskars Classic Micro-Tip створена для максимально точної та делікатної роботи. Підходить для правші та лівші, забезпечує високу точність у дрібних роботах.</span></p>  ]]></description>
     <name_ua><![CDATA[Ножиці для рукоділля Fiskars Classic Micro-Tip]]></name_ua>
     <description_ua><![CDATA[<p data-end="243" data-start="41"><span style="font-size:16px;"><strong data-end="107" data-start="41">Ножиці для рукоділля Fiskars Classic Micro-Tip 13 см </strong>&nbsp;&mdash; точний ручний інструмент для делікатного різання тканини, ниток, паперу та дрібних деталей під час рукоділля, шиття та творчих робіт.</span></p>    <p data-end="428" data-start="245"><span style="font-size:16px;"><strong data-end="261" data-start="245">Призначення:</strong>&nbsp;призначені для точних робіт у шитті, пэчворку, рукоділлі та творчості &mdash; вирізання дрібних елементів, обрізання ниток, обробка швів і виконання тонких різальних задач.</span></p>    <p data-end="625" data-start="430"><span style="font-size:16px;"><strong data-end="446" data-start="430">Конструкція:</strong>&nbsp;тонкі леза Micro-Tip із загостреними кінчиками забезпечують максимальну точність і доступ до дрібних ділянок. Ергономічна форма руків&rsquo;я гарантує комфортний і контрольований хват.</span></p>    <p data-end="818" data-start="627"><span style="font-size:16px;"><strong data-end="641" data-start="627">Матеріали:</strong>&nbsp;леза з високоякісної нержавіючої сталі забезпечують довговічність і чистий, точний різ. Руків&rsquo;я з міцного пластику забезпечує легкість і надійність у використанні.</span></p>    <p data-end="999" data-start="820"><span style="font-size:16px;"><strong data-end="836" data-start="820">Особливості:</strong>&nbsp;серія Fiskars Classic Micro-Tip створена для максимально точної та делікатної роботи. Підходить для правші та лівші, забезпечує високу точність у дрібних роботах.</span></p>  ]]></description_ua>
+   </offer>
+<offer id="1065593" group_id="17505" available="">
+    <url>https://fiskars-gratis.com.ua/lozhka-dlia-spahetti-fiskars-essential/</url>
+    <price>299</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1093</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-51548347964897_+0243f2e2a7.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-53773282362921_+840ef871b2.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-40768927718272_+d982aa8dad.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-98321957091075_+3bb5328976.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-95908135471616_+1bed32774d.png</picture>
+    <dimensions>
+     <weight unit="kg">0.6</weight>
+     <width unit="cm">15</width>
+     <height unit="cm">8</height>
+     <length unit="cm">30</length>
+    </dimensions>
+    <vendorCode>1065593</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Ложка для спагетті Fiskars Essential]]></name>
+    <description><![CDATA[<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Ложка для спагетті Fiskars Essential (1065593)</b> &mdash; це незамінний і практичний кухонний аксесуар, розроблений спеціально для зручного приготування, виймання та порційного сервірування спагетті, лінгвіні, тальятелле та інших видів довгої пасти. Продумана форма робочої частини дозволяє акуратно та надійно захоплювати макаронні вироби безпосередньо з киплячої води чи соусу, не пошкоджуючи їх структуру та повністю захищаючи руки від гарячої пари.</p>    <p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> підходить для перемішування пасти під час варіння, виймання готових макаронних виробів із каструлі, проціджування залишків води та швидкого розкладання порцій по тарілках.</p>    <p data-path-to-node="4,1,0"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> кругла чаша ложки оснащена спеціальними зубцями по краях, які надійно утримують слизькі спагетті та не дозволяють їм вислизати назад у каструлю. По центру робочої частини передбачено отвір для швидкого відведення зайвої води чи бульйону, який також слугує вбудованим мірником &mdash; кількість сухих спагетті, що проходить крізь цей отвір, дорівнює одній стандартній порції. Ергономічна ручка має отвір для зручного підвішування на рейлінг або гачок.</p>    <p data-path-to-node="4,2,0"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> виріб повністю виготовлений із високоякісного, міцного та термостійкого пластику (поліаміду), армованого скловоложними нитками. Матеріал витримує високі температури до +180&deg;C, абсолютно безпечний для контакту з харчовими продуктами, не дряпає делікатне антипригарне, керамічне чи тефлонове покриття посуду та не нагрівається в процесі роботи.</p>    <p data-path-to-node="4,3,0"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> загальна довжина інструмента становить 295 мм, ширина робочої частини &mdash; 64 мм, висота (глибина) &mdash; 45 мм. Вага аксесуара &mdash; всього 40 г, що забезпечує максимальну легкість під час використання.</p>    <p data-path-to-node="4,4,0"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> ложка належить до базової лінійки кухонного приладдя Essential бренду Fiskars. Має лаконічний чорний дизайн, не вбирає запахи їжі, не фарбується від соусів (наприклад, томатних) та підходить для щоденного миття в посудомийній машині.</p>    <p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Фінляндія.</p>    <p data-path-to-node="4,6,0">&nbsp;</p>  ]]></description>
+    <name_ua><![CDATA[Ложка для спагетті Fiskars Essential]]></name_ua>
+    <description_ua><![CDATA[<p data-path-to-node="3"><b data-index-in-node="0" data-path-to-node="3">Ложка для спагетті Fiskars Essential (1065593)</b> &mdash; це незамінний і практичний кухонний аксесуар, розроблений спеціально для зручного приготування, виймання та порційного сервірування спагетті, лінгвіні, тальятелле та інших видів довгої пасти. Продумана форма робочої частини дозволяє акуратно та надійно захоплювати макаронні вироби безпосередньо з киплячої води чи соусу, не пошкоджуючи їх структуру та повністю захищаючи руки від гарячої пари.</p>    <p data-path-to-node="4,0,0"><b data-index-in-node="0" data-path-to-node="4,0,0">Призначення:</b> підходить для перемішування пасти під час варіння, виймання готових макаронних виробів із каструлі, проціджування залишків води та швидкого розкладання порцій по тарілках.</p>    <p data-path-to-node="4,1,0"><b data-index-in-node="0" data-path-to-node="4,1,0">Конструкція:</b> кругла чаша ложки оснащена спеціальними зубцями по краях, які надійно утримують слизькі спагетті та не дозволяють їм вислизати назад у каструлю. По центру робочої частини передбачено отвір для швидкого відведення зайвої води чи бульйону, який також слугує вбудованим мірником &mdash; кількість сухих спагетті, що проходить крізь цей отвір, дорівнює одній стандартній порції. Ергономічна ручка має отвір для зручного підвішування на рейлінг або гачок.</p>    <p data-path-to-node="4,2,0"><b data-index-in-node="0" data-path-to-node="4,2,0">Матеріали:</b> виріб повністю виготовлений із високоякісного, міцного та термостійкого пластику (поліаміду), армованого скловоложними нитками. Матеріал витримує високі температури до +180&deg;C, абсолютно безпечний для контакту з харчовими продуктами, не дряпає делікатне антипригарне, керамічне чи тефлонове покриття посуду та не нагрівається в процесі роботи.</p>    <p data-path-to-node="4,3,0"><b data-index-in-node="0" data-path-to-node="4,3,0">Розміри:</b> загальна довжина інструмента становить 295 мм, ширина робочої частини &mdash; 64 мм, висота (глибина) &mdash; 45 мм. Вага аксесуара &mdash; всього 40 г, що забезпечує максимальну легкість під час використання.</p>    <p data-path-to-node="4,4,0"><b data-index-in-node="0" data-path-to-node="4,4,0">Особливості:</b> ложка належить до базової лінійки кухонного приладдя Essential бренду Fiskars. Має лаконічний чорний дизайн, не вбирає запахи їжі, не фарбується від соусів (наприклад, томатних) та підходить для щоденного миття в посудомийній машині.</p>    <p data-path-to-node="4,5,0"><b data-index-in-node="0" data-path-to-node="4,5,0">Країна-виробник:</b> Фінляндія.</p>    <p data-path-to-node="4,6,0">&nbsp;</p>  ]]></description_ua>
+    <param name="Гарантия">60 мес.</param>
    </offer>
 <offer id="1051146" group_id="25460" available="">
     <url>https://fiskars-gratis.com.ua/nabir-podarunkovyi-2-v-1-fiskars-norden-n7-ta-tochylo-1051146/</url>

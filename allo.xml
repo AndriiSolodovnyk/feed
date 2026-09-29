@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-28 21:40</date>
+    <date>2026-09-29 01:34</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -1454,7 +1454,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/40/lopata-roler-dlia-snihu-fiskars-snowxpert-roller-x-series-1057179-61282787102177_+12d22de961.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/lopata-roler-dlia-snihu-fiskars-snowxpert-roller-x-series-1057179-16381498126247_+5c89253a93.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/lopata-roler-dlia-snihu-fiskars-snowxpert-roller-x-series-1057179-92692592880718_+8a05c1bfa9.jpg</image>
-            <priceRUAH>3099</priceRUAH>
+            <priceRUAH>3299</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1057179</param>
             <param name="Бренд">Fiskars</param>
@@ -2658,7 +2658,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/21/vyla-dlia-burianiv-solid-1072103-95562995986357_+f06220616e.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/21/vyla-dlia-burianiv-solid-1072103-85462232731421_+6fef0bda9b.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/21/vyla-dlia-burianiv-solid-1072103-97521934902376_+6176aef4aa.jpg</image>
-            <priceRUAH>377</priceRUAH>
+            <priceRUAH>399</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1072103</param>
             <param name="Бренд">Fiskars</param>
@@ -2852,7 +2852,7 @@
             <url>https://fiskars-gratis.com.ua/sekator-ploshchynnyi-fiskars-smartfit-p541-1057169/</url>
             <image>https://fiskars-gratis.com.ua/content/images/1/sekator-ploshchynnyi-fiskars-smartfit-p541-1057169-69400811095303_+90e650892c.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/1/sekator-ploshchynnyi-fiskars-smartfit-p541-1057169-48928306012836_+14ad4c1792.jpg</image>
-            <priceRUAH>1049</priceRUAH>
+            <priceRUAH>1899</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1057169</param>
@@ -3426,7 +3426,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/48/hrabli-dlia-gruntu-solid-1016036-88925939007371_+5cf7d79562.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/48/hrabli-dlia-gruntu-solid-1016036-23872533380159_+a239663e35.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/48/hrabli-dlia-gruntu-solid-1016036-96998178649750_+00c309e4d2.png</image>
-            <priceRUAH>1377</priceRUAH>
+            <priceRUAH>1499</priceRUAH>
             <stock>Немає в наявності</stock>
             <param name="Артикул">1016036</param>
             <param name="Бренд">Fiskars</param>
@@ -5318,7 +5318,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/21/nozhytsi-dlia-kushchiv-solid-hs21-20763220951022_+de2132e5e6.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/21/nozhytsi-dlia-kushchiv-solid-hs21-53203319405827_+1fcb36e454.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/21/nozhytsi-dlia-kushchiv-solid-hs21-35787076133493_+a9d9d75222.jpg</image>
-            <priceRUAH>1499</priceRUAH>
+            <priceRUAH>1677</priceRUAH>
             <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1026827</param>
@@ -5350,7 +5350,7 @@
             <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-kushchiv-singlestep-hs22/</url>
             <image>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-dlia-kushchiv-singlestep-hs22-91351692354029_+46d7768a8b.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-dlia-kushchiv-singlestep-hs22-63454915878333_+eb5770e006.jpg</image>
-            <priceRUAH>1899</priceRUAH>
+            <priceRUAH>2999</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1001433</param>
@@ -5617,7 +5617,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-travy-solid-gs21-1026826-57945662742617_+8b7fd2e4ea.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-travy-solid-gs21-1026826-57852343361068_+c60f8a509f.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nozhytsi-dlia-travy-solid-gs21-1026826-79281933423531_+0e214142c4.jpg</image>
-            <priceRUAH>1477</priceRUAH>
+            <priceRUAH>1499</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1026826</param>
             <param name="Бренд">Fiskars</param>
@@ -6620,7 +6620,7 @@
             <url>https://fiskars-gratis.com.ua/nizh-zahalnoho-pryznachennia-k40-fiskars-1001622/</url>
             <image>https://fiskars-gratis.com.ua/content/images/15/nizh-zahalnoho-pryznachennia-k40-fiskars-1001622-38969493694733_+aa39636bec.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/15/nizh-zahalnoho-pryznachennia-k40-fiskars-1001622-47422005984420_+b641539286.jpg</image>
-            <priceRUAH>999</priceRUAH>
+            <priceRUAH>1199</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1001622</param>
@@ -9156,7 +9156,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-48124006012812_+fbc4c87de0.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-96114524475237_+624b83826b.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/skladanyi-sadovyi-mishok-dlia-lystia-175-litry-fiskars-solid-63136348340368_+3a228635ff.png</image>
-            <priceRUAH>1949</priceRUAH>
+            <priceRUAH>2099</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1028372</param>
             <param name="Бренд">Fiskars</param>
@@ -11494,7 +11494,7 @@
             <url>https://fiskars-gratis.com.ua/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797/</url>
             <image>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-26347769480417_+dbde59df1f.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-87343014667764_+0bd0d6d85f.jpg</image>
-            <priceRUAH>849</priceRUAH>
+            <priceRUAH>899</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1026797</param>
@@ -11748,7 +11748,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/13/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587-87024309318355_+29ccd0cfc3.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/13/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587-36437256096250_+6b3e7e0392.jpg</image>
             <priceRUAH>635</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1065587</param>
             <param name="Бренд">Fiskars</param>
@@ -16645,7 +16645,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-98321957091075_+3bb5328976.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-95908135471616_+1bed32774d.png</image>
             <priceRUAH>299</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1065593</param>
             <param name="Бренд">Fiskars</param>
