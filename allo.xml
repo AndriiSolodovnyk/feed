@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-09-30 00:08</date>
+    <date>2026-09-30 06:23</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -3050,7 +3050,7 @@
             <url>https://fiskars-gratis.com.ua/hrabli-dlia-lystia-fiskars-ergonomic-xl-1000660/</url>
             <image>https://fiskars-gratis.com.ua/content/images/27/hrabli-dlia-lystia-fiskars-ergonomic-xl-1000660-38160386573897_+c708c18211.jpg</image>
             <priceRUAH>999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1000660</param>
             <param name="Бренд">Fiskars</param>
@@ -8450,7 +8450,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/49/sokyra-kolun-fiskars-l-kh21-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-62456933660342_+aaff17c481.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/49/sokyra-kolun-fiskars-l-kh21-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-46042453718856_+bcf45dc633.png</image>
             <priceRUAH>3599</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1015642101477</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -11223,7 +11223,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-18467658791252_+e7f1b34905.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-97122179690787_+ab7744cd18.png</image>
             <priceRUAH>1499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1027528102349</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -11908,7 +11908,7 @@
             <url>https://fiskars-gratis.com.ua/nizh-skladnyi-gerber-quadrant16l-1066487/</url>
             <image>https://fiskars-gratis.com.ua/content/images/48/nizh-skladnyi-gerber-quadrant16l-1066487-88556619773303_+c76e6fde45.png</image>
             <priceRUAH>2298</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1066487</param>
             <param name="Бренд">Gerber</param>
@@ -16645,7 +16645,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-98321957091075_+3bb5328976.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-95908135471616_+1bed32774d.png</image>
             <priceRUAH>299</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1065593</param>
             <param name="Бренд">Fiskars</param>

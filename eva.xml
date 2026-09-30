@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-30 00:08">
+<yml_catalog date="2026-09-30 06:23">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -1833,7 +1833,7 @@
       <offer id="1050245" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-skladnyi-gerber-wingtip-modern-malyi-1050245/</url>
         <price>1399</price>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>217</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/44/nizh-skladnyi-gerber-wingtip-modern-malyi-1050245-44552224455631_+516ebf0cb8.jpg</picture>
@@ -1981,10 +1981,10 @@
         <param name="Код УКТ ЗЕД">8211930000</param>
         <param name="Категорія Хорошоп">GERBER / Ножі Gerber / Складні ножі Gerber</param>
       </offer>
-      <offer id="1066487" available="false">
+      <offer id="1066487" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-skladnyi-gerber-quadrant16l-1066487/</url>
         <price>2298</price>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>402</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/48/nizh-skladnyi-gerber-quadrant16l-1066487-88556619773303_+c76e6fde45.png</picture>
@@ -2676,7 +2676,7 @@
       <offer id="1063145" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-gerber-ceviche-9eboxgrnblk-1063145/</url>
         <price>1999</price>
-        <stock_quantity>819</stock_quantity>
+        <stock_quantity>799</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1007</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/nizh-gerber-ceviche-9eboxgrnblk-1063145-79499331646641_+dd95122288.jpg</picture>
@@ -2796,7 +2796,7 @@
       <offer id="1064424" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-turystychnyi-gerber-mansfield-1064424/</url>
         <price>2549</price>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>282</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1014</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/nizh-turystychnyi-gerber-mansfield-1064424-82788301827483_+69eded9d33.jpg</picture>
@@ -2990,7 +2990,7 @@
       <offer id="1067368" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-spire-ao-g10-eb/</url>
         <price>3849</price>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>143</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/nizh-spire-ao-g10-eb-33080681909341_+f684d50843.jpg</picture>
@@ -3133,7 +3133,7 @@
       <offer id="1075839" available="true">
         <url>https://fiskars-gratis.com.ua/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839/</url>
         <price>3596</price>
-        <stock_quantity>112</stock_quantity>
+        <stock_quantity>664</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839-45127284275523_+cbe8c8c20e.jpg</picture>
@@ -3376,7 +3376,7 @@
       <offer id="1075834" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-santoku-fiskars-cleaver-all-steel-16-sm/</url>
         <price>6089</price>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>215</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74483750015361_+69f412eaa8.png</picture>
@@ -4276,7 +4276,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-fiskars-lifestyle/</url>
         <price>399</price>
         <price_old>486</price_old>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>8</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nizh-fiskars-lifestyle-92564604568039_+4c8abe6a92.png</picture>
@@ -4756,7 +4756,7 @@
       <offer id="1052457" available="true">
         <url>https://fiskars-gratis.com.ua/multytul-gerber-lockdown-drive-1052457/</url>
         <price>2389</price>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>978</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/multytul-gerber-lockdown-drive-1052457-41413849895154_+b3ee293453.jpg</picture>
@@ -4969,7 +4969,7 @@
       <offer id="1059852" available="true">
         <url>https://fiskars-gratis.com.ua/multytul-gerber-lockdown-pry-onyx-1059852/</url>
         <price>2389</price>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>1352</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/37/multytul-gerber-lockdown-pry-onyx-1059852-20803579743545_+8c789146ec.png</picture>
@@ -5060,7 +5060,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-scout4lblsonyx3-12-1064399/</url>
         <price>899</price>
         <price_old>2389</price_old>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>11</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
@@ -5375,7 +5375,7 @@
       <offer id="1024856" available="true">
         <url>https://fiskars-gratis.com.ua/machete-gerber-compact-clearpath-1024856/</url>
         <price>2249</price>
-        <stock_quantity>182</stock_quantity>
+        <stock_quantity>629</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1008</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-46076303649247_+2be344ae48.jpg</picture>
@@ -5750,7 +5750,7 @@
         <url>https://fiskars-gratis.com.ua/lopatka-dereviana-dlia-hrylia-norden-1066429/</url>
         <price>999</price>
         <price_old>1400</price_old>
-        <stock_quantity>14</stock_quantity>
+        <stock_quantity>338</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/lopatka-dereviana-dlia-hrylia-norden-1066429-30015308621525_+56abbedc52.png</picture>
@@ -5790,7 +5790,7 @@
       <offer id="1066431" available="true">
         <url>https://fiskars-gratis.com.ua/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431/</url>
         <price>5750</price>
-        <stock_quantity>20</stock_quantity>
+        <stock_quantity>350</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-11480062848910_+77d5d7c5c4.jpg</picture>
@@ -5919,7 +5919,7 @@
       <offer id="1065250" available="true">
         <url>https://fiskars-gratis.com.ua/vydelka-dlia-miasa-norden/</url>
         <price>3865</price>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>14</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1009</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/vydelka-dlia-miasa-norden-74629045607814_+ae379f7084.png</picture>
@@ -6004,7 +6004,7 @@
       <offer id="1066426" available="true">
         <url>https://fiskars-gratis.com.ua/shchyptsi-dlia-hrylia-norden-grill/</url>
         <price>6865</price>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>472</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33434838095190_+9f34370262.png</picture>
@@ -6069,7 +6069,7 @@
       <offer id="1066427" available="true">
         <url>https://fiskars-gratis.com.ua/vydelka-dlia-hrylia-norden-grill/</url>
         <price>3865</price>
-        <stock_quantity>26</stock_quantity>
+        <stock_quantity>435</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-56405175162690_+ac66798614.png</picture>
@@ -6448,10 +6448,10 @@
         <param name="Код УКТ ЗЕД">3924100000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонне приладдя</param>
       </offer>
-      <offer id="1065593" available="false">
+      <offer id="1065593" available="true">
         <url>https://fiskars-gratis.com.ua/lozhka-dlia-spahetti-fiskars-essential/</url>
         <price>299</price>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/35/lozhka-dlia-spahetti-fiskars-essential-51548347964897_+0243f2e2a7.png</picture>
