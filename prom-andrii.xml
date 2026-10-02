@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-01 21:39">
+<yml_catalog date="2026-10-02 01:23">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -65,7 +65,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>159</quantity_in_stock>
+    <quantity_in_stock>158</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-kolun-solid-a18-32816859905940_+d9511c6405.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/41650360493183_+e16acac9d5.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-kolun-solid-a18-32081552193963_+eed79a03b8.jpg</picture>
@@ -92,7 +92,7 @@
     <price>3299</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/16/sokyra-kolun-m-kh17-63188316463397_+759234e14d.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/93618919334182_+9ab6bdbbfa.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/65390895060692_+a2180c4aa5.jpg</picture>
@@ -168,7 +168,7 @@
     <price>3599</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>37</quantity_in_stock>
+    <quantity_in_stock>35</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/sokyra-kolun-l-kh21-f-81853229389511_+681681ba80.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/sokyra-kolun-l-kh21-f-65787424604347_+a937218a2a.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/sokyra-kolun-l-kh21-f-22103199446323_+a1993e600f.jpg</picture>
@@ -281,7 +281,7 @@
     <price>1399</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-30193213527913_+c5a51c1118.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-51057855491450_+09d941eea0.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-31067983264225_+7e56af4dcb.jpg</picture>
@@ -401,7 +401,7 @@
     <price>2499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1083</categoryId>
-    <quantity_in_stock>618</quantity_in_stock>
+    <quantity_in_stock>616</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/47/sokyra-tesliarskafiskars-solid-a10-1051085-32349492837763_+2f75112269.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/47/sokyra-tesliarskafiskars-solid-a10-1051085-19406112949108_+2d6c5d965d.jpg</picture>
     <dimensions>
@@ -417,6 +417,29 @@
     <name_ua><![CDATA[Сокира теслярська Fiskars Solid A10 (1051085)]]></name_ua>
     <description_ua><![CDATA[<p data-end="328" data-start="0"><span style="font-size:18px;"><strong data-end="49" data-start="0">Сокира теслярська </strong></span><strong data-end="40" data-start="0">Фіскарс</strong><span style="font-size:18px;"><strong data-end="49" data-start="0"> Solid A10 (1051085)</strong> </span><span style="font-size:14px;">&mdash; ручний інструмент для точних столярних і теслярських робіт з деревиною у побутових, ремонтних і польових умовах. Використовується для обтесування, підрізання, формування та розпилювання дерев&rsquo;яних заготовок, де потрібна контрольована обробка поверхні і чітке формування кутів.</span></p>    <p data-end="559" data-start="330"><span style="font-size:18px;"><strong data-end="346" data-start="330">Призначення:</strong></span><span style="font-size:14px;"> підходить для теслярських і столярних задач, виготовлення та підгонки дерев&rsquo;яних елементів конструкцій, обробки кутів і поверхонь, а також для допоміжних робіт із деревиною на присадибних ділянках чи в майстерні.</span></p>    <p data-end="813" data-start="561"><span style="font-size:18px;"><strong data-end="577" data-start="561">Конструкція:</strong></span><span style="font-size:14px;"> тонке, гостре лезо з гострим ріжучим краєм призначене для точних розрізів і обтесування деревини різної твердості. Збалансована форма ручки й голови забезпечує контроль під час замаху і удару, а компактні розміри сприяють маневреності.</span></p>    <p data-end="1020" data-start="815"><span style="font-size:18px;"><strong data-end="829" data-start="815">Матеріали:</strong></span> <span style="font-size:14px;">ріжуча частина виготовлена зі сталі, стійкої до зношування при обробці деревини. Руків&rsquo;я адаптоване для тривалого ручного утримання і забезпечує надійний захват під час різьблення й обробки. В&nbsp;комплекті&nbsp;захисний&nbsp;пластиковий чохол для зберігання та транспортування</span></p>    <p data-end="1178" data-is-last-node="" data-is-only-node="" data-start="1022"><span style="font-size:18px;"><strong data-end="1038" data-start="1022">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для акуратних теслярських і столярних робіт.</span></p>    <p data-end="1178" data-is-last-node="" data-is-only-node="" data-start="1022"><strong data-end="915" data-start="899">Важливе зауваження:</strong>&nbsp;топор та колун&nbsp;Фискарс напевно, є найкращими у світі.</p>  ]]></description_ua>
     <param name="Гарантия">300 мес.</param>
+   </offer>
+<offer id="1001530" group_id="1470" available="true">
+    <url>https://fiskars-gratis.com.ua/sekator-profesiinyi-fiskars-pro-p90-1001530/</url>
+    <oldprice>2699</oldprice>
+    <price>1599</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>156333769</categoryId>
+    <quantity_in_stock>272</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-67228565350612_+3651437728.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-44572510144021_+ecda01e9d6.jpg</picture>
+    <dimensions>
+     <weight unit="kg">1.4</weight>
+     <width unit="cm">20</width>
+     <height unit="cm">5</height>
+     <length unit="cm">65</length>
+    </dimensions>
+    <vendorCode>1001530</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Секатор професійний Fiskars Pro P90 (1001530)]]></name>
+    <description><![CDATA[<p data-end="319" data-start="0"><span style="font-size:18px;"><strong data-end="49" data-start="0">Секатор професійний Fiskars Pro P90 (1001530)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для обрізання живих і сухих гілок рослин на присадибних ділянках, у садах і на ландшафтних об&rsquo;єктах. Використовується для точних зрізів гілок малого та середнього діаметру під час формування крони, проріджування та підтримки здоров&rsquo;я рослин.</span></p>    <p data-end="495" data-start="321"><span style="font-size:18px;"><strong data-end="337" data-start="321">Призначення:</strong></span><span style="font-size:14px;"> підходить для робіт зі стрижки плодових і декоративних дерев, живоплотів, чагарників та інших насаджень, де потрібна висока якість зрізу та зусилля контролю.</span></p>    <p data-end="694" data-start="497"><span style="font-size:18px;"><strong data-end="513" data-start="497">Конструкція:</strong></span><span style="font-size:14px;"> класичний секатор з оптимальним розміром лез і важелем для застосування помірного зусилля. Ергономічна руків&rsquo;я забезпечує комфорт і контроль під час тривалого ручного використання.</span></p>    <p data-end="849" data-start="696"><span style="font-size:18px;"><strong data-end="710" data-start="696">Матеріали:</strong> </span><span style="font-size:14px;">ріжучі леза виготовлені зі сталі, стійкої до корозії та механічного зношування. Руків&rsquo;я адаптоване для систематичних операцій з обрізання.</span></p>    <p data-end="1030" data-is-last-node="" data-is-only-node="" data-start="851"><span style="font-size:18px;"><strong data-end="867" data-start="851">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Pro бренду Fiskars та призначений для професійних і напівпрофесійних садових робіт із обрізання рослин.</span></p>  ]]></description>
+    <name_ua><![CDATA[Секатор професійний Fiskars Pro P90 (1001530)]]></name_ua>
+    <description_ua><![CDATA[<p data-end="319" data-start="0"><span style="font-size:18px;"><strong data-end="49" data-start="0">Секатор професійний Fiskars Pro P90 (1001530)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для обрізання живих і сухих гілок рослин на присадибних ділянках, у садах і на ландшафтних об&rsquo;єктах. Використовується для точних зрізів гілок малого та середнього діаметру під час формування крони, проріджування та підтримки здоров&rsquo;я рослин.</span></p>    <p data-end="495" data-start="321"><span style="font-size:18px;"><strong data-end="337" data-start="321">Призначення:</strong></span><span style="font-size:14px;"> підходить для робіт зі стрижки плодових і декоративних дерев, живоплотів, чагарників та інших насаджень, де потрібна висока якість зрізу та зусилля контролю.</span></p>    <p data-end="694" data-start="497"><span style="font-size:18px;"><strong data-end="513" data-start="497">Конструкція:</strong></span><span style="font-size:14px;"> класичний секатор з оптимальним розміром лез і важелем для застосування помірного зусилля. Ергономічна руків&rsquo;я забезпечує комфорт і контроль під час тривалого ручного використання.</span></p>    <p data-end="849" data-start="696"><span style="font-size:18px;"><strong data-end="710" data-start="696">Матеріали:</strong> </span><span style="font-size:14px;">ріжучі леза виготовлені зі сталі, стійкої до корозії та механічного зношування. Руків&rsquo;я адаптоване для систематичних операцій з обрізання.</span></p>    <p data-end="1030" data-is-last-node="" data-is-only-node="" data-start="851"><span style="font-size:18px;"><strong data-end="867" data-start="851">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Pro бренду Fiskars та призначений для професійних і напівпрофесійних садових робіт із обрізання рослин.</span></p>  ]]></description_ua>
+    <param name="Гарантия">24 мес.</param>
    </offer>
 <offer id="1026916" group_id="2470" available="true">
     <url>https://fiskars-gratis.com.ua/sekator-ploshchynnyi-fiskars-white-p57-1026916/</url>
@@ -447,7 +470,7 @@
     <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>39</quantity_in_stock>
+    <quantity_in_stock>36</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/50/sekator-ploshchynnyi-fiskars-solid-m-p321-1057162-98393035338109_+022dbe4bcb.jpg</picture>
     <dimensions>
      <weight unit="kg">1.4</weight>
@@ -671,7 +694,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>653</quantity_in_stock>
+    <quantity_in_stock>637</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -731,6 +754,29 @@
     <description_ua><![CDATA[<p data-end="322" data-start="0"><span style="font-size:18px;"><strong data-end="45" data-start="0">Пилка садова ручна Fiskars SW37 (1028374)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для обрізання та розпилювання живих і сухих гілок дерев і кущів на присадибних ділянках та в садах. Використовується для випилювання гілок малого та середнього діаметру, формування крон, проріджування насаджень і підготовчих робіт перед обрізанням.</span></p>    <p data-end="487" data-start="324"><span style="font-size:18px;"><strong data-end="340" data-start="324">Призначення:</strong> </span><span style="font-size:14px;">підходить для догляду за деревними і кущовими рослинами, видалення загущених гілок, підготовки деревини до обрізки та додаткових садових операцій.</span></p>    <p data-end="692" data-start="489"><span style="font-size:18px;"><strong data-end="505" data-start="489">Конструкція:</strong></span><span style="font-size:14px;"> ручна пилка оснащена ріжучим полотном оптимальної довжини для роботи на рівні плечей і на доступній висоті. Ергономічна руків&rsquo;я забезпечує зручний захват і контроль під час розпилювання.</span></p>    <p data-end="876" data-start="694"><span style="font-size:18px;"><strong data-end="708" data-start="694">Матеріали:</strong> </span><span style="font-size:14px;">полотно виготовлене зі сталі, стійкої до корозії і механічного зношування при регулярному використанні. Руків&rsquo;я адаптоване для тривалого ручного утримання інструмента.</span></p>    <p data-end="1059" data-is-last-node="" data-is-only-node="" data-start="878"><span style="font-size:18px;"><strong data-end="894" data-start="878">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії SW бренду Fiskars та призначений для систематичного садового догляду за гілками і деревними насадженнями.</span></p>  ]]></description_ua>
     <param name="Гарантия">24 мес.</param>
    </offer>
+<offer id="1061193" group_id="1489" available="true">
+    <url>https://fiskars-gratis.com.ua/nizh-skladanyi-fiskars-carbonmax-1061193/</url>
+    <price>1949</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1177</categoryId>
+    <quantity_in_stock>2</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/13/nizh-skladanyi-fiskars-carbonmax-1061193-67692062142256_+1f8cb32340.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/13/nizh-skladanyi-fiskars-carbonmax-1061193-89970678101857_+272ad4fb94.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/13/nizh-skladanyi-fiskars-carbonmax-1061193-72791732924194_+c5498e5760.jpg</picture>
+    <dimensions>
+     <weight unit="kg">0.3</weight>
+     <width unit="cm">10</width>
+     <height unit="cm">3</height>
+     <length unit="cm">22</length>
+    </dimensions>
+    <vendorCode>1061193</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></name>
+    <description><![CDATA[<p data-end="395" data-start="0"><span style="font-size:18px;"><strong data-end="45" data-start="0">Ніж складаний Fiskars CarbonMax (1061193)</strong> </span><span style="font-size:14px;">&mdash; ручний багатофункціональний інструмент із складаним лезом для щоденного використання у побуті, на природі та під час подорожей. Використовується для розрізання різноманітних матеріалів &mdash; мотузок, пакувальних матеріалів, текстилю, харчових продуктів, дрібних гілок і загальних допоміжних робіт, де потрібен гострий та компактний ріжучий інструмент.</span></p>    <p data-end="577" data-start="397"><span style="font-size:18px;"><strong data-end="413" data-start="397">Призначення:</strong></span><span style="font-size:14px;"> підходить для кемпінгу, походів, господарських задач, ремонтних операцій, підготовки продуктів і розпакування, де потрібен надійний складаний ніж із гострим лезом.</span></p>    <p data-end="821" data-start="579"><span style="font-size:18px;"><strong data-end="595" data-start="579">Конструкція:</strong> </span><span style="font-size:14px;">складане лезо фіксується у відкритому положенні для безпечної роботи. Ергономічна руків&rsquo;я забезпечує зручний захват і контроль під час різання, а механізм складання дозволяє компактно зберігати інструмент у закритому вигляді.</span></p>    <p data-end="1054" data-start="823"><span style="font-size:18px;"><strong data-end="837" data-start="823">Матеріали:</strong> </span><span style="font-size:14px;">лезо виготовлене зі сталі з вмістом вуглецю (carbon), що забезпечує гостроту ріжучої кромки та можливість легкої шліфовки. Руків&rsquo;я виготовлене з міцного матеріалу, стійкого до зношування при регулярному використанні.</span></p>    <p data-end="1239" data-is-last-node="" data-is-only-node="" data-start="1056"><span style="font-size:18px;"><strong data-end="1072" data-start="1056">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії CarbonMax бренду Fiskars та призначений для широкого спектра різальних задач у польових і побутових умовах.</span></p>  ]]></description>
+    <name_ua><![CDATA[Ніж складаний Fiskars CarbonMax (1061193)]]></name_ua>
+    <description_ua><![CDATA[<p data-end="395" data-start="0"><span style="font-size:18px;"><strong data-end="45" data-start="0">Ніж складаний Fiskars CarbonMax (1061193)</strong> </span><span style="font-size:14px;">&mdash; ручний багатофункціональний інструмент із складаним лезом для щоденного використання у побуті, на природі та під час подорожей. Використовується для розрізання різноманітних матеріалів &mdash; мотузок, пакувальних матеріалів, текстилю, харчових продуктів, дрібних гілок і загальних допоміжних робіт, де потрібен гострий та компактний ріжучий інструмент.</span></p>    <p data-end="577" data-start="397"><span style="font-size:18px;"><strong data-end="413" data-start="397">Призначення:</strong></span><span style="font-size:14px;"> підходить для кемпінгу, походів, господарських задач, ремонтних операцій, підготовки продуктів і розпакування, де потрібен надійний складаний ніж із гострим лезом.</span></p>    <p data-end="821" data-start="579"><span style="font-size:18px;"><strong data-end="595" data-start="579">Конструкція:</strong> </span><span style="font-size:14px;">складане лезо фіксується у відкритому положенні для безпечної роботи. Ергономічна руків&rsquo;я забезпечує зручний захват і контроль під час різання, а механізм складання дозволяє компактно зберігати інструмент у закритому вигляді.</span></p>    <p data-end="1054" data-start="823"><span style="font-size:18px;"><strong data-end="837" data-start="823">Матеріали:</strong> </span><span style="font-size:14px;">лезо виготовлене зі сталі з вмістом вуглецю (carbon), що забезпечує гостроту ріжучої кромки та можливість легкої шліфовки. Руків&rsquo;я виготовлене з міцного матеріалу, стійкого до зношування при регулярному використанні.</span></p>    <p data-end="1239" data-is-last-node="" data-is-only-node="" data-start="1056"><span style="font-size:18px;"><strong data-end="1072" data-start="1056">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії CarbonMax бренду Fiskars та призначений для широкого спектра різальних задач у польових і побутових умовах.</span></p>  ]]></description_ua>
+    <param name="Гарантия">24 мес.</param>
+   </offer>
 <offer id="1061192" group_id="2489" available="true">
     <url>https://fiskars-gratis.com.ua/nizh-z-vysuvnym-lezom-fiskars-carbonmax-1061192/</url>
     <price>1949</price>
@@ -780,7 +826,7 @@
     <price>298</price>
     <currencyId>UAH</currencyId>
     <categoryId>1090</categoryId>
-    <quantity_in_stock>34</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/nabir-sadovyi-fiskars-lopatka-kultyvator-1052090-80101712747137_+bc1c79f3c3.jpg</picture>
     <dimensions>
      <weight unit="kg">0.5</weight>
@@ -880,27 +926,6 @@
     <description><![CDATA[<p data-end="329" data-start="0"><span style="font-size:18px;"><strong data-end="45" data-start="0">Вилка для посадки Fiskars White (1027034)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для пересаджування рослин та обробки ґрунту у присадибних ділянках, клумбах, теплицях і контейнерах. Використовується для підготовки посадкових лунок, розпушування ґрунту, видалення бур&rsquo;янів і обробки кореневої зони рослин під час висаджування та догляду.</span></p>    <p data-end="542" data-start="331"><span style="font-size:18px;"><strong data-end="347" data-start="331">Призначення:</strong></span><span style="font-size:14px;"> підходить для посадки квітів, овочевих і декоративних рослин, розпушування середнього шару ґрунту, аерації кореневої зони і акуратного переміщення ґрунту навколо коренів на присадибних ділянках.</span></p>    <p data-end="791" data-start="544"><span style="font-size:18px;"><strong data-end="560" data-start="544">Конструкція:</strong></span><span style="font-size:14px;"> робочі зубці вилки оптимальної довжини дозволяють ефективно підкопувати ґрунт і розпушувати його без значного пошкодження кореневої системи рослин. Руків&rsquo;я адаптоване для комфортного захвату й контролю рухів під час ручної роботи.</span></p>    <p data-end="981" data-start="793"><span style="font-size:18px;"><strong data-end="807" data-start="793">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена зі міцного пластику, стійка&nbsp;до механічного зношування при регулярному використанні. Руків&rsquo;я забезпечує надійний захват і комфорт під час догляду за ґрунтом.</span></p>    <p data-end="1156" data-is-last-node="" data-is-only-node="" data-start="983"><span style="font-size:18px;"><strong data-end="999" data-start="983">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за ґрунтом і посадковими роботами.</span></p>  ]]></description>
     <name_ua><![CDATA[Вилка для посадки Fiskars White (1027034)]]></name_ua>
     <description_ua><![CDATA[<p data-end="329" data-start="0"><span style="font-size:18px;"><strong data-end="45" data-start="0">Вилка для посадки Fiskars White (1027034)</strong></span><span style="font-size:14px;"> &mdash; ручний садовий інструмент для пересаджування рослин та обробки ґрунту у присадибних ділянках, клумбах, теплицях і контейнерах. Використовується для підготовки посадкових лунок, розпушування ґрунту, видалення бур&rsquo;янів і обробки кореневої зони рослин під час висаджування та догляду.</span></p>    <p data-end="542" data-start="331"><span style="font-size:18px;"><strong data-end="347" data-start="331">Призначення:</strong></span><span style="font-size:14px;"> підходить для посадки квітів, овочевих і декоративних рослин, розпушування середнього шару ґрунту, аерації кореневої зони і акуратного переміщення ґрунту навколо коренів на присадибних ділянках.</span></p>    <p data-end="791" data-start="544"><span style="font-size:18px;"><strong data-end="560" data-start="544">Конструкція:</strong></span><span style="font-size:14px;"> робочі зубці вилки оптимальної довжини дозволяють ефективно підкопувати ґрунт і розпушувати його без значного пошкодження кореневої системи рослин. Руків&rsquo;я адаптоване для комфортного захвату й контролю рухів під час ручної роботи.</span></p>    <p data-end="981" data-start="793"><span style="font-size:18px;"><strong data-end="807" data-start="793">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена зі міцного пластику, стійка&nbsp;до механічного зношування при регулярному використанні. Руків&rsquo;я забезпечує надійний захват і комфорт під час догляду за ґрунтом.</span></p>    <p data-end="1156" data-is-last-node="" data-is-only-node="" data-start="983"><span style="font-size:18px;"><strong data-end="999" data-start="983">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії White бренду Fiskars та призначений для систематичного догляду за ґрунтом і посадковими роботами.</span></p>  ]]></description_ua>
-    <param name="Гарантия">24 мес.</param>
-   </offer>
-<offer id="1025567" group_id="6467" available="true">
-    <url>https://fiskars-gratis.com.ua/sapka-fiskars-solid-planter-1025567/</url>
-    <price>549</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1090</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/23/sapka-fiskars-solid-planter-1025567-47332315461069_+84c2d4b930.jpg</picture>
-    <dimensions>
-     <weight unit="kg">0.6</weight>
-     <width unit="cm">15</width>
-     <height unit="cm">8</height>
-     <length unit="cm">30</length>
-    </dimensions>
-    <vendorCode>1025567</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Сапка Fiskars Solid Planter (1025567)]]></name>
-    <description><![CDATA[<p data-end="263" data-start="0"><span style="font-size:18px;"><strong data-end="41" data-start="0">Сапка Fiskars Solid Planter (1025567)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для обробки ґрунту під час догляду за грядками, клумбами та декоративними насадженнями. Використовується для розпушування, аерації, видалення бур&rsquo;янів і підготовки ґрунту перед посадкою рослин.</span></p>    <p data-end="466" data-start="265"><span style="font-size:18px;"><strong data-end="281" data-start="265">Призначення:</strong> </span><span style="font-size:14px;">підходить для догляду за овочевими й декоративними грядками, підготовки поверхні ґрунту до висаджування розсади та насіння, а також для контролю росту бур&rsquo;янів у верхньому шарі ґрунту.</span></p>    <p data-end="715" data-start="468"><span style="font-size:18px;"><strong data-end="484" data-start="468">Конструкція:</strong> </span><span style="font-size:14px;">робочий елемент має загострену кромку, що дозволяє ефективно проникати в ґрунт, розпушувати його та видаляти небажані рослини. Руків&rsquo;я короткої довжини забезпечує комфортний захват і контроль під час ручної роботи на рівні ґрунту.</span></p>    <p data-end="901" data-start="717"><span style="font-size:18px;"><strong data-end="731" data-start="717">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена зі сталі, стійкої до механічного зношування при регулярному використанні. Руків&rsquo;я адаптоване для тривалого ручного утримання й контролю рухів.</span></p>    <p data-end="1077" data-is-last-node="" data-is-only-node="" data-start="903"><span style="font-size:18px;"><strong data-end="919" data-start="903">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом на присадибних ділянках.</span></p>  ]]></description>
-    <name_ua><![CDATA[Сапка Fiskars Solid Planter (1025567)]]></name_ua>
-    <description_ua><![CDATA[<p data-end="263" data-start="0"><span style="font-size:18px;"><strong data-end="41" data-start="0">Сапка Fiskars Solid Planter (1025567)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для обробки ґрунту під час догляду за грядками, клумбами та декоративними насадженнями. Використовується для розпушування, аерації, видалення бур&rsquo;янів і підготовки ґрунту перед посадкою рослин.</span></p>    <p data-end="466" data-start="265"><span style="font-size:18px;"><strong data-end="281" data-start="265">Призначення:</strong> </span><span style="font-size:14px;">підходить для догляду за овочевими й декоративними грядками, підготовки поверхні ґрунту до висаджування розсади та насіння, а також для контролю росту бур&rsquo;янів у верхньому шарі ґрунту.</span></p>    <p data-end="715" data-start="468"><span style="font-size:18px;"><strong data-end="484" data-start="468">Конструкція:</strong> </span><span style="font-size:14px;">робочий елемент має загострену кромку, що дозволяє ефективно проникати в ґрунт, розпушувати його та видаляти небажані рослини. Руків&rsquo;я короткої довжини забезпечує комфортний захват і контроль під час ручної роботи на рівні ґрунту.</span></p>    <p data-end="901" data-start="717"><span style="font-size:18px;"><strong data-end="731" data-start="717">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена зі сталі, стійкої до механічного зношування при регулярному використанні. Руків&rsquo;я адаптоване для тривалого ручного утримання й контролю рухів.</span></p>    <p data-end="1077" data-is-last-node="" data-is-only-node="" data-start="903"><span style="font-size:18px;"><strong data-end="919" data-start="903">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом на присадибних ділянках.</span></p>  ]]></description_ua>
     <param name="Гарантия">24 мес.</param>
    </offer>
 <offer id="1027033" group_id="7467" available="true">
@@ -1040,7 +1065,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/35/motyka-erhonomichna-fiskars-skuffejern-1004808-96674185505548_+122d0a1dd6.jpg</picture>
     <dimensions>
      <weight unit="kg">0.6</weight>
@@ -1062,7 +1087,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/38/sapa-fiskars-dlia-kartopli-fsc-1014792-29878055929711_+3bb42e01a2.jpg</picture>
     <dimensions>
      <weight unit="kg">0.6</weight>
@@ -1083,7 +1108,7 @@
     <price>899</price>
     <currencyId>UAH</currencyId>
     <categoryId>1178</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-26347769480417_+dbde59df1f.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-87343014667764_+0bd0d6d85f.jpg</picture>
     <dimensions>
@@ -2030,7 +2055,7 @@
     <price>899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-94803589192986_+99d6282077.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-85547544830448_+b8495d419b.jpg</picture>
@@ -2229,6 +2254,27 @@
     <description_ua><![CDATA[<p><span style="font-size:18px;"><b>Ніж складний</b> <b>Gerber Skeleton Box (1019236)</b> </span><span style="font-size:14px;">&mdash; компактний складаний ручний інструмент для щоденного використання та базових утилітарних задач. Застосовується для різання пакувальних матеріалів, паперу, мотузок, картону і виконання допоміжних робіт у побуті або в дорозі.</span></p>    <p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> підходить для EDC носіння (Everyday Carry), поїздок, повсякденних задач у місті та як допоміжний ніж у легких туристичних ситуаціях.</span></p>    <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний механізм із фіксацією леза забезпечує безпечну експлуатацію під час роботи. Мінімалістський відкритий дизайн руків&rsquo;я зменшує вагу та спрощує очищення. Клинок із прямою різальною крайкою орієнтований на універсальне різання.</span></p>    <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> клинок виготовлений з нержавіючої сталі, стійкої до корозії та регулярного використання. Руків&rsquo;я має легку конструкцію з металевих елементів для стабільності та невеликої ваги.</span></p>    <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії Skeleton бренду Gerber та орієнтована на мінімалістичні щоденні задачі без зайвих елементів.</span></p>  ]]></description_ua>
     <param name="Гарантия">24 мес.</param>
    </offer>
+<offer id="1066487" group_id="6493" available="true">
+    <url>https://fiskars-gratis.com.ua/nizh-skladnyi-gerber-quadrant16l-1066487/</url>
+    <price>2298</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1107</categoryId>
+    <quantity_in_stock>402</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/48/nizh-skladnyi-gerber-quadrant16l-1066487-88556619773303_+c76e6fde45.png</picture>
+    <dimensions>
+     <weight unit="kg">0.3</weight>
+     <width unit="cm">10</width>
+     <height unit="cm">3</height>
+     <length unit="cm">22</length>
+    </dimensions>
+    <vendorCode>1066487</vendorCode>
+    <vendor>Gerber</vendor>
+    <name><![CDATA[Ніж складний Gerber Quadrant,16L (1066487)]]></name>
+    <description><![CDATA[<p><span style="font-size:18px;"><b>Ніж складний Gerber Quadrant, 16L (1066487)</b></span><span style="font-size:14px;"> &mdash; складаний ручний інструмент для щоденного використання та легких утилітарних завдань. Застосовується для різання пакувальних матеріалів, картону, мотузок, продуктів і виконання дрібних побутових робіт у міських умовах або в дорозі.</span></p>    <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-носіння, поїздок, повсякденних задач у місті та як допоміжний ніж у туристичному спорядженні.</span></p>    <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний механізм із фіксацією леза забезпечує безпечну експлуатацію. Клинок формату sheepsfoot орієнтований на контрольоване різання, компактні розміри спрощують транспортування в кишені або сумці.</span></p>    <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> лезо виготовлене з нержавіючої сталі, стійкої до корозії та регулярного використання. Руків&rsquo;я виконане з легких і зносостійких матеріалів, придатних для щоденного носіння.</span></p>    <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Quadrant бренду Gerber та орієнтована на практичні повсякденні завдання.</span></p>  ]]></description>
+    <name_ua><![CDATA[Ніж складний Gerber Quadrant,16L (1066487)]]></name_ua>
+    <description_ua><![CDATA[<p><span style="font-size:18px;"><b>Ніж складний Gerber Quadrant, 16L (1066487)</b></span><span style="font-size:14px;"> &mdash; складаний ручний інструмент для щоденного використання та легких утилітарних завдань. Застосовується для різання пакувальних матеріалів, картону, мотузок, продуктів і виконання дрібних побутових робіт у міських умовах або в дорозі.</span></p>    <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-носіння, поїздок, повсякденних задач у місті та як допоміжний ніж у туристичному спорядженні.</span></p>    <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний механізм із фіксацією леза забезпечує безпечну експлуатацію. Клинок формату sheepsfoot орієнтований на контрольоване різання, компактні розміри спрощують транспортування в кишені або сумці.</span></p>    <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> лезо виготовлене з нержавіючої сталі, стійкої до корозії та регулярного використання. Руків&rsquo;я виконане з легких і зносостійких матеріалів, придатних для щоденного носіння.</span></p>    <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Quadrant бренду Gerber та орієнтована на практичні повсякденні завдання.</span></p>  ]]></description_ua>
+    <param name="Гарантия">24 мес.</param>
+   </offer>
 <offer id="1013971" group_id="7493" available="true">
     <url>https://fiskars-gratis.com.ua/nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971/</url>
     <price>1999</price>
@@ -2281,7 +2327,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>363</quantity_in_stock>
+    <quantity_in_stock>361</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-77661275374613_+389a3888f3.jpg</picture>
     <dimensions>
@@ -2489,7 +2535,7 @@
     <price>1299</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>132</quantity_in_stock>
+    <quantity_in_stock>128</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/12/skovoroda-fiskars-handy-28-sm-1024458-35260909044832_+5273e73a6e.jpg</picture>
     <dimensions>
      <weight unit="kg">1.65</weight>
@@ -2669,7 +2715,7 @@
     <price>3999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>573</quantity_in_stock>
+    <quantity_in_stock>569</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-63780900637716_+75525b7782.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-98312023505074_+813f2acc62.png</picture>
     <dimensions>
@@ -2761,7 +2807,7 @@
     <price>1769</price>
     <currencyId>UAH</currencyId>
     <categoryId>1109</categoryId>
-    <quantity_in_stock>754</quantity_in_stock>
+    <quantity_in_stock>753</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/27/nizh-gerber-ceviche-7eboxgrnblk-1063144-39831877532524_+da92454f0c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/nizh-gerber-ceviche-7eboxgrnblk-1063144-95421664816710_+a49e24d269.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/nizh-gerber-ceviche-7eboxgrnblk-1063144-76280017645396_+acb88baaa3.png</picture>
@@ -2921,7 +2967,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1188</categoryId>
-    <quantity_in_stock>360</quantity_in_stock>
+    <quantity_in_stock>358</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/34/nizh-gerber-downwind-caper-siryi-1059841-50619684979548_+8787d257c1.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/34/nizh-gerber-downwind-caper-siryi-1059841-17147782119709_+975ece4d7b.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/34/nizh-gerber-downwind-caper-siryi-1059841-91691257432004_+238d417719.jpg</picture>
@@ -3060,7 +3106,7 @@
     <price>2529</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-20174288914803_+21bb746d43.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-48706311834482_+bb8ee154fc.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-61429318340921_+d4775cbd30.jpeg</picture>
@@ -3087,7 +3133,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/44/sekator-ploshchynnyi-fiskars-white-p57-podarunok-lopata-sadova-shtykova-classic-fsc-31311812596551_+66e2a3862a.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/44/sekator-ploshchynnyi-fiskars-white-p57-podarunok-lopata-sadova-shtykova-classic-fsc-57870961286006_+3990412cb5.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/44/sekator-ploshchynnyi-fiskars-white-p57-podarunok-lopata-sadova-shtykova-classic-fsc-48999916034591_+c16509c682.jpeg</picture>
@@ -3115,7 +3161,7 @@
     <price>3499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-32125989159834_+30647d96da.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-67637309688726_+5f686b7f1a.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-37978057592319_+5ced897da8.jpeg</picture>
@@ -3228,6 +3274,32 @@
     <name_ua><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name_ua>
     <description_ua><![CDATA[<p data-end="280" data-start="0"><span style="font-size:18px;"><strong data-end="48" data-start="0">Лопата садова класична </strong><strong data-end="40" data-start="0">Фіскарс</strong><strong data-end="48" data-start="0"> FSC (1024472)</strong></span><span style="font-size:14px;"> &mdash; ручний інструмент для базових земляних робіт на присадибних ділянках, у городі та господарських зонах. Використовується для копання, перекопування ґрунту, формування грядок, траншей, підготовки посадкових ям і планування ділянки.</span></p>    <p data-end="488" data-start="282"><span style="font-size:18px;"><strong data-end="298" data-start="282">Призначення:</strong></span><span style="font-size:14px;"> підходить для обробки м&rsquo;якого та середньощільного ґрунту під час сезонних і щоденних садово-городніх робіт, включно з підготовкою ділянки до посадки рослин або пересадки дерев і чагарників.</span></p>    <p data-end="803" data-start="490"><span style="font-size:18px;"><strong data-end="506" data-start="490">Конструкція:</strong> </span><span style="font-size:14px;">традиційне штикове або класичне лезо забезпечує ефективне проникнення в ґрунт і контрольований зріз землі. Руків&rsquo;я оптимальної довжини дозволяє працювати у вертикальному положенні з комфортним розподілом зусиль, а форма держака сприяє стабільному контролю інструмента під час ручної експлуатації.</span></p>    <p data-end="1082" data-start="805"><span style="font-size:18px;"><strong data-end="819" data-start="805">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена з міцної сталі, стійкої до деформації й зношування при регулярних навантаженнях. Руків&rsquo;я виконано з сертифікованої деревини FSC, що підтверджує відповідальне використання природних ресурсів, і забезпечує надійний захват під час роботи.</span></p>    <p data-end="1300" data-is-last-node="" data-is-only-node="" data-start="1084"><span style="font-size:18px;"><strong data-end="1100" data-start="1084">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії класичних садових інструментів бренду Fiskars та призначений для широкого спектра ручних земляних робіт у саду, на городі та в господарстві.</span></p>  ]]></description_ua>
     <param name="Гарантия">60 мес.</param>
+   </offer>
+<offer id="1073084" group_id="4499" available="true">
+    <url>https://fiskars-gratis.com.ua/hilkoriz-teleskopichnyi-fiskars-upn86-1073084/</url>
+    <oldprice>7399</oldprice>
+    <price>5999</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>156333769</categoryId>
+    <quantity_in_stock>2</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-76659777716621_+c5315c786b.jpeg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-40450020290400_+76bb3eae67.jpeg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-77189696288292_+fe44eca32c.jpeg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-20220072350857_+10a493f5a9.jpeg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-80020308171186_+5bd1691d96.jpeg</picture>
+    <dimensions>
+     <weight unit="kg">1.4</weight>
+     <width unit="cm">20</width>
+     <height unit="cm">5</height>
+     <length unit="cm">65</length>
+    </dimensions>
+    <vendorCode>1073084</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Гілкоріз телескопічний Fiskars UPN86 (1073084)]]></name>
+    <description><![CDATA[<p data-end="319" data-start="0"><span style="font-size:18px;"><strong data-end="80" data-start="0">Гілкоріз телескопічний Fiskars UPN86 (1073084)</strong> </span><span style="font-size:14px;">&mdash; садовий інструмент для обрізання гілок дерев і кущів на висоті без використання драбини. Використовується для догляду за кроною дерев, формування декоративних рослин і видалення сухих або зайвих гілок у саду чи на присадибній ділянці.</span></p>    <p data-end="588" data-start="321"><span style="font-size:18px;"><strong data-end="337" data-start="321">Призначення:</strong></span><span style="font-size:14px;"> підходить для обрізання свіжих гілок дерев і кущів товщиною до <strong data-end="410" data-start="401">32 мм</strong>, зокрема у важкодоступних місцях або на значній висоті. Телескопічна конструкція дозволяє працювати із землею, не піднімаючись на висоту.</span></p>    <p data-end="900" data-start="590"><span style="font-size:18px;"><strong data-end="606" data-start="590">Конструкція:</strong> </span><span style="font-size:14px;">інструмент оснащений телескопічною штангою з регулюванням довжини приблизно <strong data-end="701" data-start="683">від 2,2 до 4 м</strong>, що забезпечує робочу висоту обрізання до <strong data-end="759" data-start="744">близько 6 м</strong>. Ріжуча головка може повертатися до <strong data-end="804" data-start="796">230&deg;</strong>, що дозволяє виконувати точні зрізи під різними кутами.</span></p>    <p data-end="1165" data-start="902"><span style="font-size:18px;"><strong data-end="916" data-start="902">Матеріали:</strong></span><span style="font-size:14px;"> леза виготовлені з високоякісної загартованої сталі для довготривалої гостроти та чистого зрізу. Телескопічна штанга виконана з легкого та міцного алюмінію, стійкого до погодних умов і механічних навантажень.</span></p>    <p data-end="1514" data-start="1167"><span style="font-size:18px;"><strong data-end="1183" data-start="1167">Особливості:</strong></span><span style="font-size:14px;"> механізм обрізання забезпечує ефективну передачу зусилля для різання товстих гілок, а конструкція дозволяє працювати як на висоті, так і на рівні землі без нахилів або зайвого фізичного навантаження. Інструмент також сумісний з додатковими насадками, такими як садова пилка або плодознімач</span></p>  ]]></description>
+    <name_ua><![CDATA[Гілкоріз телескопічний Fiskars UPN86 (1073084)]]></name_ua>
+    <description_ua><![CDATA[<p data-end="319" data-start="0"><span style="font-size:18px;"><strong data-end="80" data-start="0">Гілкоріз телескопічний Fiskars UPN86 (1073084)</strong> </span><span style="font-size:14px;">&mdash; садовий інструмент для обрізання гілок дерев і кущів на висоті без використання драбини. Використовується для догляду за кроною дерев, формування декоративних рослин і видалення сухих або зайвих гілок у саду чи на присадибній ділянці.</span></p>    <p data-end="588" data-start="321"><span style="font-size:18px;"><strong data-end="337" data-start="321">Призначення:</strong></span><span style="font-size:14px;"> підходить для обрізання свіжих гілок дерев і кущів товщиною до <strong data-end="410" data-start="401">32 мм</strong>, зокрема у важкодоступних місцях або на значній висоті. Телескопічна конструкція дозволяє працювати із землею, не піднімаючись на висоту.</span></p>    <p data-end="900" data-start="590"><span style="font-size:18px;"><strong data-end="606" data-start="590">Конструкція:</strong> </span><span style="font-size:14px;">інструмент оснащений телескопічною штангою з регулюванням довжини приблизно <strong data-end="701" data-start="683">від 2,2 до 4 м</strong>, що забезпечує робочу висоту обрізання до <strong data-end="759" data-start="744">близько 6 м</strong>. Ріжуча головка може повертатися до <strong data-end="804" data-start="796">230&deg;</strong>, що дозволяє виконувати точні зрізи під різними кутами.</span></p>    <p data-end="1165" data-start="902"><span style="font-size:18px;"><strong data-end="916" data-start="902">Матеріали:</strong></span><span style="font-size:14px;"> леза виготовлені з високоякісної загартованої сталі для довготривалої гостроти та чистого зрізу. Телескопічна штанга виконана з легкого та міцного алюмінію, стійкого до погодних умов і механічних навантажень.</span></p>    <p data-end="1514" data-start="1167"><span style="font-size:18px;"><strong data-end="1183" data-start="1167">Особливості:</strong></span><span style="font-size:14px;"> механізм обрізання забезпечує ефективну передачу зусилля для різання товстих гілок, а конструкція дозволяє працювати як на висоті, так і на рівні землі без нахилів або зайвого фізичного навантаження. Інструмент також сумісний з додатковими насадками, такими як садова пилка або плодознімач</span></p>  ]]></description_ua>
+    <param name="Гарантия">24 мес.</param>
    </offer>
 <offer id="2009140" group_id="1504" available="true">
     <url>https://fiskars-gratis.com.ua/shchitka-sylikonova-dlia-tvaryn-fiskars-2-6-19l-1816520/</url>
@@ -3549,13 +3621,42 @@
     <description_ua><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><strong><span style="font-size:14px;">(штрихкод 5907222066201)</span></strong><span style="font-size:18px;"> для тих, хто хоче впевнено закривати задачі в саду та мати під рукою надійний інструмент для повсякденного використання.</span></p>    <p><strong>Опис набору Fiskars</strong><br />  <span style="font-size:14px;">Набір поєднує гілкоріз Fiskars PowerGear L76 та складаний ніж Gerber Asada &mdash; практичне рішення для догляду за ділянкою і виконання щоденних задач. Гілкоріз дозволяє легко обрізати гілки навіть у важкодоступних місцях, а ніж стане універсальним інструментом для швидких робіт у побуті чи на природі. Оптимальний варіант для тих, хто цінує функціональність і надійність. </span></p>    <p><strong>Що входить у комплект </strong><br />  <span style="font-size:14px;">Набір включає два інструменти для роботи в саду та щоденних задач. Кожен елемент виконує свою функцію та доповнює інший.</span></p>    <p><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553/">Гілкоріз площинний Fiskars PowerGear L76 </a><br />  <span style="font-size:14px;">Потужний інструмент для обрізання гілок діаметром до ~30 мм. Площинний механізм забезпечує чистий зріз без пошкодження рослин, що особливо важливо для живих гілок. Загнуте лезо краще фіксує гілку під час різу, а зубчастий механізм PowerGear значно зменшує навантаження на руки, дозволяючи працювати довше без втоми. Леза з загартованої сталі з антипригарним покриттям довго залишаються гострими, а легкі, але міцні ручки забезпечують комфорт і контроль.</span></p>    <p><a href="https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-asada-1055364/">Ніж складаний Gerber Asada</a><br />  <span style="font-size:14px;">Компактний і надійний ніж для щоденного використання. Оснащений гострим лезом із нержавіючої сталі, яке добре тримає заточку та підходить для різання картону, пакувальних матеріалів, мотузок і продуктів. Механізм фіксації леза забезпечує безпечну роботу, а ергономічна рукоятка &mdash; зручний хват навіть при тривалому використанні. Легко поміщається в кишені або рюкзаку</span>.</p>    <p><strong>Застосування</strong></p>    <ol>   <li><span style="font-size:14px;">Набір використовується для догляду за садом і виконання щоденних побутових задач. </span></li>   <li><span style="font-size:14px;">Підходить для обрізання живих гілок дерев і кущів.</span></li>   <li><span style="font-size:14px;">Дозволяє формувати крону, видаляти сухі та зайві пагони. </span></li>   <li><span style="font-size:14px;">Зручно працювати у важкодоступних місцях і на висоті. Використовується для різання пакувальних матеріалів, картону та мотузок. </span></li>   <li><span style="font-size:14px;">Підходить для приготування їжі або роботи з продуктами на природі.</span></li>  </ol>    <p><strong>Основні переваги набору</strong></p>    <ol>   <li><span style="font-size:14px;">Набір має ряд переваг, які роблять його зручним для щоденного використання. </span></li>   <li><span style="font-size:14px;">Комбінація садового інструменту та ножа для універсальних задач.</span></li>   <li><span style="font-size:14px;">Економія при покупці комплекту порівняно з окремими товарами.</span></li>   <li><span style="font-size:14px;">Технологія PowerGear зменшує зусилля під час обрізання. </span></li>   <li><span style="font-size:14px;">Якісні матеріали забезпечують довговічність і надійність. </span></li>  </ol>    <p><span style="font-size:16px;">Набір Fiskars&mdash; це практичне рішення для тих, хто хоче мати під рукою інструменти для саду та щоденного використання в одному комплекті. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>  ]]></description_ua>
     <param name="Гарантия">60 мес.</param>
    </offer>
+<offer id="1073084101477" group_id="17489" available="true">
+    <url>https://fiskars-gratis.com.ua/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht/</url>
+    <oldprice>6998</oldprice>
+    <price>5999</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1192</categoryId>
+    <quantity_in_stock>1</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-39397356610769_+af09aacc5b.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-91124427851109_+7cad9f853f.jpeg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-49131539078342_+a73c6fbae8.jpeg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-79854119648370_+b67c143ba0.jpeg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-36478959868805_+8da730f099.jpeg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-39371761633416_+d3cf1d523c.jpeg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-11936263971794_+e5eaa827c3.jpeg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-76007443285976_+65ae84f6fb.jpeg</picture>
+    <dimensions>
+     <weight unit="kg">4.83</weight>
+     <width unit="cm">25</width>
+     <height unit="cm">15</height>
+     <length unit="cm">130</length>
+    </dimensions>
+    <vendorCode>1073084101477</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Набір Fiskars: Гілкоріз телескопічний UPN86 + Лопата садова штикова Classic FSC]]></name>
+    <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066218)</strong></span><span style="font-size:18px;"> для догляду за деревами та роботи з ґрунтом. Практичне рішення для саду та щоденного використання.</span></p>    <p><strong>Опис набору</strong><br />  <span style="font-size:14px;">Fiskars Набір поєднує телескопічний гілкоріз Fiskars UPN86 та штикову лопату Fiskars Classic FSC &mdash; практичне рішення для догляду за деревами та роботи з ґрунтом. Гілкоріз дозволяє обрізати гілки без драбини, а лопата закриває базові задачі перекопування та підготовки ділянки. Оптимальний варіант для універсального використання в саду.</span></p>    <p><strong>Що входить у комплект </strong><br />  <span style="font-size:14px;">Набір включає два інструменти для роботи з деревами та ґрунтом. Кожен елемент виконує свою функцію та доповнює інший.</span></p>    <p><a href="https://fiskars-gratis.com.ua/hilkoriz-teleskopichnyi-fiskars-upn86-1073084/">Гілкоріз телескопічний Fiskars UPN86</a><br />  <span style="font-size:14px;">Інструмент для обрізання гілок на висоті без використання драбини. Телескопічна конструкція дозволяє дістатися до верхніх гілок, а ріжучий механізм забезпечує чистий зріз живих гілок. Легка вага та продумана ергономіка дають можливість працювати довше без перевтоми.</span></p>    <p><a href="https://fiskars-gratis.com.ua/lopata-sadova-shtykova-fiskars-classic-fsc-1014773/">Лопата садова штикова Fiskars Classic FSC </a><br />  <span style="font-size:14px;">Міцна лопата для копання, перекопування та роботи з щільним ґрунтом. Загартована сталь забезпечує довговічність і ефективність у роботі, а зручний держак дозволяє контролювати кожен рух. Підходить для регулярного використання на ділянці.</span></p>    <p><strong>Застосування </strong></p>    <ol>   <li><span style="font-size:14px;">Набір використовується для догляду за садом і роботи з ґрунтом.</span></li>   <li><span style="font-size:14px;">Підходить для обрізання гілок на висоті без використання драбини.</span></li>   <li><span style="font-size:14px;">Дозволяє формувати крону дерев і видаляти сухі або зайві гілки.</span></li>   <li><span style="font-size:14px;">Використовується для перекопування грядок і підготовки ґрунту до посадки.</span></li>   <li><span style="font-size:14px;">Підходить для посадки рослин, викопування ям і роботи з щільним ґрунтом.</span></li>  </ol>    <p><strong>Основні переваги набору</strong></p>    <ol>   <li><span style="font-size:14px;">Набір має ряд переваг, які роблять його зручним для щоденного використання.</span><br />   <span style="font-size:14px;">Універсальний комплект для роботи з деревами та ґрунтом.</span></li>   <li><span style="font-size:14px;">Економія при покупці комплекту.</span></li>   <li><span style="font-size:14px;">Телескопічна конструкція дозволяє працювати без додаткових інструментів.</span></li>   <li><span style="font-size:14px;">Надійні матеріали забезпечують довгий термін служби. </span></li>  </ol>    <p>Набір Fiskars поєднує інструменти для роботи на висоті та догляду за ділянкою в одному рішенні. Ви можете замовити його онлайн&nbsp;або&nbsp;звернутися до менеджера для уточнення деталей.</p>    <p>&nbsp;</p>  ]]></description>
+    <name_ua><![CDATA[Набір Fiskars: Гілкоріз телескопічний UPN86 + Лопата садова штикова Classic FSC]]></name_ua>
+    <description_ua><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066218)</strong></span><span style="font-size:18px;"> для догляду за деревами та роботи з ґрунтом. Практичне рішення для саду та щоденного використання.</span></p>    <p><strong>Опис набору</strong><br />  <span style="font-size:14px;">Fiskars Набір поєднує телескопічний гілкоріз Fiskars UPN86 та штикову лопату Fiskars Classic FSC &mdash; практичне рішення для догляду за деревами та роботи з ґрунтом. Гілкоріз дозволяє обрізати гілки без драбини, а лопата закриває базові задачі перекопування та підготовки ділянки. Оптимальний варіант для універсального використання в саду.</span></p>    <p><strong>Що входить у комплект </strong><br />  <span style="font-size:14px;">Набір включає два інструменти для роботи з деревами та ґрунтом. Кожен елемент виконує свою функцію та доповнює інший.</span></p>    <p><a href="https://fiskars-gratis.com.ua/hilkoriz-teleskopichnyi-fiskars-upn86-1073084/">Гілкоріз телескопічний Fiskars UPN86</a><br />  <span style="font-size:14px;">Інструмент для обрізання гілок на висоті без використання драбини. Телескопічна конструкція дозволяє дістатися до верхніх гілок, а ріжучий механізм забезпечує чистий зріз живих гілок. Легка вага та продумана ергономіка дають можливість працювати довше без перевтоми.</span></p>    <p><a href="https://fiskars-gratis.com.ua/lopata-sadova-shtykova-fiskars-classic-fsc-1014773/">Лопата садова штикова Fiskars Classic FSC </a><br />  <span style="font-size:14px;">Міцна лопата для копання, перекопування та роботи з щільним ґрунтом. Загартована сталь забезпечує довговічність і ефективність у роботі, а зручний держак дозволяє контролювати кожен рух. Підходить для регулярного використання на ділянці.</span></p>    <p><strong>Застосування </strong></p>    <ol>   <li><span style="font-size:14px;">Набір використовується для догляду за садом і роботи з ґрунтом.</span></li>   <li><span style="font-size:14px;">Підходить для обрізання гілок на висоті без використання драбини.</span></li>   <li><span style="font-size:14px;">Дозволяє формувати крону дерев і видаляти сухі або зайві гілки.</span></li>   <li><span style="font-size:14px;">Використовується для перекопування грядок і підготовки ґрунту до посадки.</span></li>   <li><span style="font-size:14px;">Підходить для посадки рослин, викопування ям і роботи з щільним ґрунтом.</span></li>  </ol>    <p><strong>Основні переваги набору</strong></p>    <ol>   <li><span style="font-size:14px;">Набір має ряд переваг, які роблять його зручним для щоденного використання.</span><br />   <span style="font-size:14px;">Універсальний комплект для роботи з деревами та ґрунтом.</span></li>   <li><span style="font-size:14px;">Економія при покупці комплекту.</span></li>   <li><span style="font-size:14px;">Телескопічна конструкція дозволяє працювати без додаткових інструментів.</span></li>   <li><span style="font-size:14px;">Надійні матеріали забезпечують довгий термін служби. </span></li>  </ol>    <p>Набір Fiskars поєднує інструменти для роботи на висоті та догляду за ділянкою в одному рішенні. Ви можете замовити його онлайн&nbsp;або&nbsp;звернутися до менеджера для уточнення деталей.</p>    <p>&nbsp;</p>  ]]></description_ua>
+    <param name="Гарантия">60 мес.</param>
+   </offer>
 <offer id="1015642105983" group_id="18489" available="true">
     <url>https://fiskars-gratis.com.ua/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox/</url>
     <oldprice>5598</oldprice>
     <price>3599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/20/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox-93226855119976_+5d5a3d88f3.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/20/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox-74440498905364_+2f07e7cd24.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/20/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox-47222597205478_+b9418b08be.jpeg</picture>
@@ -3640,7 +3741,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/23/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-63687954062353_+8a5f71bfb4.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/23/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-35628542216604_+458fb79f76.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/23/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-40818558612553_+c6f6bd96b4.jpeg</picture>
@@ -3668,7 +3769,7 @@
     <price>2299</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/24/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-nozhytsi-dlia-kushchiv-fiskars-solid-hs21-12451067573719_+4d332d8338.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/24/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-nozhytsi-dlia-kushchiv-fiskars-solid-hs21-55008020932152_+00bd3b7aeb.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/24/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-podarunok-nozhytsi-dlia-kushchiv-fiskars-solid-hs21-58378771264770_+565bdcf127.jpeg</picture>
@@ -3723,7 +3824,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/26/machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-45918477240956_+9c023ee19f.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-64637580659607_+c9d384b787.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-98107994949241_+59af1d2273.jpeg</picture>
@@ -3751,7 +3852,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>27</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-56572278643966_+9114879737.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-35424771017291_+aa236078a8.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-89896663174918_+af731c2105.jpeg</picture>
@@ -3779,7 +3880,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>66</quantity_in_stock>
+    <quantity_in_stock>60</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643_+7c9ca353de.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-71214196768880_+3a4d4a7cc9.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-58483850974172_+ef36107030.jpeg</picture>
@@ -3965,7 +4066,7 @@
     <price>5999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/kastriulia-z-kryshkoiu-chavunna-norden-grill-30-sm-1066430-93771008264939_+7df2de5362.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/37/kastriulia-z-kryshkoiu-chavunna-norden-grill-30-sm-1066430-29506185366516_+6dfca946f5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/37/kastriulia-z-kryshkoiu-chavunna-norden-grill-30-sm-1066430-84070249428521_+33439c3c1b.png</picture>
@@ -3983,33 +4084,6 @@
     <name_ua><![CDATA[Кастрюля з кришкою чавунна Norden Grill, 30 см 1066430]]></name_ua>
     <description_ua><![CDATA[<p data-end="388" data-start="119"><strong>Кастрюля з кришкою чавунна Fiskars Norden Grill, 30 см (1066430) </strong><span style="font-size:14px;">&mdash; кухонний посуд для приготування страв методом тушкування, варіння та запікання. Використовується для м&rsquo;яса, овочів, супів та інших страв, забезпечуючи рівномірний розподіл тепла та стабільний результат.</span></p>    <p data-end="546" data-start="390"><strong>Призначення: </strong><span style="font-size:14px;">підходить для приготування страв на плиті, в духовці або на грилі, дозволяючи готувати як повсякденні, так і складні страви з насиченим смаком.</span></p>    <p data-end="760" data-start="548"><strong>Конструкція: </strong><span style="font-size:14px;">масивна чавунна основа акумулює тепло та рівномірно його розподіляє, а кришка допомагає зберігати вологу та аромат під час приготування. Оптимальний діаметр 30 см забезпечує зручність у використанні.</span></p>    <p data-end="922" data-start="762"><strong>Матеріали: </strong><span style="font-size:14px;">виготовлена з високоякісного чавуну, стійкого до високих температур і зношування. Матеріал забезпечує довговічність і стабільні кулінарні результати.</span></p>    <p data-end="1130" data-is-last-node="" data-is-only-node="" data-start="924"><strong>Особливості: </strong><span style="font-size:14px;">інструмент належить до серії Norden бренду Fiskars та призначений для інтенсивного використання. Підходить для газових, електричних, склокерамічних та індукційних плит, а також для використання в духовці та на грилі,&nbsp;</span><span style="font-size:14px;">дозволяє готувати страви з ефектом повільного приготування.</span></p>  ]]></description_ua>
     <param name="Гарантия">60 мес.</param>
-    <param name="Цвет">Чорний</param>
-   </offer>
-<offer id="1066432" group_id="6485" available="true">
-    <url>https://fiskars-gratis.com.ua/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432/</url>
-    <oldprice>2400</oldprice>
-    <price>1999</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>156333769</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-52809733206898_+7d05cf2a5a.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-17205664692349_+fe241a4637.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-27345035105850_+a24bb36b15.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-85529733643454_+36974995cc.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-52849662346192_+dc6132d739.png</picture>
-    <dimensions>
-     <weight unit="kg">1.65</weight>
-     <width unit="cm">28</width>
-     <height unit="cm">8</height>
-     <length unit="cm">46</length>
-    </dimensions>
-    <vendorCode>1066432</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Сковорода-садж чавунна для гриля Norden 30 см 1066432]]></name>
-    <description><![CDATA[<p data-end="377" data-start="106"><strong>Сковорода-садж чавунна Fiskars Norden Grill, 30 см (1066432)</strong> &mdash;<span style="font-size:14px;"> кухонний посуд для смаження, тушкування та приготування страв на грилі або відкритому вогні. Використовується для м&rsquo;яса, овочів, риби та інших страв, забезпечуючи рівномірний розподіл тепла та насичений смак</span>.</p>    <p data-end="547" data-start="379"><strong>Призначення:</strong><span style="font-size:14px;"> підходить для приготування страв на грилі, мангалі, плиті або відкритому вогні, дозволяючи готувати як повсякденні, так і страви для відпочинку на природі.</span></p>    <p data-end="778" data-start="549"><strong>Конструкція: </strong><span style="font-size:14px;">широка робоча поверхня забезпечує зручність приготування кількох порцій одночасно, а чавунна основа добре утримує тепло та рівномірно його розподіляє. Форма саджа дозволяє ефективно обсмажувати та тушкувати продукти.</span></p>    <p data-end="943" data-start="780"><strong>Матеріали:</strong> <span style="font-size:14px;">виготовлена з високоякісного чавуну, стійкого до високих температур і зношування. Матеріал забезпечує довговічність і стабільний результат приготування.</span></p>    <p data-end="1192" data-is-last-node="" data-is-only-node="" data-start="945"><strong>Особливості:<span style="font-size:14px;"> </span></strong><span style="font-size:14px;">інструмент належить до серії Norden бренду Fiskars та призначений для інтенсивного використання. Підходить для газових, електричних, склокерамічних та індукційних плит, а також для використання в духовці, на грилі та відкритому вогні.</span></p>  ]]></description>
-    <name_ua><![CDATA[Сковорода-садж чавунна для гриля Norden 30 см 1066432]]></name_ua>
-    <description_ua><![CDATA[<p data-end="377" data-start="106"><strong>Сковорода-садж чавунна Fiskars Norden Grill, 30 см (1066432)</strong> &mdash;<span style="font-size:14px;"> кухонний посуд для смаження, тушкування та приготування страв на грилі або відкритому вогні. Використовується для м&rsquo;яса, овочів, риби та інших страв, забезпечуючи рівномірний розподіл тепла та насичений смак</span>.</p>    <p data-end="547" data-start="379"><strong>Призначення:</strong><span style="font-size:14px;"> підходить для приготування страв на грилі, мангалі, плиті або відкритому вогні, дозволяючи готувати як повсякденні, так і страви для відпочинку на природі.</span></p>    <p data-end="778" data-start="549"><strong>Конструкція: </strong><span style="font-size:14px;">широка робоча поверхня забезпечує зручність приготування кількох порцій одночасно, а чавунна основа добре утримує тепло та рівномірно його розподіляє. Форма саджа дозволяє ефективно обсмажувати та тушкувати продукти.</span></p>    <p data-end="943" data-start="780"><strong>Матеріали:</strong> <span style="font-size:14px;">виготовлена з високоякісного чавуну, стійкого до високих температур і зношування. Матеріал забезпечує довговічність і стабільний результат приготування.</span></p>    <p data-end="1192" data-is-last-node="" data-is-only-node="" data-start="945"><strong>Особливості:<span style="font-size:14px;"> </span></strong><span style="font-size:14px;">інструмент належить до серії Norden бренду Fiskars та призначений для інтенсивного використання. Підходить для газових, електричних, склокерамічних та індукційних плит, а також для використання в духовці, на грилі та відкритому вогні.</span></p>  ]]></description_ua>
-    <param name="Гарантия">24 мес.</param>
     <param name="Цвет">Чорний</param>
    </offer>
 <offer id="1026570" group_id="7485" available="true">
@@ -4113,6 +4187,31 @@
     <description_ua><![CDATA[<p>  <style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->  </style>  <strong>Вила садові Fiskars Prima U-Grip FSC 1070675</strong> &mdash; <span style="font-size:16px;">садовий інструмент для роботи з ґрунтом, компостом та органічними матеріалами.</span></p>    <p><strong>Призначення:</strong> <span style="font-size:16px;">використовується для розпушування, перемішування та перенесення ґрунту, листя або сіна.</span></p>    <p><strong>Конструкція: </strong><span style="font-size:16px;">міцні зубці забезпечують легке проникнення в матеріал і ефективну роботу. Матеріали: виготовлені зі сталі, стійкої до навантажень і зношування.</span></p>    <p><strong>Особливості: </strong><span style="font-size:16px;">належить до серії Prima бренду Fiskars, забезпечує надійність і довговічність при щоденному використанні.</span></p>  ]]></description_ua>
     <param name="Цвет">Чорний</param>
    </offer>
+<offer id="1020126" group_id="11467" available="true">
+    <url>https://fiskars-gratis.com.ua/instrument-dlia-vydalennia-burianiv-xact-1020126/</url>
+    <oldprice>2999</oldprice>
+    <price>1999</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>156333769</categoryId>
+    <quantity_in_stock>6</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-77399157343416_+35a2b36954.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-51741053469699_+53665dd558.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-72592475113180_+ec48c23413.png</picture>
+    <dimensions>
+     <weight unit="kg">0.6</weight>
+     <width unit="cm">15</width>
+     <height unit="cm">8</height>
+     <length unit="cm">30</length>
+    </dimensions>
+    <vendorCode>1020126</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Інструмент для видалення бур'янів Xact 1020126]]></name>
+    <description><![CDATA[<p>  <style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->  </style>  <strong>Інструмент для видалення бур&#39;янів Fiskars Xact 1020126 </strong>&mdash; садовий інструмент для ефективного видалення бур&rsquo;янів разом із корінням.</p>    <p><strong>Призначення: </strong>підходить для догляду за газоном і садом без пошкодження ґрунту.</p>    <p><strong>Конструкція:</strong> загострена робоча частина дозволяє точно захоплювати коріння бур&rsquo;янів.</p>    <p><strong>Матеріали: </strong>виготовлений із міцної сталі, яка стійка до навантажень і зовнішніх умов.</p>    <p><strong>Особливості:</strong> належить до серії Xact бренду Fiskars, забезпечує комфорт і точність у роботі.</p>  ]]></description>
+    <name_ua><![CDATA[Інструмент для видалення бур'янів Xact 1020126]]></name_ua>
+    <description_ua><![CDATA[<p>  <style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}-->  </style>  <strong>Інструмент для видалення бур&#39;янів Fiskars Xact 1020126 </strong>&mdash; садовий інструмент для ефективного видалення бур&rsquo;янів разом із корінням.</p>    <p><strong>Призначення: </strong>підходить для догляду за газоном і садом без пошкодження ґрунту.</p>    <p><strong>Конструкція:</strong> загострена робоча частина дозволяє точно захоплювати коріння бур&rsquo;янів.</p>    <p><strong>Матеріали: </strong>виготовлений із міцної сталі, яка стійка до навантажень і зовнішніх умов.</p>    <p><strong>Особливості:</strong> належить до серії Xact бренду Fiskars, забезпечує комфорт і точність у роботі.</p>  ]]></description_ua>
+    <param name="Гарантия">36 мес.</param>
+    <param name="Цвет">Чорний</param>
+   </offer>
 <offer id="1052276" group_id="23460" available="true">
     <url>https://fiskars-gratis.com.ua/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276/</url>
     <oldprice>4949</oldprice>
@@ -4145,7 +4244,7 @@
     <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>128</quantity_in_stock>
+    <quantity_in_stock>117</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -4168,7 +4267,7 @@
     <price>3599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sokyra-kolun-fiskars-l-kh21-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-16665591877292_+a226f77f1b.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sokyra-kolun-fiskars-l-kh21-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-45007461591227_+4687c1d2ed.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sokyra-kolun-fiskars-l-kh21-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-56704440698004_+3167081b2d.png</picture>
@@ -4195,7 +4294,7 @@
     <price>1549</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-53859063065044_+b45e38e5f1.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-93548410822903_+accd02aa20.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-65393682270740_+57e1726ea8.png</picture>
@@ -4762,7 +4861,7 @@
     <price>1849</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/nabir-hrabli-dlia-lystia-fiskars-ergonomic-xl-universalni-hrabli-fiskars-solid-18492433752423_+72e5c8e025.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/nabir-hrabli-dlia-lystia-fiskars-ergonomic-xl-universalni-hrabli-fiskars-solid-15896937923771_+410debb389.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/nabir-hrabli-dlia-lystia-fiskars-ergonomic-xl-universalni-hrabli-fiskars-solid-47103018161851_+fbc2a5296f.png</picture>
@@ -4789,7 +4888,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-53836038514040_+c982773cf6.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-62787540131119_+bb75c4a299.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/35/nabir-fiskars-vyla-sadovi-white-lopata-sadova-shtykova-fiskars-classic-fsc-36092243959372_+26893d22be.png</picture>
@@ -4814,7 +4913,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>27</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-80695237000335_+d0c22218b0.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-81989570160123_+c25762c351.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-99438660751733_+ddd99affaf.png</picture>
@@ -4838,7 +4937,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330_+0cb49eabd7.png</picture>
     <dimensions>
      <weight unit="kg">0.805</weight>
@@ -4924,7 +5023,7 @@
     <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>112</quantity_in_stock>
+    <quantity_in_stock>110</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -6648,7 +6747,7 @@
     <price>2899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/30/skovoroda-dlia-mlyntsiv-hard-face-22-sm-25476939268314_+7c17d0d7d1.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/30/skovoroda-dlia-mlyntsiv-hard-face-22-sm-97393820668296_+90733e0307.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/30/skovoroda-dlia-mlyntsiv-hard-face-22-sm-57397928315304_+ede0dcea9c.png</picture>
@@ -7528,6 +7627,33 @@
     <name_ua><![CDATA[Ножиці для металу з коротким лезом PowerGear]]></name_ua>
     <description_ua><![CDATA[<p data-end="322" data-start="20"><strong data-end="86" data-start="20">Ножиці для металу Fiskars PowerGear з коротким лезом (1027212)</strong>&nbsp;&mdash; міцний ручний інструмент для точного різання металевих листів та інших тонких металевих матеріалів. Коротке лезо забезпечує кращий контроль під час роботи, а конструкція PowerGear допомагає зменшити необхідне зусилля під час різання.</p>    <p data-end="556" data-start="324"><strong data-end="340" data-start="324">Призначення:</strong>&nbsp;підходять для різання тонкого листового металу, металевих профілів та інших матеріалів, які потребують точного й контрольованого різання. Можуть використовуватися під час монтажних, ремонтних та господарських робіт.</p>    <p data-end="796" data-start="558"><strong data-end="574" data-start="558">Конструкція:</strong>&nbsp;короткі ріжучі леза забезпечують точність і контроль під час різання. Механізм PowerGear оптимізує передачу зусилля, допомагаючи зменшити навантаження на руку. Ергономічні ручки забезпечують надійне утримання інструмента.</p>    <p data-end="964" data-start="798"><strong data-end="812" data-start="798">Матеріали:</strong>&nbsp;ріжучі елементи виготовлені з міцної сталі, стійкої до зношування. Ручки виконані з міцного матеріалу та мають ергономічну форму для комфортної роботи.</p>    <p data-end="1209" data-start="966"><strong data-end="982" data-start="966">Особливості:</strong>&nbsp;коротке лезо забезпечує точний контроль лінії різу. Технологія PowerGear сприяє ефективнішій передачі зусилля та полегшує роботу з металом. Інструмент підходить для регулярного використання під час ремонтних і монтажних робіт.</p>    <p data-end="1289" data-start="1211"><strong data-end="1228" data-start="1211">Комплектація:</strong>&nbsp;ножиці для металу Fiskars PowerGear з коротким лезом &mdash; 1 шт</p>  ]]></description_ua>
    </offer>
+<offer id="1000596" group_id="27487" available="true">
+    <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-kushchiv-fiskars-powergear-z-sylovym-pryvodom-hs72/</url>
+    <price>3199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1129</categoryId>
+    <quantity_in_stock>85</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/16/nozhytsi-dlia-kushchiv-fiskars-powergear-z-sylovym-pryvodom-hs72-16632124454848_+f66ffc0b40.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/16/nozhytsi-dlia-kushchiv-fiskars-powergear-z-sylovym-pryvodom-hs72-67827267441408_+ec3558b721.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/16/nozhytsi-dlia-kushchiv-fiskars-powergear-z-sylovym-pryvodom-hs72-89994979046711_+4b73f3aec6.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/16/nozhytsi-dlia-kushchiv-fiskars-powergear-z-sylovym-pryvodom-hs72-82549853039000_+33f26a238d.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/16/nozhytsi-dlia-kushchiv-fiskars-powergear-z-sylovym-pryvodom-hs72-25276791681059_+7bc2b6a1fd.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/16/nozhytsi-dlia-kushchiv-fiskars-powergear-z-sylovym-pryvodom-hs72-89734399770201_+e1ed8203dd.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/16/nozhytsi-dlia-kushchiv-fiskars-powergear-z-sylovym-pryvodom-hs72-52974564532344_+0730154a14.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/16/nozhytsi-dlia-kushchiv-fiskars-powergear-z-sylovym-pryvodom-hs72-58972254793825_+abd2115251.png</picture>
+    <dimensions>
+     <weight unit="kg">0.6</weight>
+     <width unit="cm">15</width>
+     <height unit="cm">8</height>
+     <length unit="cm">30</length>
+    </dimensions>
+    <vendorCode>1000596</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Ножиці для кущів Fiskars PowerGear ™ з силовим приводом HS72]]></name>
+    <description><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Ножиці для кущів Fiskars PowerGear&trade; HS72 (1000596)</b>&nbsp;&mdash; потужний та ергономічний ручний інструмент для підрізання й формування кущів, живоплотів та декоративних рослин. Завдяки запатентованому механізму PowerGear&trade; інструмент полегшує процес обрізки, роблячи його швидким та менш виснажливим.&nbsp;<b data-index-in-node="304" data-path-to-node="0">Призначення:</b>призначені для точного стриження й підрізання чагарників, зелених огорож та молодих гілок у саду, на присадибних ділянках і в паркових зонах.&nbsp;</p>    <p><b data-index-in-node="459" data-path-to-node="0">Конструкція:</b>&nbsp;леза із суцільнометалевим профілем забезпечують рівний та чистий зріз по всій довжині. Силовий механізм PowerGear&trade; оптимально розподіляє зусилля під час стискання ручок, значно знижуючи навантаження на кисті та передпліччя. Легкі й міцні рукоятки забезпечують зручний важіль і повний контроль над інструментом.&nbsp;</p>    <p><b data-index-in-node="783" data-path-to-node="0">Матеріали:</b>&nbsp;леза виготовлені з загартованої антикорозійної сталі із захисним покриттям, що зменшує тертя та запобігає налипанню соку рослин. Рукоятки виконані з легкого й міцного армованого скловолокном поліаміду (FiberComp&trade;) з протиковзним покриттям SoftGrip&trade;.</p>    <p><b data-index-in-node="1044" data-path-to-node="0">Особливості:</b>запатентований зубчастий механізм PowerGear&trade; збільшує силу різання у 3,5 раза порівняно зі стандартними ножицями. Антифрикційне покриття лез гарантує гладкий зріз та полегшує очищення після роботи. Легка вага інструмента дозволяє тривалий час працювати без втоми в руках.&nbsp;</p>    <p><b data-index-in-node="1329" data-path-to-node="0">Комплектація:</b>&nbsp;ножиці для кущів Fiskars PowerGear&trade; HS72 (1000596) &mdash; 1 шт.</p>  ]]></description>
+    <name_ua><![CDATA[Ножиці для кущів Fiskars PowerGear ™ з силовим приводом HS72]]></name_ua>
+    <description_ua><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Ножиці для кущів Fiskars PowerGear&trade; HS72 (1000596)</b>&nbsp;&mdash; потужний та ергономічний ручний інструмент для підрізання й формування кущів, живоплотів та декоративних рослин. Завдяки запатентованому механізму PowerGear&trade; інструмент полегшує процес обрізки, роблячи його швидким та менш виснажливим.&nbsp;<b data-index-in-node="304" data-path-to-node="0">Призначення:</b>призначені для точного стриження й підрізання чагарників, зелених огорож та молодих гілок у саду, на присадибних ділянках і в паркових зонах.&nbsp;</p>    <p><b data-index-in-node="459" data-path-to-node="0">Конструкція:</b>&nbsp;леза із суцільнометалевим профілем забезпечують рівний та чистий зріз по всій довжині. Силовий механізм PowerGear&trade; оптимально розподіляє зусилля під час стискання ручок, значно знижуючи навантаження на кисті та передпліччя. Легкі й міцні рукоятки забезпечують зручний важіль і повний контроль над інструментом.&nbsp;</p>    <p><b data-index-in-node="783" data-path-to-node="0">Матеріали:</b>&nbsp;леза виготовлені з загартованої антикорозійної сталі із захисним покриттям, що зменшує тертя та запобігає налипанню соку рослин. Рукоятки виконані з легкого й міцного армованого скловолокном поліаміду (FiberComp&trade;) з протиковзним покриттям SoftGrip&trade;.</p>    <p><b data-index-in-node="1044" data-path-to-node="0">Особливості:</b>запатентований зубчастий механізм PowerGear&trade; збільшує силу різання у 3,5 раза порівняно зі стандартними ножицями. Антифрикційне покриття лез гарантує гладкий зріз та полегшує очищення після роботи. Легка вага інструмента дозволяє тривалий час працювати без втоми в руках.&nbsp;</p>    <p><b data-index-in-node="1329" data-path-to-node="0">Комплектація:</b>&nbsp;ножиці для кущів Fiskars PowerGear&trade; HS72 (1000596) &mdash; 1 шт.</p>  ]]></description_ua>
+   </offer>
 <offer id="1019822" group_id="28460" available="true">
     <url>https://fiskars-gratis.com.ua/sokyra-gerber-9-hatchet/</url>
     <price>2799</price>
@@ -7555,7 +7681,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>922</quantity_in_stock>
+    <quantity_in_stock>886</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -7686,33 +7812,6 @@
     <description><![CDATA[<p><b data-index-in-node="0" data-path-to-node="0">Перукарські ножиці Fiskars Classic 17 см (1003025)</b>&nbsp;&mdash; фінські ножиці із класичної серії з помаранчевими ручками для точного та комфортного підстригання волосся.</p>    <p>Призначення: для стрижки, рівняння та філірування волосся будь-якої довжини та густини у салонних або домашніх умовах.</p>    <p>Конструкція: леза з мікронасічками для фіксації пасма під час зрізу, зручні оновлені кільця з підпоркою для пальця для рівномірного розподілу навантаження, надійний регулювальний гвинт.</p>    <p>Матеріали: високоякісна фінська нержавіюча сталь високої твердості , ручки з міцного та гігієнічного ударостійкого пластику (поліпропілену).</p>    <p>Особливості: спеціальна мікросеррейторна насічка запобігає вислизанню волосся з-поміж лез, ергономічна форма ручок зменшує втому кисті, довговічне заводське заточування.</p>    <p>Комплектація: перукарські ножиці Fiskars Classic 17 см (1003025), фірмова блістерна упаковка.</p>  ]]></description>
     <name_ua><![CDATA[Ножиці перукарські 17 см]]></name_ua>
     <description_ua><![CDATA[<p><b data-index-in-node="0" data-path-to-node="0">Перукарські ножиці Fiskars Classic 17 см (1003025)</b>&nbsp;&mdash; фінські ножиці із класичної серії з помаранчевими ручками для точного та комфортного підстригання волосся.</p>    <p>Призначення: для стрижки, рівняння та філірування волосся будь-якої довжини та густини у салонних або домашніх умовах.</p>    <p>Конструкція: леза з мікронасічками для фіксації пасма під час зрізу, зручні оновлені кільця з підпоркою для пальця для рівномірного розподілу навантаження, надійний регулювальний гвинт.</p>    <p>Матеріали: високоякісна фінська нержавіюча сталь високої твердості , ручки з міцного та гігієнічного ударостійкого пластику (поліпропілену).</p>    <p>Особливості: спеціальна мікросеррейторна насічка запобігає вислизанню волосся з-поміж лез, ергономічна форма ручок зменшує втому кисті, довговічне заводське заточування.</p>    <p>Комплектація: перукарські ножиці Fiskars Classic 17 см (1003025), фірмова блістерна упаковка.</p>  ]]></description_ua>
-   </offer>
-<offer id="1003031" group_id="32487" available="true">
-    <url>https://fiskars-gratis.com.ua/nabir-nozhyts-fiskars/</url>
-    <oldprice>1800</oldprice>
-    <price>999</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>156333769</categoryId>
-    <quantity_in_stock>3</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-45816761369751_+f2fc5224c0.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-39814503546151_+2589e642c3.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-68201763405941_+3b7de7dd69.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-55595204561350_+0613f8de86.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-46459723579266_+443115f533.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-47873423519391_+ccabc4e1bf.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-41056499368331_+bea456c167.png</picture>
-    <dimensions>
-     <weight unit="kg">0.5</weight>
-     <width unit="cm">15</width>
-     <height unit="cm">5</height>
-     <length unit="cm">30</length>
-    </dimensions>
-    <vendorCode>1003031</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Набір ножиць Фіскарс ]]></name>
-    <description><![CDATA[<p data-end="359" data-start="20"><strong data-end="62" data-start="20">Набір ножиць Fiskars Classic (1003031)</strong>&nbsp;&mdash; практичний комплект із двох ножиць для різноманітних побутових, швейних, творчих та офісних завдань. У набір входять універсальні ножиці довжиною 21 см та компактні швейні ножиці 13 см, що дозволяє використовувати комплект для різних видів точного різання.&nbsp;</p>    <p data-end="646" data-start="361"><strong data-end="377" data-start="361">Призначення:</strong>&nbsp;універсальні ножиці підходять для різання паперу, картону, тканини, ламінованих матеріалів та інших матеріалів. Швейні ножиці призначені для точних робіт, зокрема обрізання ниток, виконання невеликих надрізів та роботи з тканиною.&nbsp;</p>    <p data-end="944" data-start="648"><strong data-end="664" data-start="648">Конструкція:</strong>&nbsp;до набору входять дві моделі ножиць різного розміру. Універсальні ножиці мають довші леза для виконання стандартних ріжучих робіт, а компактні швейні ножиці з гострим кінчиком призначені для точного різання та роботи у важкодоступних місцях.&nbsp;</p>    <p data-end="1185" data-start="946"><strong data-end="960" data-start="946">Матеріали:</strong>&nbsp;леза виготовлені з високоякісної нержавіючої сталі твердістю HRC 57. Ручки виготовлені з міцного пластику. Леза загартовані та відполіровані для забезпечення точного й тривалого різання.&nbsp;</p>    <p data-end="1488" data-start="1187"><strong data-end="1203" data-start="1187">Особливості:</strong>&nbsp;набір складається з двох ножиць &mdash; універсальних довжиною 21 см та швейних довжиною 13 см. Конструкція підходить як для побутового використання, так і для рукоділля, шиття, офісних та творчих робіт. Ножиці придатні для миття в посудомийній машині.&nbsp;</p>  ]]></description>
-    <name_ua><![CDATA[Набір ножиць Фіскарс ]]></name_ua>
-    <description_ua><![CDATA[<p data-end="359" data-start="20"><strong data-end="62" data-start="20">Набір ножиць Fiskars Classic (1003031)</strong>&nbsp;&mdash; практичний комплект із двох ножиць для різноманітних побутових, швейних, творчих та офісних завдань. У набір входять універсальні ножиці довжиною 21 см та компактні швейні ножиці 13 см, що дозволяє використовувати комплект для різних видів точного різання.&nbsp;</p>    <p data-end="646" data-start="361"><strong data-end="377" data-start="361">Призначення:</strong>&nbsp;універсальні ножиці підходять для різання паперу, картону, тканини, ламінованих матеріалів та інших матеріалів. Швейні ножиці призначені для точних робіт, зокрема обрізання ниток, виконання невеликих надрізів та роботи з тканиною.&nbsp;</p>    <p data-end="944" data-start="648"><strong data-end="664" data-start="648">Конструкція:</strong>&nbsp;до набору входять дві моделі ножиць різного розміру. Універсальні ножиці мають довші леза для виконання стандартних ріжучих робіт, а компактні швейні ножиці з гострим кінчиком призначені для точного різання та роботи у важкодоступних місцях.&nbsp;</p>    <p data-end="1185" data-start="946"><strong data-end="960" data-start="946">Матеріали:</strong>&nbsp;леза виготовлені з високоякісної нержавіючої сталі твердістю HRC 57. Ручки виготовлені з міцного пластику. Леза загартовані та відполіровані для забезпечення точного й тривалого різання.&nbsp;</p>    <p data-end="1488" data-start="1187"><strong data-end="1203" data-start="1187">Особливості:</strong>&nbsp;набір складається з двох ножиць &mdash; універсальних довжиною 21 см та швейних довжиною 13 см. Конструкція підходить як для побутового використання, так і для рукоділля, шиття, офісних та творчих робіт. Ножиці придатні для миття в посудомийній машині.&nbsp;</p>  ]]></description_ua>
    </offer>
 <offer id="1005154" group_id="33487" available="true">
     <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-khobbi-13sm/926/</url>
@@ -8229,7 +8328,7 @@
     <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>93</quantity_in_stock>
+    <quantity_in_stock>92</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-17131597943110_+167e84e65d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-94903583528626_+4e4f781015.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-81496573318508_+2bea131b87.png</picture>
@@ -8272,7 +8371,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-37698904701762_+a2497125f9.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-58168144542852_+4614cbb679.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-35556107645267_+9678b0ff8e.png</picture>
@@ -8354,7 +8453,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-59312000672501_+3698519bd7.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-85208754697884_+37b6739466.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-64050499684131_+ecaa6b7a48.png</picture>
@@ -8374,7 +8473,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-33512893616603_+51463e480d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-60487590035005_+6cc650d24d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-99659829587933_+63215a1ca9.png</picture>
@@ -8396,7 +8495,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-17906357745877_+5cfd9f63c4.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-50497162672661_+ab2bf62efb.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-19136950986926_+2868c4edcf.png</picture>
@@ -8416,7 +8515,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-68825027967585_+02c668ef12.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-83756400918725_+e678e0def8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-12622172661488_+937825116e.png</picture>
@@ -8478,7 +8577,7 @@
     <price>2499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/4/nozhytsi-dlia-zhyvoplotu-powergear-hs72sekator-fiskars-softgrip-m-72309225941196_+1c34e34721.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/4/nozhytsi-dlia-zhyvoplotu-powergear-hs72sekator-fiskars-softgrip-m-33945455706850_+863be53c98.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/4/nozhytsi-dlia-zhyvoplotu-powergear-hs72sekator-fiskars-softgrip-m-41474072757658_+eca05994e2.png</picture>
@@ -8541,7 +8640,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-66856692547031_+f0de17be15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-52724028681852_+f6ef372b50.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-26853019685921_+84c62f42b9.png</picture>
@@ -8624,7 +8723,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-34700090871095_+ab46608c96.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-15365417385023_+a0255b34ae.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-51419633299471_+ec55a9ae11.png</picture>
@@ -8647,7 +8746,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-28568877624496_+051bc719db.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-38119201586292_+87d4d88b48.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-50017954335258_+65dcc6bba5.png</picture>
@@ -8710,7 +8809,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-84247034469713_+a44b8ba605.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-37842163366507_+3cb25e370f.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-81674711878161_+559bebfbe0.png</picture>
@@ -8728,7 +8827,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
@@ -8782,6 +8881,27 @@
     <name_ua><![CDATA[Точило для сокир та ножів Fiskars Xsharp (1000601)]]></name_ua>
     <description_ua><![CDATA[<p data-end="299" data-start="0"><span style="font-size:18px;"><strong data-end="54" data-start="0">Точило для сокир та ножів Fiskars Xsharp (1000601)</strong> </span><span style="font-size:14px;">&mdash; ручний інструмент для заточування ріжучих кромок садових і господарських інструментів. Використовується для відновлення гостроти лез сокир, ножів, теслярських інструментів та інших інструментів з прямими або слабо вигнутими ріжучими кромками.</span></p>    <p data-end="513" data-start="301"><span style="font-size:18px;"><strong data-end="317" data-start="301">Призначення:</strong></span><span style="font-size:14px;"> підходить для домашніх, садових і польових робіт, де необхідно підтримувати гостроту лез інструментів для ефективного та безпечного рубання, розпилювання чи обрізання деревини і інших матеріалів.</span></p>    <p data-end="745" data-start="515"><span style="font-size:18px;"><strong data-end="531" data-start="515">Конструкція:</strong></span><span style="font-size:14px;"> заточувальний елемент виконаний у вигляді каменю або абразивної вставки певної зернистості, закріпленої в ергономічній руків&rsquo;ї. Форма і розмір інструмента дозволяють точно фіксувати кут заточування під час роботи.</span></p>    <p data-end="940" data-start="747"><span style="font-size:18px;"><strong data-end="761" data-start="747">Матеріали:</strong> </span><span style="font-size:14px;">абразивний робочий елемент виготовлений із матеріалів, придатних для обробки сталі ріжучих кромок, а руків&rsquo;я адаптоване для зручного захвату та контролю руху під час заточування.</span></p>    <p data-end="1135" data-is-last-node="" data-is-only-node="" data-start="942"><span style="font-size:18px;"><strong data-end="958" data-start="942">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Xsharp бренду Fiskars та призначений для періодичного обслуговування та відновлення гостроти лез ручних інструментів.</span></p>  ]]></description_ua>
     <param name="Гарантия">60 мес.</param>
+   </offer>
+<offer id="1025567" group_id="6467" available="">
+    <url>https://fiskars-gratis.com.ua/sapka-fiskars-solid-planter-1025567/</url>
+    <price>549</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1090</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/23/sapka-fiskars-solid-planter-1025567-47332315461069_+84c2d4b930.jpg</picture>
+    <dimensions>
+     <weight unit="kg">0.6</weight>
+     <width unit="cm">15</width>
+     <height unit="cm">8</height>
+     <length unit="cm">30</length>
+    </dimensions>
+    <vendorCode>1025567</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Сапка Fiskars Solid Planter (1025567)]]></name>
+    <description><![CDATA[<p data-end="263" data-start="0"><span style="font-size:18px;"><strong data-end="41" data-start="0">Сапка Fiskars Solid Planter (1025567)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для обробки ґрунту під час догляду за грядками, клумбами та декоративними насадженнями. Використовується для розпушування, аерації, видалення бур&rsquo;янів і підготовки ґрунту перед посадкою рослин.</span></p>    <p data-end="466" data-start="265"><span style="font-size:18px;"><strong data-end="281" data-start="265">Призначення:</strong> </span><span style="font-size:14px;">підходить для догляду за овочевими й декоративними грядками, підготовки поверхні ґрунту до висаджування розсади та насіння, а також для контролю росту бур&rsquo;янів у верхньому шарі ґрунту.</span></p>    <p data-end="715" data-start="468"><span style="font-size:18px;"><strong data-end="484" data-start="468">Конструкція:</strong> </span><span style="font-size:14px;">робочий елемент має загострену кромку, що дозволяє ефективно проникати в ґрунт, розпушувати його та видаляти небажані рослини. Руків&rsquo;я короткої довжини забезпечує комфортний захват і контроль під час ручної роботи на рівні ґрунту.</span></p>    <p data-end="901" data-start="717"><span style="font-size:18px;"><strong data-end="731" data-start="717">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена зі сталі, стійкої до механічного зношування при регулярному використанні. Руків&rsquo;я адаптоване для тривалого ручного утримання й контролю рухів.</span></p>    <p data-end="1077" data-is-last-node="" data-is-only-node="" data-start="903"><span style="font-size:18px;"><strong data-end="919" data-start="903">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом на присадибних ділянках.</span></p>  ]]></description>
+    <name_ua><![CDATA[Сапка Fiskars Solid Planter (1025567)]]></name_ua>
+    <description_ua><![CDATA[<p data-end="263" data-start="0"><span style="font-size:18px;"><strong data-end="41" data-start="0">Сапка Fiskars Solid Planter (1025567)</strong> </span><span style="font-size:14px;">&mdash; ручний садовий інструмент для обробки ґрунту під час догляду за грядками, клумбами та декоративними насадженнями. Використовується для розпушування, аерації, видалення бур&rsquo;янів і підготовки ґрунту перед посадкою рослин.</span></p>    <p data-end="466" data-start="265"><span style="font-size:18px;"><strong data-end="281" data-start="265">Призначення:</strong> </span><span style="font-size:14px;">підходить для догляду за овочевими й декоративними грядками, підготовки поверхні ґрунту до висаджування розсади та насіння, а також для контролю росту бур&rsquo;янів у верхньому шарі ґрунту.</span></p>    <p data-end="715" data-start="468"><span style="font-size:18px;"><strong data-end="484" data-start="468">Конструкція:</strong> </span><span style="font-size:14px;">робочий елемент має загострену кромку, що дозволяє ефективно проникати в ґрунт, розпушувати його та видаляти небажані рослини. Руків&rsquo;я короткої довжини забезпечує комфортний захват і контроль під час ручної роботи на рівні ґрунту.</span></p>    <p data-end="901" data-start="717"><span style="font-size:18px;"><strong data-end="731" data-start="717">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена зі сталі, стійкої до механічного зношування при регулярному використанні. Руків&rsquo;я адаптоване для тривалого ручного утримання й контролю рухів.</span></p>    <p data-end="1077" data-is-last-node="" data-is-only-node="" data-start="903"><span style="font-size:18px;"><strong data-end="919" data-start="903">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії Solid бренду Fiskars та призначений для систематичного догляду за ґрунтом на присадибних ділянках.</span></p>  ]]></description_ua>
+    <param name="Гарантия">24 мес.</param>
    </offer>
 <offer id="1000660" group_id="1477" available="">
     <url>https://fiskars-gratis.com.ua/hrabli-dlia-lystia-fiskars-ergonomic-xl-1000660/</url>
@@ -8914,6 +9034,33 @@
     <name_ua><![CDATA[Ніж Paraframe Gerber Mini FE BL]]></name_ua>
     <description_ua><![CDATA[<p><strong>Ніж Gerber Paraframe Mini FE BL 1013954</strong><span style="font-size:14px;"> &mdash; компактний складаний ніж для щоденного використання.</span></p>    <p><strong>Призначення: </strong><span style="font-size:14px;">підходить для різання різних матеріалів у побуті та на природі. </span></p>    <p><strong>Конструкція: </strong><span style="font-size:14px;">легка рамкова конструкція забезпечує зручність і надійність.</span></p>    <p><strong>Матеріали: </strong><span style="font-size:14px;">виготовлений із міцної сталі, стійкої до зношування.</span></p>    <p><strong>Особливості: </strong><span style="font-size:14px;">компактний розмір і простота у використанні.</span></p>  ]]></description_ua>
     <param name="Гарантия">24 мес.</param>
+   </offer>
+<offer id="1066432" group_id="6485" available="">
+    <url>https://fiskars-gratis.com.ua/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432/</url>
+    <oldprice>2400</oldprice>
+    <price>1999</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>156333769</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-52809733206898_+7d05cf2a5a.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-17205664692349_+fe241a4637.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-27345035105850_+a24bb36b15.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-85529733643454_+36974995cc.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-52849662346192_+dc6132d739.png</picture>
+    <dimensions>
+     <weight unit="kg">1.65</weight>
+     <width unit="cm">28</width>
+     <height unit="cm">8</height>
+     <length unit="cm">46</length>
+    </dimensions>
+    <vendorCode>1066432</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Сковорода-садж чавунна для гриля Norden 30 см 1066432]]></name>
+    <description><![CDATA[<p data-end="377" data-start="106"><strong>Сковорода-садж чавунна Fiskars Norden Grill, 30 см (1066432)</strong> &mdash;<span style="font-size:14px;"> кухонний посуд для смаження, тушкування та приготування страв на грилі або відкритому вогні. Використовується для м&rsquo;яса, овочів, риби та інших страв, забезпечуючи рівномірний розподіл тепла та насичений смак</span>.</p>    <p data-end="547" data-start="379"><strong>Призначення:</strong><span style="font-size:14px;"> підходить для приготування страв на грилі, мангалі, плиті або відкритому вогні, дозволяючи готувати як повсякденні, так і страви для відпочинку на природі.</span></p>    <p data-end="778" data-start="549"><strong>Конструкція: </strong><span style="font-size:14px;">широка робоча поверхня забезпечує зручність приготування кількох порцій одночасно, а чавунна основа добре утримує тепло та рівномірно його розподіляє. Форма саджа дозволяє ефективно обсмажувати та тушкувати продукти.</span></p>    <p data-end="943" data-start="780"><strong>Матеріали:</strong> <span style="font-size:14px;">виготовлена з високоякісного чавуну, стійкого до високих температур і зношування. Матеріал забезпечує довговічність і стабільний результат приготування.</span></p>    <p data-end="1192" data-is-last-node="" data-is-only-node="" data-start="945"><strong>Особливості:<span style="font-size:14px;"> </span></strong><span style="font-size:14px;">інструмент належить до серії Norden бренду Fiskars та призначений для інтенсивного використання. Підходить для газових, електричних, склокерамічних та індукційних плит, а також для використання в духовці, на грилі та відкритому вогні.</span></p>  ]]></description>
+    <name_ua><![CDATA[Сковорода-садж чавунна для гриля Norden 30 см 1066432]]></name_ua>
+    <description_ua><![CDATA[<p data-end="377" data-start="106"><strong>Сковорода-садж чавунна Fiskars Norden Grill, 30 см (1066432)</strong> &mdash;<span style="font-size:14px;"> кухонний посуд для смаження, тушкування та приготування страв на грилі або відкритому вогні. Використовується для м&rsquo;яса, овочів, риби та інших страв, забезпечуючи рівномірний розподіл тепла та насичений смак</span>.</p>    <p data-end="547" data-start="379"><strong>Призначення:</strong><span style="font-size:14px;"> підходить для приготування страв на грилі, мангалі, плиті або відкритому вогні, дозволяючи готувати як повсякденні, так і страви для відпочинку на природі.</span></p>    <p data-end="778" data-start="549"><strong>Конструкція: </strong><span style="font-size:14px;">широка робоча поверхня забезпечує зручність приготування кількох порцій одночасно, а чавунна основа добре утримує тепло та рівномірно його розподіляє. Форма саджа дозволяє ефективно обсмажувати та тушкувати продукти.</span></p>    <p data-end="943" data-start="780"><strong>Матеріали:</strong> <span style="font-size:14px;">виготовлена з високоякісного чавуну, стійкого до високих температур і зношування. Матеріал забезпечує довговічність і стабільний результат приготування.</span></p>    <p data-end="1192" data-is-last-node="" data-is-only-node="" data-start="945"><strong>Особливості:<span style="font-size:14px;"> </span></strong><span style="font-size:14px;">інструмент належить до серії Norden бренду Fiskars та призначений для інтенсивного використання. Підходить для газових, електричних, склокерамічних та індукційних плит, а також для використання в духовці, на грилі та відкритому вогні.</span></p>  ]]></description_ua>
+    <param name="Гарантия">24 мес.</param>
+    <param name="Цвет">Чорний</param>
    </offer>
 <offer id="1052248" group_id="8485" available="">
     <url>https://fiskars-gratis.com.ua/skovoroda-z-kryshkoiu-fiskars-hard-face-26-sm-1052248/</url>
@@ -9107,6 +9254,33 @@
     <description><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Ножиці садові CLASSIC 18 см (1000555)</b>&nbsp;&mdash; компактний та універсальний ручний інструмент для точного різання та підрізання різноманітних матеріалів у саду, теплиці й домашньому господарстві. Завдяки класичній ергономічній формі та гострим лезам інструмент забезпечує акуратний зріз без пошкодження рослин.</p>    <p><b data-index-in-node="318" data-path-to-node="0">Призначення:</b>&nbsp;призначені для обрізки квітів, збирання врожаю, зрізання зелені, трав, тонких пагонів, а також для побутових завдань &mdash; розрізання мотузок, паперу, плівки, картону та упаковки.&nbsp;</p>    <p><b data-index-in-node="507" data-path-to-node="0">Конструкція:</b>&nbsp;короткі міцні леза із закругленими кінчиками гарантують безпеку та високу точність у роботі. Ергономічні кільця рукоятки розроблені з урахуванням природного положення пальців, що забезпечує надійний хват і повний контроль над кожним рухом.&nbsp;<b data-index-in-node="760" data-path-to-node="0">Матеріали:</b>леза виготовлені з якісної нержавіючої сталі високої твердості, стійкої до корозії та зношування. Рукоятки виконані з ударостійкого та гігієнічного пластику яскраво-оранжевого кольору.&nbsp;</p>    <p><b data-index-in-node="956" data-path-to-node="0">Особливості:</b>&nbsp;леза тривалий час зберігають гостроту та легко очищуються від залишків рослинного соку. Яскрава фірмова рукоятка полегшує пошук інструмента серед трави чи іншого садового інвентарю. Ножиці підходять для використання як правою, так і лівою рукою.&nbsp;</p>    <p><b data-index-in-node="1215" data-path-to-node="0">Комплектація:</b>&nbsp;ножиці садові CLASSIC 18 см (1000555) &mdash; 1 шт.</p>  ]]></description>
     <name_ua><![CDATA[Ножиці садові CLASSIC 18 см]]></name_ua>
     <description_ua><![CDATA[<p><b data-index-in-node="15" data-path-to-node="0">Ножиці садові CLASSIC 18 см (1000555)</b>&nbsp;&mdash; компактний та універсальний ручний інструмент для точного різання та підрізання різноманітних матеріалів у саду, теплиці й домашньому господарстві. Завдяки класичній ергономічній формі та гострим лезам інструмент забезпечує акуратний зріз без пошкодження рослин.</p>    <p><b data-index-in-node="318" data-path-to-node="0">Призначення:</b>&nbsp;призначені для обрізки квітів, збирання врожаю, зрізання зелені, трав, тонких пагонів, а також для побутових завдань &mdash; розрізання мотузок, паперу, плівки, картону та упаковки.&nbsp;</p>    <p><b data-index-in-node="507" data-path-to-node="0">Конструкція:</b>&nbsp;короткі міцні леза із закругленими кінчиками гарантують безпеку та високу точність у роботі. Ергономічні кільця рукоятки розроблені з урахуванням природного положення пальців, що забезпечує надійний хват і повний контроль над кожним рухом.&nbsp;<b data-index-in-node="760" data-path-to-node="0">Матеріали:</b>леза виготовлені з якісної нержавіючої сталі високої твердості, стійкої до корозії та зношування. Рукоятки виконані з ударостійкого та гігієнічного пластику яскраво-оранжевого кольору.&nbsp;</p>    <p><b data-index-in-node="956" data-path-to-node="0">Особливості:</b>&nbsp;леза тривалий час зберігають гостроту та легко очищуються від залишків рослинного соку. Яскрава фірмова рукоятка полегшує пошук інструмента серед трави чи іншого садового інвентарю. Ножиці підходять для використання як правою, так і лівою рукою.&nbsp;</p>    <p><b data-index-in-node="1215" data-path-to-node="0">Комплектація:</b>&nbsp;ножиці садові CLASSIC 18 см (1000555) &mdash; 1 шт.</p>  ]]></description_ua>
+   </offer>
+<offer id="1003031" group_id="32487" available="">
+    <url>https://fiskars-gratis.com.ua/nabir-nozhyts-fiskars/</url>
+    <oldprice>1800</oldprice>
+    <price>999</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>156333769</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-45816761369751_+f2fc5224c0.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-39814503546151_+2589e642c3.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-68201763405941_+3b7de7dd69.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-55595204561350_+0613f8de86.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-46459723579266_+443115f533.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-47873423519391_+ccabc4e1bf.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-41056499368331_+bea456c167.png</picture>
+    <dimensions>
+     <weight unit="kg">0.5</weight>
+     <width unit="cm">15</width>
+     <height unit="cm">5</height>
+     <length unit="cm">30</length>
+    </dimensions>
+    <vendorCode>1003031</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Набір ножиць Фіскарс ]]></name>
+    <description><![CDATA[<p data-end="359" data-start="20"><strong data-end="62" data-start="20">Набір ножиць Fiskars Classic (1003031)</strong>&nbsp;&mdash; практичний комплект із двох ножиць для різноманітних побутових, швейних, творчих та офісних завдань. У набір входять універсальні ножиці довжиною 21 см та компактні швейні ножиці 13 см, що дозволяє використовувати комплект для різних видів точного різання.&nbsp;</p>    <p data-end="646" data-start="361"><strong data-end="377" data-start="361">Призначення:</strong>&nbsp;універсальні ножиці підходять для різання паперу, картону, тканини, ламінованих матеріалів та інших матеріалів. Швейні ножиці призначені для точних робіт, зокрема обрізання ниток, виконання невеликих надрізів та роботи з тканиною.&nbsp;</p>    <p data-end="944" data-start="648"><strong data-end="664" data-start="648">Конструкція:</strong>&nbsp;до набору входять дві моделі ножиць різного розміру. Універсальні ножиці мають довші леза для виконання стандартних ріжучих робіт, а компактні швейні ножиці з гострим кінчиком призначені для точного різання та роботи у важкодоступних місцях.&nbsp;</p>    <p data-end="1185" data-start="946"><strong data-end="960" data-start="946">Матеріали:</strong>&nbsp;леза виготовлені з високоякісної нержавіючої сталі твердістю HRC 57. Ручки виготовлені з міцного пластику. Леза загартовані та відполіровані для забезпечення точного й тривалого різання.&nbsp;</p>    <p data-end="1488" data-start="1187"><strong data-end="1203" data-start="1187">Особливості:</strong>&nbsp;набір складається з двох ножиць &mdash; універсальних довжиною 21 см та швейних довжиною 13 см. Конструкція підходить як для побутового використання, так і для рукоділля, шиття, офісних та творчих робіт. Ножиці придатні для миття в посудомийній машині.&nbsp;</p>  ]]></description>
+    <name_ua><![CDATA[Набір ножиць Фіскарс ]]></name_ua>
+    <description_ua><![CDATA[<p data-end="359" data-start="20"><strong data-end="62" data-start="20">Набір ножиць Fiskars Classic (1003031)</strong>&nbsp;&mdash; практичний комплект із двох ножиць для різноманітних побутових, швейних, творчих та офісних завдань. У набір входять універсальні ножиці довжиною 21 см та компактні швейні ножиці 13 см, що дозволяє використовувати комплект для різних видів точного різання.&nbsp;</p>    <p data-end="646" data-start="361"><strong data-end="377" data-start="361">Призначення:</strong>&nbsp;універсальні ножиці підходять для різання паперу, картону, тканини, ламінованих матеріалів та інших матеріалів. Швейні ножиці призначені для точних робіт, зокрема обрізання ниток, виконання невеликих надрізів та роботи з тканиною.&nbsp;</p>    <p data-end="944" data-start="648"><strong data-end="664" data-start="648">Конструкція:</strong>&nbsp;до набору входять дві моделі ножиць різного розміру. Універсальні ножиці мають довші леза для виконання стандартних ріжучих робіт, а компактні швейні ножиці з гострим кінчиком призначені для точного різання та роботи у важкодоступних місцях.&nbsp;</p>    <p data-end="1185" data-start="946"><strong data-end="960" data-start="946">Матеріали:</strong>&nbsp;леза виготовлені з високоякісної нержавіючої сталі твердістю HRC 57. Ручки виготовлені з міцного пластику. Леза загартовані та відполіровані для забезпечення точного й тривалого різання.&nbsp;</p>    <p data-end="1488" data-start="1187"><strong data-end="1203" data-start="1187">Особливості:</strong>&nbsp;набір складається з двох ножиць &mdash; універсальних довжиною 21 см та швейних довжиною 13 см. Конструкція підходить як для побутового використання, так і для рукоділля, шиття, офісних та творчих робіт. Ножиці придатні для миття в посудомийній машині.&nbsp;</p>  ]]></description_ua>
    </offer>
 <offer id="1027528102349" group_id="79489" available="">
     <url>https://fiskars-gratis.com.ua/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi/</url>

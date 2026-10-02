@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-10-01 21:39</date>
+    <date>2026-10-02 01:23</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -2426,7 +2426,7 @@
             <url>https://fiskars-gratis.com.ua/sapka-fiskars-solid-planter-1025567/</url>
             <image>https://fiskars-gratis.com.ua/content/images/23/sapka-fiskars-solid-planter-1025567-47332315461069_+84c2d4b930.jpg</image>
             <priceRUAH>549</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1025567</param>
             <param name="Бренд">Fiskars</param>
@@ -4076,7 +4076,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-85529733643454_+36974995cc.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/38/skovoroda-sadzh-chavunna-dlia-hrylia-norden-30-sm-1066432-52849662346192_+dc6132d739.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1066432</param>
             <param name="Бренд">Fiskars</param>
@@ -6301,7 +6301,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-47873423519391_+ccabc4e1bf.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/26/nabir-nozhyts-fiskars-41056499368331_+bea456c167.png</image>
             <priceRUAH>999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1003031</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
