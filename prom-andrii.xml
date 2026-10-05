@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-04 22:54">
+<yml_catalog date="2026-10-05 01:43">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -92,7 +92,7 @@
     <price>3299</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/16/sokyra-kolun-m-kh17-63188316463397_+759234e14d.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/93618919334182_+9ab6bdbbfa.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/65390895060692_+a2180c4aa5.jpg</picture>
@@ -119,7 +119,7 @@
     <price>3999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>7</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/sokyra-kolun-xl-kh25-56701410361483_+c9ad3ba224.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/35643170110978_+bb2e606e2a.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/96121390402824_+3be0d007bf.jpg</picture>
@@ -515,7 +515,7 @@
     <price>699</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>37</quantity_in_stock>
+    <quantity_in_stock>36</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-27487367778769_+1137de4d65.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/sekator-ploshchynnyi-fiskars-singlestep-p26-1000567-15228611473368_+01e54b7393.jpg</picture>
     <dimensions>
@@ -694,7 +694,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>634</quantity_in_stock>
+    <quantity_in_stock>633</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -2055,7 +2055,7 @@
     <price>899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-94803589192986_+99d6282077.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-85547544830448_+b8495d419b.jpg</picture>
@@ -2327,7 +2327,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>361</quantity_in_stock>
+    <quantity_in_stock>360</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-77661275374613_+389a3888f3.jpg</picture>
     <dimensions>
@@ -2511,7 +2511,7 @@
     <price>2300</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-steel-28-sm-1059096-91628952092943_+c6ceebf7e4.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-steel-28-sm-1059096-69073930909240_+b9cf4aff94.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/skovoroda-fiskars-steel-28-sm-1059096-23524419194146_+a22fd94b93.jpeg</picture>
@@ -3078,7 +3078,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-53694152285206_+37c40f9a10.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-85757459351668_+5e352d45ba.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-26004454274135_+7b1a04a4da.jpeg</picture>
@@ -3274,32 +3274,6 @@
     <name_ua><![CDATA[Лопата садова класична Fiskars FSC (1024472)]]></name_ua>
     <description_ua><![CDATA[<p data-end="280" data-start="0"><span style="font-size:18px;"><strong data-end="48" data-start="0">Лопата садова класична </strong><strong data-end="40" data-start="0">Фіскарс</strong><strong data-end="48" data-start="0"> FSC (1024472)</strong></span><span style="font-size:14px;"> &mdash; ручний інструмент для базових земляних робіт на присадибних ділянках, у городі та господарських зонах. Використовується для копання, перекопування ґрунту, формування грядок, траншей, підготовки посадкових ям і планування ділянки.</span></p>    <p data-end="488" data-start="282"><span style="font-size:18px;"><strong data-end="298" data-start="282">Призначення:</strong></span><span style="font-size:14px;"> підходить для обробки м&rsquo;якого та середньощільного ґрунту під час сезонних і щоденних садово-городніх робіт, включно з підготовкою ділянки до посадки рослин або пересадки дерев і чагарників.</span></p>    <p data-end="803" data-start="490"><span style="font-size:18px;"><strong data-end="506" data-start="490">Конструкція:</strong> </span><span style="font-size:14px;">традиційне штикове або класичне лезо забезпечує ефективне проникнення в ґрунт і контрольований зріз землі. Руків&rsquo;я оптимальної довжини дозволяє працювати у вертикальному положенні з комфортним розподілом зусиль, а форма держака сприяє стабільному контролю інструмента під час ручної експлуатації.</span></p>    <p data-end="1082" data-start="805"><span style="font-size:18px;"><strong data-end="819" data-start="805">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена з міцної сталі, стійкої до деформації й зношування при регулярних навантаженнях. Руків&rsquo;я виконано з сертифікованої деревини FSC, що підтверджує відповідальне використання природних ресурсів, і забезпечує надійний захват під час роботи.</span></p>    <p data-end="1300" data-is-last-node="" data-is-only-node="" data-start="1084"><span style="font-size:18px;"><strong data-end="1100" data-start="1084">Особливості:</strong></span><span style="font-size:14px;"> інструмент належить до серії класичних садових інструментів бренду Fiskars та призначений для широкого спектра ручних земляних робіт у саду, на городі та в господарстві.</span></p>  ]]></description_ua>
     <param name="Гарантия">60 мес.</param>
-   </offer>
-<offer id="1073084" group_id="4499" available="true">
-    <url>https://fiskars-gratis.com.ua/hilkoriz-teleskopichnyi-fiskars-upn86-1073084/</url>
-    <oldprice>7399</oldprice>
-    <price>5999</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>156333769</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-76659777716621_+c5315c786b.jpeg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-40450020290400_+76bb3eae67.jpeg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-77189696288292_+fe44eca32c.jpeg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-20220072350857_+10a493f5a9.jpeg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/50/hilkoriz-teleskopichnyi-fiskars-upn86-1073084-80020308171186_+5bd1691d96.jpeg</picture>
-    <dimensions>
-     <weight unit="kg">1.4</weight>
-     <width unit="cm">20</width>
-     <height unit="cm">5</height>
-     <length unit="cm">65</length>
-    </dimensions>
-    <vendorCode>1073084</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Гілкоріз телескопічний Fiskars UPN86 (1073084)]]></name>
-    <description><![CDATA[<p data-end="319" data-start="0"><span style="font-size:18px;"><strong data-end="80" data-start="0">Гілкоріз телескопічний Fiskars UPN86 (1073084)</strong> </span><span style="font-size:14px;">&mdash; садовий інструмент для обрізання гілок дерев і кущів на висоті без використання драбини. Використовується для догляду за кроною дерев, формування декоративних рослин і видалення сухих або зайвих гілок у саду чи на присадибній ділянці.</span></p>    <p data-end="588" data-start="321"><span style="font-size:18px;"><strong data-end="337" data-start="321">Призначення:</strong></span><span style="font-size:14px;"> підходить для обрізання свіжих гілок дерев і кущів товщиною до <strong data-end="410" data-start="401">32 мм</strong>, зокрема у важкодоступних місцях або на значній висоті. Телескопічна конструкція дозволяє працювати із землею, не піднімаючись на висоту.</span></p>    <p data-end="900" data-start="590"><span style="font-size:18px;"><strong data-end="606" data-start="590">Конструкція:</strong> </span><span style="font-size:14px;">інструмент оснащений телескопічною штангою з регулюванням довжини приблизно <strong data-end="701" data-start="683">від 2,2 до 4 м</strong>, що забезпечує робочу висоту обрізання до <strong data-end="759" data-start="744">близько 6 м</strong>. Ріжуча головка може повертатися до <strong data-end="804" data-start="796">230&deg;</strong>, що дозволяє виконувати точні зрізи під різними кутами.</span></p>    <p data-end="1165" data-start="902"><span style="font-size:18px;"><strong data-end="916" data-start="902">Матеріали:</strong></span><span style="font-size:14px;"> леза виготовлені з високоякісної загартованої сталі для довготривалої гостроти та чистого зрізу. Телескопічна штанга виконана з легкого та міцного алюмінію, стійкого до погодних умов і механічних навантажень.</span></p>    <p data-end="1514" data-start="1167"><span style="font-size:18px;"><strong data-end="1183" data-start="1167">Особливості:</strong></span><span style="font-size:14px;"> механізм обрізання забезпечує ефективну передачу зусилля для різання товстих гілок, а конструкція дозволяє працювати як на висоті, так і на рівні землі без нахилів або зайвого фізичного навантаження. Інструмент також сумісний з додатковими насадками, такими як садова пилка або плодознімач</span></p>  ]]></description>
-    <name_ua><![CDATA[Гілкоріз телескопічний Fiskars UPN86 (1073084)]]></name_ua>
-    <description_ua><![CDATA[<p data-end="319" data-start="0"><span style="font-size:18px;"><strong data-end="80" data-start="0">Гілкоріз телескопічний Fiskars UPN86 (1073084)</strong> </span><span style="font-size:14px;">&mdash; садовий інструмент для обрізання гілок дерев і кущів на висоті без використання драбини. Використовується для догляду за кроною дерев, формування декоративних рослин і видалення сухих або зайвих гілок у саду чи на присадибній ділянці.</span></p>    <p data-end="588" data-start="321"><span style="font-size:18px;"><strong data-end="337" data-start="321">Призначення:</strong></span><span style="font-size:14px;"> підходить для обрізання свіжих гілок дерев і кущів товщиною до <strong data-end="410" data-start="401">32 мм</strong>, зокрема у важкодоступних місцях або на значній висоті. Телескопічна конструкція дозволяє працювати із землею, не піднімаючись на висоту.</span></p>    <p data-end="900" data-start="590"><span style="font-size:18px;"><strong data-end="606" data-start="590">Конструкція:</strong> </span><span style="font-size:14px;">інструмент оснащений телескопічною штангою з регулюванням довжини приблизно <strong data-end="701" data-start="683">від 2,2 до 4 м</strong>, що забезпечує робочу висоту обрізання до <strong data-end="759" data-start="744">близько 6 м</strong>. Ріжуча головка може повертатися до <strong data-end="804" data-start="796">230&deg;</strong>, що дозволяє виконувати точні зрізи під різними кутами.</span></p>    <p data-end="1165" data-start="902"><span style="font-size:18px;"><strong data-end="916" data-start="902">Матеріали:</strong></span><span style="font-size:14px;"> леза виготовлені з високоякісної загартованої сталі для довготривалої гостроти та чистого зрізу. Телескопічна штанга виконана з легкого та міцного алюмінію, стійкого до погодних умов і механічних навантажень.</span></p>    <p data-end="1514" data-start="1167"><span style="font-size:18px;"><strong data-end="1183" data-start="1167">Особливості:</strong></span><span style="font-size:14px;"> механізм обрізання забезпечує ефективну передачу зусилля для різання товстих гілок, а конструкція дозволяє працювати як на висоті, так і на рівні землі без нахилів або зайвого фізичного навантаження. Інструмент також сумісний з додатковими насадками, такими як садова пилка або плодознімач</span></p>  ]]></description_ua>
-    <param name="Гарантия">24 мес.</param>
    </offer>
 <offer id="2009140" group_id="1504" available="true">
     <url>https://fiskars-gratis.com.ua/shchitka-sylikonova-dlia-tvaryn-fiskars-2-6-19l-1816520/</url>
@@ -3621,35 +3595,6 @@
     <description_ua><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><strong><span style="font-size:14px;">(штрихкод 5907222066201)</span></strong><span style="font-size:18px;"> для тих, хто хоче впевнено закривати задачі в саду та мати під рукою надійний інструмент для повсякденного використання.</span></p>    <p><strong>Опис набору Fiskars</strong><br />  <span style="font-size:14px;">Набір поєднує гілкоріз Fiskars PowerGear L76 та складаний ніж Gerber Asada &mdash; практичне рішення для догляду за ділянкою і виконання щоденних задач. Гілкоріз дозволяє легко обрізати гілки навіть у важкодоступних місцях, а ніж стане універсальним інструментом для швидких робіт у побуті чи на природі. Оптимальний варіант для тих, хто цінує функціональність і надійність. </span></p>    <p><strong>Що входить у комплект </strong><br />  <span style="font-size:14px;">Набір включає два інструменти для роботи в саду та щоденних задач. Кожен елемент виконує свою функцію та доповнює інший.</span></p>    <p><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-iz-zahnutym-lezom-fiskars-powergear-l76-1001553/">Гілкоріз площинний Fiskars PowerGear L76 </a><br />  <span style="font-size:14px;">Потужний інструмент для обрізання гілок діаметром до ~30 мм. Площинний механізм забезпечує чистий зріз без пошкодження рослин, що особливо важливо для живих гілок. Загнуте лезо краще фіксує гілку під час різу, а зубчастий механізм PowerGear значно зменшує навантаження на руки, дозволяючи працювати довше без втоми. Леза з загартованої сталі з антипригарним покриттям довго залишаються гострими, а легкі, але міцні ручки забезпечують комфорт і контроль.</span></p>    <p><a href="https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-asada-1055364/">Ніж складаний Gerber Asada</a><br />  <span style="font-size:14px;">Компактний і надійний ніж для щоденного використання. Оснащений гострим лезом із нержавіючої сталі, яке добре тримає заточку та підходить для різання картону, пакувальних матеріалів, мотузок і продуктів. Механізм фіксації леза забезпечує безпечну роботу, а ергономічна рукоятка &mdash; зручний хват навіть при тривалому використанні. Легко поміщається в кишені або рюкзаку</span>.</p>    <p><strong>Застосування</strong></p>    <ol>   <li><span style="font-size:14px;">Набір використовується для догляду за садом і виконання щоденних побутових задач. </span></li>   <li><span style="font-size:14px;">Підходить для обрізання живих гілок дерев і кущів.</span></li>   <li><span style="font-size:14px;">Дозволяє формувати крону, видаляти сухі та зайві пагони. </span></li>   <li><span style="font-size:14px;">Зручно працювати у важкодоступних місцях і на висоті. Використовується для різання пакувальних матеріалів, картону та мотузок. </span></li>   <li><span style="font-size:14px;">Підходить для приготування їжі або роботи з продуктами на природі.</span></li>  </ol>    <p><strong>Основні переваги набору</strong></p>    <ol>   <li><span style="font-size:14px;">Набір має ряд переваг, які роблять його зручним для щоденного використання. </span></li>   <li><span style="font-size:14px;">Комбінація садового інструменту та ножа для універсальних задач.</span></li>   <li><span style="font-size:14px;">Економія при покупці комплекту порівняно з окремими товарами.</span></li>   <li><span style="font-size:14px;">Технологія PowerGear зменшує зусилля під час обрізання. </span></li>   <li><span style="font-size:14px;">Якісні матеріали забезпечують довговічність і надійність. </span></li>  </ol>    <p><span style="font-size:16px;">Набір Fiskars&mdash; це практичне рішення для тих, хто хоче мати під рукою інструменти для саду та щоденного використання в одному комплекті. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>  ]]></description_ua>
     <param name="Гарантия">60 мес.</param>
    </offer>
-<offer id="1073084101477" group_id="17489" available="true">
-    <url>https://fiskars-gratis.com.ua/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht/</url>
-    <oldprice>6998</oldprice>
-    <price>5999</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1192</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-39397356610769_+af09aacc5b.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-91124427851109_+7cad9f853f.jpeg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-49131539078342_+a73c6fbae8.jpeg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-79854119648370_+b67c143ba0.jpeg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-36478959868805_+8da730f099.jpeg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-39371761633416_+d3cf1d523c.jpeg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-11936263971794_+e5eaa827c3.jpeg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/19/hilkoriz-teleskopichnyi-fiskars-upn86-podarunok-lopata-sadova-shtykova-classic-fsc-sht-76007443285976_+65ae84f6fb.jpeg</picture>
-    <dimensions>
-     <weight unit="kg">4.83</weight>
-     <width unit="cm">25</width>
-     <height unit="cm">15</height>
-     <length unit="cm">130</length>
-    </dimensions>
-    <vendorCode>1073084101477</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Набір Fiskars: Гілкоріз телескопічний UPN86 + Лопата садова штикова Classic FSC]]></name>
-    <description><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066218)</strong></span><span style="font-size:18px;"> для догляду за деревами та роботи з ґрунтом. Практичне рішення для саду та щоденного використання.</span></p>    <p><strong>Опис набору</strong><br />  <span style="font-size:14px;">Fiskars Набір поєднує телескопічний гілкоріз Fiskars UPN86 та штикову лопату Fiskars Classic FSC &mdash; практичне рішення для догляду за деревами та роботи з ґрунтом. Гілкоріз дозволяє обрізати гілки без драбини, а лопата закриває базові задачі перекопування та підготовки ділянки. Оптимальний варіант для універсального використання в саду.</span></p>    <p><strong>Що входить у комплект </strong><br />  <span style="font-size:14px;">Набір включає два інструменти для роботи з деревами та ґрунтом. Кожен елемент виконує свою функцію та доповнює інший.</span></p>    <p><a href="https://fiskars-gratis.com.ua/hilkoriz-teleskopichnyi-fiskars-upn86-1073084/">Гілкоріз телескопічний Fiskars UPN86</a><br />  <span style="font-size:14px;">Інструмент для обрізання гілок на висоті без використання драбини. Телескопічна конструкція дозволяє дістатися до верхніх гілок, а ріжучий механізм забезпечує чистий зріз живих гілок. Легка вага та продумана ергономіка дають можливість працювати довше без перевтоми.</span></p>    <p><a href="https://fiskars-gratis.com.ua/lopata-sadova-shtykova-fiskars-classic-fsc-1014773/">Лопата садова штикова Fiskars Classic FSC </a><br />  <span style="font-size:14px;">Міцна лопата для копання, перекопування та роботи з щільним ґрунтом. Загартована сталь забезпечує довговічність і ефективність у роботі, а зручний держак дозволяє контролювати кожен рух. Підходить для регулярного використання на ділянці.</span></p>    <p><strong>Застосування </strong></p>    <ol>   <li><span style="font-size:14px;">Набір використовується для догляду за садом і роботи з ґрунтом.</span></li>   <li><span style="font-size:14px;">Підходить для обрізання гілок на висоті без використання драбини.</span></li>   <li><span style="font-size:14px;">Дозволяє формувати крону дерев і видаляти сухі або зайві гілки.</span></li>   <li><span style="font-size:14px;">Використовується для перекопування грядок і підготовки ґрунту до посадки.</span></li>   <li><span style="font-size:14px;">Підходить для посадки рослин, викопування ям і роботи з щільним ґрунтом.</span></li>  </ol>    <p><strong>Основні переваги набору</strong></p>    <ol>   <li><span style="font-size:14px;">Набір має ряд переваг, які роблять його зручним для щоденного використання.</span><br />   <span style="font-size:14px;">Універсальний комплект для роботи з деревами та ґрунтом.</span></li>   <li><span style="font-size:14px;">Економія при покупці комплекту.</span></li>   <li><span style="font-size:14px;">Телескопічна конструкція дозволяє працювати без додаткових інструментів.</span></li>   <li><span style="font-size:14px;">Надійні матеріали забезпечують довгий термін служби. </span></li>  </ol>    <p>Набір Fiskars поєднує інструменти для роботи на висоті та догляду за ділянкою в одному рішенні. Ви можете замовити його онлайн&nbsp;або&nbsp;звернутися до менеджера для уточнення деталей.</p>    <p>&nbsp;</p>  ]]></description>
-    <name_ua><![CDATA[Набір Fiskars: Гілкоріз телескопічний UPN86 + Лопата садова штикова Classic FSC]]></name_ua>
-    <description_ua><![CDATA[<p><span style="font-size:18px;">Набір Fiskars </span><span style="font-size:14px;"><strong>(штрихкод 5907222066218)</strong></span><span style="font-size:18px;"> для догляду за деревами та роботи з ґрунтом. Практичне рішення для саду та щоденного використання.</span></p>    <p><strong>Опис набору</strong><br />  <span style="font-size:14px;">Fiskars Набір поєднує телескопічний гілкоріз Fiskars UPN86 та штикову лопату Fiskars Classic FSC &mdash; практичне рішення для догляду за деревами та роботи з ґрунтом. Гілкоріз дозволяє обрізати гілки без драбини, а лопата закриває базові задачі перекопування та підготовки ділянки. Оптимальний варіант для універсального використання в саду.</span></p>    <p><strong>Що входить у комплект </strong><br />  <span style="font-size:14px;">Набір включає два інструменти для роботи з деревами та ґрунтом. Кожен елемент виконує свою функцію та доповнює інший.</span></p>    <p><a href="https://fiskars-gratis.com.ua/hilkoriz-teleskopichnyi-fiskars-upn86-1073084/">Гілкоріз телескопічний Fiskars UPN86</a><br />  <span style="font-size:14px;">Інструмент для обрізання гілок на висоті без використання драбини. Телескопічна конструкція дозволяє дістатися до верхніх гілок, а ріжучий механізм забезпечує чистий зріз живих гілок. Легка вага та продумана ергономіка дають можливість працювати довше без перевтоми.</span></p>    <p><a href="https://fiskars-gratis.com.ua/lopata-sadova-shtykova-fiskars-classic-fsc-1014773/">Лопата садова штикова Fiskars Classic FSC </a><br />  <span style="font-size:14px;">Міцна лопата для копання, перекопування та роботи з щільним ґрунтом. Загартована сталь забезпечує довговічність і ефективність у роботі, а зручний держак дозволяє контролювати кожен рух. Підходить для регулярного використання на ділянці.</span></p>    <p><strong>Застосування </strong></p>    <ol>   <li><span style="font-size:14px;">Набір використовується для догляду за садом і роботи з ґрунтом.</span></li>   <li><span style="font-size:14px;">Підходить для обрізання гілок на висоті без використання драбини.</span></li>   <li><span style="font-size:14px;">Дозволяє формувати крону дерев і видаляти сухі або зайві гілки.</span></li>   <li><span style="font-size:14px;">Використовується для перекопування грядок і підготовки ґрунту до посадки.</span></li>   <li><span style="font-size:14px;">Підходить для посадки рослин, викопування ям і роботи з щільним ґрунтом.</span></li>  </ol>    <p><strong>Основні переваги набору</strong></p>    <ol>   <li><span style="font-size:14px;">Набір має ряд переваг, які роблять його зручним для щоденного використання.</span><br />   <span style="font-size:14px;">Універсальний комплект для роботи з деревами та ґрунтом.</span></li>   <li><span style="font-size:14px;">Економія при покупці комплекту.</span></li>   <li><span style="font-size:14px;">Телескопічна конструкція дозволяє працювати без додаткових інструментів.</span></li>   <li><span style="font-size:14px;">Надійні матеріали забезпечують довгий термін служби. </span></li>  </ol>    <p>Набір Fiskars поєднує інструменти для роботи на висоті та догляду за ділянкою в одному рішенні. Ви можете замовити його онлайн&nbsp;або&nbsp;звернутися до менеджера для уточнення деталей.</p>    <p>&nbsp;</p>  ]]></description_ua>
-    <param name="Гарантия">60 мес.</param>
-   </offer>
 <offer id="1015642105983" group_id="18489" available="true">
     <url>https://fiskars-gratis.com.ua/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox/</url>
     <oldprice>5598</oldprice>
@@ -3824,7 +3769,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>31</quantity_in_stock>
+    <quantity_in_stock>30</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/26/machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-45918477240956_+9c023ee19f.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-64637580659607_+c9d384b787.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/machete-gerber-compact-clearpath-podarunok-nizh-topirets-gerber-downwind-ulu-98107994949241_+59af1d2273.jpeg</picture>
@@ -4342,7 +4287,7 @@
     <price>1577</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>61</quantity_in_stock>
+    <quantity_in_stock>370</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-78110306972162_+c520d25b83.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-29526465452975_+4e194a5ba7.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-23971255304224_+e384eabfbd.jpg</picture>
@@ -5023,7 +4968,7 @@
     <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>109</quantity_in_stock>
+    <quantity_in_stock>110</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -7681,7 +7626,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>885</quantity_in_stock>
+    <quantity_in_stock>886</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -8371,7 +8316,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-37698904701762_+a2497125f9.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-58168144542852_+4614cbb679.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-35556107645267_+9678b0ff8e.png</picture>
@@ -8432,7 +8377,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox-38644895204824_+40910d1970.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox-73497500431164_+94fe2d25cb.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/hrabli-velyki-dlia-lystia-m-pomaranchevimultytul-lockdown-slim16lbox-61973118586256_+ef7f1d8c89.png</picture>
@@ -8473,7 +8418,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-33512893616603_+51463e480d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-60487590035005_+6cc650d24d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-99659829587933_+63215a1ca9.png</picture>
@@ -8679,7 +8624,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-86642605311000_+ca12383c19.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-89409643592159_+6bfe4ec5df.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-64265084868992_+0a3e982128.png</picture>
@@ -8827,7 +8772,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
