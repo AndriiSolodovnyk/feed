@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-10-05 18:06</date>
+    <date>2026-10-06 00:39</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -11223,7 +11223,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-18467658791252_+e7f1b34905.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-97122179690787_+ab7744cd18.png</image>
             <priceRUAH>1499</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1027528102349</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -11517,7 +11517,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/19/skovoroda-fiskars-375-anniversary-24cm-nizh-dlia-hrybiv-fiskars-21-sm-85452033963557_+633cd65aa3.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/19/skovoroda-fiskars-375-anniversary-24cm-nizh-dlia-hrybiv-fiskars-21-sm-84613493417669_+d4d1233477.png</image>
             <priceRUAH>2250</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1075041102472</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -11597,7 +11597,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/skovoroda-fiskars-375-anniversary-24cm-nabir-nozhiv-fiskars-lifestyle-3-shtuky-60430771281887_+397c12b8ab.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/skovoroda-fiskars-375-anniversary-24cm-nabir-nozhiv-fiskars-lifestyle-3-shtuky-65495532852928_+fe34bc3591.png</image>
             <priceRUAH>2460</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1075041100077</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -11684,7 +11684,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/21/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskar-nizh-santoku-fiskars-cleaver-all-steel-16-sm-53329441078319_+2f2d5b82c5.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/21/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskar-nizh-santoku-fiskars-cleaver-all-steel-16-sm-74312667820762_+f161271163.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1075839107583</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -11786,7 +11786,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/22/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30-sm-lopatka-dereviana-dlia-hrylia-norden-1066429-vydelka-dlia-hrylia-norden-grill-shchyptsi-dlia-hrylia-norden-grill-18694369726518_+234a1e9a1c.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/22/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30-sm-lopatka-dereviana-dlia-hrylia-norden-1066429-vydelka-dlia-hrylia-norden-grill-shchyptsi-dlia-hrylia-norden-grill-54369712338240_+bb14f5ea87.png</image>
             <priceRUAH>2999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1066431106642</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
