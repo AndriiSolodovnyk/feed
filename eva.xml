@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-07 00:27">
+<yml_catalog date="2026-10-07 06:58">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -2376,7 +2376,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599/</url>
         <price>499</price>
         <price_old>555</price_old>
-        <stock_quantity>22</stock_quantity>
+        <stock_quantity>21</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599-91647425061699_+efb38d53f1.jpg</picture>
@@ -2414,7 +2414,7 @@
       <offer id="1065586" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586/</url>
         <price>387</price>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586-91206989650470_+49fc39037f.jpg</picture>
@@ -3492,10 +3492,10 @@
         <param name="Код УКТ ЗЕД">8214900000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі / Кухонні ножі Fiskars Functional Form</param>
       </offer>
-      <offer id="1016122" available="true">
+      <offer id="1016122" available="false">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form/</url>
         <price>566</price>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-13914913650847_+804d1c9b68.png</picture>
@@ -4014,7 +4014,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-koreneplodiv/</url>
         <price>589</price>
         <price_old>653</price_old>
-        <stock_quantity>12</stock_quantity>
+        <stock_quantity>11</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-42899483639817_+d6e48dfb3a.png</picture>
@@ -4059,7 +4059,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-ovochiv-priamyi/</url>
         <price>539</price>
         <price_old>594</price_old>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-ff-dlia-ovochiv-priamyi-84287378097090_+70bd5a2a77.png</picture>

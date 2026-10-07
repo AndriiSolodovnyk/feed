@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-10-07 00:27</date>
+    <date>2026-10-07 06:58</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -2333,7 +2333,7 @@
             <url>https://fiskars-gratis.com.ua/lopatka-fiskars-solid-1025563/</url>
             <image>https://fiskars-gratis.com.ua/content/images/20/lopatka-fiskars-solid-1025563-57182449374359_+48018cd8f5.jpg</image>
             <priceRUAH>277</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1025563</param>
             <param name="Бренд">Fiskars</param>
@@ -11382,7 +11382,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-62731498058190_+6bfbb94ccc.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-13340143095728_+4eef4715b2.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1027528105108</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -13528,7 +13528,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-97102682085611_+76435984c2.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-14055728689450_+6f520272c2.png</image>
             <priceRUAH>566</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1016122</param>
             <param name="Бренд">Fiskars</param>
