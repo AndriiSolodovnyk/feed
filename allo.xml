@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-10-08 21:08</date>
+    <date>2026-10-09 01:49</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -1266,7 +1266,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-88929360447204_+4c1e679a24.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-93378579851367_+42897ce89e.jpg</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1066708</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -7036,7 +7036,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-43275074737002_+6339fbfa30.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-15750483565934_+350b8d02f8.jpeg</image>
             <priceRUAH>2529</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1023739100077</param>
             <param name="Бренд">Fiskars</param>
@@ -11849,7 +11849,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-26347769480417_+dbde59df1f.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/41/tochylo-dlia-sokyr-ta-nozhiv-fiskars-solid-102797-87343014667764_+0bd0d6d85f.jpg</image>
             <priceRUAH>899</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1026797</param>
             <param name="Бренд">Fiskars</param>

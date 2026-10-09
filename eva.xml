@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-08 21:08">
+<yml_catalog date="2026-10-09 01:49">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -3376,7 +3376,7 @@
       <offer id="1075834" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-santoku-fiskars-cleaver-all-steel-16-sm/</url>
         <price>6089</price>
-        <stock_quantity>200</stock_quantity>
+        <stock_quantity>199</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74483750015361_+69f412eaa8.png</picture>
@@ -5060,7 +5060,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-scout4lblsonyx3-12-1064399/</url>
         <price>899</price>
         <price_old>2389</price_old>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>8</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
@@ -5588,7 +5588,7 @@
       <offer id="1000788" available="true">
         <url>https://fiskars-gratis.com.ua/vydelka-fiskars-control-dlia-narizannia-1000788/</url>
         <price>499</price>
-        <stock_quantity>93</stock_quantity>
+        <stock_quantity>95</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/vydelka-fiskars-control-dlia-narizannia-1000788-56729349674686_+370c8c9851.jpg</picture>
@@ -5750,7 +5750,7 @@
         <url>https://fiskars-gratis.com.ua/lopatka-dereviana-dlia-hrylia-norden-1066429/</url>
         <price>999</price>
         <price_old>1400</price_old>
-        <stock_quantity>323</stock_quantity>
+        <stock_quantity>322</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/lopatka-dereviana-dlia-hrylia-norden-1066429-30015308621525_+56abbedc52.png</picture>
@@ -5790,7 +5790,7 @@
       <offer id="1066431" available="true">
         <url>https://fiskars-gratis.com.ua/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431/</url>
         <price>5750</price>
-        <stock_quantity>335</stock_quantity>
+        <stock_quantity>334</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-11480062848910_+77d5d7c5c4.jpg</picture>
@@ -6004,7 +6004,7 @@
       <offer id="1066426" available="true">
         <url>https://fiskars-gratis.com.ua/shchyptsi-dlia-hrylia-norden-grill/</url>
         <price>6865</price>
-        <stock_quantity>457</stock_quantity>
+        <stock_quantity>456</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33434838095190_+9f34370262.png</picture>
@@ -6069,7 +6069,7 @@
       <offer id="1066427" available="true">
         <url>https://fiskars-gratis.com.ua/vydelka-dlia-hrylia-norden-grill/</url>
         <price>3865</price>
-        <stock_quantity>420</stock_quantity>
+        <stock_quantity>419</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/27/vydelka-dlia-hrylia-norden-grill-56405175162690_+ac66798614.png</picture>
