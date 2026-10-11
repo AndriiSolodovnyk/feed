@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-10 22:18">
+<yml_catalog date="2026-10-11 01:38">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -6326,7 +6326,7 @@
       <offer id="1065591" available="true">
         <url>https://fiskars-gratis.com.ua/lopatka-sylikonova-essential-355-sm/</url>
         <price>487</price>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/lopatka-sylikonova-essential-355-sm-96745116913721_+f4f3bf3b6e.png</picture>
@@ -6741,7 +6741,7 @@
         <url>https://fiskars-gratis.com.ua/lopatka-kukhona/</url>
         <price>479</price>
         <price_old>525</price_old>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/47/lopatka-kukhona-53631507946541_+581fa85e23.png</picture>
