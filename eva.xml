@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-15 22:06">
+<yml_catalog date="2026-10-16 01:03">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -1474,7 +1474,7 @@
       <offer id="1070166" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-hrybiv-fiskars-21-sm-1070166/</url>
         <price>599</price>
-        <stock_quantity>47</stock_quantity>
+        <stock_quantity>33</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-67183323000267_+700321228a.jpg</picture>
@@ -1498,7 +1498,7 @@
       <offer id="1000776" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-fiskars-lifestyle-3-shtuky-1000776/</url>
         <price>899</price>
-        <stock_quantity>75</stock_quantity>
+        <stock_quantity>70</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/20/nabir-nozhiv-fiskars-lifestyle-3-shtuky-1000776-58683508883471_+c7b9e7d877.jpg</picture>
@@ -1519,7 +1519,7 @@
       <offer id="1001319" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-fiskars-control-2-sht-1001319/</url>
         <price>699</price>
-        <stock_quantity>370</stock_quantity>
+        <stock_quantity>355</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-80276608406322_+d89ee1affc.jpg</picture>
@@ -2909,7 +2909,7 @@
         <url>https://fiskars-gratis.com.ua/multytul-gerber-armbar-cork-shimmer-gold-1052456/</url>
         <price>998</price>
         <price_old>1899</price_old>
-        <stock_quantity>229</stock_quantity>
+        <stock_quantity>226</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/40/multytul-gerber-armbar-cork-shimmer-gold-1052456-40506406008064_+3402bd7e26.jpg</picture>
@@ -3000,7 +3000,8 @@
       </offer>
       <offer id="1064416" available="true">
         <url>https://fiskars-gratis.com.ua/multytul-herber-armbar-trade16lboxslvr/</url>
-        <price>3986</price>
+        <price>2499</price>
+        <price_old>3986</price_old>
         <stock_quantity>125</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
@@ -3172,7 +3173,7 @@
       <offer id="1000788" available="true">
         <url>https://fiskars-gratis.com.ua/vydelka-fiskars-control-dlia-narizannia-1000788/</url>
         <price>499</price>
-        <stock_quantity>80</stock_quantity>
+        <stock_quantity>95</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/vydelka-fiskars-control-dlia-narizannia-1000788-56729349674686_+370c8c9851.jpg</picture>

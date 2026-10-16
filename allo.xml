@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-10-15 22:06</date>
+    <date>2026-10-16 01:03</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -762,7 +762,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-92481688276251_+1dd47097eb.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-38348334293020_+adfab19384.jpg</image>
             <priceRUAH>1299</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1066715</param>
             <param name="Бренд">Fiskars</param>
@@ -790,7 +790,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-65300994722293_+c85142b97c.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-90786615442320_+e1514b37dc.jpg</image>
             <priceRUAH>1399</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1066716</param>
             <param name="Бренд">Fiskars</param>
@@ -3983,7 +3983,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-dlia-kushchiv-singlestep-hs22-91351692354029_+46d7768a8b.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-dlia-kushchiv-singlestep-hs22-63454915878333_+eb5770e006.jpg</image>
             <priceRUAH>2999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1001433</param>
             <param name="Бренд">Fiskars</param>
@@ -7066,7 +7066,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-18467658791252_+e7f1b34905.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-97122179690787_+ab7744cd18.png</image>
             <priceRUAH>1499</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1027528102349</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -7119,7 +7119,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-62731498058190_+6bfbb94ccc.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-13340143095728_+4eef4715b2.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1027528105108</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -10171,7 +10171,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-57133371045814_+af0777f23b.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-98625650717046_+d9011e4770.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/5/multytul-herber-armbar-trade16lboxslvr-32302284369456_+dc6250345e.png</image>
-            <priceRUAH>3986</priceRUAH>
+            <priceRUAH>2499</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1064416</param>
