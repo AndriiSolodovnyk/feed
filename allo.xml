@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-10-18 00:42</date>
+    <date>2026-10-18 05:31</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -6605,7 +6605,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-43745308802415_+f007bf01aa.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-57016442161325_+7352466c64.png</image>
             <priceRUAH>1499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1023492100346</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
