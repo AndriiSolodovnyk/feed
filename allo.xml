@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-10-21 23:03</date>
+    <date>2026-10-22 03:50</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -756,7 +756,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-92481688276251_+1dd47097eb.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/24/lopata-turystychna-solid-metal-38348334293020_+adfab19384.jpg</image>
             <priceRUAH>1299</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1066715</param>
             <param name="Бренд">Fiskars</param>
@@ -784,7 +784,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-65300994722293_+c85142b97c.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-90786615442320_+e1514b37dc.jpg</image>
             <priceRUAH>1399</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1066716</param>
             <param name="Бренд">Fiskars</param>
@@ -3971,7 +3971,7 @@
             <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-travy-fiskars-white-gs41-1026917/</url>
             <image>https://fiskars-gratis.com.ua/content/images/6/nozhytsi-dlia-travy-fiskars-white-gs41-1026917-71445211644230_+2ce1ec7dae.jpeg</image>
             <priceRUAH>1549</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1026917</param>
             <param name="Бренд">Fiskars</param>
@@ -6626,7 +6626,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-43745308802415_+f007bf01aa.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-57016442161325_+7352466c64.png</image>
             <priceRUAH>1499</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1023492100346</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -8376,7 +8376,7 @@
             <url>https://fiskars-gratis.com.ua/nizh-paraframe-minivise/</url>
             <image>https://fiskars-gratis.com.ua/content/images/37/nizh-paraframe-minivise-40057652861407_+441a2b911e.jpg</image>
             <priceRUAH>1899</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1024632</param>
             <param name="Бренд">Gerber</param>
@@ -8400,7 +8400,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/38/nizh-paraframe-i-se-bl-42235987492715_+defc6da846.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/38/nizh-paraframe-i-se-bl-73989125338650_+15a3baca37.jpeg</image>
             <priceRUAH>1499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1013968</param>
             <param name="Бренд">Fiskars</param>
