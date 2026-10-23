@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-22 23:02">
+<yml_catalog date="2026-10-23 03:54">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -305,7 +305,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-all-steel-pure-28-sm-matova/</url>
         <price>4599</price>
         <price_old>5140</price_old>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-58181003871289_+1bc4ebae2a.png</picture>
@@ -1322,7 +1322,7 @@
       <offer id="1059843" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-affinity-copper-box-1059843/</url>
         <price>3099</price>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-23998092373630_+a23455d0d6.jpg</picture>
@@ -1392,7 +1392,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599/</url>
         <price>499</price>
         <price_old>555</price_old>
-        <stock_quantity>16</stock_quantity>
+        <stock_quantity>14</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/8/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599-91647425061699_+efb38d53f1.jpg</picture>
@@ -1460,7 +1460,7 @@
       <offer id="1070166" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-hrybiv-fiskars-21-sm-1070166/</url>
         <price>599</price>
-        <stock_quantity>18</stock_quantity>
+        <stock_quantity>17</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-67183323000267_+700321228a.jpg</picture>

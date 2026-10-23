@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-10-22 23:02</date>
+    <date>2026-10-23 03:54</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -903,7 +903,7 @@
             <url>https://fiskars-gratis.com.ua/lopata-sadova-shtykova-fiskars-classic-fsc-1014773/</url>
             <image>https://fiskars-gratis.com.ua/content/images/48/lopata-sadova-shtykova-fiskars-classic-fsc-1014773-68987635325854_+259fdc7151.jpg</image>
             <priceRUAH>2000</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1014773</param>
             <param name="Бренд">Fiskars</param>
@@ -954,7 +954,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-88929360447204_+4c1e679a24.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/4/lopata-shtykova-fiskars-ergonomic-1066708-93378579851367_+42897ce89e.jpg</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1066708</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -2170,9 +2170,18 @@
             <vendor>Fiskars</vendor>
             <name>Секатор площинний для кімнатних рослин (1075314)</name>
             <description><![CDATA[<p><strong><span style="font-size:18px;">Секатор площинний для кімнатних рослин 1075314</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501706386)</span></p>
-<p><strong>Секатор площинний для кімнатних рослин Fiskars (1075314)</strong>&nbsp;призначений для точного обрізання кімнатних рослин, молодих пагонів, стебел і квітконосів. Інструмент стане у пригоді під час догляду за домашніми квітами, розсадою, зеленню та декоративними рослинами, забезпечуючи акуратний зріз і комфортне використання.</p> <p><strong>Призначення.</strong>&nbsp;Модель підходить для формування крони кімнатних рослин, видалення відцвілих бутонів, обрізання молодих пагонів, сухого листя та тонких стебел. Також використовується для догляду за орхідеями, сукулентами, декоративно-листяними рослинами, розсадою, пряними травами та іншими культурами, які потребують делікатної обрізки.</p> <p><strong>Конструкція.</strong>&nbsp;Площинний механізм (<strong>bypass</strong>) забезпечує чистий і рівний зріз живих тканин рослин, мінімізуючи їх пошкодження. Компактна конструкція та вузькі леза дозволяють легко працювати між густим листям і в інших важкодоступних місцях. Ергономічні руків&#39;я забезпечують надійний хват і точний контроль інструмента, а вбудований фіксатор лез підвищує безпеку під час зберігання.</p> <p><strong>Матеріали.</strong>&nbsp;Ріжучі леза виготовлені з високоякісної сталі, стійкої до корозії та механічного зношування, що гарантує тривалий термін служби. Руків&#39;я виконані з легкого та міцного матеріалу, який забезпечує комфортне утримання навіть під час тривалої роботи.</p> <p><strong>Особливості.</strong>&nbsp;Секатор Fiskars розроблений спеціально для догляду за кімнатними рослинами та виконання делікатних робіт. Компактні розміри, гострі площинні леза, ергономічна конструкція та висока точність різання роблять його практичним інструментом для щоденного догляду за домашніми й декоративними рослинами.</p>]]></description>
+
+<p><strong>Секатор площинний для кімнатних рослин Fiskars (1075314)</strong>&nbsp;призначений для точного обрізання кімнатних рослин, молодих пагонів, стебел і квітконосів. Інструмент стане у пригоді під час догляду за домашніми квітами, розсадою, зеленню та декоративними рослинами, забезпечуючи акуратний зріз і комфортне використання.</p>
+
+<p><strong>Призначення.</strong>&nbsp;Модель підходить для формування крони кімнатних рослин, видалення відцвілих бутонів, обрізання молодих пагонів, сухого листя та тонких стебел. Також використовується для догляду за орхідеями, сукулентами, декоративно-листяними рослинами, розсадою, пряними травами та іншими культурами, які потребують делікатної обрізки.</p>
+
+<p><strong>Конструкція.</strong>&nbsp;Площинний механізм (<strong>bypass</strong>) забезпечує чистий і рівний зріз живих тканин рослин, мінімізуючи їх пошкодження. Компактна конструкція та вузькі леза дозволяють легко працювати між густим листям і в інших важкодоступних місцях. Ергономічні руків&#39;я забезпечують надійний хват і точний контроль інструмента, а вбудований фіксатор лез підвищує безпеку під час зберігання.</p>
+
+<p><strong>Матеріали.</strong>&nbsp;Ріжучі леза виготовлені з високоякісної сталі, стійкої до корозії та механічного зношування, що гарантує тривалий термін служби. Руків&#39;я виконані з легкого та міцного матеріалу, який забезпечує комфортне утримання навіть під час тривалої роботи.</p>
+
+<p><strong>Особливості.</strong>&nbsp;Секатор Fiskars розроблений спеціально для догляду за кімнатними рослинами та виконання делікатних робіт. Компактні розміри, гострі площинні леза, ергономічна конструкція та висока точність різання роблять його практичним інструментом для щоденного догляду за домашніми й декоративними рослинами.</p>]]></description>
             <url>https://fiskars-gratis.com.ua/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn/</url>
-            <image>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-87735988845479_+10b2260602.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-19103929968899_+bce4304233.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-47929734743131_+bc4a3a2b51.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-14886014694608_+99db58e107.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/sekator-ploshchynnyi-dlia-kimnatnykh-roslyn-75459728545920_+c3c301b7f6.png</image>
@@ -4772,9 +4781,19 @@
             <barcode>6424002023272</barcode>
             <vendor>Fiskars</vendor>
             <name>Ножиці Fiskars FF сірі 21cm (1087486)</name>
-            <description><![CDATA[<p data-end="461" data-start="20"><strong data-end="75" data-start="20"></strong><strong><span style="font-size:18px;">Ножиці Fiskars FF сірі 21cm 1087486</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002023272)</span> &mdash; універсальний інструмент для виконання різноманітних ріжучих робіт у побуті, офісі та під час рукоділля. Ергономічна конструкція забезпечує комфортне утримання, а гострі леза з нержавіючої сталі дають змогу виконувати точний та чистий різ. Для ножиць Functional Form характерні зручні ручки, довговічні леза та можливість регулювання натягу лез.&nbsp;</p> <p data-end="651" data-start="463"><strong data-end="479" data-start="463">Призначення:</strong>&nbsp;підходять для різання паперу, картону, тканини, пакувальних матеріалів, ниток та інших матеріалів різної товщини. Зручні для домашнього, офісного та творчого використання.</p> <p data-end="930" data-start="653"><strong data-end="669" data-start="653">Конструкція:</strong>&nbsp;ножиці оснащені гострими лезами та ергономічними ручками, які забезпечують комфортне захоплення та контроль під час роботи. Конструкція передбачає регулювання натягу лез, що дозволяє підтримувати оптимальну якість різання.&nbsp;</p> <p data-end="1137" data-start="932"><strong data-end="946" data-start="932">Матеріали:</strong>&nbsp;леза виготовлені з міцної нержавіючої сталі, стійкої до зношування та розрахованої на тривале збереження гостроти. Ручки виготовлені з міцного пластику.&nbsp;</p> <p data-end="1296" data-start="1139"><strong data-end="1155" data-start="1139">Особливості:</strong>&nbsp;довжина &mdash; 21 см; універсальне призначення; ергономічні ручки; регульований натяг лез; нержавіюча сталь; зручні для регулярного використання.</p> <p data-end="1360" data-start="1298"><strong data-end="1315" data-start="1298">Комплектація:</strong>&nbsp;ножиці Fiskars Functional Form 21 см &mdash; 1 шт.</p>]]></description>
+            <description><![CDATA[<p data-end="461" data-start="20"><strong><span style="font-size:18px;">Ножиці Fiskars FF сірі 21cm 1087486</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002023272)</span> &mdash; універсальний інструмент для виконання різноманітних ріжучих робіт у побуті, офісі та під час рукоділля. Ергономічна конструкція забезпечує комфортне утримання, а гострі леза з нержавіючої сталі дають змогу виконувати точний та чистий різ. Для ножиць Functional Form характерні зручні ручки, довговічні леза та можливість регулювання натягу лез.&nbsp;</p>
+
+<p data-end="651" data-start="463"><strong data-end="479" data-start="463">Призначення:</strong>&nbsp;підходять для різання паперу, картону, тканини, пакувальних матеріалів, ниток та інших матеріалів різної товщини. Зручні для домашнього, офісного та творчого використання.</p>
+
+<p data-end="930" data-start="653"><strong data-end="669" data-start="653">Конструкція:</strong>&nbsp;ножиці оснащені гострими лезами та ергономічними ручками, які забезпечують комфортне захоплення та контроль під час роботи. Конструкція передбачає регулювання натягу лез, що дозволяє підтримувати оптимальну якість різання.&nbsp;</p>
+
+<p data-end="1137" data-start="932"><strong data-end="946" data-start="932">Матеріали:</strong>&nbsp;леза виготовлені з міцної нержавіючої сталі, стійкої до зношування та розрахованої на тривале збереження гостроти. Ручки виготовлені з міцного пластику.&nbsp;</p>
+
+<p data-end="1296" data-start="1139"><strong data-end="1155" data-start="1139">Особливості:</strong>&nbsp;довжина &mdash; 21 см; універсальне призначення; ергономічні ручки; регульований натяг лез; нержавіюча сталь; зручні для регулярного використання.</p>
+
+<p data-end="1360" data-start="1298"><strong data-end="1315" data-start="1298">Комплектація:</strong>&nbsp;ножиці Fiskars Functional Form 21 см &mdash; 1 шт.</p>]]></description>
             <url>https://fiskars-gratis.com.ua/nozhytsi-fiskars-ff-siri-21cm/</url>
-            <image>https://fiskars-gratis.com.ua/content/images/45/nozhytsi-fiskars-ff-siri-21cm-17765510387793_+509cfe7111.png</image>
+            <image>https://fiskars-gratis.com.ua/content/images/45/nozhytsi-fiskars-ff-siri-21cm-40691942951181_+482891fbba.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/45/nozhytsi-fiskars-ff-siri-21cm-68830968875693_+d555523a78.png</image>
             <priceRUAH>999</priceRUAH>
             <stock>В наявності</stock>
@@ -5868,7 +5887,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/49/sokyra-kolun-fiskars-l-kh21-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-62456933660342_+aaff17c481.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/49/sokyra-kolun-fiskars-l-kh21-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-46042453718856_+bcf45dc633.png</image>
             <priceRUAH>3599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1015642101477</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -6104,7 +6123,7 @@
             <url>https://fiskars-gratis.com.ua/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax/</url>
             <image>https://fiskars-gratis.com.ua/content/images/17/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax-88650502944038_+868c055bb7.png</image>
             <priceRUAH>699</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1062940106119</param>
             <param name="Бренд">Fiskars</param>
@@ -7140,7 +7159,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-18467658791252_+e7f1b34905.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-97122179690787_+ab7744cd18.png</image>
             <priceRUAH>1499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1027528102349</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -7420,9 +7439,17 @@
             <barcode>5010624437316</barcode>
             <vendor>Fiskars</vendor>
             <name>Точило для ножів Fiskars Kitchen Devils (1001317)</name>
-            <description><![CDATA[<p data-end="313" data-start="0"><span style="font-size:18px;"><strong data-end="53" data-start="0"></strong></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Точило для ножів Fiskars Kitchen Devils 1001317</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 5010624437316)</span> &mdash; ручний кухонний інструмент для заточування і повторного підведення ріжучих кромок кухонних ножів. Використовується для відновлення гостроти леза перед нарізанням продуктів, підтримки гостроти під час щоденного приготування їжі та полегшення процесу різання.</span></p> <p data-end="565" data-start="315"><span style="font-size:18px;"><strong data-end="331" data-start="315">Призначення:</strong></span><span style="font-size:14px;"> підходить для обслуговування кухонних ножів різного типу &mdash; від універсальних до спеціальних &mdash; у домашньому побуті, де важливо мати гострий і ефективний ріжучий інструмент для безпечної та контрольованої роботи з харчовими продуктами.</span></p> <p data-end="815" data-start="567"><span style="font-size:18px;"><strong data-end="583" data-start="567">Конструкція:</strong> </span><span style="font-size:14px;">інструмент оснащений абразивними елементами, що розташовані під фіксованим кутом для забезпечення правильного кута заточування. Ергономічна руків&rsquo;я адаптована для стабільного захвату й контролю під час проведення леза через точило.</span></p> <p data-end="1014" data-start="817"><span style="font-size:18px;"><strong data-end="831" data-start="817">Матеріали:</strong> </span><span style="font-size:14px;">робочі елементи виготовлені з матеріалів, придатних для обробки сталі ножових лез, а руків&rsquo;я &mdash; із міцного пластику чи композиту, що забезпечує надійний захват і тривале використання.</span></p> <p data-end="1225" data-is-last-node="" data-is-only-node="" data-start="1016"><span style="font-size:18px;"><strong data-end="1032" data-start="1016">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Kitchen Devils бренду Fiskars та призначений для регулярного обслуговування кухонних ножів з метою підтримки гостроти ріжучої кромки.</span></p>]]></description>
+            <description><![CDATA[<p data-end="313" data-start="0"><span style="font-size:14px;"><strong><span style="font-size:18px;">Точило для ножів Fiskars Kitchen Devils 1001317</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 5010624437316)</span> &mdash; ручний кухонний інструмент для заточування і повторного підведення ріжучих кромок кухонних ножів. Використовується для відновлення гостроти леза перед нарізанням продуктів, підтримки гостроти під час щоденного приготування їжі та полегшення процесу різання.</span></p>
+
+<p data-end="565" data-start="315"><span style="font-size:18px;"><strong data-end="331" data-start="315">Призначення:</strong></span><span style="font-size:14px;"> підходить для обслуговування кухонних ножів різного типу &mdash; від універсальних до спеціальних &mdash; у домашньому побуті, де важливо мати гострий і ефективний ріжучий інструмент для безпечної та контрольованої роботи з харчовими продуктами.</span></p>
+
+<p data-end="815" data-start="567"><span style="font-size:18px;"><strong data-end="583" data-start="567">Конструкція:</strong> </span><span style="font-size:14px;">інструмент оснащений абразивними елементами, що розташовані під фіксованим кутом для забезпечення правильного кута заточування. Ергономічна руків&rsquo;я адаптована для стабільного захвату й контролю під час проведення леза через точило.</span></p>
+
+<p data-end="1014" data-start="817"><span style="font-size:18px;"><strong data-end="831" data-start="817">Матеріали:</strong> </span><span style="font-size:14px;">робочі елементи виготовлені з матеріалів, придатних для обробки сталі ножових лез, а руків&rsquo;я &mdash; із міцного пластику чи композиту, що забезпечує надійний захват і тривале використання.</span></p>
+
+<p data-end="1225" data-is-last-node="" data-is-only-node="" data-start="1016"><span style="font-size:18px;"><strong data-end="1032" data-start="1016">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Kitchen Devils бренду Fiskars та призначений для регулярного обслуговування кухонних ножів з метою підтримки гостроти ріжучої кромки.</span></p>]]></description>
             <url>https://fiskars-gratis.com.ua/tochylo-dlia-nozhiv-fiskars-kitchen-devils-1001317/</url>
-            <image>https://fiskars-gratis.com.ua/content/images/42/tochylo-dlia-nozhiv-fiskars-kitchen-devils-1001317-13605935195027_+7be8f52585.jpg</image>
+            <image>https://fiskars-gratis.com.ua/content/images/42/tochylo-dlia-nozhiv-fiskars-kitchen-devils-1001317-38631878034640_+417f038dbb.png</image>
             <priceRUAH>699</priceRUAH>
             <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
@@ -9704,15 +9731,28 @@
             <barcode>6411501512499</barcode>
             <vendor>Fiskars</vendor>
             <name>Пістолет-розпилювач регульований + конектор для шланга 13мм(1/2”) аквастоп CF (1065493)</name>
-            <description><![CDATA[<p data-end="472" data-start="103"><strong data-end="128" data-start="109"></strong><strong><span style="font-size:18px;">Пістолет-розпилювач регульований + конектор для шланга 13мм(1/2”) аквастоп CF 1065493</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501512499)</span> &mdash; це практичне рішення для поливу саду, городу, клумб і миття садового інвентарю. До комплекту входять регульований пістолет-розпилювач із плавним керуванням потоком води та конектор <strong data-end="324" data-start="312">AquaStop</strong> для шланга діаметром <strong data-end="370" data-start="346">13&ndash;15 мм (1/2"&ndash;5/8")</strong>, який автоматично припиняє подачу води при від&#39;єднанні насадки.</p> <p data-end="913" data-start="474">Пістолет має ергономічну конструкцію та зручне керування великим пальцем, що дозволяє легко регулювати інтенсивність подачі води без зайвих зусиль. Доступні два режими роботи &mdash; потужний струмінь для очищення поверхонь і м&#39;яке ополіскування для делікатного поливу рослин. Корпус виготовлений із морозостійких матеріалів, а універсальне з&#39;єднання сумісне з більшістю поливальних систем інших виробників.</p> <h3 data-end="928" data-section-id="hotu7e" data-start="915">Переваги:</h3> <ul data-end="1279" data-start="929"> <li data-end="971" data-section-id="1v8v5ia" data-start="929">Комплект &laquo;пістолет + конектор AquaStop&raquo;.</li> <li data-end="1021" data-section-id="wkr7ek" data-start="972">Плавне регулювання потоку води великим пальцем.</li> <li data-end="1069" data-section-id="117pvmw" data-start="1022">Два режими поливу: струмінь та ополіскування.</li> <li data-end="1142" data-section-id="1b2umgd" data-start="1070">Конектор AquaStop автоматично перекриває воду при від&#39;єднанні насадки.</li> <li data-end="1197" data-section-id="1c4jvbv" data-start="1143">Ергономічна ручка із комфортним покриттям SoftGrip.</li> <li data-end="1223" data-section-id="1ugd66l" data-start="1198">Морозостійкі матеріали.</li> <li data-end="1279" data-section-id="1eonitj" data-start="1224">Універсальна сумісність із конекторами інших брендів.</li>
+            <description><![CDATA[<p data-end="472" data-start="103"><strong><span style="font-size:18px;">Пістолет-розпилювач регульований + конектор для шланга 13мм(1/2&rdquo;) аквастоп CF 1065493</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501512499)</span> &mdash; це практичне рішення для поливу саду, городу, клумб і миття садового інвентарю. До комплекту входять регульований пістолет-розпилювач із плавним керуванням потоком води та конектор <strong data-end="324" data-start="312">AquaStop</strong> для шланга діаметром <strong data-end="370" data-start="346">13&ndash;15 мм (1/2&quot;&ndash;5/8&quot;)</strong>, який автоматично припиняє подачу води при від&#39;єднанні насадки.</p>
+
+<p data-end="913" data-start="474">Пістолет має ергономічну конструкцію та зручне керування великим пальцем, що дозволяє легко регулювати інтенсивність подачі води без зайвих зусиль. Доступні два режими роботи &mdash; потужний струмінь для очищення поверхонь і м&#39;яке ополіскування для делікатного поливу рослин. Корпус виготовлений із морозостійких матеріалів, а універсальне з&#39;єднання сумісне з більшістю поливальних систем інших виробників.</p>
+
+<h3 data-end="928" data-section-id="hotu7e" data-start="915">Переваги:</h3>
+
+<ul data-end="1279" data-start="929">
+	<li data-end="971" data-section-id="1v8v5ia" data-start="929">Комплект &laquo;пістолет + конектор AquaStop&raquo;.</li>
+	<li data-end="1021" data-section-id="wkr7ek" data-start="972">Плавне регулювання потоку води великим пальцем.</li>
+	<li data-end="1069" data-section-id="117pvmw" data-start="1022">Два режими поливу: струмінь та ополіскування.</li>
+	<li data-end="1142" data-section-id="1b2umgd" data-start="1070">Конектор AquaStop автоматично перекриває воду при від&#39;єднанні насадки.</li>
+	<li data-end="1197" data-section-id="1c4jvbv" data-start="1143">Ергономічна ручка із комфортним покриттям SoftGrip.</li>
+	<li data-end="1223" data-section-id="1ugd66l" data-start="1198">Морозостійкі матеріали.</li>
+	<li data-end="1279" data-section-id="1eonitj" data-start="1224">Універсальна сумісність із конекторами інших брендів.</li>
 </ul>]]></description>
             <url>https://fiskars-gratis.com.ua/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf/</url>
+            <image>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-93021411852161_+f364e26ea0.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-39611419912780_+5b97a05091.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-72857547644534_+2f423bddbb.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-12878992665802_+90aee1d4ce.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-45992817854337_+cd579c94eb.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-73776699279579_+94ee5b010d.png</image>
-            <image>https://fiskars-gratis.com.ua/content/images/4/pistolet-rozpyliuvach-rehulovanyi-konektor-dlia-shlanha-13mm1-2-akvastop-cf-75369145514779_+c27cddab15.png</image>
             <priceRUAH>1899</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
