@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-25 01:00">
+<yml_catalog date="2026-10-25 07:23">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -344,7 +344,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1125</categoryId>
-    <quantity_in_stock>536</quantity_in_stock>
+    <quantity_in_stock>535</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-86012777730212_+d64300a136.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-59156442773986_+01158ecd68.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-30705972979269_+f52bebd257.jpg</picture>
@@ -503,7 +503,7 @@
     <price>1749</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/lopata-mala-fiskars-white-s-1067540-41347606308531_+4c043b7635.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/lopata-mala-fiskars-white-s-1067540-50594586793063_+60bccf61ce.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/lopata-mala-fiskars-white-s-1067540-11112499568728_+bb1ea3562d.jpg</picture>
@@ -571,7 +571,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>562</quantity_in_stock>
+    <quantity_in_stock>560</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -1719,7 +1719,7 @@
     <price>729</price>
     <currencyId>UAH</currencyId>
     <categoryId>1140</categoryId>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/30/skrebok-dlia-lodu-fiskars-solid-1078497-69704877253493_+68d07e6800.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/30/skrebok-dlia-lodu-fiskars-solid-1078497-58463316290665_+765853dd9e.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/30/skrebok-dlia-lodu-fiskars-solid-1078497-79477715670594_+1c3f69b42b.jpg</picture>
@@ -2115,7 +2115,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>336</quantity_in_stock>
+    <quantity_in_stock>335</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-77661275374613_+389a3888f3.jpg</picture>
     <dimensions>
@@ -2389,7 +2389,7 @@
     <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-67183323000267_+700321228a.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-36019443437645_+4b19ad1864.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-42066089788938_+04073fe35d.jpg</picture>
@@ -3244,7 +3244,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>32</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-30544758468568_+f62d0c22e8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-62443548234430_+4479095865.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-55290915676111_+f24892b7af.jpeg</picture>
@@ -3860,7 +3860,7 @@
     <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>86</quantity_in_stock>
+    <quantity_in_stock>84</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -4496,37 +4496,13 @@
     <name_ua><![CDATA[Набір Fiskars: Вила садові White 1070715 + Лопата садова штикова Classic FSC 1014773]]></name_ua>
     <description_ua><![CDATA[<p data-end="201" data-start="49"><strong>Набір Fiskars: Вила садові White +Лопата садова штикова Fiskars Classic FSC - (штрихкод 5907222066416)</strong> - <span><strong data-end="201" data-start="49">Набір Fiskars</strong></span><span><strong data-end="201" data-start="49"> </strong></span><span><strong data-end="201" data-start="49"> для перекопування ґрунту та роботи в саду. Практичне рішення для підготовки ділянки, посадки рослин і щоденного догляду за територією.</strong></span></p> <p><strong><span>Опис набору</span></strong></p> <p data-end="602" data-start="220"><span>Набір поєднує садові вила Fiskars White та штикову лопату Fiskars Classic FSC &mdash; універсальне рішення для виконання основних робіт із ґрунтом. Вила допомагають розпушувати, аерувати та переміщувати органічні матеріали, а лопата призначена для перекопування землі, підготовки грядок і посадки рослин. Разом інструменти забезпечують ефективну роботу на садовій або присадибній ділянці.</span></p> <p><strong><span>Що входить у комплект</span></strong></p> <p data-end="754" data-start="631"><span>Набір включає два інструменти для обробки ґрунту та догляду за садом. Кожен елемент виконує свою функцію та доповнює інший.</span></p> <p data-end="785" data-start="756"><span><a href="https://fiskars-gratis.com.ua/vyla-sadovi-white/"><strong data-end="785" data-start="756">Вила садові Fiskars White</strong></a></span></p> <p data-end="1063" data-start="787"><span>Легкі та міцні вила для розпушування ґрунту, аерації, збирання рослинних залишків і переміщення компосту або мульчі. Гострі зубці легко проникають у ґрунт, а ергономічна конструкція забезпечує комфорт під час роботи. Підходять для регулярного використання в саду та на городі.</span></p> <p data-end="1110" data-start="1065"><span><a href="https://fiskars-gratis.com.ua/lopata-sadova-shtykova-fiskars-classic-fsc-1014773/"><strong data-end="1110" data-start="1065">Лопата садова штикова Fiskars Classic FSC</strong></a></span></p> <p data-end="1315" data-start="1112"><span>Надійна лопата для перекопування ґрунту, посадки рослин і підготовки грядок. Загартована сталь забезпечує довговічність, а дерев&rsquo;яний держак &mdash; комфорт під час роботи. Ефективна навіть на щільному ґрунті.</span></p> <p><strong><span>Застосування</span></strong></p> <p data-end="1398" data-start="1335"><span>Набір використовується для виконання основних робіт із ґрунтом.</span></p> <p><span>1 Перекопування та підготовка ділянки</span></p> <p><span>2 Розпушування й аерація ґрунту</span></p> <p><span>3 Посадка рослин, квітів і саджанців</span></p> <p><span>4 Переміщення компосту, мульчі та органічних матеріалів</span></p> <p><span>5 Догляд за садом і городом</span></p> <p><strong><span>Основні переваги набору</span></strong></p> <p><span>1 Повний комплект для роботи з ґрунтом</span></p> <p><span>2 Поєднання вил і лопати для різних етапів роботи</span></p> <p><span>3 Зручність і комфорт під час використання</span></p> <p><span>4 Надійні матеріали та довговічність Fiskars</span></p> <p><span>5 Економія при покупці комплекту</span></p> <p data-end="2027" data-is-last-node="" data-is-only-node="" data-start="1840"><span>Набір Fiskars поєднує інструменти для обробки ґрунту та догляду за ділянкою в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>]]></description_ua>
    </offer>
-<offer id="1023492101477" group_id="39489" available="true">
-    <url>https://fiskars-gratis.com.ua/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc/</url>
-    <oldprice>3228</oldprice>
-    <price>1599</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1192</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-80695237000335_+d0c22218b0.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-81989570160123_+c25762c351.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-99438660751733_+ddd99affaf.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-92779595935879_+01217fac09.png</picture>
-    <dimensions>
-     <weight unit="kg">2.875</weight>
-     <width unit="cm">42</width>
-     <height unit="cm">12</height>
-     <length unit="cm">160</length>
-    </dimensions>
-    <vendorCode>1023492101477</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Набір Fiskars: Граблі великі для листя М помаранчеві 1023492 + Лопата садова штикова Classic FSC 1014773]]></name>
-    <description><![CDATA[<p data-end="149" data-start="0"><strong>Набір Fiskars: Граблі великі для листя М помаранчеві + Лопата садова штикова Classic FSC - (штрихкод 5907222066423)</strong> - <span><strong data-end="149" data-start="0">Набір Fiskars </strong></span><span><strong data-end="149" data-start="0">для прибирання листя та підготовки ділянки. Практичне рішення для сезонного догляду за садом і виконання основних робіт із ґрунтом.</strong></span></p> <p><strong><span>Опис набору</span></strong></p> <p data-end="591" data-start="168"><span>Набір поєднує великі граблі для листя Fiskars M помаранчеві та штикову лопату Fiskars Classic FSC &mdash; універсальне рішення для підтримання порядку на ділянці та підготовки ґрунту до посадки. Граблі дозволяють швидко збирати опале листя, траву та садове сміття, а лопата допомагає перекопувати землю, формувати грядки та виконувати посадкові роботи. Разом інструменти забезпечують ефективне виконання сезонних садових завдань.</span></p> <p><strong><span>Що входить у комплект</span></strong></p> <p data-end="749" data-start="620"><span>Набір включає два інструменти для прибирання території та роботи з ґрунтом. Кожен елемент виконує свою функцію та доповнює інший.</span></p> <p data-end="800" data-start="751"><a href="https://fiskars-gratis.com.ua/katalog/search/?q=1023492"><span><strong data-end="800" data-start="751">Граблі великі для листя Fiskars M помаранчеві</strong></span></a></p> <p data-end="1103" data-start="802"><span>Практичні граблі для швидкого збирання опалого листя, скошеної трави та іншого садового сміття. Широка робоча частина дозволяє ефективно прибирати великі площі, а легка конструкція забезпечує комфорт під час тривалої роботи. Підходять для регулярного використання в саду та на прибудинковій території.</span></p> <p data-end="1150" data-start="1105"><a href="https://fiskars-gratis.com.ua/lopata-sadova-shtykova-fiskars-classic-fsc-1014773/"><span><strong data-end="1150" data-start="1105">Лопата садова штикова Fiskars Classic FSC</strong></span></a></p> <p data-end="1355" data-start="1152"><span>Надійна лопата для перекопування ґрунту, посадки рослин і підготовки грядок. Загартована сталь забезпечує довговічність, а дерев&rsquo;яний держак &mdash; комфорт під час роботи. Ефективна навіть на щільному ґрунті.</span></p> <p><strong><span>Застосування</span></strong></p> <p data-end="1447" data-start="1375"><span>Набір використовується для виконання основних сезонних робіт на ділянці</span></p> <p><span>1 Збирання опалого листя та скошеної трави</span></p> <p><span>2 Прибирання садового сміття</span></p> <p><span>3 Перекопування ґрунту та підготовка грядок</span></p> <p><span>4 Посадка рослин, квітів і саджанців</span></p> <p><span>5 Догляд за садом і прибудинковою територією</span></p> <p><strong><span>Основні переваги наборі</span></strong></p> <p><span>1 Повний комплект для прибирання та роботи з ґрунтом</span></p> <p><span>2 Поєднання грабель і лопати для різних етапів роботи</span></p> <p><span>3 Зручність і комфорт під час використання</span></p> <p><span>4 Надійні матеріали та довговічність Fiskars</span></p> <p><span>5 Економія при покупці комплекту</span></p> <p data-end="2106" data-is-last-node="" data-is-only-node="" data-start="1914"><span>Набір Fiskars поєднує інструменти для сезонного прибирання та підготовки ділянки в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>]]></description>
-    <name_ua><![CDATA[Набір Fiskars: Граблі великі для листя М помаранчеві 1023492 + Лопата садова штикова Classic FSC 1014773]]></name_ua>
-    <description_ua><![CDATA[<p data-end="149" data-start="0"><strong>Набір Fiskars: Граблі великі для листя М помаранчеві + Лопата садова штикова Classic FSC - (штрихкод 5907222066423)</strong> - <span><strong data-end="149" data-start="0">Набір Fiskars </strong></span><span><strong data-end="149" data-start="0">для прибирання листя та підготовки ділянки. Практичне рішення для сезонного догляду за садом і виконання основних робіт із ґрунтом.</strong></span></p> <p><strong><span>Опис набору</span></strong></p> <p data-end="591" data-start="168"><span>Набір поєднує великі граблі для листя Fiskars M помаранчеві та штикову лопату Fiskars Classic FSC &mdash; універсальне рішення для підтримання порядку на ділянці та підготовки ґрунту до посадки. Граблі дозволяють швидко збирати опале листя, траву та садове сміття, а лопата допомагає перекопувати землю, формувати грядки та виконувати посадкові роботи. Разом інструменти забезпечують ефективне виконання сезонних садових завдань.</span></p> <p><strong><span>Що входить у комплект</span></strong></p> <p data-end="749" data-start="620"><span>Набір включає два інструменти для прибирання території та роботи з ґрунтом. Кожен елемент виконує свою функцію та доповнює інший.</span></p> <p data-end="800" data-start="751"><a href="https://fiskars-gratis.com.ua/katalog/search/?q=1023492"><span><strong data-end="800" data-start="751">Граблі великі для листя Fiskars M помаранчеві</strong></span></a></p> <p data-end="1103" data-start="802"><span>Практичні граблі для швидкого збирання опалого листя, скошеної трави та іншого садового сміття. Широка робоча частина дозволяє ефективно прибирати великі площі, а легка конструкція забезпечує комфорт під час тривалої роботи. Підходять для регулярного використання в саду та на прибудинковій території.</span></p> <p data-end="1150" data-start="1105"><a href="https://fiskars-gratis.com.ua/lopata-sadova-shtykova-fiskars-classic-fsc-1014773/"><span><strong data-end="1150" data-start="1105">Лопата садова штикова Fiskars Classic FSC</strong></span></a></p> <p data-end="1355" data-start="1152"><span>Надійна лопата для перекопування ґрунту, посадки рослин і підготовки грядок. Загартована сталь забезпечує довговічність, а дерев&rsquo;яний держак &mdash; комфорт під час роботи. Ефективна навіть на щільному ґрунті.</span></p> <p><strong><span>Застосування</span></strong></p> <p data-end="1447" data-start="1375"><span>Набір використовується для виконання основних сезонних робіт на ділянці</span></p> <p><span>1 Збирання опалого листя та скошеної трави</span></p> <p><span>2 Прибирання садового сміття</span></p> <p><span>3 Перекопування ґрунту та підготовка грядок</span></p> <p><span>4 Посадка рослин, квітів і саджанців</span></p> <p><span>5 Догляд за садом і прибудинковою територією</span></p> <p><strong><span>Основні переваги наборі</span></strong></p> <p><span>1 Повний комплект для прибирання та роботи з ґрунтом</span></p> <p><span>2 Поєднання грабель і лопати для різних етапів роботи</span></p> <p><span>3 Зручність і комфорт під час використання</span></p> <p><span>4 Надійні матеріали та довговічність Fiskars</span></p> <p><span>5 Економія при покупці комплекту</span></p> <p data-end="2106" data-is-last-node="" data-is-only-node="" data-start="1914"><span>Набір Fiskars поєднує інструменти для сезонного прибирання та підготовки ділянки в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>]]></description_ua>
-   </offer>
 <offer id="1003466102349" group_id="40489" available="true">
     <url>https://fiskars-gratis.com.ua/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi/</url>
     <oldprice>4099</oldprice>
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330_+0cb49eabd7.png</picture>
     <dimensions>
      <weight unit="kg">0.805</weight>
@@ -4612,7 +4588,7 @@
     <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>88</quantity_in_stock>
+    <quantity_in_stock>87</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -7105,7 +7081,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>861</quantity_in_stock>
+    <quantity_in_stock>860</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -7752,7 +7728,7 @@
     <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>88</quantity_in_stock>
+    <quantity_in_stock>87</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-17131597943110_+167e84e65d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-94903583528626_+4e4f781015.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-81496573318508_+2bea131b87.png</picture>
@@ -7877,7 +7853,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-59312000672501_+3698519bd7.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-85208754697884_+37b6739466.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-64050499684131_+ecaa6b7a48.png</picture>
@@ -7897,7 +7873,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-33512893616603_+51463e480d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-60487590035005_+6cc650d24d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-99659829587933_+63215a1ca9.png</picture>
@@ -7919,7 +7895,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-17906357745877_+5cfd9f63c4.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-50497162672661_+ab2bf62efb.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-19136950986926_+2868c4edcf.png</picture>
@@ -7960,7 +7936,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nozhytsi-dlia-zhyvoplotu-powergear-hs72hrabli-velyki-dlia-lystia-m-pomaranchevi-71927945272579_+70a99d069f.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nozhytsi-dlia-zhyvoplotu-powergear-hs72hrabli-velyki-dlia-lystia-m-pomaranchevi-60314020403658_+2f9b06d57d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nozhytsi-dlia-zhyvoplotu-powergear-hs72hrabli-velyki-dlia-lystia-m-pomaranchevi-24147391479639_+5ab3440b3b.png</picture>
@@ -8147,7 +8123,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-34700090871095_+ab46608c96.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-15365417385023_+a0255b34ae.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-51419633299471_+ec55a9ae11.png</picture>
@@ -8233,7 +8209,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432_+d153e7aa15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-96260386852426_+8bc07edb90.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-79179470127551_+08e280bb6b.png</picture>
@@ -8270,7 +8246,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
@@ -8289,7 +8265,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-68712988809834_+0b31b52540.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-46234444984194_+df1d982d30.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-66343082443110_+89bfe7cbf2.png</picture>
@@ -8840,6 +8816,30 @@
     <description_ua><![CDATA[<p><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></p><p dir="ltr"><strong></strong><strong><span style="font-size:18px;">Сковорода з кришкою Fiskars Hard Face 26 см 1052248</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501702654)</span> &mdash; кухонний посуд для щоденного приготування різноманітних страв.Універсальна сталева сковорода від фінського бренду Fiskars, створена для щоденного приготування страв з максимальною ефективністю та довговічністю.</p> <p dir="ltr"><strong>Внутрішнє покриття </strong>Hardtec Superior витримує інтенсивне використання навіть при готуванні найвибагливіших страв, а трьохшарове дно забезпечує рівномірний розподіл тепла по всій поверхні &mdash; страви прогріваються швидко та без пригорання.</p> <p dir="ltr"><strong>Сковорода підходить для всіх типів плит</strong>: газових, електричних, керамічних та індукційних, тож стане зручним вибором для будь-якої кухні.</p> <p dir="ltr"><strong>У комплекті</strong> &mdash; зручна кришка з функцією зливу, що дозволяє легко зливати рідину під час готування, не знімаючи кришку повністю.</p> <p><strong>Особливості: </strong>належить до серії Hard Face бренду Fiskars, підходить для більшості типів плит та щоденного інтенсивного використання.</p>]]></description_ua>
     <param name="Гарантия">24 мес.</param>
     <param name="Цвет">Чорний</param>
+   </offer>
+<offer id="1023492101477" group_id="39489" available="">
+    <url>https://fiskars-gratis.com.ua/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc/</url>
+    <oldprice>3228</oldprice>
+    <price>1599</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1192</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-80695237000335_+d0c22218b0.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-81989570160123_+c25762c351.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-99438660751733_+ddd99affaf.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-92779595935879_+01217fac09.png</picture>
+    <dimensions>
+     <weight unit="kg">2.875</weight>
+     <width unit="cm">42</width>
+     <height unit="cm">12</height>
+     <length unit="cm">160</length>
+    </dimensions>
+    <vendorCode>1023492101477</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Набір Fiskars: Граблі великі для листя М помаранчеві 1023492 + Лопата садова штикова Classic FSC 1014773]]></name>
+    <description><![CDATA[<p data-end="149" data-start="0"><strong>Набір Fiskars: Граблі великі для листя М помаранчеві + Лопата садова штикова Classic FSC - (штрихкод 5907222066423)</strong> - <span><strong data-end="149" data-start="0">Набір Fiskars </strong></span><span><strong data-end="149" data-start="0">для прибирання листя та підготовки ділянки. Практичне рішення для сезонного догляду за садом і виконання основних робіт із ґрунтом.</strong></span></p> <p><strong><span>Опис набору</span></strong></p> <p data-end="591" data-start="168"><span>Набір поєднує великі граблі для листя Fiskars M помаранчеві та штикову лопату Fiskars Classic FSC &mdash; універсальне рішення для підтримання порядку на ділянці та підготовки ґрунту до посадки. Граблі дозволяють швидко збирати опале листя, траву та садове сміття, а лопата допомагає перекопувати землю, формувати грядки та виконувати посадкові роботи. Разом інструменти забезпечують ефективне виконання сезонних садових завдань.</span></p> <p><strong><span>Що входить у комплект</span></strong></p> <p data-end="749" data-start="620"><span>Набір включає два інструменти для прибирання території та роботи з ґрунтом. Кожен елемент виконує свою функцію та доповнює інший.</span></p> <p data-end="800" data-start="751"><a href="https://fiskars-gratis.com.ua/katalog/search/?q=1023492"><span><strong data-end="800" data-start="751">Граблі великі для листя Fiskars M помаранчеві</strong></span></a></p> <p data-end="1103" data-start="802"><span>Практичні граблі для швидкого збирання опалого листя, скошеної трави та іншого садового сміття. Широка робоча частина дозволяє ефективно прибирати великі площі, а легка конструкція забезпечує комфорт під час тривалої роботи. Підходять для регулярного використання в саду та на прибудинковій території.</span></p> <p data-end="1150" data-start="1105"><a href="https://fiskars-gratis.com.ua/lopata-sadova-shtykova-fiskars-classic-fsc-1014773/"><span><strong data-end="1150" data-start="1105">Лопата садова штикова Fiskars Classic FSC</strong></span></a></p> <p data-end="1355" data-start="1152"><span>Надійна лопата для перекопування ґрунту, посадки рослин і підготовки грядок. Загартована сталь забезпечує довговічність, а дерев&rsquo;яний держак &mdash; комфорт під час роботи. Ефективна навіть на щільному ґрунті.</span></p> <p><strong><span>Застосування</span></strong></p> <p data-end="1447" data-start="1375"><span>Набір використовується для виконання основних сезонних робіт на ділянці</span></p> <p><span>1 Збирання опалого листя та скошеної трави</span></p> <p><span>2 Прибирання садового сміття</span></p> <p><span>3 Перекопування ґрунту та підготовка грядок</span></p> <p><span>4 Посадка рослин, квітів і саджанців</span></p> <p><span>5 Догляд за садом і прибудинковою територією</span></p> <p><strong><span>Основні переваги наборі</span></strong></p> <p><span>1 Повний комплект для прибирання та роботи з ґрунтом</span></p> <p><span>2 Поєднання грабель і лопати для різних етапів роботи</span></p> <p><span>3 Зручність і комфорт під час використання</span></p> <p><span>4 Надійні матеріали та довговічність Fiskars</span></p> <p><span>5 Економія при покупці комплекту</span></p> <p data-end="2106" data-is-last-node="" data-is-only-node="" data-start="1914"><span>Набір Fiskars поєднує інструменти для сезонного прибирання та підготовки ділянки в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>]]></description>
+    <name_ua><![CDATA[Набір Fiskars: Граблі великі для листя М помаранчеві 1023492 + Лопата садова штикова Classic FSC 1014773]]></name_ua>
+    <description_ua><![CDATA[<p data-end="149" data-start="0"><strong>Набір Fiskars: Граблі великі для листя М помаранчеві + Лопата садова штикова Classic FSC - (штрихкод 5907222066423)</strong> - <span><strong data-end="149" data-start="0">Набір Fiskars </strong></span><span><strong data-end="149" data-start="0">для прибирання листя та підготовки ділянки. Практичне рішення для сезонного догляду за садом і виконання основних робіт із ґрунтом.</strong></span></p> <p><strong><span>Опис набору</span></strong></p> <p data-end="591" data-start="168"><span>Набір поєднує великі граблі для листя Fiskars M помаранчеві та штикову лопату Fiskars Classic FSC &mdash; універсальне рішення для підтримання порядку на ділянці та підготовки ґрунту до посадки. Граблі дозволяють швидко збирати опале листя, траву та садове сміття, а лопата допомагає перекопувати землю, формувати грядки та виконувати посадкові роботи. Разом інструменти забезпечують ефективне виконання сезонних садових завдань.</span></p> <p><strong><span>Що входить у комплект</span></strong></p> <p data-end="749" data-start="620"><span>Набір включає два інструменти для прибирання території та роботи з ґрунтом. Кожен елемент виконує свою функцію та доповнює інший.</span></p> <p data-end="800" data-start="751"><a href="https://fiskars-gratis.com.ua/katalog/search/?q=1023492"><span><strong data-end="800" data-start="751">Граблі великі для листя Fiskars M помаранчеві</strong></span></a></p> <p data-end="1103" data-start="802"><span>Практичні граблі для швидкого збирання опалого листя, скошеної трави та іншого садового сміття. Широка робоча частина дозволяє ефективно прибирати великі площі, а легка конструкція забезпечує комфорт під час тривалої роботи. Підходять для регулярного використання в саду та на прибудинковій території.</span></p> <p data-end="1150" data-start="1105"><a href="https://fiskars-gratis.com.ua/lopata-sadova-shtykova-fiskars-classic-fsc-1014773/"><span><strong data-end="1150" data-start="1105">Лопата садова штикова Fiskars Classic FSC</strong></span></a></p> <p data-end="1355" data-start="1152"><span>Надійна лопата для перекопування ґрунту, посадки рослин і підготовки грядок. Загартована сталь забезпечує довговічність, а дерев&rsquo;яний держак &mdash; комфорт під час роботи. Ефективна навіть на щільному ґрунті.</span></p> <p><strong><span>Застосування</span></strong></p> <p data-end="1447" data-start="1375"><span>Набір використовується для виконання основних сезонних робіт на ділянці</span></p> <p><span>1 Збирання опалого листя та скошеної трави</span></p> <p><span>2 Прибирання садового сміття</span></p> <p><span>3 Перекопування ґрунту та підготовка грядок</span></p> <p><span>4 Посадка рослин, квітів і саджанців</span></p> <p><span>5 Догляд за садом і прибудинковою територією</span></p> <p><strong><span>Основні переваги наборі</span></strong></p> <p><span>1 Повний комплект для прибирання та роботи з ґрунтом</span></p> <p><span>2 Поєднання грабель і лопати для різних етапів роботи</span></p> <p><span>3 Зручність і комфорт під час використання</span></p> <p><span>4 Надійні матеріали та довговічність Fiskars</span></p> <p><span>5 Економія при покупці комплекту</span></p> <p data-end="2106" data-is-last-node="" data-is-only-node="" data-start="1914"><span>Набір Fiskars поєднує інструменти для сезонного прибирання та підготовки ділянки в одному практичному рішенні. Ви можете замовити його онлайн або звернутися до менеджера для уточнення деталей.</span></p>]]></description_ua>
    </offer>
 <offer id="1005153" group_id="20487" available="">
     <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-rukodillia-fiskars-classic-micro-tip/</url>
