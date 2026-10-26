@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-10-25 23:04</date>
+    <date>2026-10-26 03:52</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -1722,7 +1722,7 @@
             <url>https://fiskars-gratis.com.ua/lopatka-fiskars-solid-1025563/</url>
             <image>https://fiskars-gratis.com.ua/content/images/20/lopatka-fiskars-solid-1025563-57182449374359_+48018cd8f5.jpg</image>
             <priceRUAH>277</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1025563</param>
             <param name="Бренд">Fiskars</param>
@@ -5099,7 +5099,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-43275074737002_+6339fbfa30.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-15750483565934_+350b8d02f8.jpeg</image>
             <priceRUAH>2529</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1023739100077</param>
             <param name="Бренд">Fiskars</param>
@@ -6079,7 +6079,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-99438660751733_+ddd99affaf.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-92779595935879_+01217fac09.png</image>
             <priceRUAH>1599</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1023492101477</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -6123,7 +6123,7 @@
             <url>https://fiskars-gratis.com.ua/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax/</url>
             <image>https://fiskars-gratis.com.ua/content/images/17/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax-88650502944038_+868c055bb7.png</image>
             <priceRUAH>699</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1062940106119</param>
             <param name="Бренд">Fiskars</param>
@@ -8679,7 +8679,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-97102682085611_+76435984c2.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-14055728689450_+6f520272c2.png</image>
             <priceRUAH>566</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1016122</param>
             <param name="Бренд">Fiskars</param>
