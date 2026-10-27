@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-27 01:16">
+<yml_catalog date="2026-10-27 07:29">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -92,7 +92,7 @@
     <price>3299</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/16/sokyra-kolun-m-kh17-63188316463397_+759234e14d.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/93618919334182_+9ab6bdbbfa.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/65390895060692_+a2180c4aa5.jpg</picture>
@@ -322,7 +322,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>270</quantity_in_stock>
+    <quantity_in_stock>269</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-67228565350612_+3651437728.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/sekator-profesiinyi-fiskars-pro-p90-1001530-44572510144021_+ecda01e9d6.jpg</picture>
     <dimensions>
@@ -571,7 +571,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>559</quantity_in_stock>
+    <quantity_in_stock>555</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -726,7 +726,7 @@
     <price>277</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/20/lopatka-fiskars-solid-1025563-57182449374359_+48018cd8f5.jpg</picture>
     <dimensions>
      <weight unit="kg">0.5</weight>
@@ -1463,7 +1463,7 @@
     <price>2499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-tesliarska-fiskars-solid-a10-nozhytsi-dlia-travy-white-gs41-88435114741861_+9c4c08ab23.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-tesliarska-fiskars-solid-a10-nozhytsi-dlia-travy-white-gs41-44005167879463_+6a0bf1d6d9.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-tesliarska-fiskars-solid-a10-nozhytsi-dlia-travy-white-gs41-67149383609073_+5f5c33b4be.jpg</picture>
@@ -2085,28 +2085,6 @@
     <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складний Gerber Quadrant,16L 1066487</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658166639)</span> &mdash; складаний ручний інструмент для щоденного використання та легких утилітарних завдань. Застосовується для різання пакувальних матеріалів, картону, мотузок, продуктів і виконання дрібних побутових робіт у міських умовах або в дорозі.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-носіння, поїздок, повсякденних задач у місті та як допоміжний ніж у туристичному спорядженні.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний механізм із фіксацією леза забезпечує безпечну експлуатацію. Клинок формату sheepsfoot орієнтований на контрольоване різання, компактні розміри спрощують транспортування в кишені або сумці.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> лезо виготовлене з нержавіючої сталі, стійкої до корозії та регулярного використання. Руків&rsquo;я виконане з легких і зносостійких матеріалів, придатних для щоденного носіння.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Quadrant бренду Gerber та орієнтована на практичні повсякденні завдання.</span></p>]]></description_ua>
     <param name="Гарантия">24 мес.</param>
    </offer>
-<offer id="1013971" group_id="7493" available="true">
-    <url>https://fiskars-gratis.com.ua/nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971/</url>
-    <price>1999</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1107</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/49/nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971-43296075139700_+806ffe6722.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/49/nizh-skladnyi-gerber-paraframe-ii-se-bl-1013971-82533924073313_+22d410ce6c.jpg</picture>
-    <dimensions>
-     <weight unit="kg">0.3</weight>
-     <width unit="cm">10</width>
-     <height unit="cm">3</height>
-     <length unit="cm">22</length>
-    </dimensions>
-    <vendorCode>1013971</vendorCode>
-    <vendor>Gerber</vendor>
-    <name><![CDATA[Ніж складний Gerber Paraframe II SE BL (1013971)]]></name>
-    <description><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складний Gerber Paraframe II SE BL 1013971</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658484474)</span> &mdash; складаний ручний інструмент для повсякденного використання та базових утилітарних робіт. Застосовується для різання пакувальних матеріалів, картону, мотузок, пластику та виконання допоміжних завдань у побуті або в дорозі.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-носіння, поїздок, міських умов, а також як резервний ніж у туристичному спорядженні.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> складаний формат із фіксацією леза забезпечує безпечну експлуатацію. Клинок із серейторною крайкою (SE) розрахований на ефективне різання волокнистих матеріалів. Відкрита рамкова конструкція зменшує вагу та спрощує очищення ножа.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> лезо виготовлене з нержавіючої сталі, стійкої до корозії при регулярному використанні. Металеве руків&rsquo;я забезпечує жорсткість конструкції та стабільний хват.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Paraframe бренду Gerber та орієнтована на практичні щоденні задачі.</span></p>]]></description>
-    <name_ua><![CDATA[Ніж складний Gerber Paraframe II SE BL (1013971)]]></name_ua>
-    <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складний Gerber Paraframe II SE BL 1013971</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658484474)</span> &mdash; складаний ручний інструмент для повсякденного використання та базових утилітарних робіт. Застосовується для різання пакувальних матеріалів, картону, мотузок, пластику та виконання допоміжних завдань у побуті або в дорозі.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-носіння, поїздок, міських умов, а також як резервний ніж у туристичному спорядженні.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> складаний формат із фіксацією леза забезпечує безпечну експлуатацію. Клинок із серейторною крайкою (SE) розрахований на ефективне різання волокнистих матеріалів. Відкрита рамкова конструкція зменшує вагу та спрощує очищення ножа.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> лезо виготовлене з нержавіючої сталі, стійкої до корозії при регулярному використанні. Металеве руків&rsquo;я забезпечує жорсткість конструкції та стабільний хват.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Paraframe бренду Gerber та орієнтована на практичні щоденні задачі.</span></p>]]></description_ua>
-    <param name="Гарантия">24 мес.</param>
-   </offer>
 <offer id="1055363" group_id="9493" available="true">
     <url>https://fiskars-gratis.com.ua/nizh-skladnyi-gerber-flatiron-d2-micarta-1055363/</url>
     <price>3849</price>
@@ -2298,7 +2276,7 @@
     <price>1299</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>128</quantity_in_stock>
+    <quantity_in_stock>127</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/12/skovoroda-fiskars-handy-28-sm-1024458-35260909044832_+5273e73a6e.jpg</picture>
     <dimensions>
      <weight unit="kg">1.65</weight>
@@ -3322,7 +3300,7 @@
     <price>2499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>37</quantity_in_stock>
+    <quantity_in_stock>38</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/21/sokyra-tesliarskafiskars-solid-a10-podarunok-multytul-gerber-lockdown-slim16lbox-16028398386274_+568d7120db.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/sokyra-tesliarskafiskars-solid-a10-podarunok-multytul-gerber-lockdown-slim16lbox-12895555606171_+5bcd1c3abd.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/sokyra-tesliarskafiskars-solid-a10-podarunok-multytul-gerber-lockdown-slim16lbox-66553987141464_+d2c4756d63.jpeg</picture>
@@ -3518,7 +3496,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>68</quantity_in_stock>
+    <quantity_in_stock>66</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643_+7c9ca353de.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-71214196768880_+3a4d4a7cc9.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-58483850974172_+ef36107030.jpeg</picture>
@@ -3573,7 +3551,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>38</quantity_in_stock>
+    <quantity_in_stock>37</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/30/nozhytsi-dlia-travy-fiskars-white-gs41-podarunok-pylka-sadova-ruchna-fiskars-solid-sw-16-52895945025512_+54bc0d6273.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/30/nozhytsi-dlia-travy-fiskars-white-gs41-podarunok-pylka-sadova-ruchna-fiskars-solid-sw-16-94949912625986_+f0649dfa1a.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/30/nozhytsi-dlia-travy-fiskars-white-gs41-podarunok-pylka-sadova-ruchna-fiskars-solid-sw-16-27340933047223_+fabebb4c4a.jpeg</picture>
@@ -3882,7 +3860,7 @@
     <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>111</quantity_in_stock>
+    <quantity_in_stock>108</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -4524,7 +4502,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-80695237000335_+d0c22218b0.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-81989570160123_+c25762c351.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-99438660751733_+ddd99affaf.png</picture>
@@ -4548,7 +4526,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330_+0cb49eabd7.png</picture>
     <dimensions>
      <weight unit="kg">0.805</weight>
@@ -5014,7 +4992,7 @@
     <price>699</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax-88650502944038_+868c055bb7.png</picture>
     <dimensions>
      <weight unit="kg">0.345</weight>
@@ -5965,34 +5943,6 @@
     <name_ua><![CDATA[Сковорода All Steel Pure 24 см матова (1065628)]]></name_ua>
     <description_ua><![CDATA[<p><strong></strong><strong><span style="font-size:18px;">Сковорода All Steel Pure 24 см матова 1065628</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002015888)</span> &mdash; міцна та довговічна кухонна сковорода з нержавіючої сталі для смаження, обсмажування та тушкування м&#39;яса, риби, овочів та інших продуктів. Матова поверхня надає посуду сучасного вигляду, а міцна конструкція розрахована на тривале використання.</p> <p><strong>Призначення:</strong>&nbsp;підходить для смаження м&#39;яса, риби, овочів, картоплі, яєць та інших продуктів. Діаметр 24 см зручний для приготування невеликих і середніх порцій.</p> <p><strong>Конструкція:</strong>&nbsp;сковорода має товсте дно, яке забезпечує рівномірний розподіл тепла та стабільне нагрівання робочої поверхні. Ергономічна ручка забезпечує комфортне та надійне утримання під час приготування.</p> <p><strong>Матеріали:</strong>&nbsp;корпус виготовлений із високоякісної нержавіючої сталі. Робоча поверхня не має антипригарного покриття, що забезпечує високу термостійкість і довговічність. Матова зовнішня поверхня стійка до щоденного використання.</p> <p><strong>Особливості:</strong>&nbsp;діаметр &mdash; 24 см. Сковорода підходить для всіх типів плит, включаючи індукційні, та може використовуватися в духовці. Відсутність антипригарного покриття дозволяє використовувати посуд при високих температурах. Сковороду можна мити в посудомийній машині.</p> <p><strong>Комплектація:</strong>&nbsp;сковорода Fiskars All Steel Pure 24 см &mdash; 1 шт.</p>]]></description_ua>
    </offer>
-<offer id="1065627" group_id="12485" available="true">
-    <url>https://fiskars-gratis.com.ua/skovoroda-all-steel-pure-28-sm-matova/</url>
-    <oldprice>5140</oldprice>
-    <price>4599</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>156333769</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-58181003871289_+1bc4ebae2a.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-49262259004584_+4ae7bbf043.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-87591211877803_+8e11f905cd.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-16658624402422_+e655b5b2ef.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-20361152167874_+1a6d1d1096.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-52912624283268_+8d15b7178e.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-78137781414768_+049bf9df0d.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-60216132398356_+8f3d0a3a8a.png</picture>
-    <dimensions>
-     <weight unit="kg">1.65</weight>
-     <width unit="cm">28</width>
-     <height unit="cm">8</height>
-     <length unit="cm">46</length>
-    </dimensions>
-    <vendorCode>1065627</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Сковорода All Steel Pure 28 см матова (1065627)]]></name>
-    <description><![CDATA[<p><strong></strong><strong><span style="font-size:18px;">Сковорода All Steel Pure 28 см матова 1065627</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002015895)</span> &mdash; міцна та довговічна кухонна сковорода з нержавіючої сталі для смаження, обсмажування та тушкування різноманітних продуктів. Матова поверхня надає сковороді сучасного вигляду, а міцна конструкція забезпечує надійність під час щоденного використання.</p> <p><strong>Призначення:</strong>&nbsp;підходить для смаження м&#39;яса, риби, овочів, картоплі, яєць та інших продуктів. Діаметр 28 см зручний для приготування великих порцій та страв для всієї родини.</p> <p><strong>Конструкція:</strong>&nbsp;сковорода має товсте багатошарове дно, яке сприяє рівномірному розподілу тепла та стабільному нагріванню робочої поверхні. Ергономічна ручка забезпечує комфортне та надійне утримання під час приготування.</p> <p><strong>Матеріали:</strong>&nbsp;корпус виготовлений із високоякісної нержавіючої сталі. Робоча поверхня не має антипригарного покриття, що забезпечує високу термостійкість та довговічність. Матова поверхня стійка до щоденного використання.</p> <p><strong>Особливості:</strong>&nbsp;діаметр &mdash; 28 см. Сковорода підходить для всіх типів плит, включаючи індукційні, та може використовуватися в духовці. Відсутність антипригарного покриття дозволяє використовувати сковороду при високих температурах. Посуд можна мити в посудомийній машині.</p> <p><strong>Комплектація:</strong>&nbsp;сковорода Fiskars All Steel Pure 28 см &mdash; 1 шт.</p>]]></description>
-    <name_ua><![CDATA[Сковорода All Steel Pure 28 см матова (1065627)]]></name_ua>
-    <description_ua><![CDATA[<p><strong></strong><strong><span style="font-size:18px;">Сковорода All Steel Pure 28 см матова 1065627</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002015895)</span> &mdash; міцна та довговічна кухонна сковорода з нержавіючої сталі для смаження, обсмажування та тушкування різноманітних продуктів. Матова поверхня надає сковороді сучасного вигляду, а міцна конструкція забезпечує надійність під час щоденного використання.</p> <p><strong>Призначення:</strong>&nbsp;підходить для смаження м&#39;яса, риби, овочів, картоплі, яєць та інших продуктів. Діаметр 28 см зручний для приготування великих порцій та страв для всієї родини.</p> <p><strong>Конструкція:</strong>&nbsp;сковорода має товсте багатошарове дно, яке сприяє рівномірному розподілу тепла та стабільному нагріванню робочої поверхні. Ергономічна ручка забезпечує комфортне та надійне утримання під час приготування.</p> <p><strong>Матеріали:</strong>&nbsp;корпус виготовлений із високоякісної нержавіючої сталі. Робоча поверхня не має антипригарного покриття, що забезпечує високу термостійкість та довговічність. Матова поверхня стійка до щоденного використання.</p> <p><strong>Особливості:</strong>&nbsp;діаметр &mdash; 28 см. Сковорода підходить для всіх типів плит, включаючи індукційні, та може використовуватися в духовці. Відсутність антипригарного покриття дозволяє використовувати сковороду при високих температурах. Посуд можна мити в посудомийній машині.</p> <p><strong>Комплектація:</strong>&nbsp;сковорода Fiskars All Steel Pure 28 см &mdash; 1 шт.</p>]]></description_ua>
-   </offer>
 <offer id="1065629" group_id="13485" available="true">
     <url>https://fiskars-gratis.com.ua/skovoroda-wok-all-steel-pure-28-matova/</url>
     <oldprice>7239</oldprice>
@@ -6591,7 +6541,7 @@
     <price>399</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-23398994564838_+cd29e570ed.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-92330606287954_+b8534dcc67.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-75152807155931_+f44773385f.png</picture>
@@ -7172,7 +7122,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>889</quantity_in_stock>
+    <quantity_in_stock>888</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -7986,7 +7936,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-17906357745877_+5cfd9f63c4.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-50497162672661_+ab2bf62efb.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/50/hrabli-velyki-dlia-lystia-m-pomaranchevilopata-sadova-klasychna-fiskars-fsc-19136950986926_+2868c4edcf.png</picture>
@@ -8006,7 +7956,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-68825027967585_+02c668ef12.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-83756400918725_+e678e0def8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-12622172661488_+937825116e.png</picture>
@@ -8110,7 +8060,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/6/sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-54600437581112_+6989279292.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/6/sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-36793640419421_+e06a9430ef.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/6/sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-98767789810734_+02ea94fc3a.png</picture>
@@ -8181,9 +8131,9 @@
     <vendorCode>1052045102485</vendorCode>
     <vendor>Fiskars</vendor>
     <name><![CDATA[Набір Fiskars: Сокира-колун Solid A18 1052045 + Мачете Gerber Compact Clearpath 1024856]]></name>
-    <description><![CDATA[<p><strong>Сокира-колун Solid A18 + Мачете Compact Clearpath - (штрихкод 6411501310835)</strong> - <strong>Набір Fiskars</strong>&nbsp;для роботи з деревиною та догляду за присадибною ділянкою. Поєднує сокиру-колун для заготівлі дров і мачете для розчищення території та роботи з рослинністю.</p> <p><strong>Опис набору Fiskars</strong></p> <p>Набір включає сокиру-колун Solid A18 та мачете Compact Clearpath. Сокира призначена для розколювання дров і роботи з деревиною, а мачете &mdash; для обрізання густої рослинності, трави та невеликих гілок. Разом інструменти підходять для різноманітних робіт у саду, на дачі та присадибній ділянці.</p> <p><strong>Що входить у комплект</strong></p> <p>Набір складається із сокири-колуна Fiskars Solid A18 та мачете Fiskars Compact Clearpath.</p> <p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира-колун Solid A18</strong></a></p> <p>Сокира-колун призначена для розколювання дров та роботи з деревиною. Підходить для заготівлі дров і виконання господарських робіт на ділянці.</p> <p><a href="https://fiskars-gratis.com.ua/machete-gerber-compact-clearpath-1024856/"><strong>Мачете Compact Clearpath</strong></a></p> <p>Компактне мачете для роботи з густою рослинністю, травою та невеликими гілками. Зручний інструмент для розчищення території та догляду за ділянкою.</p> <p><strong>Застосування</strong></p> <p>Набір використовується для різних робіт із деревиною та рослинністю.</p> <ol> <li> <p>Розколювання дров.</p> </li> <li> <p>Робота з деревиною.</p> </li> <li> <p>Розчищення ділянки від густої рослинності.</p> </li> <li> <p>Обрізання трави та невеликих гілок.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сокири-колуна та мачете.</p> </li> <li> <p>Підходить для роботи з деревиною та рослинністю.</p> </li> <li> <p>Сокира ефективна для розколювання дров.</p> </li> <li> <p>Мачете зручне для розчищення території.</p> </li> <li> <p>Універсальний набір для садових і господарських робіт.</p> </li> </ol>]]></description>
+    <description><![CDATA[<p><strong>Сокира-колун Solid A18 + Мачете Compact Clearpath - (штрихкод 6411501310835)</strong> - <strong>Набір Fiskars</strong>&nbsp;для роботи з деревиною та догляду за присадибною ділянкою. Поєднує сокиру-колун для заготівлі дров і мачете для розчищення території та роботи з рослинністю.</p>    <p><strong>Опис набору Fiskars</strong></p>    <p>Набір включає сокиру-колун Solid A18 та мачете Compact Clearpath. Сокира призначена для розколювання дров і роботи з деревиною, а мачете &mdash; для обрізання густої рослинності, трави та невеликих гілок. Разом інструменти підходять для різноманітних робіт у саду, на дачі та присадибній ділянці.</p>    <p><strong>Що входить у комплект</strong></p>    <p>Набір складається із сокири-колуна Fiskars Solid A18 та мачете Fiskars Compact Clearpath.</p>    <p><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/"><strong>Сокира-колун Solid A18</strong></a></p>    <p>Сокира-колун призначена для розколювання дров та роботи з деревиною. Підходить для заготівлі дров і виконання господарських робіт на ділянці.</p>    <p><a href="https://fiskars-gratis.com.ua/machete-gerber-compact-clearpath-1024856/"><strong>Мачете Compact Clearpath</strong></a></p>    <p>Компактне мачете для роботи з густою рослинністю, травою та невеликими гілками. Зручний інструмент для розчищення території та догляду за ділянкою.</p>    <p><strong>Застосування</strong></p>    <p>Набір використовується для різних робіт із деревиною та рослинністю.</p>    <ol>   <li>   <p>Розколювання дров.</p>   </li>   <li>   <p>Робота з деревиною.</p>   </li>   <li>   <p>Розчищення ділянки від густої рослинності.</p>   </li>   <li>   <p>Обрізання трави та невеликих гілок.</p>   </li>  </ol>    <p><strong>Основні переваги набору</strong></p>    <ol>   <li>   <p>Практичне поєднання сокири-колуна та мачете.</p>   </li>   <li>   <p>Підходить для роботи з деревиною та рослинністю.</p>   </li>   <li>   <p>Сокира ефективна для розколювання дров.</p>   </li>   <li>   <p>Мачете зручне для розчищення території.</p>   </li>   <li>   <p>Універсальний набір для садових і господарських робіт.</p>   </li>  </ol>  ]]></description>
     <name_ua><![CDATA[Набір Fiskars: Сокира-колун Solid A18 1052045 + Мачете Gerber Compact Clearpath 1024856]]></name_ua>
-    <description_ua><![CDATA[<p><strong>Сокира-колун Solid A18 + Мачете Compact Clearpath - (штрихкод 6411501310835)</strong> - <strong>Набір Fiskars</strong>&nbsp;для роботи з деревиною та догляду за присадибною ділянкою. Поєднує сокиру-колун для заготівлі дров і мачете для розчищення території та роботи з рослинністю.</p> <p><strong>Опис набору Fiskars</strong></p> <p>Набір включає сокиру-колун Solid A18 та мачете Compact Clearpath. Сокира призначена для розколювання дров і роботи з деревиною, а мачете &mdash; для обрізання густої рослинності, трави та невеликих гілок. Разом інструменти підходять для різноманітних робіт у саду, на дачі та присадибній ділянці.</p> <p><strong>Що входить у комплект</strong></p> <p>Набір складається із сокири-колуна Fiskars Solid A18 та мачете Fiskars Compact Clearpath.</p> <p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира-колун Solid A18</strong></a></p> <p>Сокира-колун призначена для розколювання дров та роботи з деревиною. Підходить для заготівлі дров і виконання господарських робіт на ділянці.</p> <p><a href="https://fiskars-gratis.com.ua/machete-gerber-compact-clearpath-1024856/"><strong>Мачете Compact Clearpath</strong></a></p> <p>Компактне мачете для роботи з густою рослинністю, травою та невеликими гілками. Зручний інструмент для розчищення території та догляду за ділянкою.</p> <p><strong>Застосування</strong></p> <p>Набір використовується для різних робіт із деревиною та рослинністю.</p> <ol> <li> <p>Розколювання дров.</p> </li> <li> <p>Робота з деревиною.</p> </li> <li> <p>Розчищення ділянки від густої рослинності.</p> </li> <li> <p>Обрізання трави та невеликих гілок.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сокири-колуна та мачете.</p> </li> <li> <p>Підходить для роботи з деревиною та рослинністю.</p> </li> <li> <p>Сокира ефективна для розколювання дров.</p> </li> <li> <p>Мачете зручне для розчищення території.</p> </li> <li> <p>Універсальний набір для садових і господарських робіт.</p> </li> </ol>]]></description_ua>
+    <description_ua><![CDATA[<p><strong>Сокира-колун Solid A18 + Мачете Compact Clearpath - (штрихкод 6411501310835)</strong> - <strong>Набір Fiskars</strong>&nbsp;для роботи з деревиною та догляду за присадибною ділянкою. Поєднує сокиру-колун для заготівлі дров і мачете для розчищення території та роботи з рослинністю.</p>    <p><strong>Опис набору Fiskars</strong></p>    <p>Набір включає сокиру-колун Solid A18 та мачете Compact Clearpath. Сокира призначена для розколювання дров і роботи з деревиною, а мачете &mdash; для обрізання густої рослинності, трави та невеликих гілок. Разом інструменти підходять для різноманітних робіт у саду, на дачі та присадибній ділянці.</p>    <p><strong>Що входить у комплект</strong></p>    <p>Набір складається із сокири-колуна Fiskars Solid A18 та мачете Fiskars Compact Clearpath.</p>    <p><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/"><strong>Сокира-колун Solid A18</strong></a></p>    <p>Сокира-колун призначена для розколювання дров та роботи з деревиною. Підходить для заготівлі дров і виконання господарських робіт на ділянці.</p>    <p><a href="https://fiskars-gratis.com.ua/machete-gerber-compact-clearpath-1024856/"><strong>Мачете Compact Clearpath</strong></a></p>    <p>Компактне мачете для роботи з густою рослинністю, травою та невеликими гілками. Зручний інструмент для розчищення території та догляду за ділянкою.</p>    <p><strong>Застосування</strong></p>    <p>Набір використовується для різних робіт із деревиною та рослинністю.</p>    <ol>   <li>   <p>Розколювання дров.</p>   </li>   <li>   <p>Робота з деревиною.</p>   </li>   <li>   <p>Розчищення ділянки від густої рослинності.</p>   </li>   <li>   <p>Обрізання трави та невеликих гілок.</p>   </li>  </ol>    <p><strong>Основні переваги набору</strong></p>    <ol>   <li>   <p>Практичне поєднання сокири-колуна та мачете.</p>   </li>   <li>   <p>Підходить для роботи з деревиною та рослинністю.</p>   </li>   <li>   <p>Сокира ефективна для розколювання дров.</p>   </li>   <li>   <p>Мачете зручне для розчищення території.</p>   </li>   <li>   <p>Універсальний набір для садових і господарських робіт.</p>   </li>  </ol>  ]]></description_ua>
    </offer>
 <offer id="1052045105983" group_id="74489" available="true">
     <url>https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18-multytul-lockdown-slim16lbox/</url>
@@ -8259,7 +8209,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/13/sokyra-kolun-solid-a18lopata-sadova-klasychna-fiskars-fsc-29797010726143_+c191274e9a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/13/sokyra-kolun-solid-a18lopata-sadova-klasychna-fiskars-fsc-61809092785125_+b196cf6157.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/13/sokyra-kolun-solid-a18lopata-sadova-klasychna-fiskars-fsc-21812705429517_+7b1c884e43.png</picture>
@@ -8300,7 +8250,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432_+d153e7aa15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-96260386852426_+8bc07edb90.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-79179470127551_+08e280bb6b.png</picture>
@@ -8337,7 +8287,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
@@ -8977,6 +8927,34 @@
     <name_ua><![CDATA[Нож "Сантуко" Norr (1016474)]]></name_ua>
     <description_ua><![CDATA[<p data-end="371" data-start="86"><span style="font-size:16px;"><strong data-end="124" data-start="90"></strong><strong><span style="font-size:18px;">Нож "Сантуко" Norr 1016474</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002002475)</span> &mdash; це універсальний кухонний ніж у японському стилі, створений для швидкого та точного нарізання м&rsquo;яса, риби, овочів і зелені. Завдяки широкому та збалансованому лезу він забезпечує контрольований різ і зручність у щоденному використанні на кухні.</span></p> <p data-end="631" data-start="373"><span style="font-size:16px;">Лезо виготовлене з високоякісної нержавіючої німецької сталі твердістю близько <strong data-end="462" data-start="452">54 HRC</strong>, що гарантує хорошу гостроту, довговічність і стійкість до корозії. Форма сантоку дозволяє легко виконувати як нарізання, так і подрібнення продуктів без зайвих зусиль.</span></p> <p data-end="859" data-start="633"><span style="font-size:16px;">Руків&rsquo;я виконане з натуральної деревини (Kebony-обробка), що робить ніж приємним на дотик, ергономічним і добре збалансованим. Такий дизайн поєднує скандинавську простоту та практичність, характерну для серії <strong data-end="858" data-start="842">Fiskars Norr</strong>.</span></p> <h3 data-end="883" data-section-id="1ytkeui" data-start="866"><span style="font-size:16px;"><strong data-end="883" data-start="870">Переваги:</strong></span></h3> <ul data-end="1153" data-start="884"> <li data-end="921" data-section-id="284uf2" data-start="884"><span style="font-size:16px;">Універсальний ніж формату сантоку</span></li> <li data-end="972" data-section-id="1fmjmo6" data-start="922"><span style="font-size:16px;">Широке лезо для точного контролю при нарізанні</span></li> <li data-end="1008" data-section-id="1vhlqav" data-start="973"><span style="font-size:16px;">Нержавіюча сталь високої якості</span></li> <li data-end="1043" data-section-id="ea5i6o" data-start="1009"><span style="font-size:16px;">Добре тримає заточку</span></li> <li data-end="1077" data-section-id="1sjdmzp" data-start="1044"><span style="font-size:16px;">Ергономічне дерев&rsquo;яне руків&rsquo;я</span></li> <li data-end="1115" data-section-id="6yxlr6" data-start="1078"><span style="font-size:16px;">Зручний для м&rsquo;яса, риби та овочів</span></li> <li data-end="1153" data-section-id="lfuf5b" data-start="1116"><span style="font-size:16px;">Скандинавський преміальний дизайн</span></li> </ul>]]></description_ua>
     <param name="Гарантия">12 мес.</param>
+   </offer>
+<offer id="1065627" group_id="12485" available="">
+    <url>https://fiskars-gratis.com.ua/skovoroda-all-steel-pure-28-sm-matova/</url>
+    <oldprice>5140</oldprice>
+    <price>4599</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>156333769</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-58181003871289_+1bc4ebae2a.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-49262259004584_+4ae7bbf043.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-87591211877803_+8e11f905cd.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-16658624402422_+e655b5b2ef.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-20361152167874_+1a6d1d1096.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-52912624283268_+8d15b7178e.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-78137781414768_+049bf9df0d.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-60216132398356_+8f3d0a3a8a.png</picture>
+    <dimensions>
+     <weight unit="kg">1.65</weight>
+     <width unit="cm">28</width>
+     <height unit="cm">8</height>
+     <length unit="cm">46</length>
+    </dimensions>
+    <vendorCode>1065627</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Сковорода All Steel Pure 28 см матова (1065627)]]></name>
+    <description><![CDATA[<p><strong></strong><strong><span style="font-size:18px;">Сковорода All Steel Pure 28 см матова 1065627</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002015895)</span> &mdash; міцна та довговічна кухонна сковорода з нержавіючої сталі для смаження, обсмажування та тушкування різноманітних продуктів. Матова поверхня надає сковороді сучасного вигляду, а міцна конструкція забезпечує надійність під час щоденного використання.</p> <p><strong>Призначення:</strong>&nbsp;підходить для смаження м&#39;яса, риби, овочів, картоплі, яєць та інших продуктів. Діаметр 28 см зручний для приготування великих порцій та страв для всієї родини.</p> <p><strong>Конструкція:</strong>&nbsp;сковорода має товсте багатошарове дно, яке сприяє рівномірному розподілу тепла та стабільному нагріванню робочої поверхні. Ергономічна ручка забезпечує комфортне та надійне утримання під час приготування.</p> <p><strong>Матеріали:</strong>&nbsp;корпус виготовлений із високоякісної нержавіючої сталі. Робоча поверхня не має антипригарного покриття, що забезпечує високу термостійкість та довговічність. Матова поверхня стійка до щоденного використання.</p> <p><strong>Особливості:</strong>&nbsp;діаметр &mdash; 28 см. Сковорода підходить для всіх типів плит, включаючи індукційні, та може використовуватися в духовці. Відсутність антипригарного покриття дозволяє використовувати сковороду при високих температурах. Посуд можна мити в посудомийній машині.</p> <p><strong>Комплектація:</strong>&nbsp;сковорода Fiskars All Steel Pure 28 см &mdash; 1 шт.</p>]]></description>
+    <name_ua><![CDATA[Сковорода All Steel Pure 28 см матова (1065627)]]></name_ua>
+    <description_ua><![CDATA[<p><strong></strong><strong><span style="font-size:18px;">Сковорода All Steel Pure 28 см матова 1065627</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002015895)</span> &mdash; міцна та довговічна кухонна сковорода з нержавіючої сталі для смаження, обсмажування та тушкування різноманітних продуктів. Матова поверхня надає сковороді сучасного вигляду, а міцна конструкція забезпечує надійність під час щоденного використання.</p> <p><strong>Призначення:</strong>&nbsp;підходить для смаження м&#39;яса, риби, овочів, картоплі, яєць та інших продуктів. Діаметр 28 см зручний для приготування великих порцій та страв для всієї родини.</p> <p><strong>Конструкція:</strong>&nbsp;сковорода має товсте багатошарове дно, яке сприяє рівномірному розподілу тепла та стабільному нагріванню робочої поверхні. Ергономічна ручка забезпечує комфортне та надійне утримання під час приготування.</p> <p><strong>Матеріали:</strong>&nbsp;корпус виготовлений із високоякісної нержавіючої сталі. Робоча поверхня не має антипригарного покриття, що забезпечує високу термостійкість та довговічність. Матова поверхня стійка до щоденного використання.</p> <p><strong>Особливості:</strong>&nbsp;діаметр &mdash; 28 см. Сковорода підходить для всіх типів плит, включаючи індукційні, та може використовуватися в духовці. Відсутність антипригарного покриття дозволяє використовувати сковороду при високих температурах. Посуд можна мити в посудомийній машині.</p> <p><strong>Комплектація:</strong>&nbsp;сковорода Fiskars All Steel Pure 28 см &mdash; 1 шт.</p>]]></description_ua>
    </offer>
 <offer id="1075701" group_id="14485" available="">
     <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-folken-22-sm/</url>
