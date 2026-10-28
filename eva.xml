@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-27 23:37">
+<yml_catalog date="2026-10-28 04:43">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -301,11 +301,11 @@
         <param name="Код УКТ ЗЕД">7323930090</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Сковороди</param>
       </offer>
-      <offer id="1065627" available="false">
+      <offer id="1065627" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-all-steel-pure-28-sm-matova/</url>
         <price>4599</price>
         <price_old>5140</price_old>
-        <stock_quantity>0</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/17/skovoroda-all-steel-pure-28-sm-matova-58181003871289_+1bc4ebae2a.png</picture>
@@ -518,7 +518,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-hard-face-26-sm/</url>
         <price>3799</price>
         <price_old>4180</price_old>
-        <stock_quantity>7</stock_quantity>
+        <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/skovoroda-hard-face-26-sm-15329370515422_+82cb34b8ca.png</picture>
@@ -1103,14 +1103,30 @@
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
-        <picture>https://fiskars-gratis.com.ua/content/images/45/nizh-skladnyi-gerber-sumo-folder-black-fe-gb-1055366-16581998276758_+80a64b9670.jpg</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/45/nizh-skladnyi-gerber-sumo-folder-black-fe-gb-1055366-48166615204719_+24eb303fdb.jpg</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/45/nizh-skladnyi-gerber-sumo-folder-black-fe-gb-1055366-16581998276758_+80a64b9670.jpg</picture>
         <vendor>Gerber</vendor>
         <article>1055366</article>
         <name>Ніж складний Gerber Sumo Folder, Black FE, GB (1055366)</name>
         <name_ua>Ніж складний Gerber Sumo Folder, Black FE, GB (1055366)</name_ua>
-        <description><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складний Gerber Sumo Folder, Black FE, GB 1055366</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658162570)</span> &mdash; складаний ручний інструмент для повсякденного використання та допоміжних робіт у міських і польових умовах. Призначений для різання пакувальних матеріалів, мотузок, пластику, картону та виконання базових утилітарних завдань.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-використання, поїздок, кемпінгу, робіт у майстерні та ситуацій, де потрібен надійний складний ніж із посиленим клинком.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">масивний клинок у форматі folder з механізмом фіксації забезпечує контроль і безпеку під час роботи. Руків&rsquo;я збільшеного розміру розраховане на впевнений хват, у тому числі в рукавицях.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">лезо виготовлене з нержавіючої сталі, стійкої до зносу та корозії при регулярному використанні. Руків&rsquo;я виконане з міцних синтетичних матеріалів, адаптованих до навантажень.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Sumo бренду Gerber та орієнтована на практичні завдання з підвищеними вимогами до надійності.</span></p>]]></description>
-        <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складний Gerber Sumo Folder, Black FE, GB 1055366</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658162570)</span> &mdash; складаний ручний інструмент для повсякденного використання та допоміжних робіт у міських і польових умовах. Призначений для різання пакувальних матеріалів, мотузок, пластику, картону та виконання базових утилітарних завдань.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-використання, поїздок, кемпінгу, робіт у майстерні та ситуацій, де потрібен надійний складний ніж із посиленим клинком.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">масивний клинок у форматі folder з механізмом фіксації забезпечує контроль і безпеку під час роботи. Руків&rsquo;я збільшеного розміру розраховане на впевнений хват, у тому числі в рукавицях.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">лезо виготовлене з нержавіючої сталі, стійкої до зносу та корозії при регулярному використанні. Руків&rsquo;я виконане з міцних синтетичних матеріалів, адаптованих до навантажень.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Sumo бренду Gerber та орієнтована на практичні завдання з підвищеними вимогами до надійності.</span></p>]]></description_ua>
+        <description><![CDATA[<p><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складний Gerber Sumo Folder, Black FE, GB 1055366</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658162570)</span> &mdash; складаний ручний інструмент для повсякденного використання та допоміжних робіт у міських і польових умовах. Призначений для різання пакувальних матеріалів, мотузок, пластику, картону та виконання базових утилітарних завдань.</span></p>
+
+<p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-використання, поїздок, кемпінгу, робіт у майстерні та ситуацій, де потрібен надійний складний ніж із посиленим клинком.</span></p>
+
+<p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">масивний клинок у форматі folder з механізмом фіксації забезпечує контроль і безпеку під час роботи. Руків&rsquo;я збільшеного розміру розраховане на впевнений хват, у тому числі в рукавицях.</span></p>
+
+<p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">лезо виготовлене з нержавіючої сталі, стійкої до зносу та корозії при регулярному використанні. Руків&rsquo;я виконане з міцних синтетичних матеріалів, адаптованих до навантажень.</span></p>
+
+<p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Sumo бренду Gerber та орієнтована на практичні завдання з підвищеними вимогами до надійності.</span></p>]]></description>
+        <description_ua><![CDATA[<p><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складний Gerber Sumo Folder, Black FE, GB 1055366</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658162570)</span> &mdash; складаний ручний інструмент для повсякденного використання та допоміжних робіт у міських і польових умовах. Призначений для різання пакувальних матеріалів, мотузок, пластику, картону та виконання базових утилітарних завдань.</span></p>
+
+<p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-використання, поїздок, кемпінгу, робіт у майстерні та ситуацій, де потрібен надійний складний ніж із посиленим клинком.</span></p>
+
+<p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">масивний клинок у форматі folder з механізмом фіксації забезпечує контроль і безпеку під час роботи. Руків&rsquo;я збільшеного розміру розраховане на впевнений хват, у тому числі в рукавицях.</span></p>
+
+<p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">лезо виготовлене з нержавіючої сталі, стійкої до зносу та корозії при регулярному використанні. Руків&rsquo;я виконане з міцних синтетичних матеріалів, адаптованих до навантажень.</span></p>
+
+<p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Sumo бренду Gerber та орієнтована на практичні завдання з підвищеними вимогами до надійності.</span></p>]]></description_ua>
         <param name="Артикул">1055366</param>
         <param name="Штрихкод">13658162570</param>
         <param name="Бренд">Gerber</param>
@@ -1414,7 +1430,7 @@
       <offer id="1065586" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586/</url>
         <price>387</price>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586-91206989650470_+49fc39037f.jpg</picture>
@@ -1985,15 +2001,31 @@
         <stock_quantity>200</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
-        <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74483750015361_+69f412eaa8.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-46339224894432_+6135572017.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-24265086835934_+17f66091ec.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74090879002246_+9c4e87df21.png</picture>
         <vendor>Fiskars</vendor>
         <article>1075834</article>
         <name>Ніж сантоку Fiskars Cleaver All Steel 16 см (1075834)</name>
         <name_ua>Ніж сантоку Fiskars Cleaver All Steel 16 см (1075834)</name_ua>
-        <description><![CDATA[<p data-end="249" data-start="0"><span style="font-size:16px;"><strong data-end="49" data-start="0"></strong><strong><span style="font-size:18px;">Ніж сантоку Fiskars Cleaver All Steel 16 см 1075834</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002020585)</span> &mdash; універсальний кухонний ніж азіатського типу для точного нарізання, шинкування та подрібнення м&#39;яса, риби, овочів і зелені під час щоденного приготування страв.&nbsp;</span></p> <p data-end="479" data-start="251"><span style="font-size:16px;"><strong data-end="267" data-start="251">Призначення:</strong>&nbsp;підходить для нарізання, шинкування та порціонування овочів, м&#39;яса без кісток, риби й інших продуктів. Широке лезо дозволяє зручно переносити нарізані інгредієнти до посуду.&nbsp;</span></p> <p data-end="728" data-start="481"><span style="font-size:16px;"><strong data-end="497" data-start="481">Конструкція:</strong>&nbsp;широке лезо Santoku довжиною 16 см забезпечує точний і контрольований різ. Цільнометалева безшовна конструкція гарантує оптимальний баланс, комфортне утримання та високий рівень гігієнічності.&nbsp;</span></p> <p data-end="973" data-start="730"><span style="font-size:16px;"><strong data-end="744" data-start="730">Матеріали:</strong>&nbsp;ніж виготовлений із високоякісної японської високовуглецевої нержавіючої сталі твердістю близько&nbsp;<strong data-end="852" data-start="842">58 HRC</strong>, що забезпечує тривале збереження гостроти, стійкість до корозії та довговічність.&nbsp;</span></p> <p data-end="1237" data-is-last-node="" data-is-only-node="" data-start="975"><span style="font-size:16px;"><strong data-end="991" data-start="975">Особливості:</strong>&nbsp;модель входить до преміальної серії&nbsp;<strong data-end="1049" data-start="1028">Fiskars All Steel</strong>, поєднуючи сучасний мінімалістичний дизайн, професійну продуктивність і довговічність. Для збереження ріжучих властивостей рекомендовано ручне миття</span></p>]]></description>
-        <description_ua><![CDATA[<p data-end="249" data-start="0"><span style="font-size:16px;"><strong data-end="49" data-start="0"></strong><strong><span style="font-size:18px;">Ніж сантоку Fiskars Cleaver All Steel 16 см 1075834</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002020585)</span> &mdash; універсальний кухонний ніж азіатського типу для точного нарізання, шинкування та подрібнення м&#39;яса, риби, овочів і зелені під час щоденного приготування страв.&nbsp;</span></p> <p data-end="479" data-start="251"><span style="font-size:16px;"><strong data-end="267" data-start="251">Призначення:</strong>&nbsp;підходить для нарізання, шинкування та порціонування овочів, м&#39;яса без кісток, риби й інших продуктів. Широке лезо дозволяє зручно переносити нарізані інгредієнти до посуду.&nbsp;</span></p> <p data-end="728" data-start="481"><span style="font-size:16px;"><strong data-end="497" data-start="481">Конструкція:</strong>&nbsp;широке лезо Santoku довжиною 16 см забезпечує точний і контрольований різ. Цільнометалева безшовна конструкція гарантує оптимальний баланс, комфортне утримання та високий рівень гігієнічності.&nbsp;</span></p> <p data-end="973" data-start="730"><span style="font-size:16px;"><strong data-end="744" data-start="730">Матеріали:</strong>&nbsp;ніж виготовлений із високоякісної японської високовуглецевої нержавіючої сталі твердістю близько&nbsp;<strong data-end="852" data-start="842">58 HRC</strong>, що забезпечує тривале збереження гостроти, стійкість до корозії та довговічність.&nbsp;</span></p> <p data-end="1237" data-is-last-node="" data-is-only-node="" data-start="975"><span style="font-size:16px;"><strong data-end="991" data-start="975">Особливості:</strong>&nbsp;модель входить до преміальної серії&nbsp;<strong data-end="1049" data-start="1028">Fiskars All Steel</strong>, поєднуючи сучасний мінімалістичний дизайн, професійну продуктивність і довговічність. Для збереження ріжучих властивостей рекомендовано ручне миття</span></p>]]></description_ua>
+        <description><![CDATA[<p data-end="249" data-start="0"><span style="font-size:16px;"><strong><span style="font-size:18px;">Ніж сантоку Fiskars Cleaver All Steel 16 см 1075834</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002020585)</span> &mdash; універсальний кухонний ніж азіатського типу для точного нарізання, шинкування та подрібнення м&#39;яса, риби, овочів і зелені під час щоденного приготування страв.&nbsp;</span></p>
+
+<p data-end="479" data-start="251"><span style="font-size:16px;"><strong data-end="267" data-start="251">Призначення:</strong>&nbsp;підходить для нарізання, шинкування та порціонування овочів, м&#39;яса без кісток, риби й інших продуктів. Широке лезо дозволяє зручно переносити нарізані інгредієнти до посуду.&nbsp;</span></p>
+
+<p data-end="728" data-start="481"><span style="font-size:16px;"><strong data-end="497" data-start="481">Конструкція:</strong>&nbsp;широке лезо Santoku довжиною 16 см забезпечує точний і контрольований різ. Цільнометалева безшовна конструкція гарантує оптимальний баланс, комфортне утримання та високий рівень гігієнічності.&nbsp;</span></p>
+
+<p data-end="973" data-start="730"><span style="font-size:16px;"><strong data-end="744" data-start="730">Матеріали:</strong>&nbsp;ніж виготовлений із високоякісної японської високовуглецевої нержавіючої сталі твердістю близько&nbsp;<strong data-end="852" data-start="842">58 HRC</strong>, що забезпечує тривале збереження гостроти, стійкість до корозії та довговічність.&nbsp;</span></p>
+
+<p data-end="1237" data-is-last-node="" data-is-only-node="" data-start="975"><span style="font-size:16px;"><strong data-end="991" data-start="975">Особливості:</strong>&nbsp;модель входить до преміальної серії&nbsp;<strong data-end="1049" data-start="1028">Fiskars All Steel</strong>, поєднуючи сучасний мінімалістичний дизайн, професійну продуктивність і довговічність. Для збереження ріжучих властивостей рекомендовано ручне миття</span></p>]]></description>
+        <description_ua><![CDATA[<p data-end="249" data-start="0"><span style="font-size:16px;"><strong><span style="font-size:18px;">Ніж сантоку Fiskars Cleaver All Steel 16 см 1075834</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002020585)</span> &mdash; універсальний кухонний ніж азіатського типу для точного нарізання, шинкування та подрібнення м&#39;яса, риби, овочів і зелені під час щоденного приготування страв.&nbsp;</span></p>
+
+<p data-end="479" data-start="251"><span style="font-size:16px;"><strong data-end="267" data-start="251">Призначення:</strong>&nbsp;підходить для нарізання, шинкування та порціонування овочів, м&#39;яса без кісток, риби й інших продуктів. Широке лезо дозволяє зручно переносити нарізані інгредієнти до посуду.&nbsp;</span></p>
+
+<p data-end="728" data-start="481"><span style="font-size:16px;"><strong data-end="497" data-start="481">Конструкція:</strong>&nbsp;широке лезо Santoku довжиною 16 см забезпечує точний і контрольований різ. Цільнометалева безшовна конструкція гарантує оптимальний баланс, комфортне утримання та високий рівень гігієнічності.&nbsp;</span></p>
+
+<p data-end="973" data-start="730"><span style="font-size:16px;"><strong data-end="744" data-start="730">Матеріали:</strong>&nbsp;ніж виготовлений із високоякісної японської високовуглецевої нержавіючої сталі твердістю близько&nbsp;<strong data-end="852" data-start="842">58 HRC</strong>, що забезпечує тривале збереження гостроти, стійкість до корозії та довговічність.&nbsp;</span></p>
+
+<p data-end="1237" data-is-last-node="" data-is-only-node="" data-start="975"><span style="font-size:16px;"><strong data-end="991" data-start="975">Особливості:</strong>&nbsp;модель входить до преміальної серії&nbsp;<strong data-end="1049" data-start="1028">Fiskars All Steel</strong>, поєднуючи сучасний мінімалістичний дизайн, професійну продуктивність і довговічність. Для збереження ріжучих властивостей рекомендовано ручне миття</span></p>]]></description_ua>
         <param name="Артикул">1075834</param>
         <param name="Штрихкод">6424002020585</param>
         <param name="Бренд">Fiskars</param>
@@ -2416,7 +2448,7 @@
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
-        <picture>https://fiskars-gratis.com.ua/content/images/10/nizh-dlia-shef-kukharia-velykyi-folken-fsc-20-sm-71864640320676_+23e4e76907.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/10/nizh-dlia-shef-kukharia-velykyi-folken-fsc-20-sm-72655615079185_+7622d4b7f4.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/10/nizh-dlia-shef-kukharia-velykyi-folken-fsc-20-sm-37753036985027_+33d2064a28.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/10/nizh-dlia-shef-kukharia-velykyi-folken-fsc-20-sm-51889321312752_+6ec93a4559.png</picture>
         <picture>https://fiskars-gratis.com.ua/content/images/10/nizh-dlia-shef-kukharia-velykyi-folken-fsc-20-sm-35999532274923_+7ce8fff9e7.png</picture>
@@ -2425,8 +2457,28 @@
         <article>1075696</article>
         <name>Ніж для шеф-кухаря великий Folken FSC 20 см (1075696)</name>
         <name_ua>Ніж для шеф-кухаря великий Folken FSC 20 см (1075696)</name_ua>
-        <description><![CDATA[<p><strong></strong><strong><span style="font-size:18px;">Ніж для шеф-кухаря великий Folken FSC 20 см 1075696</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002020349)</span> &mdash; універсальний кухонний ніж, призначений для більшості щоденних завдань із нарізання та підготовки продуктів. Поєднує якісне лезо з німецької нержавіючої сталі та ергономічну ручку з термообробленого клена, сертифікованого FSC.</p> <p><strong>Призначення:</strong>&nbsp;підходить для нарізання м&#39;яса, риби, овочів, фруктів, зелені та інших продуктів. Завдяки універсальній формі леза може використовуватися для більшості кухонних завдань.</p> <p><strong>Конструкція:</strong>&nbsp;ніж має універсальне лезо довжиною 20 см, розраховане на точне та контрольоване нарізання. Ергономічна конструкція ручки забезпечує комфортне утримання ножа під час тривалої роботи та сприяє стабільності рухів.</p> <p><strong>Матеріали:</strong>&nbsp;лезо виготовлене з високоякісної німецької нержавіючої сталі. Ручка виготовлена з термообробленого клена, сертифікованого FSC.</p> <p><strong>Особливості:</strong>&nbsp;універсальна модель серії Folken, призначена для більшості завдань із нарізання продуктів. Довжина леза &mdash; 20 см, загальна довжина ножа &mdash; 32,4 см, вага &mdash; 260 г. Для збереження властивостей дерев&#39;яної ручки рекомендоване ручне миття.</p> <p><strong>Комплектація:</strong>&nbsp;ніж для шеф-кухаря Fiskars Folken FSC 20 см.</p>]]></description>
-        <description_ua><![CDATA[<p><strong></strong><strong><span style="font-size:18px;">Ніж для шеф-кухаря великий Folken FSC 20 см 1075696</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002020349)</span> &mdash; універсальний кухонний ніж, призначений для більшості щоденних завдань із нарізання та підготовки продуктів. Поєднує якісне лезо з німецької нержавіючої сталі та ергономічну ручку з термообробленого клена, сертифікованого FSC.</p> <p><strong>Призначення:</strong>&nbsp;підходить для нарізання м&#39;яса, риби, овочів, фруктів, зелені та інших продуктів. Завдяки універсальній формі леза може використовуватися для більшості кухонних завдань.</p> <p><strong>Конструкція:</strong>&nbsp;ніж має універсальне лезо довжиною 20 см, розраховане на точне та контрольоване нарізання. Ергономічна конструкція ручки забезпечує комфортне утримання ножа під час тривалої роботи та сприяє стабільності рухів.</p> <p><strong>Матеріали:</strong>&nbsp;лезо виготовлене з високоякісної німецької нержавіючої сталі. Ручка виготовлена з термообробленого клена, сертифікованого FSC.</p> <p><strong>Особливості:</strong>&nbsp;універсальна модель серії Folken, призначена для більшості завдань із нарізання продуктів. Довжина леза &mdash; 20 см, загальна довжина ножа &mdash; 32,4 см, вага &mdash; 260 г. Для збереження властивостей дерев&#39;яної ручки рекомендоване ручне миття.</p> <p><strong>Комплектація:</strong>&nbsp;ніж для шеф-кухаря Fiskars Folken FSC 20 см.</p>]]></description_ua>
+        <description><![CDATA[<p><strong><span style="font-size:18px;">Ніж для шеф-кухаря великий Folken FSC 20 см 1075696</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002020349)</span> &mdash; універсальний кухонний ніж, призначений для більшості щоденних завдань із нарізання та підготовки продуктів. Поєднує якісне лезо з німецької нержавіючої сталі та ергономічну ручку з термообробленого клена, сертифікованого FSC.</p>
+
+<p><strong>Призначення:</strong>&nbsp;підходить для нарізання м&#39;яса, риби, овочів, фруктів, зелені та інших продуктів. Завдяки універсальній формі леза може використовуватися для більшості кухонних завдань.</p>
+
+<p><strong>Конструкція:</strong>&nbsp;ніж має універсальне лезо довжиною 20 см, розраховане на точне та контрольоване нарізання. Ергономічна конструкція ручки забезпечує комфортне утримання ножа під час тривалої роботи та сприяє стабільності рухів.</p>
+
+<p><strong>Матеріали:</strong>&nbsp;лезо виготовлене з високоякісної німецької нержавіючої сталі. Ручка виготовлена з термообробленого клена, сертифікованого FSC.</p>
+
+<p><strong>Особливості:</strong>&nbsp;універсальна модель серії Folken, призначена для більшості завдань із нарізання продуктів. Довжина леза &mdash; 20 см, загальна довжина ножа &mdash; 32,4 см, вага &mdash; 260 г. Для збереження властивостей дерев&#39;яної ручки рекомендоване ручне миття.</p>
+
+<p><strong>Комплектація:</strong>&nbsp;ніж для шеф-кухаря Fiskars Folken FSC 20 см.</p>]]></description>
+        <description_ua><![CDATA[<p><strong><span style="font-size:18px;">Ніж для шеф-кухаря великий Folken FSC 20 см 1075696</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002020349)</span> &mdash; універсальний кухонний ніж, призначений для більшості щоденних завдань із нарізання та підготовки продуктів. Поєднує якісне лезо з німецької нержавіючої сталі та ергономічну ручку з термообробленого клена, сертифікованого FSC.</p>
+
+<p><strong>Призначення:</strong>&nbsp;підходить для нарізання м&#39;яса, риби, овочів, фруктів, зелені та інших продуктів. Завдяки універсальній формі леза може використовуватися для більшості кухонних завдань.</p>
+
+<p><strong>Конструкція:</strong>&nbsp;ніж має універсальне лезо довжиною 20 см, розраховане на точне та контрольоване нарізання. Ергономічна конструкція ручки забезпечує комфортне утримання ножа під час тривалої роботи та сприяє стабільності рухів.</p>
+
+<p><strong>Матеріали:</strong>&nbsp;лезо виготовлене з високоякісної німецької нержавіючої сталі. Ручка виготовлена з термообробленого клена, сертифікованого FSC.</p>
+
+<p><strong>Особливості:</strong>&nbsp;універсальна модель серії Folken, призначена для більшості завдань із нарізання продуктів. Довжина леза &mdash; 20 см, загальна довжина ножа &mdash; 32,4 см, вага &mdash; 260 г. Для збереження властивостей дерев&#39;яної ручки рекомендоване ручне миття.</p>
+
+<p><strong>Комплектація:</strong>&nbsp;ніж для шеф-кухаря Fiskars Folken FSC 20 см.</p>]]></description_ua>
         <param name="Артикул">1075696</param>
         <param name="Штрихкод">6424002020349</param>
         <param name="Бренд">Fiskars</param>
