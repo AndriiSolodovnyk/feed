@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-28 22:58">
+<yml_catalog date="2026-10-29 02:19">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -411,7 +411,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-folken-28-sm/</url>
         <price>4699</price>
         <price_old>5250</price_old>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/skovoroda-chavunna-folken-28-sm-13664419520656_+3205aa32ac.png</picture>
@@ -1338,7 +1338,7 @@
       <offer id="1059843" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-affinity-copper-box-1059843/</url>
         <price>3099</price>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-23998092373630_+a23455d0d6.jpg</picture>
@@ -2190,7 +2190,7 @@
         <url>https://fiskars-gratis.com.ua/piler-y-obraznyi/</url>
         <price>399</price>
         <price_old>483</price_old>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-23398994564838_+cd29e570ed.png</picture>
@@ -2268,7 +2268,7 @@
         <url>https://fiskars-gratis.com.ua/piler-z-rukhomym-lezom-dlia-frukitv/</url>
         <price>399</price>
         <price_old>483</price_old>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/piler-z-rukhomym-lezom-dlia-frukitv-34529575669857_+3ec7fd5089.png</picture>
@@ -3239,7 +3239,7 @@
         <url>https://fiskars-gratis.com.ua/vydelka-turystychna-gerber-devour-1028483/</url>
         <price>799</price>
         <price_old>1299</price_old>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1013</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/25/vydelka-turystychna-gerber-devour-1028483-42051246428676_+d33cdbe56a.jpg</picture>

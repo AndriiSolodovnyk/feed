@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-28 22:58">
+<yml_catalog date="2026-10-29 02:19">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -544,7 +544,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>552</quantity_in_stock>
+    <quantity_in_stock>551</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -2155,7 +2155,7 @@
     <price>3099</price>
     <currencyId>UAH</currencyId>
     <categoryId>1107</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-23998092373630_+a23455d0d6.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-71985519088056_+f8eb4472d0.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-44193185688875_+50d7425de2.jpg</picture>
@@ -2476,7 +2476,7 @@
     <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/25/vydelka-turystychna-gerber-devour-1028483-42051246428676_+d33cdbe56a.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/25/vydelka-turystychna-gerber-devour-1028483-97758557219523_+2578e4aa15.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/25/vydelka-turystychna-gerber-devour-1028483-78863889484994_+89e8b4d4a5.jpg</picture>
@@ -2749,7 +2749,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-53694152285206_+37c40f9a10.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-85757459351668_+5e352d45ba.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-26004454274135_+7b1a04a4da.jpeg</picture>
@@ -3469,7 +3469,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>63</quantity_in_stock>
+    <quantity_in_stock>58</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643_+7c9ca353de.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-71214196768880_+3a4d4a7cc9.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-58483850974172_+ef36107030.jpeg</picture>
@@ -3833,7 +3833,7 @@
     <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>108</quantity_in_stock>
+    <quantity_in_stock>106</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -4475,7 +4475,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-80695237000335_+d0c22218b0.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-81989570160123_+c25762c351.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-99438660751733_+ddd99affaf.png</picture>
@@ -4499,7 +4499,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330_+0cb49eabd7.png</picture>
     <dimensions>
      <weight unit="kg">0.805</weight>
@@ -5563,7 +5563,7 @@
     <price>1156</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>118</quantity_in_stock>
+    <quantity_in_stock>117</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/hrabli-dlia-lystia-fiskars-ergo-57942774128057_+5880d55b43.png</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -6000,7 +6000,7 @@
     <price>4699</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/22/skovoroda-chavunna-folken-28-sm-13664419520656_+3205aa32ac.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/skovoroda-chavunna-folken-28-sm-92635799794901_+a559ce89dd.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/skovoroda-chavunna-folken-28-sm-59600106578551_+606f5d32ab.png</picture>
@@ -6514,7 +6514,7 @@
     <price>399</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-23398994564838_+cd29e570ed.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-92330606287954_+b8534dcc67.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-75152807155931_+f44773385f.png</picture>
@@ -6592,7 +6592,7 @@
     <price>399</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/45/piler-z-rukhomym-lezom-dlia-frukitv-34529575669857_+3ec7fd5089.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/45/piler-z-rukhomym-lezom-dlia-frukitv-69747042930679_+ad681d3adf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/45/piler-z-rukhomym-lezom-dlia-frukitv-28732971144843_+aca43a7424.png</picture>
@@ -7095,7 +7095,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>888</quantity_in_stock>
+    <quantity_in_stock>887</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -7145,7 +7145,7 @@
     <price>499</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-manikiurni-vyhnuti-80284227185116_+5d48223f65.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-manikiurni-vyhnuti-98640353625094_+2102b2bd66.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nozhytsi-manikiurni-vyhnuti-46190392568213_+47bceb5b7b.png</picture>
@@ -7502,7 +7502,7 @@
     <price>749</price>
     <currencyId>UAH</currencyId>
     <categoryId>1089</categoryId>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/39/motyka-ergo-24999646370952_+081b7ba5a1.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/39/motyka-ergo-11166873069109_+1358f6b6e4.png</picture>
     <dimensions>
@@ -7593,7 +7593,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/43/nozhytsi-fiskars-375-21-sm-52604055440987_+7b6c784840.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/43/nozhytsi-fiskars-375-21-sm-22832355475112_+6aef624f45.png</picture>
     <dimensions>
@@ -7715,7 +7715,7 @@
     <price>1199</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/lopata-sovkova-fiskars-prima-chorna-fsc-90945748490249_+42146e29f2.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/lopata-sovkova-fiskars-prima-chorna-fsc-93674592183391_+090d03a954.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/lopata-sovkova-fiskars-prima-chorna-fsc-45446557427465_+2d82ca1072.png</picture>
@@ -7742,7 +7742,7 @@
     <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>90</quantity_in_stock>
+    <quantity_in_stock>88</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-17131597943110_+167e84e65d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-94903583528626_+4e4f781015.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-81496573318508_+2bea131b87.png</picture>
@@ -7887,7 +7887,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-33512893616603_+51463e480d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-60487590035005_+6cc650d24d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-99659829587933_+63215a1ca9.png</picture>
@@ -7929,7 +7929,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>20</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-68825027967585_+02c668ef12.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-83756400918725_+e678e0def8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-12622172661488_+937825116e.png</picture>
@@ -8012,7 +8012,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/5/nozhytsi-dlia-zhyvoplotu-powergear-hs72sokyra-tesliarska-solida10-71932673917419_+54180165d6.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/5/nozhytsi-dlia-zhyvoplotu-powergear-hs72sokyra-tesliarska-solida10-63885160276658_+0ab5c20689.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/5/nozhytsi-dlia-zhyvoplotu-powergear-hs72sokyra-tesliarska-solida10-79673787318144_+eca3706fc9.png</picture>
@@ -8054,7 +8054,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-66856692547031_+f0de17be15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-52724028681852_+f6ef372b50.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-26853019685921_+84c62f42b9.png</picture>
@@ -8093,7 +8093,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>27</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-86642605311000_+ca12383c19.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-89409643592159_+6bfe4ec5df.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-64265084868992_+0a3e982128.png</picture>
@@ -8182,7 +8182,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/13/sokyra-kolun-solid-a18lopata-sadova-klasychna-fiskars-fsc-29797010726143_+c191274e9a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/13/sokyra-kolun-solid-a18lopata-sadova-klasychna-fiskars-fsc-61809092785125_+b196cf6157.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/13/sokyra-kolun-solid-a18lopata-sadova-klasychna-fiskars-fsc-21812705429517_+7b1c884e43.png</picture>
@@ -8217,25 +8217,6 @@
     <name_ua><![CDATA[Набір Fiskars: Сокира-колун Solid A18 1052045 + Ніж філейний Gerber Ceviche 9" 1063145]]></name_ua>
     <description_ua><![CDATA[<p><strong>Сокира-колун Solid A18+Ніж Ceviche 9",E,Box,GRN,BLK - (штрихкод 6411501310835)</strong> - <strong>Сокира-колун Solid A18+Ніж Ceviche 9",E,Box,GRN,BLK</strong> -набір Fiskars та Gerbe<strong>r</strong>&nbsp;для роботи з деревиною та виконання господарських завдань. Практичне поєднання сокири-колуна для заготівлі дров і компактного ножа для повсякденного використання.</p> <p><strong>Опис набору</strong></p> <p>Набір включає сокиру-колун Fiskars Solid A18 та ніж Gerber Ceviche 9". Сокира призначена для розколювання деревини та заготівлі дров, а ніж підходить для різноманітних побутових, туристичних і господарських завдань. Інструменти доповнюють один одного та стануть у пригоді вдома, на дачі чи під час виїздів на природу.</p> <p><strong>Що входить у комплект</strong></p> <p>Набір включає два практичні інструменти для різних завдань. Кожен елемент має своє призначення та може використовуватися окремо.</p> <p><a href="https://fiskars-gratis.com.ua/sokyra-kolun-solid-a18/"><strong>Сокира-колун Fiskars Solid A18</strong></a></p> <p>Сокира-колун для розколювання колод і полін та заготівлі дров. Спеціальна форма леза спрямована на ефективне розколювання деревини, а міцна конструкція підходить для регулярного використання.</p> <p><a href="https://fiskars-gratis.com.ua/nizh-gerber-ceviche-9eboxgrnblk-1063145/"><strong>Ніж Gerber Ceviche 9", E, Box, GRN, BLK</strong></a></p> <p>Практичний ніж Gerber Ceviche для повсякденних і господарських завдань. Компактний формат робить його зручним для використання вдома, на природі та під час різних робіт, де потрібен надійний ріжучий інструмент.</p> <p><strong>Застосування</strong></p> <p>Набір використовується для виконання різноманітних господарських і побутових завдань.</p> <ol> <li> <p>Розколювання деревини та заготівля дров.</p> </li> <li> <p>Робота з колодами та полінами.</p> </li> <li> <p>Виконання побутових і господарських робіт ножем.</p> </li> <li> <p>Використання під час відпочинку на природі та виїздів за місто.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сокири-колуна та ножа.</p> </li> <li> <p>Підходить для дому, дачі та відпочинку на природі.</p> </li> <li> <p>Сокира ефективна для розколювання деревини.</p> </li> <li> <p>Ніж зручний для повсякденних завдань.</p> </li> <li> <p>Два універсальні інструменти в одному наборі.</p> </li> </ol>]]></description_ua>
    </offer>
-<offer id="1027528102349" group_id="79489" available="true">
-    <url>https://fiskars-gratis.com.ua/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi/</url>
-    <oldprice>3699</oldprice>
-    <price>1499</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1192</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432_+d153e7aa15.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-96260386852426_+8bc07edb90.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-79179470127551_+08e280bb6b.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-18467658791252_+e7f1b34905.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-97122179690787_+ab7744cd18.png</picture>
-    <vendorCode>1027528102349</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Набір Fiskars: Гілкоріз площинний телескопічний Solid L13 1027528 + Граблі великі для листя М помаранчеві 1023492]]></name>
-    <description><![CDATA[<p><strong>Сучкоріз площинний телескопічний Solid L13+Граблі великі для листя М помаранчеві - (штрихкод 6411501310835)</strong> - набір Fiskars&nbsp;для догляду за садом та підтримання чистоти на ділянці. Практичне рішення для обрізання гілок і прибирання листя та садового сміття.</p> <p><strong>Опис набору Fiskars</strong></p> <p>Набір Fiskars включає сучкоріз площинний телескопічний Solid L13 та великі граблі для листя M. Сучкоріз призначений для обрізання гілок дерев і кущів, а граблі &mdash; для збирання опалого листя, трави та іншого садового сміття. Інструменти доповнюють один одного та підходять для регулярного догляду за ділянкою.</p> <p><strong>Що входить у комплект</strong></p> <p>Набір включає два практичні інструменти для садових робіт. Кожен елемент виконує свою функцію та допомагає підтримувати порядок на ділянці.</p> <p><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13/"><strong>Сучкоріз площинний телескопічний Fiskars Solid L13</strong></a></p> <p>Телескопічний сучкоріз для обрізання гілок дерев і кущів. Площинний тип різання забезпечує точний зріз, а телескопічна конструкція дозволяє працювати з гілками на висоті та у важкодоступних місцях.</p> <p><a href="https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492/"><strong>Граблі великі для листя Fiskars M</strong></a></p> <p>Великі граблі для збирання опалого листя, трави та садового сміття. Широка робоча частина допомагає охоплювати більшу площу під час прибирання, що робить інструмент зручним для догляду за газоном і садом.</p> <p><strong>Застосування</strong></p> <p>Набір використовується для виконання основних робіт із догляду за садом.</p> <ol> <li> <p>Обрізання гілок дерев і кущів.</p> </li> <li> <p>Збирання опалого листя та трави.</p> </li> <li> <p>Очищення газону й садової ділянки.</p> </li> <li> <p>Підтримання порядку на території протягом сезону.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сучкоріза та граблів.</p> </li> <li> <p>Підходить для саду, газону та дачної ділянки.</p> </li> <li> <p>Телескопічний сучкоріз зручний для роботи з гілками на висоті.</p> </li> <li> <p>Широкі граблі дозволяють швидко прибирати листя з великої площі.</p> </li> <li> <p>Універсальний набір для регулярного догляду за територією.</p> </li> </ol>]]></description>
-    <name_ua><![CDATA[Набір Fiskars: Гілкоріз площинний телескопічний Solid L13 1027528 + Граблі великі для листя М помаранчеві 1023492]]></name_ua>
-    <description_ua><![CDATA[<p><strong>Сучкоріз площинний телескопічний Solid L13+Граблі великі для листя М помаранчеві - (штрихкод 6411501310835)</strong> - набір Fiskars&nbsp;для догляду за садом та підтримання чистоти на ділянці. Практичне рішення для обрізання гілок і прибирання листя та садового сміття.</p> <p><strong>Опис набору Fiskars</strong></p> <p>Набір Fiskars включає сучкоріз площинний телескопічний Solid L13 та великі граблі для листя M. Сучкоріз призначений для обрізання гілок дерев і кущів, а граблі &mdash; для збирання опалого листя, трави та іншого садового сміття. Інструменти доповнюють один одного та підходять для регулярного догляду за ділянкою.</p> <p><strong>Що входить у комплект</strong></p> <p>Набір включає два практичні інструменти для садових робіт. Кожен елемент виконує свою функцію та допомагає підтримувати порядок на ділянці.</p> <p><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13/"><strong>Сучкоріз площинний телескопічний Fiskars Solid L13</strong></a></p> <p>Телескопічний сучкоріз для обрізання гілок дерев і кущів. Площинний тип різання забезпечує точний зріз, а телескопічна конструкція дозволяє працювати з гілками на висоті та у важкодоступних місцях.</p> <p><a href="https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492/"><strong>Граблі великі для листя Fiskars M</strong></a></p> <p>Великі граблі для збирання опалого листя, трави та садового сміття. Широка робоча частина допомагає охоплювати більшу площу під час прибирання, що робить інструмент зручним для догляду за газоном і садом.</p> <p><strong>Застосування</strong></p> <p>Набір використовується для виконання основних робіт із догляду за садом.</p> <ol> <li> <p>Обрізання гілок дерев і кущів.</p> </li> <li> <p>Збирання опалого листя та трави.</p> </li> <li> <p>Очищення газону й садової ділянки.</p> </li> <li> <p>Підтримання порядку на території протягом сезону.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сучкоріза та граблів.</p> </li> <li> <p>Підходить для саду, газону та дачної ділянки.</p> </li> <li> <p>Телескопічний сучкоріз зручний для роботи з гілками на висоті.</p> </li> <li> <p>Широкі граблі дозволяють швидко прибирати листя з великої площі.</p> </li> <li> <p>Універсальний набір для регулярного догляду за територією.</p> </li> </ol>]]></description_ua>
-   </offer>
 <offer id="1027528107192" group_id="80489" available="true">
     <url>https://fiskars-gratis.com.ua/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc/</url>
     <oldprice>2999</oldprice>
@@ -8260,7 +8241,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
@@ -8279,7 +8260,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-68712988809834_+0b31b52540.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-46234444984194_+df1d982d30.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-66343082443110_+89bfe7cbf2.png</picture>
@@ -9053,6 +9034,25 @@
     <description><![CDATA[<p data-end="359" data-start="20"><strong data-end="62" data-start="20"></strong><strong><span style="font-size:18px;">Набір ножиць Фіскарс 1003031</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501989307)</span> &mdash; практичний комплект із двох ножиць для різноманітних побутових, швейних, творчих та офісних завдань. У набір входять універсальні ножиці довжиною 21 см та компактні швейні ножиці 13 см, що дозволяє використовувати комплект для різних видів точного різання.&nbsp;</p> <p data-end="646" data-start="361"><strong data-end="377" data-start="361">Призначення:</strong>&nbsp;універсальні ножиці підходять для різання паперу, картону, тканини, ламінованих матеріалів та інших матеріалів. Швейні ножиці призначені для точних робіт, зокрема обрізання ниток, виконання невеликих надрізів та роботи з тканиною.&nbsp;</p> <p data-end="944" data-start="648"><strong data-end="664" data-start="648">Конструкція:</strong>&nbsp;до набору входять дві моделі ножиць різного розміру. Універсальні ножиці мають довші леза для виконання стандартних ріжучих робіт, а компактні швейні ножиці з гострим кінчиком призначені для точного різання та роботи у важкодоступних місцях.&nbsp;</p> <p data-end="1185" data-start="946"><strong data-end="960" data-start="946">Матеріали:</strong>&nbsp;леза виготовлені з високоякісної нержавіючої сталі твердістю HRC 57. Ручки виготовлені з міцного пластику. Леза загартовані та відполіровані для забезпечення точного й тривалого різання.&nbsp;</p> <p data-end="1488" data-start="1187"><strong data-end="1203" data-start="1187">Особливості:</strong>&nbsp;набір складається з двох ножиць &mdash; універсальних довжиною 21 см та швейних довжиною 13 см. Конструкція підходить як для побутового використання, так і для рукоділля, шиття, офісних та творчих робіт. Ножиці придатні для миття в посудомийній машині.&nbsp;</p>]]></description>
     <name_ua><![CDATA[Набір ножиць Фіскарс (1003031)]]></name_ua>
     <description_ua><![CDATA[<p data-end="359" data-start="20"><strong data-end="62" data-start="20"></strong><strong><span style="font-size:18px;">Набір ножиць Фіскарс 1003031</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501989307)</span> &mdash; практичний комплект із двох ножиць для різноманітних побутових, швейних, творчих та офісних завдань. У набір входять універсальні ножиці довжиною 21 см та компактні швейні ножиці 13 см, що дозволяє використовувати комплект для різних видів точного різання.&nbsp;</p> <p data-end="646" data-start="361"><strong data-end="377" data-start="361">Призначення:</strong>&nbsp;універсальні ножиці підходять для різання паперу, картону, тканини, ламінованих матеріалів та інших матеріалів. Швейні ножиці призначені для точних робіт, зокрема обрізання ниток, виконання невеликих надрізів та роботи з тканиною.&nbsp;</p> <p data-end="944" data-start="648"><strong data-end="664" data-start="648">Конструкція:</strong>&nbsp;до набору входять дві моделі ножиць різного розміру. Універсальні ножиці мають довші леза для виконання стандартних ріжучих робіт, а компактні швейні ножиці з гострим кінчиком призначені для точного різання та роботи у важкодоступних місцях.&nbsp;</p> <p data-end="1185" data-start="946"><strong data-end="960" data-start="946">Матеріали:</strong>&nbsp;леза виготовлені з високоякісної нержавіючої сталі твердістю HRC 57. Ручки виготовлені з міцного пластику. Леза загартовані та відполіровані для забезпечення точного й тривалого різання.&nbsp;</p> <p data-end="1488" data-start="1187"><strong data-end="1203" data-start="1187">Особливості:</strong>&nbsp;набір складається з двох ножиць &mdash; універсальних довжиною 21 см та швейних довжиною 13 см. Конструкція підходить як для побутового використання, так і для рукоділля, шиття, офісних та творчих робіт. Ножиці придатні для миття в посудомийній машині.&nbsp;</p>]]></description_ua>
+   </offer>
+<offer id="1027528102349" group_id="79489" available="">
+    <url>https://fiskars-gratis.com.ua/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi/</url>
+    <oldprice>3699</oldprice>
+    <price>1499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1192</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-70860386536432_+d153e7aa15.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-96260386852426_+8bc07edb90.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-79179470127551_+08e280bb6b.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-18467658791252_+e7f1b34905.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/15/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13hrabli-velyki-dlia-lystia-m-pomaranchevi-97122179690787_+ab7744cd18.png</picture>
+    <vendorCode>1027528102349</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Набір Fiskars: Гілкоріз площинний телескопічний Solid L13 1027528 + Граблі великі для листя М помаранчеві 1023492]]></name>
+    <description><![CDATA[<p><strong>Сучкоріз площинний телескопічний Solid L13+Граблі великі для листя М помаранчеві - (штрихкод 6411501310835)</strong> - набір Fiskars&nbsp;для догляду за садом та підтримання чистоти на ділянці. Практичне рішення для обрізання гілок і прибирання листя та садового сміття.</p> <p><strong>Опис набору Fiskars</strong></p> <p>Набір Fiskars включає сучкоріз площинний телескопічний Solid L13 та великі граблі для листя M. Сучкоріз призначений для обрізання гілок дерев і кущів, а граблі &mdash; для збирання опалого листя, трави та іншого садового сміття. Інструменти доповнюють один одного та підходять для регулярного догляду за ділянкою.</p> <p><strong>Що входить у комплект</strong></p> <p>Набір включає два практичні інструменти для садових робіт. Кожен елемент виконує свою функцію та допомагає підтримувати порядок на ділянці.</p> <p><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13/"><strong>Сучкоріз площинний телескопічний Fiskars Solid L13</strong></a></p> <p>Телескопічний сучкоріз для обрізання гілок дерев і кущів. Площинний тип різання забезпечує точний зріз, а телескопічна конструкція дозволяє працювати з гілками на висоті та у важкодоступних місцях.</p> <p><a href="https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492/"><strong>Граблі великі для листя Fiskars M</strong></a></p> <p>Великі граблі для збирання опалого листя, трави та садового сміття. Широка робоча частина допомагає охоплювати більшу площу під час прибирання, що робить інструмент зручним для догляду за газоном і садом.</p> <p><strong>Застосування</strong></p> <p>Набір використовується для виконання основних робіт із догляду за садом.</p> <ol> <li> <p>Обрізання гілок дерев і кущів.</p> </li> <li> <p>Збирання опалого листя та трави.</p> </li> <li> <p>Очищення газону й садової ділянки.</p> </li> <li> <p>Підтримання порядку на території протягом сезону.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сучкоріза та граблів.</p> </li> <li> <p>Підходить для саду, газону та дачної ділянки.</p> </li> <li> <p>Телескопічний сучкоріз зручний для роботи з гілками на висоті.</p> </li> <li> <p>Широкі граблі дозволяють швидко прибирати листя з великої площі.</p> </li> <li> <p>Універсальний набір для регулярного догляду за територією.</p> </li> </ol>]]></description>
+    <name_ua><![CDATA[Набір Fiskars: Гілкоріз площинний телескопічний Solid L13 1027528 + Граблі великі для листя М помаранчеві 1023492]]></name_ua>
+    <description_ua><![CDATA[<p><strong>Сучкоріз площинний телескопічний Solid L13+Граблі великі для листя М помаранчеві - (штрихкод 6411501310835)</strong> - набір Fiskars&nbsp;для догляду за садом та підтримання чистоти на ділянці. Практичне рішення для обрізання гілок і прибирання листя та садового сміття.</p> <p><strong>Опис набору Fiskars</strong></p> <p>Набір Fiskars включає сучкоріз площинний телескопічний Solid L13 та великі граблі для листя M. Сучкоріз призначений для обрізання гілок дерев і кущів, а граблі &mdash; для збирання опалого листя, трави та іншого садового сміття. Інструменти доповнюють один одного та підходять для регулярного догляду за ділянкою.</p> <p><strong>Що входить у комплект</strong></p> <p>Набір включає два практичні інструменти для садових робіт. Кожен елемент виконує свою функцію та допомагає підтримувати порядок на ділянці.</p> <p><a href="https://fiskars-gratis.com.ua/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13/"><strong>Сучкоріз площинний телескопічний Fiskars Solid L13</strong></a></p> <p>Телескопічний сучкоріз для обрізання гілок дерев і кущів. Площинний тип різання забезпечує точний зріз, а телескопічна конструкція дозволяє працювати з гілками на висоті та у важкодоступних місцях.</p> <p><a href="https://fiskars-gratis.com.ua/hrabli-velyki-dlia-lystia-fiskars-m-pomaranchevi-1023492/"><strong>Граблі великі для листя Fiskars M</strong></a></p> <p>Великі граблі для збирання опалого листя, трави та садового сміття. Широка робоча частина допомагає охоплювати більшу площу під час прибирання, що робить інструмент зручним для догляду за газоном і садом.</p> <p><strong>Застосування</strong></p> <p>Набір використовується для виконання основних робіт із догляду за садом.</p> <ol> <li> <p>Обрізання гілок дерев і кущів.</p> </li> <li> <p>Збирання опалого листя та трави.</p> </li> <li> <p>Очищення газону й садової ділянки.</p> </li> <li> <p>Підтримання порядку на території протягом сезону.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сучкоріза та граблів.</p> </li> <li> <p>Підходить для саду, газону та дачної ділянки.</p> </li> <li> <p>Телескопічний сучкоріз зручний для роботи з гілками на висоті.</p> </li> <li> <p>Широкі граблі дозволяють швидко прибирати листя з великої площі.</p> </li> <li> <p>Універсальний набір для регулярного догляду за територією.</p> </li> </ol>]]></description_ua>
    </offer>
   </offers>
  </shop>
