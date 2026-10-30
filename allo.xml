@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-10-30 01:41</date>
+    <date>2026-10-30 08:16</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -1740,11 +1740,19 @@
             <barcode>6411501310125</barcode>
             <vendor>Fiskars</vendor>
             <name>Лопатка Fiskars Solid (1025563)</name>
-            <description><![CDATA[<p data-end="298" data-start="0"><span style="font-size:18px;"><strong data-end="35" data-start="0"></strong></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Лопатка Fiskars Solid 1025563</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501310125)</span> &mdash; ручний садовий інструмент для дрібних земляних і доглядових робіт у саду, на городі, у клумбах і контейнерах. Використовується для підсипання та переміщення ґрунту, розпушування верхнього шару, видалення бур&rsquo;янів і догляду за рослинами у важкодоступних місцях.</span></p> <p data-end="489" data-start="300"><span style="font-size:18px;"><strong data-end="316" data-start="300">Призначення:</strong> </span><span style="font-size:14px;">підходить для робіт малого масштабу &mdash; підготовки грядок і клумб до висаджування, заповнення лунок, розпушування ґрунту навколо рослин, роботи в теплицях і балконних ящиках.</span></p> <p data-end="756" data-start="491"><span style="font-size:18px;"><strong data-end="507" data-start="491">Конструкція:</strong> </span><span style="font-size:14px;">робоче вузьке полотно лопатки забезпечує контрольований захват ґрунту і точне направлення під час підсипання, переміщення та обробки ґрунту. Коротка ручка адаптована для комфортної ручної роботи з контролем рухів під час операцій близько до ґрунту.</span></p> <p data-end="943" data-start="758"><span style="font-size:18px;"><strong data-end="772" data-start="758">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена з міцного пластику, стійкого&nbsp;до механічного зношування та корозії при регулярному використанні. Руків&rsquo;я забезпечує надійний захват і контроль інструмента.</span></p> <p data-end="1108" data-is-last-node="" data-is-only-node="" data-start="945"><span style="font-size:18px;"><strong data-end="961" data-start="945">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичних дрібних садових і городніх робіт.</span></p>]]></description>
+            <description><![CDATA[<p data-end="298" data-start="0"><span style="font-size:14px;"><strong><span style="font-size:18px;">Лопатка Fiskars Solid 1025563</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501310125)</span> &mdash; ручний садовий інструмент для дрібних земляних і доглядових робіт у саду, на городі, у клумбах і контейнерах. Використовується для підсипання та переміщення ґрунту, розпушування верхнього шару, видалення бур&rsquo;янів і догляду за рослинами у важкодоступних місцях.</span></p>
+
+<p data-end="489" data-start="300"><span style="font-size:18px;"><strong data-end="316" data-start="300">Призначення:</strong> </span><span style="font-size:14px;">підходить для робіт малого масштабу &mdash; підготовки грядок і клумб до висаджування, заповнення лунок, розпушування ґрунту навколо рослин, роботи в теплицях і балконних ящиках.</span></p>
+
+<p data-end="756" data-start="491"><span style="font-size:18px;"><strong data-end="507" data-start="491">Конструкція:</strong> </span><span style="font-size:14px;">робоче вузьке полотно лопатки забезпечує контрольований захват ґрунту і точне направлення під час підсипання, переміщення та обробки ґрунту. Коротка ручка адаптована для комфортної ручної роботи з контролем рухів під час операцій близько до ґрунту.</span></p>
+
+<p data-end="943" data-start="758"><span style="font-size:18px;"><strong data-end="772" data-start="758">Матеріали:</strong> </span><span style="font-size:14px;">робоча частина виготовлена з міцного пластику, стійкого&nbsp;до механічного зношування та корозії при регулярному використанні. Руків&rsquo;я забезпечує надійний захват і контроль інструмента.</span></p>
+
+<p data-end="1108" data-is-last-node="" data-is-only-node="" data-start="945"><span style="font-size:18px;"><strong data-end="961" data-start="945">Особливості:</strong> </span><span style="font-size:14px;">інструмент належить до серії Solid бренду Fiskars та призначений для систематичних дрібних садових і городніх робіт.</span></p>]]></description>
             <url>https://fiskars-gratis.com.ua/lopatka-fiskars-solid-1025563/</url>
             <image>https://fiskars-gratis.com.ua/content/images/20/lopatka-fiskars-solid-1025563-57182449374359_+48018cd8f5.jpg</image>
             <priceRUAH>277</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1025563</param>
             <param name="Бренд">Fiskars</param>
@@ -7318,7 +7326,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-62731498058190_+6bfbb94ccc.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-13340143095728_+4eef4715b2.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1027528105108</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
