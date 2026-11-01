@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-31 22:19">
+<yml_catalog date="2026-11-01 01:58">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -2037,7 +2037,7 @@
       <offer id="1015987" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-miakoho-syru/</url>
         <price>630</price>
-        <stock_quantity>19</stock_quantity>
+        <stock_quantity>17</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-ff-dlia-miakoho-syru-29859177223056_+70b2739ef2.png</picture>
@@ -2268,7 +2268,7 @@
         <url>https://fiskars-gratis.com.ua/piler-z-rukhomym-lezom-dlia-frukitv/</url>
         <price>399</price>
         <price_old>483</price_old>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/45/piler-z-rukhomym-lezom-dlia-frukitv-34529575669857_+3ec7fd5089.png</picture>
@@ -3422,7 +3422,7 @@
         <url>https://fiskars-gratis.com.ua/shchyptsi-dlia-hrylia-norden-grill/</url>
         <price>1999</price>
         <price_old>3865</price_old>
-        <stock_quantity>457</stock_quantity>
+        <stock_quantity>456</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33434838095190_+9f34370262.png</picture>
