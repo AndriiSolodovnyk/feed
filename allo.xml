@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-02 00:34</date>
+    <date>2026-11-02 07:27</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -6222,7 +6222,7 @@
 </ul>]]></description>
             <url>https://fiskars-gratis.com.ua/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax/</url>
             <image>https://fiskars-gratis.com.ua/content/images/17/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax-88650502944038_+868c055bb7.png</image>
-            <priceRUAH>699</priceRUAH>
+            <priceRUAH>799</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1062940106119</param>
@@ -8859,7 +8859,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-97102682085611_+76435984c2.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-14055728689450_+6f520272c2.png</image>
             <priceRUAH>566</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1016122</param>
             <param name="Бренд">Fiskars</param>

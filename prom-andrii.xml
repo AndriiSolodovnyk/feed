@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-02 00:34">
+<yml_catalog date="2026-11-02 07:27">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -229,7 +229,7 @@
     <price>649</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/27/vyla-korotki-solid-30245336963469_+61b3f9a06d.jpeg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -544,7 +544,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>543</quantity_in_stock>
+    <quantity_in_stock>542</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -654,7 +654,7 @@
     <price>1199</price>
     <currencyId>UAH</currencyId>
     <categoryId>1177</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-zahalnoho-pryznachennia-k40-fiskars-1001622-38969493694733_+aa39636bec.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-zahalnoho-pryznachennia-k40-fiskars-1001622-47422005984420_+b641539286.jpg</picture>
     <dimensions>
@@ -2340,7 +2340,7 @@
     <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-67183323000267_+700321228a.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-36019443437645_+4b19ad1864.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-42066089788938_+04073fe35d.jpg</picture>
@@ -3363,7 +3363,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>51</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/25/sokyra-tesliarskafiskars-solid-a10-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-58824550677247_+06d832a157.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/25/sokyra-tesliarskafiskars-solid-a10-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-50939081422758_+a8048719a0.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/25/sokyra-tesliarskafiskars-solid-a10-podarunok-lopata-sadova-shtykova-fiskars-classic-fsc-67204890403422_+f4a524f9ae.jpeg</picture>
@@ -3447,7 +3447,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>49</quantity_in_stock>
+    <quantity_in_stock>48</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643_+7c9ca353de.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-71214196768880_+3a4d4a7cc9.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-58483850974172_+ef36107030.jpeg</picture>
@@ -3785,7 +3785,7 @@
     <price>3999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>227</quantity_in_stock>
+    <quantity_in_stock>226</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-96933841307303_+2ea2f4228a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-41276274993577_+8061d7a49a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-56718764907761_+23de5f1a66.png</picture>
@@ -3811,7 +3811,7 @@
     <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>98</quantity_in_stock>
+    <quantity_in_stock>97</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -4453,7 +4453,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-80695237000335_+d0c22218b0.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-81989570160123_+c25762c351.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-99438660751733_+ddd99affaf.png</picture>
@@ -4477,7 +4477,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>7</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330_+0cb49eabd7.png</picture>
     <dimensions>
      <weight unit="kg">0.805</weight>
@@ -4563,7 +4563,7 @@
     <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>87</quantity_in_stock>
+    <quantity_in_stock>86</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -4605,7 +4605,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>19</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/46/hrabli-sadovi-ergonomic-1004809-68529857771138_+ff8f5607ad.jpeg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -4940,10 +4940,10 @@
 <offer id="1062940106119" group_id="41489" available="true">
     <url>https://fiskars-gratis.com.ua/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax/</url>
     <oldprice>2440</oldprice>
-    <price>699</price>
+    <price>799</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax-88650502944038_+868c055bb7.png</picture>
     <dimensions>
      <weight unit="kg">0.345</weight>
@@ -5000,29 +5000,6 @@
     <description><![CDATA[<p><strong><span style="font-size:18px;">Тримач телескопічний QuikFit L 1000665</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 5905568360328)</span></p> <p><span style="font-size:16px;"><strong>Телескопічний тримач Fiskars QuikFit&nbsp;L</strong>&nbsp;</span></p> <p><span style="font-size:16px;">Універсальна алюмінієва ручка для роботи з насадками системи QuikFit, яка дозволяє безпечно виконувати садові роботи на великій висоті без використання драбини. Завдяки регульованій довжині від&nbsp;<strong>230 до 400 см</strong>&nbsp;тримач забезпечує комфортну роботу та дозволяє досягати висоти&nbsp;<strong>до 6 метрів</strong>&nbsp;разом із користувачем.</span></p> <p><span style="font-size:16px;">Легка, але міцна конструкція з алюмінію зменшує навантаження на руки навіть під час тривалої роботи. Інноваційна система&nbsp;<strong>подвійного автоматичного блокування</strong>&nbsp;надійно фіксує як довжину тримача, так і насадку, гарантуючи максимальну безпеку під час експлуатації. Тримач сумісний з усіма робочими насадками серії&nbsp;<strong>Fiskars QuikFit</strong>, що робить його універсальним рішенням для обрізування гілок, очищення жолобів, збору фруктів, догляду за деревами та інших садових робіт.</span></p> <h3><span style="font-size:16px;">Переваги</span></h3> <ul data-spread="false"> <li><span style="font-size:16px;">Телескопічна конструкція з регулюванням довжини від&nbsp;<strong>230 до 400 см</strong>.</span></li> <li><span style="font-size:16px;">Робоча висота до&nbsp;<strong>6 метрів</strong>&nbsp;разом із користувачем.</span></li> <li><span style="font-size:16px;">Легка та міцна алюмінієва конструкція.</span></li> <li><span style="font-size:16px;">Подвійна система автоматичного блокування для надійної фіксації.</span></li> <li><span style="font-size:16px;">Сумісність з усіма насадками Fiskars QuikFit&trade;.</span></li> <li><span style="font-size:16px;">Дозволяє працювати на висоті без використання драбини.</span></li> <li><span style="font-size:16px;">Ергономічна конструкція для комфортної та безпечної роботи.</span></li> </ul> <h3>&nbsp;</h3>]]></description>
     <name_ua><![CDATA[Тримач телескопічний QuikFit L (1000665)]]></name_ua>
     <description_ua><![CDATA[<p><strong><span style="font-size:18px;">Тримач телескопічний QuikFit L 1000665</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 5905568360328)</span></p> <p><span style="font-size:16px;"><strong>Телескопічний тримач Fiskars QuikFit&nbsp;L</strong>&nbsp;</span></p> <p><span style="font-size:16px;">Універсальна алюмінієва ручка для роботи з насадками системи QuikFit, яка дозволяє безпечно виконувати садові роботи на великій висоті без використання драбини. Завдяки регульованій довжині від&nbsp;<strong>230 до 400 см</strong>&nbsp;тримач забезпечує комфортну роботу та дозволяє досягати висоти&nbsp;<strong>до 6 метрів</strong>&nbsp;разом із користувачем.</span></p> <p><span style="font-size:16px;">Легка, але міцна конструкція з алюмінію зменшує навантаження на руки навіть під час тривалої роботи. Інноваційна система&nbsp;<strong>подвійного автоматичного блокування</strong>&nbsp;надійно фіксує як довжину тримача, так і насадку, гарантуючи максимальну безпеку під час експлуатації. Тримач сумісний з усіма робочими насадками серії&nbsp;<strong>Fiskars QuikFit</strong>, що робить його універсальним рішенням для обрізування гілок, очищення жолобів, збору фруктів, догляду за деревами та інших садових робіт.</span></p> <h3><span style="font-size:16px;">Переваги</span></h3> <ul data-spread="false"> <li><span style="font-size:16px;">Телескопічна конструкція з регулюванням довжини від&nbsp;<strong>230 до 400 см</strong>.</span></li> <li><span style="font-size:16px;">Робоча висота до&nbsp;<strong>6 метрів</strong>&nbsp;разом із користувачем.</span></li> <li><span style="font-size:16px;">Легка та міцна алюмінієва конструкція.</span></li> <li><span style="font-size:16px;">Подвійна система автоматичного блокування для надійної фіксації.</span></li> <li><span style="font-size:16px;">Сумісність з усіма насадками Fiskars QuikFit&trade;.</span></li> <li><span style="font-size:16px;">Дозволяє працювати на висоті без використання драбини.</span></li> <li><span style="font-size:16px;">Ергономічна конструкція для комфортної та безпечної роботи.</span></li> </ul> <h3>&nbsp;</h3>]]></description_ua>
-   </offer>
-<offer id="1016122" group_id="44493" available="true">
-    <url>https://fiskars-gratis.com.ua/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form/</url>
-    <price>566</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1072</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-13914913650847_+804d1c9b68.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-97102682085611_+76435984c2.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-14055728689450_+6f520272c2.png</picture>
-    <dimensions>
-     <weight unit="kg">0.3</weight>
-     <width unit="cm">10</width>
-     <height unit="cm">3</height>
-     <length unit="cm">22</length>
-    </dimensions>
-    <vendorCode>1016122</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Ніж для чистки з поперечним рухомим лезом Functional Form (1016122)]]></name>
-    <description><![CDATA[<p><meta charset="UTF-8" /></p><h3 data-end="69" data-section-id="5oqw87" data-start="0"><span style="font-size:16px;"></span></h3><p data-end="365" data-start="81"><span style="font-size:16px;"><strong data-end="150" data-start="123"></strong><strong><span style="font-size:18px;">Ніж для чистки з поперечним рухомим лезом Functional Form 1016122</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002001799)</span> &mdash; практичний кухонний інструмент, який значно полегшує очищення овочів і фруктів. Поперечне рухоме лезо автоматично повторює контури продукту, забезпечуючи тонке та акуратне зрізання шкірки з мінімальними втратами.</span></p> <p data-end="693" data-start="367"><span style="font-size:16px;">Гостре лезо з високоякісної нержавіючої сталі легко справляється з картоплею, морквою, огірками, яблуками та іншими овочами й фруктами. Ергономічна рукоятка серії&nbsp;<strong data-end="549" data-start="530">Functional Form</strong>&nbsp;забезпечує надійний і комфортний хват навіть під час тривалого використання, а компактний розмір робить ніж зручним для щоденного використання.</span></p> <h3 data-end="708" data-section-id="hotu7e" data-start="695"><span style="font-size:16px;">Переваги:</span></h3> <ul data-end="1029" data-start="709"> <li data-end="769" data-section-id="1goz2y3" data-start="709"><span style="font-size:16px;">Поперечне рухоме лезо для швидкого та акуратного очищення.</span></li> <li data-end="815" data-section-id="6007x3" data-start="770"><span style="font-size:16px;">Лезо адаптується до форми овочів і фруктів.</span></li> <li data-end="866" data-section-id="5x9vnz" data-start="816"><span style="font-size:16px;">Виготовлений із високоякісної нержавіючої сталі.</span></li> <li data-end="928" data-section-id="1tco43l" data-start="867"><span style="font-size:16px;">Ергономічна нековзка рукоятка для комфортного користування.</span></li> <li data-end="971" data-section-id="1jnmhim" data-start="929"><span style="font-size:16px;">Компактний, легкий та зручний у догляді.</span></li> <li data-end="1029" data-section-id="1w9re97" data-start="972"><span style="font-size:16px;">Підходить для щоденного використання на домашній кухні.</span></li> </ul>]]></description>
-    <name_ua><![CDATA[Ніж для чистки з поперечним рухомим лезом Functional Form (1016122)]]></name_ua>
-    <description_ua><![CDATA[<p><meta charset="UTF-8" /></p><h3 data-end="69" data-section-id="5oqw87" data-start="0"><span style="font-size:16px;"></span></h3><p data-end="365" data-start="81"><span style="font-size:16px;"><strong data-end="150" data-start="123"></strong><strong><span style="font-size:18px;">Ніж для чистки з поперечним рухомим лезом Functional Form 1016122</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002001799)</span> &mdash; практичний кухонний інструмент, який значно полегшує очищення овочів і фруктів. Поперечне рухоме лезо автоматично повторює контури продукту, забезпечуючи тонке та акуратне зрізання шкірки з мінімальними втратами.</span></p> <p data-end="693" data-start="367"><span style="font-size:16px;">Гостре лезо з високоякісної нержавіючої сталі легко справляється з картоплею, морквою, огірками, яблуками та іншими овочами й фруктами. Ергономічна рукоятка серії&nbsp;<strong data-end="549" data-start="530">Functional Form</strong>&nbsp;забезпечує надійний і комфортний хват навіть під час тривалого використання, а компактний розмір робить ніж зручним для щоденного використання.</span></p> <h3 data-end="708" data-section-id="hotu7e" data-start="695"><span style="font-size:16px;">Переваги:</span></h3> <ul data-end="1029" data-start="709"> <li data-end="769" data-section-id="1goz2y3" data-start="709"><span style="font-size:16px;">Поперечне рухоме лезо для швидкого та акуратного очищення.</span></li> <li data-end="815" data-section-id="6007x3" data-start="770"><span style="font-size:16px;">Лезо адаптується до форми овочів і фруктів.</span></li> <li data-end="866" data-section-id="5x9vnz" data-start="816"><span style="font-size:16px;">Виготовлений із високоякісної нержавіючої сталі.</span></li> <li data-end="928" data-section-id="1tco43l" data-start="867"><span style="font-size:16px;">Ергономічна нековзка рукоятка для комфортного користування.</span></li> <li data-end="971" data-section-id="1jnmhim" data-start="929"><span style="font-size:16px;">Компактний, легкий та зручний у догляді.</span></li> <li data-end="1029" data-section-id="1w9re97" data-start="972"><span style="font-size:16px;">Підходить для щоденного використання на домашній кухні.</span></li> </ul>]]></description_ua>
-    <param name="Гарантия">12 мес.</param>
    </offer>
 <offer id="1016480" group_id="46493" available="true">
     <url>https://fiskars-gratis.com.ua/nizh-dlia-khliba-norr/</url>
@@ -5338,7 +5315,7 @@
     <price>299</price>
     <currencyId>UAH</currencyId>
     <categoryId>1177</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/trymach-instrumentu-fiskars-15608702031016_+0f4d70c130.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/37/trymach-instrumentu-fiskars-54255456404097_+ba4e1257c7.png</picture>
     <dimensions>
@@ -7073,7 +7050,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>886</quantity_in_stock>
+    <quantity_in_stock>885</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -7394,7 +7371,7 @@
     <price>1899</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>213</quantity_in_stock>
+    <quantity_in_stock>212</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/35/shchitka-fiskars-erhonomichna-broom-dk-17702200346109_+f56e35cc92.png</picture>
     <dimensions>
      <weight unit="kg">0.4</weight>
@@ -7720,7 +7697,7 @@
     <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>88</quantity_in_stock>
+    <quantity_in_stock>87</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-17131597943110_+167e84e65d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-94903583528626_+4e4f781015.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-81496573318508_+2bea131b87.png</picture>
@@ -7865,7 +7842,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-33512893616603_+51463e480d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-60487590035005_+6cc650d24d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/hrabli-velyki-dlia-lystia-m-pomaranchevihrabli-universaln-sadovi-solidpylka-sadova-ruchna-solid-sw-16-tm-fiskars-99659829587933_+63215a1ca9.png</picture>
@@ -7907,7 +7884,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>21</quantity_in_stock>
+    <quantity_in_stock>20</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-68825027967585_+02c668ef12.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-83756400918725_+e678e0def8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/hrabli-velyki-dlia-lystia-m-pomaranchevisokyra-kolun-solid-a18-12622172661488_+937825116e.png</picture>
@@ -8032,7 +8009,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>27</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-66856692547031_+f0de17be15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-52724028681852_+f6ef372b50.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-26853019685921_+84c62f42b9.png</picture>
@@ -8769,6 +8746,29 @@
     <description><![CDATA[<p data-end="243" data-start="41"><span style="font-size:16px;"><strong data-end="107" data-start="41"></strong><strong><span style="font-size:18px;">Ножиці для рукоділля Fiskars Classic Micro-Tip 1005153</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501988102)</span> &mdash; точний ручний інструмент для делікатного різання тканини, ниток, паперу та дрібних деталей під час рукоділля, шиття та творчих робіт.</span></p> <p data-end="428" data-start="245"><span style="font-size:16px;"><strong data-end="261" data-start="245">Призначення:</strong>&nbsp;призначені для точних робіт у шитті, пэчворку, рукоділлі та творчості &mdash; вирізання дрібних елементів, обрізання ниток, обробка швів і виконання тонких різальних задач.</span></p> <p data-end="625" data-start="430"><span style="font-size:16px;"><strong data-end="446" data-start="430">Конструкція:</strong>&nbsp;тонкі леза Micro-Tip із загостреними кінчиками забезпечують максимальну точність і доступ до дрібних ділянок. Ергономічна форма руків&rsquo;я гарантує комфортний і контрольований хват.</span></p> <p data-end="818" data-start="627"><span style="font-size:16px;"><strong data-end="641" data-start="627">Матеріали:</strong>&nbsp;леза з високоякісної нержавіючої сталі забезпечують довговічність і чистий, точний різ. Руків&rsquo;я з міцного пластику забезпечує легкість і надійність у використанні.</span></p> <p data-end="999" data-start="820"><span style="font-size:16px;"><strong data-end="836" data-start="820">Особливості:</strong>&nbsp;серія Fiskars Classic Micro-Tip створена для максимально точної та делікатної роботи. Підходить для правші та лівші, забезпечує високу точність у дрібних роботах.</span></p>]]></description>
     <name_ua><![CDATA[Ножиці для рукоділля Fiskars Classic Micro-Tip (1005153)]]></name_ua>
     <description_ua><![CDATA[<p data-end="243" data-start="41"><span style="font-size:16px;"><strong data-end="107" data-start="41"></strong><strong><span style="font-size:18px;">Ножиці для рукоділля Fiskars Classic Micro-Tip 1005153</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501988102)</span> &mdash; точний ручний інструмент для делікатного різання тканини, ниток, паперу та дрібних деталей під час рукоділля, шиття та творчих робіт.</span></p> <p data-end="428" data-start="245"><span style="font-size:16px;"><strong data-end="261" data-start="245">Призначення:</strong>&nbsp;призначені для точних робіт у шитті, пэчворку, рукоділлі та творчості &mdash; вирізання дрібних елементів, обрізання ниток, обробка швів і виконання тонких різальних задач.</span></p> <p data-end="625" data-start="430"><span style="font-size:16px;"><strong data-end="446" data-start="430">Конструкція:</strong>&nbsp;тонкі леза Micro-Tip із загостреними кінчиками забезпечують максимальну точність і доступ до дрібних ділянок. Ергономічна форма руків&rsquo;я гарантує комфортний і контрольований хват.</span></p> <p data-end="818" data-start="627"><span style="font-size:16px;"><strong data-end="641" data-start="627">Матеріали:</strong>&nbsp;леза з високоякісної нержавіючої сталі забезпечують довговічність і чистий, точний різ. Руків&rsquo;я з міцного пластику забезпечує легкість і надійність у використанні.</span></p> <p data-end="999" data-start="820"><span style="font-size:16px;"><strong data-end="836" data-start="820">Особливості:</strong>&nbsp;серія Fiskars Classic Micro-Tip створена для максимально точної та делікатної роботи. Підходить для правші та лівші, забезпечує високу точність у дрібних роботах.</span></p>]]></description_ua>
+   </offer>
+<offer id="1016122" group_id="44493" available="">
+    <url>https://fiskars-gratis.com.ua/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form/</url>
+    <price>566</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1072</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-13914913650847_+804d1c9b68.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-97102682085611_+76435984c2.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-14055728689450_+6f520272c2.png</picture>
+    <dimensions>
+     <weight unit="kg">0.3</weight>
+     <width unit="cm">10</width>
+     <height unit="cm">3</height>
+     <length unit="cm">22</length>
+    </dimensions>
+    <vendorCode>1016122</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Ніж для чистки з поперечним рухомим лезом Functional Form (1016122)]]></name>
+    <description><![CDATA[<p><meta charset="UTF-8" /></p><h3 data-end="69" data-section-id="5oqw87" data-start="0"><span style="font-size:16px;"></span></h3><p data-end="365" data-start="81"><span style="font-size:16px;"><strong data-end="150" data-start="123"></strong><strong><span style="font-size:18px;">Ніж для чистки з поперечним рухомим лезом Functional Form 1016122</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002001799)</span> &mdash; практичний кухонний інструмент, який значно полегшує очищення овочів і фруктів. Поперечне рухоме лезо автоматично повторює контури продукту, забезпечуючи тонке та акуратне зрізання шкірки з мінімальними втратами.</span></p> <p data-end="693" data-start="367"><span style="font-size:16px;">Гостре лезо з високоякісної нержавіючої сталі легко справляється з картоплею, морквою, огірками, яблуками та іншими овочами й фруктами. Ергономічна рукоятка серії&nbsp;<strong data-end="549" data-start="530">Functional Form</strong>&nbsp;забезпечує надійний і комфортний хват навіть під час тривалого використання, а компактний розмір робить ніж зручним для щоденного використання.</span></p> <h3 data-end="708" data-section-id="hotu7e" data-start="695"><span style="font-size:16px;">Переваги:</span></h3> <ul data-end="1029" data-start="709"> <li data-end="769" data-section-id="1goz2y3" data-start="709"><span style="font-size:16px;">Поперечне рухоме лезо для швидкого та акуратного очищення.</span></li> <li data-end="815" data-section-id="6007x3" data-start="770"><span style="font-size:16px;">Лезо адаптується до форми овочів і фруктів.</span></li> <li data-end="866" data-section-id="5x9vnz" data-start="816"><span style="font-size:16px;">Виготовлений із високоякісної нержавіючої сталі.</span></li> <li data-end="928" data-section-id="1tco43l" data-start="867"><span style="font-size:16px;">Ергономічна нековзка рукоятка для комфортного користування.</span></li> <li data-end="971" data-section-id="1jnmhim" data-start="929"><span style="font-size:16px;">Компактний, легкий та зручний у догляді.</span></li> <li data-end="1029" data-section-id="1w9re97" data-start="972"><span style="font-size:16px;">Підходить для щоденного використання на домашній кухні.</span></li> </ul>]]></description>
+    <name_ua><![CDATA[Ніж для чистки з поперечним рухомим лезом Functional Form (1016122)]]></name_ua>
+    <description_ua><![CDATA[<p><meta charset="UTF-8" /></p><h3 data-end="69" data-section-id="5oqw87" data-start="0"><span style="font-size:16px;"></span></h3><p data-end="365" data-start="81"><span style="font-size:16px;"><strong data-end="150" data-start="123"></strong><strong><span style="font-size:18px;">Ніж для чистки з поперечним рухомим лезом Functional Form 1016122</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002001799)</span> &mdash; практичний кухонний інструмент, який значно полегшує очищення овочів і фруктів. Поперечне рухоме лезо автоматично повторює контури продукту, забезпечуючи тонке та акуратне зрізання шкірки з мінімальними втратами.</span></p> <p data-end="693" data-start="367"><span style="font-size:16px;">Гостре лезо з високоякісної нержавіючої сталі легко справляється з картоплею, морквою, огірками, яблуками та іншими овочами й фруктами. Ергономічна рукоятка серії&nbsp;<strong data-end="549" data-start="530">Functional Form</strong>&nbsp;забезпечує надійний і комфортний хват навіть під час тривалого використання, а компактний розмір робить ніж зручним для щоденного використання.</span></p> <h3 data-end="708" data-section-id="hotu7e" data-start="695"><span style="font-size:16px;">Переваги:</span></h3> <ul data-end="1029" data-start="709"> <li data-end="769" data-section-id="1goz2y3" data-start="709"><span style="font-size:16px;">Поперечне рухоме лезо для швидкого та акуратного очищення.</span></li> <li data-end="815" data-section-id="6007x3" data-start="770"><span style="font-size:16px;">Лезо адаптується до форми овочів і фруктів.</span></li> <li data-end="866" data-section-id="5x9vnz" data-start="816"><span style="font-size:16px;">Виготовлений із високоякісної нержавіючої сталі.</span></li> <li data-end="928" data-section-id="1tco43l" data-start="867"><span style="font-size:16px;">Ергономічна нековзка рукоятка для комфортного користування.</span></li> <li data-end="971" data-section-id="1jnmhim" data-start="929"><span style="font-size:16px;">Компактний, легкий та зручний у догляді.</span></li> <li data-end="1029" data-section-id="1w9re97" data-start="972"><span style="font-size:16px;">Підходить для щоденного використання на домашній кухні.</span></li> </ul>]]></description_ua>
+    <param name="Гарантия">12 мес.</param>
    </offer>
 <offer id="1016472" group_id="45493" available="">
     <url>https://fiskars-gratis.com.ua/nizh-dlia-tomativ-ta-steikiv-norr/</url>
