@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-03 00:52</date>
+    <date>2026-11-03 07:41</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -509,7 +509,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-41276274993577_+8061d7a49a.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-56718764907761_+23de5f1a66.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-39574112624095_+cb2d7e7361.png</image>
-            <priceRUAH>3999</priceRUAH>
+            <priceRUAH>4949</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1052276</param>
@@ -806,7 +806,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-65300994722293_+c85142b97c.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-90786615442320_+e1514b37dc.jpg</image>
             <priceRUAH>1399</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1066716</param>
             <param name="Бренд">Fiskars</param>
@@ -1942,7 +1942,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-51741053469699_+53665dd558.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/45/instrument-dlia-vydalennia-burianiv-xact-1020126-72592475113180_+ec48c23413.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">36</guarantee>
             <param name="Артикул">1020126</param>
             <param name="Бренд">Fiskars</param>
@@ -2976,7 +2976,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/11/skovoroda-fiskars-hard-face-steel-28-sm-1052247-65270858181955_+10f3b2bd98.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/11/skovoroda-fiskars-hard-face-steel-28-sm-1052247-66666586457570_+73244f6653.jpg</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1052247</param>
             <param name="Бренд">Fiskars</param>
@@ -4034,7 +4034,7 @@
             <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-travy-fiskars-white-gs41-1026917/</url>
             <image>https://fiskars-gratis.com.ua/content/images/6/nozhytsi-dlia-travy-fiskars-white-gs41-1026917-71445211644230_+2ce1ec7dae.jpeg</image>
             <priceRUAH>1549</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1026917</param>
             <param name="Бренд">Fiskars</param>
@@ -6143,7 +6143,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-99438660751733_+ddd99affaf.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/36/nabir-fiskars-hrabli-velyki-dlia-lystia-m-pomaranchevi-lopata-sadova-shtykova-classic-fsc-92779595935879_+01217fac09.png</image>
             <priceRUAH>1599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1023492101477</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -6222,8 +6222,8 @@
 </ul>]]></description>
             <url>https://fiskars-gratis.com.ua/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax/</url>
             <image>https://fiskars-gratis.com.ua/content/images/17/nabir-lez-dlia-universalnykh-nozhiv-carbonmax-fiskars20-shtpodarunoknizh-skladanyi-fiskars-carbonmax-88650502944038_+868c055bb7.png</image>
-            <priceRUAH>799</priceRUAH>
-            <stock>В наявності</stock>
+            <priceRUAH>699</priceRUAH>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1062940106119</param>
             <param name="Бренд">Fiskars</param>
@@ -7376,7 +7376,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-62731498058190_+6bfbb94ccc.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-13340143095728_+4eef4715b2.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1027528105108</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -8859,7 +8859,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-97102682085611_+76435984c2.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/20/nizh-dlia-chystky-z-poperechnym-rukhomym-lezom-functional-form-14055728689450_+6f520272c2.png</image>
             <priceRUAH>566</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1016122</param>
             <param name="Бренд">Fiskars</param>
@@ -10162,7 +10162,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-60301122438258_+9e7f9032c7.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-35474026370230_+90790ee644.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-64583290013540_+3d9d390129.png</image>
-            <priceRUAH>999</priceRUAH>
+            <priceRUAH>2499</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1057760</param>
             <param name="Бренд">Fiskars</param>
@@ -10209,7 +10209,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/33/multytul-brelok-vidkryvachka-gerber-shardxl-topo-4l-1064441-74352534279192_+fa1939e922.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/33/multytul-brelok-vidkryvachka-gerber-shardxl-topo-4l-1064441-47170351487140_+47ac22ae7b.jpg</image>
             <priceRUAH>499</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1064441</param>
             <param name="Бренд">Gerber</param>
@@ -10335,7 +10335,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/38/multytul-gerber-armbar-slim-cut-1059830-17334816565323_+4f2a6a5f43.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/38/multytul-gerber-armbar-slim-cut-1059830-80795103769976_+ecd794aaa1.png</image>
             <priceRUAH>1669</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1059830</param>
             <param name="Бренд">Gerber</param>
@@ -10809,7 +10809,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/9/kusachky-dlia-kihtiv-tvaryn-fiskars-2-6-19l-1816476-86760677284993_+4c79a29113.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/9/kusachky-dlia-kihtiv-tvaryn-fiskars-2-6-19l-1816476-98965090991984_+e21c68fefc.jpg</image>
             <priceRUAH>899</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">2009130</param>
             <param name="Бренд">Fiskars</param>
@@ -11146,7 +11146,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33631942862025_+9ee1c696dc.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33602690571847_+61a34c723c.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-59828944735186_+d595095328.png</image>
-            <priceRUAH>1999</priceRUAH>
+            <priceRUAH>3865</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1066426</param>
