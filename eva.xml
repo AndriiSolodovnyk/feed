@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-04 23:23">
+<yml_catalog date="2026-11-05 05:45">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -80,7 +80,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-fiskars-handy-28-sm-1024458/</url>
         <price>1299</price>
         <price_old>1900</price_old>
-        <stock_quantity>127</stock_quantity>
+        <stock_quantity>124</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/skovoroda-fiskars-handy-28-sm-1024458-35260909044832_+5273e73a6e.jpg</picture>
@@ -102,7 +102,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-fiskars-375-anniversary-24cm-1075041/</url>
         <price>2399</price>
         <price_old>2618</price_old>
-        <stock_quantity>329</stock_quantity>
+        <stock_quantity>324</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/13/skovoroda-fiskars-375-anniversary-24cm-1075041-78701288961717_+2ec1bcddae.jpg</picture>
@@ -571,7 +571,7 @@
         <url>https://fiskars-gratis.com.ua/skovoroda-dlia-mlyntsiv-hard-face-22-sm/</url>
         <price>2899</price>
         <price_old>3199</price_old>
-        <stock_quantity>6</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/30/skovoroda-dlia-mlyntsiv-hard-face-22-sm-25476939268314_+7c17d0d7d1.png</picture>
@@ -1521,7 +1521,7 @@
       <offer id="1001319" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-fiskars-control-2-sht-1001319/</url>
         <price>699</price>
-        <stock_quantity>330</stock_quantity>
+        <stock_quantity>329</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-80276608406322_+d89ee1affc.jpg</picture>
@@ -1543,7 +1543,7 @@
       <offer id="1000773" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773/</url>
         <price>3999</price>
-        <stock_quantity>569</stock_quantity>
+        <stock_quantity>566</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-63780900637716_+75525b7782.jpg</picture>
@@ -1725,7 +1725,7 @@
       <offer id="1059841" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-gerber-downwind-caper-siryi-1059841/</url>
         <price>1999</price>
-        <stock_quantity>358</stock_quantity>
+        <stock_quantity>354</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1014</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/34/nizh-gerber-downwind-caper-siryi-1059841-50619684979548_+8787d257c1.jpg</picture>
@@ -1857,7 +1857,7 @@
       <offer id="1075839" available="true">
         <url>https://fiskars-gratis.com.ua/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839/</url>
         <price>3596</price>
-        <stock_quantity>649</stock_quantity>
+        <stock_quantity>641</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/12/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839-45127284275523_+cbe8c8c20e.jpg</picture>
@@ -1998,7 +1998,7 @@
       <offer id="1075834" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-santoku-fiskars-cleaver-all-steel-16-sm/</url>
         <price>6089</price>
-        <stock_quantity>200</stock_quantity>
+        <stock_quantity>195</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-46339224894432_+6135572017.png</picture>
@@ -2348,7 +2348,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-koreneplodiv/</url>
         <price>589</price>
         <price_old>653</price_old>
-        <stock_quantity>11</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-42899483639817_+d6e48dfb3a.png</picture>
@@ -2486,19 +2486,39 @@
         <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
-      <offer id="1023374" available="true">
+      <offer id="1023374" available="false">
         <url>https://fiskars-gratis.com.ua/nabir-kaimano-tris-verdura/</url>
         <price>890</price>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
-        <picture>https://fiskars-gratis.com.ua/content/images/12/nabir-kaimano-tris-verdura-79231386395490_+f55463d507.png</picture>
+        <picture>https://fiskars-gratis.com.ua/content/images/12/nabir-kaimano-tris-verdura-29079623400230_+303778fd8c.png</picture>
         <vendor>Fiskars</vendor>
         <article>1023374</article>
         <name>Набір Kaimano Tris verdura (1023374)</name>
         <name_ua>Набір Kaimano Tris verdura (1023374)</name_ua>
-        <description><![CDATA[<p data-end="266" data-start="20"><strong data-end="60" data-start="20"></strong><strong><span style="font-size:18px;">Набір Kaimano Tris verdura 1023374</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 8008220042482)</span> &mdash; практичний набір кухонних ножів для обробки овочів, фруктів та інших продуктів. Компактні ножі зручні для щоденного використання на кухні та виконання точних робіт під час нарізання й очищення продуктів.</p> <p data-end="475" data-start="268"><strong data-end="284" data-start="268">Призначення:</strong>&nbsp;підходить для очищення, нарізання та підготовки овочів, фруктів та інших продуктів. Набір стане у пригоді для виконання різноманітних кухонних задач, де потрібні компактні та маневрені ножі.</p> <p data-end="640" data-start="477"><strong data-end="493" data-start="477">Конструкція:</strong>&nbsp;ножі мають компактні леза, зручні для точного контролю під час роботи. Ергономічні ручки забезпечують надійне утримання та комфортне використання.</p> <p data-end="823" data-start="642"><strong data-end="656" data-start="642">Матеріали:</strong>&nbsp;ріжучі елементи виготовлені з нержавіючої сталі, стійкої до корозії та придатної для щоденного використання. Ручки забезпечують комфортне та безпечне утримання ножів.</p> <p data-end="1013" data-start="825"><strong data-end="841" data-start="825">Особливості:</strong>&nbsp;набір складається з трьох кухонних ножів для роботи з овочами та фруктами. Компактний формат дозволяє зручно використовувати ножі для очищення та точної нарізки продуктів.</p> <p data-end="1069" data-start="1015"><strong data-end="1032" data-start="1015">Комплектація:</strong>&nbsp;набір Kaimano Tris Verdura &mdash; 3 ножі.</p>]]></description>
-        <description_ua><![CDATA[<p data-end="266" data-start="20"><strong data-end="60" data-start="20"></strong><strong><span style="font-size:18px;">Набір Kaimano Tris verdura 1023374</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 8008220042482)</span> &mdash; практичний набір кухонних ножів для обробки овочів, фруктів та інших продуктів. Компактні ножі зручні для щоденного використання на кухні та виконання точних робіт під час нарізання й очищення продуктів.</p> <p data-end="475" data-start="268"><strong data-end="284" data-start="268">Призначення:</strong>&nbsp;підходить для очищення, нарізання та підготовки овочів, фруктів та інших продуктів. Набір стане у пригоді для виконання різноманітних кухонних задач, де потрібні компактні та маневрені ножі.</p> <p data-end="640" data-start="477"><strong data-end="493" data-start="477">Конструкція:</strong>&nbsp;ножі мають компактні леза, зручні для точного контролю під час роботи. Ергономічні ручки забезпечують надійне утримання та комфортне використання.</p> <p data-end="823" data-start="642"><strong data-end="656" data-start="642">Матеріали:</strong>&nbsp;ріжучі елементи виготовлені з нержавіючої сталі, стійкої до корозії та придатної для щоденного використання. Ручки забезпечують комфортне та безпечне утримання ножів.</p> <p data-end="1013" data-start="825"><strong data-end="841" data-start="825">Особливості:</strong>&nbsp;набір складається з трьох кухонних ножів для роботи з овочами та фруктами. Компактний формат дозволяє зручно використовувати ножі для очищення та точної нарізки продуктів.</p> <p data-end="1069" data-start="1015"><strong data-end="1032" data-start="1015">Комплектація:</strong>&nbsp;набір Kaimano Tris Verdura &mdash; 3 ножі.</p>]]></description_ua>
+        <description><![CDATA[<p data-end="266" data-start="20"><strong><span style="font-size:18px;">Набір Kaimano Tris verdura 1023374</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 8008220042482)</span> &mdash; практичний набір кухонних ножів для обробки овочів, фруктів та інших продуктів. Компактні ножі зручні для щоденного використання на кухні та виконання точних робіт під час нарізання й очищення продуктів.</p>
+
+<p data-end="475" data-start="268"><strong data-end="284" data-start="268">Призначення:</strong>&nbsp;підходить для очищення, нарізання та підготовки овочів, фруктів та інших продуктів. Набір стане у пригоді для виконання різноманітних кухонних задач, де потрібні компактні та маневрені ножі.</p>
+
+<p data-end="640" data-start="477"><strong data-end="493" data-start="477">Конструкція:</strong>&nbsp;ножі мають компактні леза, зручні для точного контролю під час роботи. Ергономічні ручки забезпечують надійне утримання та комфортне використання.</p>
+
+<p data-end="823" data-start="642"><strong data-end="656" data-start="642">Матеріали:</strong>&nbsp;ріжучі елементи виготовлені з нержавіючої сталі, стійкої до корозії та придатної для щоденного використання. Ручки забезпечують комфортне та безпечне утримання ножів.</p>
+
+<p data-end="1013" data-start="825"><strong data-end="841" data-start="825">Особливості:</strong>&nbsp;набір складається з трьох кухонних ножів для роботи з овочами та фруктами. Компактний формат дозволяє зручно використовувати ножі для очищення та точної нарізки продуктів.</p>
+
+<p data-end="1069" data-start="1015"><strong data-end="1032" data-start="1015">Комплектація:</strong>&nbsp;набір Kaimano Tris Verdura &mdash; 3 ножі.</p>]]></description>
+        <description_ua><![CDATA[<p data-end="266" data-start="20"><strong><span style="font-size:18px;">Набір Kaimano Tris verdura 1023374</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 8008220042482)</span> &mdash; практичний набір кухонних ножів для обробки овочів, фруктів та інших продуктів. Компактні ножі зручні для щоденного використання на кухні та виконання точних робіт під час нарізання й очищення продуктів.</p>
+
+<p data-end="475" data-start="268"><strong data-end="284" data-start="268">Призначення:</strong>&nbsp;підходить для очищення, нарізання та підготовки овочів, фруктів та інших продуктів. Набір стане у пригоді для виконання різноманітних кухонних задач, де потрібні компактні та маневрені ножі.</p>
+
+<p data-end="640" data-start="477"><strong data-end="493" data-start="477">Конструкція:</strong>&nbsp;ножі мають компактні леза, зручні для точного контролю під час роботи. Ергономічні ручки забезпечують надійне утримання та комфортне використання.</p>
+
+<p data-end="823" data-start="642"><strong data-end="656" data-start="642">Матеріали:</strong>&nbsp;ріжучі елементи виготовлені з нержавіючої сталі, стійкої до корозії та придатної для щоденного використання. Ручки забезпечують комфортне та безпечне утримання ножів.</p>
+
+<p data-end="1013" data-start="825"><strong data-end="841" data-start="825">Особливості:</strong>&nbsp;набір складається з трьох кухонних ножів для роботи з овочами та фруктами. Компактний формат дозволяє зручно використовувати ножі для очищення та точної нарізки продуктів.</p>
+
+<p data-end="1069" data-start="1015"><strong data-end="1032" data-start="1015">Комплектація:</strong>&nbsp;набір Kaimano Tris Verdura &mdash; 3 ножі.</p>]]></description_ua>
         <param name="Артикул">1023374</param>
         <param name="Штрихкод">8008220042482</param>
         <param name="Бренд">Fiskars</param>
@@ -3593,7 +3613,7 @@
       <offer id="1065590" available="true">
         <url>https://fiskars-gratis.com.ua/penzlyk-essential/</url>
         <price>555</price>
-        <stock_quantity>116</stock_quantity>
+        <stock_quantity>111</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/32/penzlyk-essential-47371052768396_+406d832bd4.png</picture>
