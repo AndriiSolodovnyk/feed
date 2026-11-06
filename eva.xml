@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-05 21:22">
+<yml_catalog date="2026-11-06 02:03">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -1521,7 +1521,7 @@
       <offer id="1001319" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-fiskars-control-2-sht-1001319/</url>
         <price>699</price>
-        <stock_quantity>329</stock_quantity>
+        <stock_quantity>328</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-80276608406322_+d89ee1affc.jpg</picture>
@@ -1588,7 +1588,7 @@
       <offer id="1063145" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-gerber-ceviche-9eboxgrnblk-1063145/</url>
         <price>1999</price>
-        <stock_quantity>799</stock_quantity>
+        <stock_quantity>798</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1007</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/28/nizh-gerber-ceviche-9eboxgrnblk-1063145-79499331646641_+dd95122288.jpg</picture>
@@ -2348,7 +2348,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-koreneplodiv/</url>
         <price>589</price>
         <price_old>653</price_old>
-        <stock_quantity>9</stock_quantity>
+        <stock_quantity>8</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-42899483639817_+d6e48dfb3a.png</picture>
@@ -2373,7 +2373,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-ovochiv-priamyi/</url>
         <price>539</price>
         <price_old>594</price_old>
-        <stock_quantity>3</stock_quantity>
+        <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-ff-dlia-ovochiv-priamyi-84287378097090_+70bd5a2a77.png</picture>
@@ -2593,7 +2593,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-asada-folder/</url>
         <price>1499</price>
         <price_old>2999</price_old>
-        <stock_quantity>78</stock_quantity>
+        <stock_quantity>392</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/33/nizh-skladanyi-gerber-asada-folder-95297631944767_+5cfef48f15.png</picture>
@@ -3712,7 +3712,7 @@
       <offer id="1014412" available="true">
         <url>https://fiskars-gratis.com.ua/terka-ff-malenka-dlia-tsedry-lymonu-imbyru-shokoladu/</url>
         <price>1515</price>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>9</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/terka-ff-malenka-dlia-tsedry-lymonu-imbyru-shokoladu-77192424262448_+d7792c6dad.jpeg</picture>
