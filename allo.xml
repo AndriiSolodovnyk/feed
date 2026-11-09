@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-08 23:29</date>
+    <date>2026-11-09 05:18</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -1245,7 +1245,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/41/lopata-dlia-rozsady-ergo-83406324739536_+a53dabefd3.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/41/lopata-dlia-rozsady-ergo-72783590107353_+02c3ddf572.png</image>
             <priceRUAH>299</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1027018</param>
             <param name="Бренд">Fiskars</param>
@@ -6230,7 +6230,7 @@
             <url>https://fiskars-gratis.com.ua/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi/</url>
             <image>https://fiskars-gratis.com.ua/content/images/37/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330_+0cb49eabd7.png</image>
             <priceRUAH>1599</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1003466102349</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -6622,7 +6622,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-28728430251976_+dd74d4c2ab.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-15413006159961_+58c199b6cb.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1066727105108</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
