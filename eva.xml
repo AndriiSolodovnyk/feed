@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-10 22:11">
+<yml_catalog date="2026-11-11 02:36">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -225,7 +225,7 @@
       </offer>
       <offer id="1075860" available="false">
         <url>https://fiskars-gratis.com.ua/skovoroda-fiskars-all-steel-frying-pan-28-sm/</url>
-        <price>5895</price>
+        <price>5985</price>
         <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -278,7 +278,7 @@
       <offer id="1065628" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-all-steel-pure-24-sm-matova/</url>
         <price>5199</price>
-        <price_old>5745</price_old>
+        <price_old>5255</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -304,7 +304,7 @@
       <offer id="1065627" available="false">
         <url>https://fiskars-gratis.com.ua/skovoroda-all-steel-pure-28-sm-matova/</url>
         <price>4599</price>
-        <price_old>5140</price_old>
+        <price_old>4700</price_old>
         <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -332,7 +332,7 @@
       <offer id="1065629" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-wok-all-steel-pure-28-matova/</url>
         <price>6499</price>
-        <price_old>7239</price_old>
+        <price_old>6565</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -384,7 +384,7 @@
       <offer id="1075700" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-folken-24-sm/</url>
         <price>3999</price>
-        <price_old>4500</price_old>
+        <price_old>4325</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -410,7 +410,7 @@
       <offer id="1075699" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-folken-28-sm/</url>
         <price>4699</price>
-        <price_old>5250</price_old>
+        <price_old>5030</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -435,8 +435,7 @@
       </offer>
       <offer id="1072310" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-ff-24-sm-nerzhaviiucha-stal/</url>
-        <price>2299</price>
-        <price_old>2539</price_old>
+        <price>2189</price>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -463,7 +462,7 @@
       <offer id="1072311" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-ff-26-sm-nerzhaviiucha-stal/</url>
         <price>2599</price>
-        <price_old>2879</price_old>
+        <price_old>2665</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -490,7 +489,7 @@
       <offer id="1075457" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-hard-face-20-sm/</url>
         <price>2899</price>
-        <price_old>3215</price_old>
+        <price_old>2950</price_old>
         <stock_quantity>8</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -517,7 +516,7 @@
       <offer id="1075459" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-hard-face-26-sm/</url>
         <price>3799</price>
-        <price_old>4180</price_old>
+        <price_old>3829</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -544,7 +543,7 @@
       <offer id="1075520" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-hard-face-28-sm/</url>
         <price>3569</price>
-        <price_old>4480</price_old>
+        <price_old>4099</price_old>
         <stock_quantity>8</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -570,7 +569,7 @@
       <offer id="1075522" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-dlia-mlyntsiv-hard-face-22-sm/</url>
         <price>2899</price>
-        <price_old>3199</price_old>
+        <price_old>2925</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -597,7 +596,7 @@
       <offer id="1067628" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-norden-24-sm-bez-pokryttia/</url>
         <price>7599</price>
-        <price_old>8460</price_old>
+        <price_old>7665</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -625,7 +624,7 @@
       <offer id="1067632" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-norden-26-sm-z-mineralnym-pokryttiam/</url>
         <price>7999</price>
-        <price_old>8940</price_old>
+        <price_old>8370</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -652,7 +651,7 @@
       <offer id="1067629" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-norden-28-sm-bez-pokryttia/</url>
         <price>8599</price>
-        <price_old>9535</price_old>
+        <price_old>8760</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -681,7 +680,7 @@
       <offer id="1026568" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-norden-24-sm/</url>
         <price>9149</price>
-        <price_old>10149</price_old>
+        <price_old>9289</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -708,7 +707,7 @@
       <offer id="1026569" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-norden-26-sm/</url>
         <price>9449</price>
-        <price_old>10477</price_old>
+        <price_old>9625</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -734,7 +733,7 @@
       <offer id="1026571" available="false">
         <url>https://fiskars-gratis.com.ua/skovoroda-chavunna-norden-28-sm/</url>
         <price>10299</price>
-        <price_old>11458</price_old>
+        <price_old>10550</price_old>
         <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -763,7 +762,7 @@
       <offer id="1066946" available="true">
         <url>https://fiskars-gratis.com.ua/skovoroda-taiten-24-sm/</url>
         <price>6449</price>
-        <price_old>7145</price_old>
+        <price_old>6565</price_old>
         <stock_quantity>2</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1011</categoryId>
@@ -863,8 +862,7 @@
       </offer>
       <offer id="1064751" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-all-steel-3-l-matova/</url>
-        <price>5499</price>
-        <price_old>6049</price_old>
+        <price>5475</price>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -919,7 +917,7 @@
       <offer id="1075698" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-chavunna-folken-4l/</url>
         <price>5999</price>
-        <price_old>6755</price_old>
+        <price_old>6515</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -945,7 +943,7 @@
       <offer id="1072316" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-z-kryshkoiu-ff-30-l-nerzhaviiucha-stal/</url>
         <price>3699</price>
-        <price_old>4085</price_old>
+        <price_old>3789</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -973,7 +971,7 @@
       <offer id="1075526" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-hard-face-35-l/</url>
         <price>4199</price>
-        <price_old>4623</price_old>
+        <price_old>5475</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -999,7 +997,7 @@
       <offer id="1067639" available="true">
         <url>https://fiskars-gratis.com.ua/kastrulia-norden-3-l-bez-pokryttia/</url>
         <price>8899</price>
-        <price_old>9835</price_old>
+        <price_old>9145</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
@@ -1049,7 +1047,6 @@
       <offer id="1065587" available="false">
         <url>https://fiskars-gratis.com.ua/kukhonnyi-nizh-fiskars-essential-dlia-syru-21-sm-black-1065587/</url>
         <price>635</price>
-        <price_old>900</price_old>
         <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -1360,7 +1357,7 @@
       </offer>
       <offer id="1065567" available="false">
         <url>https://fiskars-gratis.com.ua/nizh-fileinyi-fiskars-essential-18-sm-1065567/</url>
-        <price>1114</price>
+        <price>847</price>
         <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -1384,7 +1381,7 @@
       <offer id="1065565" available="false">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-shef-kukharia-fiskars-essential-21sm-1065565/</url>
         <price>999</price>
-        <price_old>1114</price_old>
+        <price_old>1059</price_old>
         <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -1407,7 +1404,7 @@
       <offer id="1065599" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599/</url>
         <price>499</price>
-        <price_old>555</price_old>
+        <price_old>568</price_old>
         <stock_quantity>13</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2162,7 +2159,6 @@
       <offer id="1079907" available="true">
         <url>https://fiskars-gratis.com.ua/piler/</url>
         <price>399</price>
-        <price_old>483</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2189,7 +2185,6 @@
       <offer id="1079908" available="true">
         <url>https://fiskars-gratis.com.ua/piler-y-obraznyi/</url>
         <price>399</price>
-        <price_old>483</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2215,7 +2210,6 @@
       <offer id="1079909" available="true">
         <url>https://fiskars-gratis.com.ua/piler-y-obraznyi-dlia-zhulienu/</url>
         <price>399</price>
-        <price_old>483</price_old>
         <stock_quantity>10</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2241,7 +2235,6 @@
       <offer id="1079960" available="true">
         <url>https://fiskars-gratis.com.ua/piler-z-rukhomym-lezom/</url>
         <price>669</price>
-        <price_old>755</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2267,7 +2260,6 @@
       <offer id="1079961" available="true">
         <url>https://fiskars-gratis.com.ua/piler-z-rukhomym-lezom-dlia-frukitv/</url>
         <price>399</price>
-        <price_old>483</price_old>
         <stock_quantity>3</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2291,7 +2283,7 @@
       <offer id="1057552" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-ff-z-bambukovoiu-pidstavkoiu-5-sht/</url>
         <price>7299</price>
-        <price_old>8070</price_old>
+        <price_old>7650</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2319,7 +2311,7 @@
       <offer id="1057554" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-ff-z-chornoiu-pidstavkoiu-5-sht/</url>
         <price>6099</price>
-        <price_old>6795</price_old>
+        <price_old>6445</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2347,7 +2339,7 @@
       <offer id="1057542" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-koreneplodiv/</url>
         <price>589</price>
-        <price_old>653</price_old>
+        <price_old>755</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2372,7 +2364,7 @@
       <offer id="1057544" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-ovochiv-priamyi/</url>
         <price>539</price>
-        <price_old>594</price_old>
+        <price_old>755</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2396,7 +2388,7 @@
       <offer id="1057534" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-shef-kukharia-velykyi/</url>
         <price>1149</price>
-        <price_old>1270</price_old>
+        <price_old>1659</price_old>
         <stock_quantity>3</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2444,7 +2436,7 @@
       <offer id="1075696" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-shef-kukharia-velykyi-folken-fsc-20-sm/</url>
         <price>2649</price>
-        <price_old>2945</price_old>
+        <price_old>2725</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2530,7 +2522,7 @@
         <url>https://fiskars-gratis.com.ua/nizh-fiskars-lifestyle/</url>
         <price>399</price>
         <price_old>486</price_old>
-        <stock_quantity>8</stock_quantity>
+        <stock_quantity>7</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nizh-fiskars-lifestyle-92564604568039_+4c8abe6a92.png</picture>
@@ -2570,7 +2562,6 @@
       <offer id="1050713" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-kukhonykh-nozhiv-6-sht-safron/</url>
         <price>699</price>
-        <price_old>1200</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2634,7 +2625,6 @@
       <offer id="1062002" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-dlia-steiku-6sht-chervoni/</url>
         <price>699</price>
-        <price_old>1226</price_old>
         <stock_quantity>3</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
@@ -2757,7 +2747,7 @@
       <offer id="1075524" available="true">
         <url>https://fiskars-gratis.com.ua/kivsh-hard-face-2-l/</url>
         <price>2149</price>
-        <price_old>2373</price_old>
+        <price_old>4050</price_old>
         <stock_quantity>3</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1012</categoryId>
@@ -2806,7 +2796,7 @@
       <offer id="1067637" available="true">
         <url>https://fiskars-gratis.com.ua/kivsh-norden-18-l-bez-pokryttia/</url>
         <price>6099</price>
-        <price_old>6799</price_old>
+        <price_old>8375</price_old>
         <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1012</categoryId>
@@ -2854,7 +2844,7 @@
       <offer id="1072314" available="true">
         <url>https://fiskars-gratis.com.ua/soteinyk-z-kryshkoiu-ff-26-sm-nerzhaviiucha-stal/</url>
         <price>3699</price>
-        <price_old>4119</price_old>
+        <price_old>3795</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1012</categoryId>
@@ -3255,8 +3245,7 @@
       </offer>
       <offer id="1014028" available="true">
         <url>https://fiskars-gratis.com.ua/pyla-gerber-gator-exchange-a-blade-1014028/</url>
-        <price>1138</price>
-        <price_old>1499</price_old>
+        <price>899</price>
         <stock_quantity>21</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1008</categoryId>
@@ -3372,7 +3361,6 @@
       <offer id="1028483" available="true">
         <url>https://fiskars-gratis.com.ua/vydelka-turystychna-gerber-devour-1028483/</url>
         <price>799</price>
-        <price_old>1299</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1013</categoryId>
@@ -3554,7 +3542,8 @@
       </offer>
       <offer id="1066426" available="true">
         <url>https://fiskars-gratis.com.ua/shchyptsi-dlia-hrylia-norden-grill/</url>
-        <price>3865</price>
+        <price>1999</price>
+        <price_old>3865</price_old>
         <stock_quantity>455</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -3805,7 +3794,7 @@
       <offer id="1014413" available="true">
         <url>https://fiskars-gratis.com.ua/nabor-terok-functional-form/</url>
         <price>1999</price>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1009</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/10/nabor-terok-functional-form-95741964645743_+f1a3b9034b.png</picture>
@@ -3872,7 +3861,6 @@
       <offer id="1079962" available="true">
         <url>https://fiskars-gratis.com.ua/pintset-dlia-ryby/</url>
         <price>849</price>
-        <price_old>950</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -3897,7 +3885,6 @@
       <offer id="1079964" available="true">
         <url>https://fiskars-gratis.com.ua/lopatka-kukhona/</url>
         <price>479</price>
-        <price_old>525</price_old>
         <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -3924,7 +3911,6 @@
       <offer id="1079965" available="true">
         <url>https://fiskars-gratis.com.ua/opolonyk/</url>
         <price>479</price>
-        <price_old>525</price_old>
         <stock_quantity>6</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -3950,7 +3936,6 @@
       <offer id="1079966" available="true">
         <url>https://fiskars-gratis.com.ua/terka-extra-dribna/</url>
         <price>789</price>
-        <price_old>875</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -3996,7 +3981,6 @@
       <offer id="1079967" available="true">
         <url>https://fiskars-gratis.com.ua/terka-dribna/</url>
         <price>789</price>
-        <price_old>875</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
@@ -4023,7 +4007,6 @@
       <offer id="1079968" available="true">
         <url>https://fiskars-gratis.com.ua/terka-krupna/</url>
         <price>789</price>
-        <price_old>875</price_old>
         <stock_quantity>5</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1003</categoryId>
