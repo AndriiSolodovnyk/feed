@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-12 23:29">
+<yml_catalog date="2026-11-13 05:42">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -293,7 +293,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1125</categoryId>
-    <quantity_in_stock>515</quantity_in_stock>
+    <quantity_in_stock>514</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-86012777730212_+d64300a136.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-59156442773986_+01158ecd68.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-30705972979269_+f52bebd257.jpg</picture>
@@ -383,7 +383,7 @@
     <price>2073</price>
     <currencyId>UAH</currencyId>
     <categoryId>1126</categoryId>
-    <quantity_in_stock>554</quantity_in_stock>
+    <quantity_in_stock>553</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/3/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-35773768022595_+e04fe55b4f.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/hilkoriz-ploshchynnyi-teleskopichnyi-fiskars-solid-l13-70456469269564_+d577bc798a.jpg</picture>
     <dimensions>
@@ -1520,7 +1520,7 @@
     <price>234</price>
     <currencyId>UAH</currencyId>
     <categoryId>1139</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>9</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/23/nozhytsi-dytiachi-chervoni-13sm-fiskars-1064071-17949746430311_+24ec682867.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/23/nozhytsi-dytiachi-chervoni-13sm-fiskars-1064071-60951116478142_+fdf438821b.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/23/nozhytsi-dytiachi-chervoni-13sm-fiskars-1064071-98305521715460_+fb2bc0b3ba.jpg</picture>
@@ -1746,27 +1746,6 @@
     <description><![CDATA[<p><span style="font-size:18px;"><b></b><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Мультитул Gerber Stakeout,16L,Box,SLVR 1059837</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658160743)</span> &mdash; багатофункціональний ручний інструмент для виконання широкого спектра побутових, технічних і польових задач. Об&rsquo;єднує декілька інструментів у складаному корпусі для роботи з різними матеріалами та вузлами.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> використовується для дрібних ремонтних робіт, обслуговування обладнання, розбирання/збирання пристроїв, дрібних побутових і кемпінгових задач, де потрібен універсальний набір інструментів під руками.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> складаний мультитул має основу з плоскогубцями та набором інструментів, що розкладаються з руків&rsquo;я. Інструменти фіксуються в робочому положенні для безпечної експлуатації. Ергономічна форма корпусу забезпечує стабільний хват при роботі.</span></p> <p><span style="font-size:18px;"><b>Інструменти в комплекті:</b> </span><span style="font-size:14px;">включає ножове лезо, пилку, різні викруткові насадки, відкривачку, напилок, ножиці, плоскогубці та інші елементи для універсальних задач.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів і зносостійких компонентів, що забезпечують тривалість експлуатації при регулярному використанні. Руків&rsquo;я має протиковзке покриття для зручності роботи.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії Stakeout бренду Gerber та орієнтована на універсальні утилітарні операції без спеціалізованого обладнання.</span></p>]]></description>
     <name_ua><![CDATA[Мультитул Gerber Stakeout,16L,Box,SLVR (1059837)]]></name_ua>
     <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Мультитул Gerber Stakeout,16L,Box,SLVR 1059837</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658160743)</span> &mdash; багатофункціональний ручний інструмент для виконання широкого спектра побутових, технічних і польових задач. Об&rsquo;єднує декілька інструментів у складаному корпусі для роботи з різними матеріалами та вузлами.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> використовується для дрібних ремонтних робіт, обслуговування обладнання, розбирання/збирання пристроїв, дрібних побутових і кемпінгових задач, де потрібен універсальний набір інструментів під руками.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b></span><span style="font-size:14px;"> складаний мультитул має основу з плоскогубцями та набором інструментів, що розкладаються з руків&rsquo;я. Інструменти фіксуються в робочому положенні для безпечної експлуатації. Ергономічна форма корпусу забезпечує стабільний хват при роботі.</span></p> <p><span style="font-size:18px;"><b>Інструменти в комплекті:</b> </span><span style="font-size:14px;">включає ножове лезо, пилку, різні викруткові насадки, відкривачку, напилок, ножиці, плоскогубці та інші елементи для універсальних задач.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів і зносостійких компонентів, що забезпечують тривалість експлуатації при регулярному використанні. Руків&rsquo;я має протиковзке покриття для зручності роботи.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії Stakeout бренду Gerber та орієнтована на універсальні утилітарні операції без спеціалізованого обладнання.</span></p>]]></description_ua>
-    <param name="Гарантия">12 мес.</param>
-   </offer>
-<offer id="1028491" group_id="5501" available="true">
-    <url>https://fiskars-gratis.com.ua/multytul-gerber-prybrid-utility-grey-1028491/</url>
-    <price>1349</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1116</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/36/multytul-gerber-prybrid-utility-grey-1028491-46293735717989_+3ef616af98.jpg</picture>
-    <dimensions>
-     <weight unit="kg">0.3</weight>
-     <width unit="cm">10</width>
-     <height unit="cm">3</height>
-     <length unit="cm">22</length>
-    </dimensions>
-    <vendorCode>1028491</vendorCode>
-    <vendor>Gerber</vendor>
-    <name><![CDATA[Мультитул Gerber Prybrid-Utility Grey (1028491)]]></name>
-    <description><![CDATA[<p><span style="font-size:18px;"><b></b><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Мультитул Gerber Prybrid-Utility Grey 1028491</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658159211)</span> &mdash; багатофункціональний ручний інструмент, що поєднує окремі робочі елементи в одному складаному корпусі для виконання різних побутових, ремонтних і польових задач. Застосовується там, де потрібні базові функції інструментів без окремого комплекту.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> підходить для дрібних побутових і технічних робіт, обслуговування обладнання, розбирання/збирання пристроїв, відкривання упаковок та інших допоміжних задач у місті, вдома чи на природі.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний корпус із фіксацією робочих елементів забезпечує безпечну експлуатацію під час роботи. Елементи інструменту легко відкладаються та застопорюються в робочому положенні. Ергономічна форма руків&rsquo;я забезпечує стабільний хват.</span></p> <p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає лезо ножа, відкривачки,компактний цвяходер&nbsp;та інші базові функції, потрібні для побутових і ремонтних завдань.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">виготовлений із міцних металевих сплавів, що забезпечують стійкість до зносу і довговічність при регулярному використанні. Руків&rsquo;я має практичну текстуровану поверхню.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Prybrid бренду Gerber та орієнтована на універсальні утилітарні операції без спеціалізованого обладнання.</span></p>]]></description>
-    <name_ua><![CDATA[Мультитул Gerber Prybrid-Utility Grey (1028491)]]></name_ua>
-    <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Мультитул Gerber Prybrid-Utility Grey 1028491</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658159211)</span> &mdash; багатофункціональний ручний інструмент, що поєднує окремі робочі елементи в одному складаному корпусі для виконання різних побутових, ремонтних і польових задач. Застосовується там, де потрібні базові функції інструментів без окремого комплекту.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> підходить для дрібних побутових і технічних робіт, обслуговування обладнання, розбирання/збирання пристроїв, відкривання упаковок та інших допоміжних задач у місті, вдома чи на природі.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний корпус із фіксацією робочих елементів забезпечує безпечну експлуатацію під час роботи. Елементи інструменту легко відкладаються та застопорюються в робочому положенні. Ергономічна форма руків&rsquo;я забезпечує стабільний хват.</span></p> <p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає лезо ножа, відкривачки,компактний цвяходер&nbsp;та інші базові функції, потрібні для побутових і ремонтних завдань.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">виготовлений із міцних металевих сплавів, що забезпечують стійкість до зносу і довговічність при регулярному використанні. Руків&rsquo;я має практичну текстуровану поверхню.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Prybrid бренду Gerber та орієнтована на універсальні утилітарні операції без спеціалізованого обладнання.</span></p>]]></description_ua>
     <param name="Гарантия">12 мес.</param>
    </offer>
 <offer id="1059852" group_id="6501" available="true">
@@ -2008,7 +1987,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1107</categoryId>
-    <quantity_in_stock>332</quantity_in_stock>
+    <quantity_in_stock>331</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-77661275374613_+389a3888f3.jpg</picture>
     <dimensions>
@@ -2121,7 +2100,7 @@
     <price>387</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>1</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586-91206989650470_+49fc39037f.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586-18014872494415_+0ee7986aa2.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586-86641223836252_+e876999031.jpg</picture>
@@ -2301,7 +2280,7 @@
     <price>699</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>326</quantity_in_stock>
+    <quantity_in_stock>325</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-80276608406322_+d89ee1affc.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-56203335779112_+b9f714d8a3.jpg</picture>
     <dimensions>
@@ -3087,7 +3066,7 @@
     <price>3599</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>15</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/20/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox-93226855119976_+5d5a3d88f3.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/20/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox-74440498905364_+2f07e7cd24.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/20/sokyra-kolun-fiskars-l-kh21podarunok-multytul-gerber-lockdown-slim16lbox-47222597205478_+b9418b08be.jpeg</picture>
@@ -3200,7 +3179,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>6</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643_+7c9ca353de.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-71214196768880_+3a4d4a7cc9.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-58483850974172_+ef36107030.jpeg</picture>
@@ -3475,7 +3454,7 @@
     <price>2179</price>
     <currencyId>UAH</currencyId>
     <categoryId>1176</categoryId>
-    <quantity_in_stock>69</quantity_in_stock>
+    <quantity_in_stock>68</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -3658,7 +3637,7 @@
     <price>1799</price>
     <currencyId>UAH</currencyId>
     <categoryId>1087</categoryId>
-    <quantity_in_stock>150</quantity_in_stock>
+    <quantity_in_stock>149</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-92806745299362_+4bc29830a8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-32333286623091_+2eccc9588e.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/lopata-klasychna-drenazhna-fiskars-1071919-35508909773053_+89adfb5098.png</picture>
@@ -5426,7 +5405,7 @@
     <price>3789</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/23/kastrulia-z-kryshkoiu-ff-30-l-nerzhaviiucha-stal-43903014101160_+bc380471a6.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/23/kastrulia-z-kryshkoiu-ff-30-l-nerzhaviiucha-stal-27024215547243_+a5d389e0e8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/23/kastrulia-z-kryshkoiu-ff-30-l-nerzhaviiucha-stal-73841286944544_+2d3cf5508f.png</picture>
@@ -5857,7 +5836,7 @@
     <price>399</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-23398994564838_+cd29e570ed.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-92330606287954_+b8534dcc67.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-75152807155931_+f44773385f.png</picture>
@@ -6168,7 +6147,7 @@
     <price>755</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-42899483639817_+d6e48dfb3a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-24047610659874_+9b9c93b978.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-62907483771810_+a793041243.png</picture>
@@ -6415,7 +6394,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>839</quantity_in_stock>
+    <quantity_in_stock>833</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -6982,7 +6961,7 @@
     <price>1699</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>115</quantity_in_stock>
+    <quantity_in_stock>114</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/46/lopata-shtykova-fiskars-prima-chorna-fsc-21894990442558_+5493ed8dd1.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/46/lopata-shtykova-fiskars-prima-chorna-fsc-63968331365053_+7eaf958a47.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/46/lopata-shtykova-fiskars-prima-chorna-fsc-19435321107113_+f41440202e.png</picture>
@@ -7249,7 +7228,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-66856692547031_+f0de17be15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-52724028681852_+f6ef372b50.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-26853019685921_+84c62f42b9.png</picture>
@@ -7309,7 +7288,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>29</quantity_in_stock>
+    <quantity_in_stock>28</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/sokyra-kolun-solid-a18-multytul-lockdown-slim16lbox-93811543123555_+dcc34866af.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/sokyra-kolun-solid-a18-multytul-lockdown-slim16lbox-18806713970439_+f0faf0f462.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/sokyra-kolun-solid-a18-multytul-lockdown-slim16lbox-84903176269918_+dd17e2ea21.png</picture>
@@ -7418,7 +7397,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-84247034469713_+a44b8ba605.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-37842163366507_+3cb25e370f.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-81674711878161_+559bebfbe0.png</picture>
@@ -7436,7 +7415,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
@@ -7455,7 +7434,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>34</quantity_in_stock>
+    <quantity_in_stock>33</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-68712988809834_+0b31b52540.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-46234444984194_+df1d982d30.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-66343082443110_+89bfe7cbf2.png</picture>
@@ -7730,6 +7709,27 @@
     <description><![CDATA[<p><span style="font-size:18px;"><b></b><strong data-end="57" data-start="17"></strong></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Мультитул брелок відкривачка Gerber ShardXL Micarta, 4L 1064440</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658165533)</span> &mdash; компактний ручний інструмент у форматі брелока для базових щоденних задач без потреби у великому наборі інструментів. Поєднує кілька функціональних елементів у невеликій пласкій конструкції, яку зручно носити на ключах або у кишені.</span></p> <p data-end="499" data-start="294"><span style="font-size:18px;"><strong data-end="310" data-start="294">Призначення:</strong></span><span style="font-size:14px;"> застосовується для відкривання упаковок і пробок, роботи з простими гвинтами, затискання дрібних предметів, обрізання шнурів і інших базових побутових дій у місті, подорожах чи на природі.</span></p> <p data-end="731" data-start="501"><span style="font-size:18px;"><strong data-end="517" data-start="501">Конструкція:</strong></span><span style="font-size:14px;"> жорстка багатофункціональна пластина з фіксованими елементами не розкладається окремо, що забезпечує простоту та надійність використання. Формат брелока дозволяє тримати мультитул під рукою без додаткового об&rsquo;єму.</span></p> <p data-end="914" data-start="733"><span style="font-size:18px;"><strong data-end="745" data-start="733">Функції:</strong></span><span style="font-size:14px;"> включає в відкривачку для пляшок/банокі базові елементи для швидких побутових операцій.</span></p> <p data-end="1107" data-start="916"><span style="font-size:18px;"><strong data-end="930" data-start="916">Матеріали:</strong></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів для стійкості до зносу при регулярному використанні. Руків&rsquo;я має накладки з Micarta для підвищеного зчеплення та комфортного утримання.</span></p> <p data-end="1286" data-start="1109"><span style="font-size:18px;"><strong data-end="1125" data-start="1109">Особливості:</strong></span><span style="font-size:14px;"> модель із серії ShardXL бренду Gerber орієнтована на універсальні допоміжні задачі в компактному форматі без складних механізмів.</span></p>]]></description>
     <name_ua><![CDATA[Мультитул брелок відкривачка Gerber ShardXL Micarta, 4L (1064440)]]></name_ua>
     <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b><strong data-end="57" data-start="17"></strong></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Мультитул брелок відкривачка Gerber ShardXL Micarta, 4L 1064440</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658165533)</span> &mdash; компактний ручний інструмент у форматі брелока для базових щоденних задач без потреби у великому наборі інструментів. Поєднує кілька функціональних елементів у невеликій пласкій конструкції, яку зручно носити на ключах або у кишені.</span></p> <p data-end="499" data-start="294"><span style="font-size:18px;"><strong data-end="310" data-start="294">Призначення:</strong></span><span style="font-size:14px;"> застосовується для відкривання упаковок і пробок, роботи з простими гвинтами, затискання дрібних предметів, обрізання шнурів і інших базових побутових дій у місті, подорожах чи на природі.</span></p> <p data-end="731" data-start="501"><span style="font-size:18px;"><strong data-end="517" data-start="501">Конструкція:</strong></span><span style="font-size:14px;"> жорстка багатофункціональна пластина з фіксованими елементами не розкладається окремо, що забезпечує простоту та надійність використання. Формат брелока дозволяє тримати мультитул під рукою без додаткового об&rsquo;єму.</span></p> <p data-end="914" data-start="733"><span style="font-size:18px;"><strong data-end="745" data-start="733">Функції:</strong></span><span style="font-size:14px;"> включає в відкривачку для пляшок/банокі базові елементи для швидких побутових операцій.</span></p> <p data-end="1107" data-start="916"><span style="font-size:18px;"><strong data-end="930" data-start="916">Матеріали:</strong></span><span style="font-size:14px;"> виготовлений із міцних металевих сплавів для стійкості до зносу при регулярному використанні. Руків&rsquo;я має накладки з Micarta для підвищеного зчеплення та комфортного утримання.</span></p> <p data-end="1286" data-start="1109"><span style="font-size:18px;"><strong data-end="1125" data-start="1109">Особливості:</strong></span><span style="font-size:14px;"> модель із серії ShardXL бренду Gerber орієнтована на універсальні допоміжні задачі в компактному форматі без складних механізмів.</span></p>]]></description_ua>
+    <param name="Гарантия">12 мес.</param>
+   </offer>
+<offer id="1028491" group_id="5501" available="">
+    <url>https://fiskars-gratis.com.ua/multytul-gerber-prybrid-utility-grey-1028491/</url>
+    <price>1349</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1116</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/36/multytul-gerber-prybrid-utility-grey-1028491-46293735717989_+3ef616af98.jpg</picture>
+    <dimensions>
+     <weight unit="kg">0.3</weight>
+     <width unit="cm">10</width>
+     <height unit="cm">3</height>
+     <length unit="cm">22</length>
+    </dimensions>
+    <vendorCode>1028491</vendorCode>
+    <vendor>Gerber</vendor>
+    <name><![CDATA[Мультитул Gerber Prybrid-Utility Grey (1028491)]]></name>
+    <description><![CDATA[<p><span style="font-size:18px;"><b></b><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Мультитул Gerber Prybrid-Utility Grey 1028491</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658159211)</span> &mdash; багатофункціональний ручний інструмент, що поєднує окремі робочі елементи в одному складаному корпусі для виконання різних побутових, ремонтних і польових задач. Застосовується там, де потрібні базові функції інструментів без окремого комплекту.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> підходить для дрібних побутових і технічних робіт, обслуговування обладнання, розбирання/збирання пристроїв, відкривання упаковок та інших допоміжних задач у місті, вдома чи на природі.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний корпус із фіксацією робочих елементів забезпечує безпечну експлуатацію під час роботи. Елементи інструменту легко відкладаються та застопорюються в робочому положенні. Ергономічна форма руків&rsquo;я забезпечує стабільний хват.</span></p> <p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає лезо ножа, відкривачки,компактний цвяходер&nbsp;та інші базові функції, потрібні для побутових і ремонтних завдань.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">виготовлений із міцних металевих сплавів, що забезпечують стійкість до зносу і довговічність при регулярному використанні. Руків&rsquo;я має практичну текстуровану поверхню.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Prybrid бренду Gerber та орієнтована на універсальні утилітарні операції без спеціалізованого обладнання.</span></p>]]></description>
+    <name_ua><![CDATA[Мультитул Gerber Prybrid-Utility Grey (1028491)]]></name_ua>
+    <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Мультитул Gerber Prybrid-Utility Grey 1028491</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658159211)</span> &mdash; багатофункціональний ручний інструмент, що поєднує окремі робочі елементи в одному складаному корпусі для виконання різних побутових, ремонтних і польових задач. Застосовується там, де потрібні базові функції інструментів без окремого комплекту.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b></span><span style="font-size:14px;"> підходить для дрібних побутових і технічних робіт, обслуговування обладнання, розбирання/збирання пристроїв, відкривання упаковок та інших допоміжних задач у місті, вдома чи на природі.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний корпус із фіксацією робочих елементів забезпечує безпечну експлуатацію під час роботи. Елементи інструменту легко відкладаються та застопорюються в робочому положенні. Ергономічна форма руків&rsquo;я забезпечує стабільний хват.</span></p> <p><span style="font-size:18px;"><b>Інструменти в комплекті:</b></span><span style="font-size:14px;"> включає лезо ножа, відкривачки,компактний цвяходер&nbsp;та інші базові функції, потрібні для побутових і ремонтних завдань.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">виготовлений із міцних металевих сплавів, що забезпечують стійкість до зносу і довговічність при регулярному використанні. Руків&rsquo;я має практичну текстуровану поверхню.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Prybrid бренду Gerber та орієнтована на універсальні утилітарні операції без спеціалізованого обладнання.</span></p>]]></description_ua>
     <param name="Гарантия">12 мес.</param>
    </offer>
 <offer id="1021134" group_id="10501" available="">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-12 23:29">
+<yml_catalog date="2026-11-13 05:42">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -936,7 +936,7 @@
         <url>https://fiskars-gratis.com.ua/kastrulia-z-kryshkoiu-ff-30-l-nerzhaviiucha-stal/</url>
         <price>3789</price>
         <price_old>4085</price_old>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1001</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/23/kastrulia-z-kryshkoiu-ff-30-l-nerzhaviiucha-stal-43903014101160_+bc380471a6.png</picture>
@@ -1259,7 +1259,7 @@
       <offer id="1055364" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-asada-1055364/</url>
         <price>2999</price>
-        <stock_quantity>332</stock_quantity>
+        <stock_quantity>331</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
@@ -1417,7 +1417,7 @@
       <offer id="1065586" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586/</url>
         <price>387</price>
-        <stock_quantity>2</stock_quantity>
+        <stock_quantity>1</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-dlia-chyshchennia-z-rukhomym-lezom-fiskrs-essential-6-sm-1065586-91206989650470_+49fc39037f.jpg</picture>
@@ -1508,7 +1508,7 @@
       <offer id="1001319" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-fiskars-control-2-sht-1001319/</url>
         <price>699</price>
-        <stock_quantity>326</stock_quantity>
+        <stock_quantity>325</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-80276608406322_+d89ee1affc.jpg</picture>
@@ -2177,7 +2177,7 @@
         <url>https://fiskars-gratis.com.ua/piler-y-obraznyi/</url>
         <price>399</price>
         <price_old>483</price_old>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/42/piler-y-obraznyi-23398994564838_+cd29e570ed.png</picture>
@@ -2334,7 +2334,7 @@
       <offer id="1057542" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-koreneplodiv/</url>
         <price>755</price>
-        <stock_quantity>5</stock_quantity>
+        <stock_quantity>4</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-42899483639817_+d6e48dfb3a.png</picture>
@@ -2967,10 +2967,10 @@
         <param name="Код УКТ ЗЕД">8211930000</param>
         <param name="Категорія Хорошоп">GERBER / Мультитули Gerber</param>
       </offer>
-      <offer id="1028491" available="true">
+      <offer id="1028491" available="false">
         <url>https://fiskars-gratis.com.ua/multytul-gerber-prybrid-utility-grey-1028491/</url>
         <price>1349</price>
-        <stock_quantity>1</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1006</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/36/multytul-gerber-prybrid-utility-grey-1028491-46293735717989_+3ef616af98.jpg</picture>

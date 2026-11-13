@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-12 23:29</date>
+    <date>2026-11-13 05:42</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -6230,7 +6230,7 @@
             <url>https://fiskars-gratis.com.ua/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi/</url>
             <image>https://fiskars-gratis.com.ua/content/images/37/nabir-fiskars-hrabli-universaln-sadovi-solid-hrabli-velyki-dlia-lystia-m-pomaranchevi-58202733550330_+0cb49eabd7.png</image>
             <priceRUAH>1599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1003466102349</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -10470,7 +10470,7 @@
             <url>https://fiskars-gratis.com.ua/multytul-gerber-prybrid-utility-grey-1028491/</url>
             <image>https://fiskars-gratis.com.ua/content/images/36/multytul-gerber-prybrid-utility-grey-1028491-46293735717989_+3ef616af98.jpg</image>
             <priceRUAH>1349</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1028491</param>
             <param name="Бренд">Gerber</param>
