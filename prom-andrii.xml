@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-13 21:15">
+<yml_catalog date="2026-11-14 02:01">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -514,7 +514,7 @@
     <price>1399</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>455</quantity_in_stock>
+    <quantity_in_stock>454</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -2049,29 +2049,6 @@
     <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складний Gerber Spire Aluminum, Box 1067367</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 0013658165311)</span> &mdash; складаний ручний інструмент для щоденного використання та базових утилітарних завдань. Використовується для різання пакувальних матеріалів, паперу, картону, мотузок, а також для дрібних побутових робіт у міських умовах або на природі.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC носіння (everyday carry), поїздок, офісного та побутового використання, а також як допоміжний ніж у легких туристичних ситуаціях.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний механізм із фіксацією леза забезпечує безпечну експлуатацію під час роботи. Компактні габарити й мала вага полегшують транспортування та одноручне відкривання. Форма клинка орієнтована на універсальне різання.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">лезо виготовлене з нержавіючої сталі, що поєднує стійкість до корозії із здатністю утримувати гостроту при регулярному використанні. Руків&rsquo;я виконане з алюмінію, що забезпечує легкість і структурну жорсткість.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії Spire бренду Gerber та орієнтована на практичні повсякденні задачі без складних технічних рішень.</span></p>]]></description_ua>
     <param name="Гарантия">24 мес.</param>
    </offer>
-<offer id="1059843" group_id="13493" available="true">
-    <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-affinity-copper-box-1059843/</url>
-    <price>3099</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1107</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-23998092373630_+a23455d0d6.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-71985519088056_+f8eb4472d0.jpg</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-44193185688875_+50d7425de2.jpg</picture>
-    <dimensions>
-     <weight unit="kg">0.3</weight>
-     <width unit="cm">10</width>
-     <height unit="cm">3</height>
-     <length unit="cm">22</length>
-    </dimensions>
-    <vendorCode>1059843</vendorCode>
-    <vendor>Gerber</vendor>
-    <name><![CDATA[Ніж складаний Gerber Affinity-Copper BOX (1059843)]]></name>
-    <description><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складаний Gerber Affinity-Copper BOX 1059843</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 013658164246)</span> &mdash; складаний ручний інструмент для щоденного використання та базових утилітарних задач. Використовується для різання пакувальних матеріалів, паперу, картону, мотузок, дрібних продуктів і виконання допоміжних робіт у місті чи на природі.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC носіння (Everyday Carry), поїздок, повсякденних побутових завдань та як допоміжний ніж у легких туристичних ситуаціях.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний механізм із фіксацією леза забезпечує безпечну експлуатацію під час роботи. Клинок із прямою різальною крайкою орієнтований на універсальне та контрольоване різання. Компактні габарити спрощують транспортування в кишені або сумці.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">лезо виготовлене з нержавіючої сталі, що поєднує корозійну стійкість із здатністю утримувати гостроту при регулярному використанні. Руків&rsquo;я має декоративне покриття і зручну форму для стабільного хвату.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Affinity бренду Gerber та орієнтована на базові повсякденні задачі з акцентом на практичність і компактність.</span></p>]]></description>
-    <name_ua><![CDATA[Ніж складаний Gerber Affinity-Copper BOX (1059843)]]></name_ua>
-    <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складаний Gerber Affinity-Copper BOX 1059843</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 013658164246)</span> &mdash; складаний ручний інструмент для щоденного використання та базових утилітарних задач. Використовується для різання пакувальних матеріалів, паперу, картону, мотузок, дрібних продуктів і виконання допоміжних робіт у місті чи на природі.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC носіння (Everyday Carry), поїздок, повсякденних побутових завдань та як допоміжний ніж у легких туристичних ситуаціях.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний механізм із фіксацією леза забезпечує безпечну експлуатацію під час роботи. Клинок із прямою різальною крайкою орієнтований на універсальне та контрольоване різання. Компактні габарити спрощують транспортування в кишені або сумці.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">лезо виготовлене з нержавіючої сталі, що поєднує корозійну стійкість із здатністю утримувати гостроту при регулярному використанні. Руків&rsquo;я має декоративне покриття і зручну форму для стабільного хвату.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Affinity бренду Gerber та орієнтована на базові повсякденні задачі з акцентом на практичність і компактність.</span></p>]]></description_ua>
-    <param name="Гарантия">24 мес.</param>
-   </offer>
 <offer id="1065599" group_id="16493" available="true">
     <url>https://fiskars-gratis.com.ua/nizh-dlia-chyshchennia-z-poperechnym-lezom-fiskars-essential-1065599/</url>
     <price>568</price>
@@ -2280,7 +2257,7 @@
     <price>699</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>325</quantity_in_stock>
+    <quantity_in_stock>324</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-80276608406322_+d89ee1affc.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-56203335779112_+b9f714d8a3.jpg</picture>
     <dimensions>
@@ -3038,7 +3015,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>26</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-30544758468568_+f62d0c22e8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-62443548234430_+4479095865.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-55290915676111_+f24892b7af.jpeg</picture>
@@ -3179,7 +3156,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>2</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-48902833332643_+7c9ca353de.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-71214196768880_+3a4d4a7cc9.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-58483850974172_+ef36107030.jpeg</picture>
@@ -3454,7 +3431,7 @@
     <price>2179</price>
     <currencyId>UAH</currencyId>
     <categoryId>1176</categoryId>
-    <quantity_in_stock>68</quantity_in_stock>
+    <quantity_in_stock>67</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -4125,7 +4102,7 @@
     <price>1469</price>
     <currencyId>UAH</currencyId>
     <categoryId>1132</categoryId>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/46/hrabli-sadovi-ergonomic-1004809-68529857771138_+ff8f5607ad.jpeg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -6394,7 +6371,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>833</quantity_in_stock>
+    <quantity_in_stock>832</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -6892,7 +6869,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>8</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/43/nozhytsi-fiskars-375-21-sm-52604055440987_+7b6c784840.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/43/nozhytsi-fiskars-375-21-sm-22832355475112_+6aef624f45.png</picture>
     <dimensions>
@@ -7084,7 +7061,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>16</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-66822550593995_+6a92c49465.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-67903323560117_+97b42a89cf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-94299321922368_+72f76e14e0.png</picture>
@@ -7228,7 +7205,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-66856692547031_+f0de17be15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-52724028681852_+f6ef372b50.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-26853019685921_+84c62f42b9.png</picture>
@@ -7311,7 +7288,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-34700090871095_+ab46608c96.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-15365417385023_+a0255b34ae.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-51419633299471_+ec55a9ae11.png</picture>
@@ -7415,7 +7392,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>26</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
@@ -7434,7 +7411,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>32</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-68712988809834_+0b31b52540.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-46234444984194_+df1d982d30.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-66343082443110_+89bfe7cbf2.png</picture>
@@ -7496,7 +7473,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/21/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskar-nizh-santoku-fiskars-cleaver-all-steel-16-sm-46781554818401_+3fce89da6e.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskar-nizh-santoku-fiskars-cleaver-all-steel-16-sm-89944480502013_+fd933258a5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskar-nizh-santoku-fiskars-cleaver-all-steel-16-sm-62320372408770_+ad3012c005.png</picture>
@@ -7772,6 +7749,29 @@
     <description><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складний Gerber STL 2.5,E,BLS 1013976</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658119802)</span> &mdash; компактний складаний інструмент для щоденного використання та легких побутових завдань. Використовується для різання паперу, картону, пакувальних матеріалів, мотузок і виконання дрібних допоміжних робіт у міських умовах або в дорозі.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-носіння, поїздок, офісного та побутового використання, а також як допоміжний ніж у туристичному спорядженні.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний формат із фіксацією леза забезпечує безпечну експлуатацію та зручне транспортування. Ультратонкий профіль і мала вага дозволяють носити ніж у кишені без відчутного об&rsquo;єму. Форма руків&rsquo;я розрахована на базовий контроль під час різання.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">клинок виготовлений з нержавіючої сталі, стійкої до корозії при регулярному використанні. Руків&rsquo;я виконане з легкого металу, придатного для щоденного носіння.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії STL бренду Gerber та орієнтована на мінімалістичні щоденні задачі.</span></p>]]></description>
     <name_ua><![CDATA[Ніж складний Gerber STL 2.5,E,BLS (1013976)]]></name_ua>
     <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складний Gerber STL 2.5,E,BLS 1013976</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 13658119802)</span> &mdash; компактний складаний інструмент для щоденного використання та легких побутових завдань. Використовується для різання паперу, картону, пакувальних матеріалів, мотузок і виконання дрібних допоміжних робіт у міських умовах або в дорозі.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC-носіння, поїздок, офісного та побутового використання, а також як допоміжний ніж у туристичному спорядженні.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний формат із фіксацією леза забезпечує безпечну експлуатацію та зручне транспортування. Ультратонкий профіль і мала вага дозволяють носити ніж у кишені без відчутного об&rsquo;єму. Форма руків&rsquo;я розрахована на базовий контроль під час різання.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">клинок виготовлений з нержавіючої сталі, стійкої до корозії при регулярному використанні. Руків&rsquo;я виконане з легкого металу, придатного для щоденного носіння.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b></span><span style="font-size:14px;"> модель належить до серії STL бренду Gerber та орієнтована на мінімалістичні щоденні задачі.</span></p>]]></description_ua>
+    <param name="Гарантия">24 мес.</param>
+   </offer>
+<offer id="1059843" group_id="13493" available="">
+    <url>https://fiskars-gratis.com.ua/nizh-skladanyi-gerber-affinity-copper-box-1059843/</url>
+    <price>3099</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1107</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-23998092373630_+a23455d0d6.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-71985519088056_+f8eb4472d0.jpg</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-44193185688875_+50d7425de2.jpg</picture>
+    <dimensions>
+     <weight unit="kg">0.3</weight>
+     <width unit="cm">10</width>
+     <height unit="cm">3</height>
+     <length unit="cm">22</length>
+    </dimensions>
+    <vendorCode>1059843</vendorCode>
+    <vendor>Gerber</vendor>
+    <name><![CDATA[Ніж складаний Gerber Affinity-Copper BOX (1059843)]]></name>
+    <description><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складаний Gerber Affinity-Copper BOX 1059843</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 013658164246)</span> &mdash; складаний ручний інструмент для щоденного використання та базових утилітарних задач. Використовується для різання пакувальних матеріалів, паперу, картону, мотузок, дрібних продуктів і виконання допоміжних робіт у місті чи на природі.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC носіння (Everyday Carry), поїздок, повсякденних побутових завдань та як допоміжний ніж у легких туристичних ситуаціях.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний механізм із фіксацією леза забезпечує безпечну експлуатацію під час роботи. Клинок із прямою різальною крайкою орієнтований на універсальне та контрольоване різання. Компактні габарити спрощують транспортування в кишені або сумці.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">лезо виготовлене з нержавіючої сталі, що поєднує корозійну стійкість із здатністю утримувати гостроту при регулярному використанні. Руків&rsquo;я має декоративне покриття і зручну форму для стабільного хвату.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Affinity бренду Gerber та орієнтована на базові повсякденні задачі з акцентом на практичність і компактність.</span></p>]]></description>
+    <name_ua><![CDATA[Ніж складаний Gerber Affinity-Copper BOX (1059843)]]></name_ua>
+    <description_ua><![CDATA[<p><span style="font-size:18px;"><b></b></span><span style="font-size:14px;"><strong><span style="font-size:18px;">Ніж складаний Gerber Affinity-Copper BOX 1059843</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 013658164246)</span> &mdash; складаний ручний інструмент для щоденного використання та базових утилітарних задач. Використовується для різання пакувальних матеріалів, паперу, картону, мотузок, дрібних продуктів і виконання допоміжних робіт у місті чи на природі.</span></p> <p><span style="font-size:18px;"><b>Призначення:</b> </span><span style="font-size:14px;">підходить для EDC носіння (Everyday Carry), поїздок, повсякденних побутових завдань та як допоміжний ніж у легких туристичних ситуаціях.</span></p> <p><span style="font-size:18px;"><b>Конструкція:</b> </span><span style="font-size:14px;">складаний механізм із фіксацією леза забезпечує безпечну експлуатацію під час роботи. Клинок із прямою різальною крайкою орієнтований на універсальне та контрольоване різання. Компактні габарити спрощують транспортування в кишені або сумці.</span></p> <p><span style="font-size:18px;"><b>Матеріали:</b> </span><span style="font-size:14px;">лезо виготовлене з нержавіючої сталі, що поєднує корозійну стійкість із здатністю утримувати гостроту при регулярному використанні. Руків&rsquo;я має декоративне покриття і зручну форму для стабільного хвату.</span></p> <p><span style="font-size:18px;"><b>Особливості:</b> </span><span style="font-size:14px;">модель належить до серії Affinity бренду Gerber та орієнтована на базові повсякденні задачі з акцентом на практичність і компактність.</span></p>]]></description_ua>
     <param name="Гарантия">24 мес.</param>
    </offer>
 <offer id="1065567" group_id="14493" available="">

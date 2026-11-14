@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-13 21:15</date>
+    <date>2026-11-14 02:01</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -8209,7 +8209,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-71985519088056_+f8eb4472d0.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/5/nizh-skladanyi-gerber-affinity-copper-box-1059843-44193185688875_+50d7425de2.jpg</image>
             <priceRUAH>3099</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">24</guarantee>
             <param name="Артикул">1059843</param>
             <param name="Бренд">Gerber</param>
