@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-15 01:33</date>
+    <date>2026-11-15 08:56</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -2253,7 +2253,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/43/kotushka-zi-shlanhom-fiskars-waterwheel-s-1026680-42362764672405_+f15554aaff.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/43/kotushka-zi-shlanhom-fiskars-waterwheel-s-1026680-91056987414691_+9d4d36f140.jpg</image>
             <priceRUAH>2999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1026680</param>
             <param name="Бренд">Fiskars</param>
@@ -5775,7 +5775,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-45522949929795_+266713f98b.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-39611485346034_+53b01f3946.jpeg</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1070715105108</param>
             <param name="Бренд">Fiskars</param>
