@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-16 01:38">
+<yml_catalog date="2026-11-16 09:09">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -514,7 +514,7 @@
     <price>1399</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>449</quantity_in_stock>
+    <quantity_in_stock>447</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -647,7 +647,7 @@
     <price>277</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>54</quantity_in_stock>
+    <quantity_in_stock>53</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/lopatka-dlia-peresadky-fiskars-solid-1025564-47156608600942_+ea51128c87.jpg</picture>
     <dimensions>
      <weight unit="kg">0.5</weight>
@@ -795,7 +795,7 @@
     <price>1377</price>
     <currencyId>UAH</currencyId>
     <categoryId>1132</categoryId>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/29/hrabli-fiskars-solid-1024720-46645498261926_+f3e1a2f52e.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -2574,7 +2574,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-53694152285206_+37c40f9a10.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-85757459351668_+5e352d45ba.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-26004454274135_+7b1a04a4da.jpeg</picture>
@@ -7368,7 +7368,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
@@ -7387,7 +7387,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>24</quantity_in_stock>
+    <quantity_in_stock>23</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-68712988809834_+0b31b52540.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-46234444984194_+df1d982d30.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-66343082443110_+89bfe7cbf2.png</picture>
