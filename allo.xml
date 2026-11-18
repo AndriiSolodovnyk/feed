@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-17 21:33</date>
+    <date>2026-11-18 03:23</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -4837,7 +4837,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/44/nozhytsi-fiskars-moomin-21cm-95891508213567_+8b2ec3fd7c.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/44/nozhytsi-fiskars-moomin-21cm-31565720265634_+6abb15b5e8.png</image>
             <priceRUAH>999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1080088</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
