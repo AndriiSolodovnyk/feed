@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-19 20:11">
+<yml_catalog date="2026-11-20 02:05">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -514,7 +514,7 @@
     <price>1399</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>439</quantity_in_stock>
+    <quantity_in_stock>438</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -668,7 +668,7 @@
     <price>377</price>
     <currencyId>UAH</currencyId>
     <categoryId>1090</categoryId>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/21/kultyvator-fiskars-solid-1025565-53478953591333_+015e3a76d4.jpg</picture>
     <dimensions>
      <weight unit="kg">0.6</weight>
@@ -1331,7 +1331,7 @@
     <price>2499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-tesliarska-fiskars-solid-a10-nozhytsi-dlia-travy-white-gs41-88435114741861_+9c4c08ab23.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-tesliarska-fiskars-solid-a10-nozhytsi-dlia-travy-white-gs41-44005167879463_+6a0bf1d6d9.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/sokyra-tesliarska-fiskars-solid-a10-nozhytsi-dlia-travy-white-gs41-67149383609073_+5f5c33b4be.jpg</picture>
@@ -1634,7 +1634,7 @@
     <price>319</price>
     <currencyId>UAH</currencyId>
     <categoryId>1140</categoryId>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>22</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/31/skrebok-avtomobilnyi-fiskars-solid-1019354-46861657243390_+d1c2ae8995.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/31/skrebok-avtomobilnyi-fiskars-solid-1019354-82231664622799_+61bc64ffe5.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/31/skrebok-avtomobilnyi-fiskars-solid-1019354-67176702943325_+7b3f0ff99f.jpg</picture>
@@ -1962,7 +1962,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1107</categoryId>
-    <quantity_in_stock>331</quantity_in_stock>
+    <quantity_in_stock>332</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-84082465979075_+efe81a2cc8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/nizh-skladanyi-gerber-asada-1055364-77661275374613_+389a3888f3.jpg</picture>
     <dimensions>
@@ -2969,7 +2969,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>21</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-30544758468568_+f62d0c22e8.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-62443548234430_+4479095865.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/hilkoriz-ploshchynnyi-z-nozhytsiamy-na-kintsi-fiskars-powergear-m-l76-podarunok-nizh-skladanyi-gerber-asada-55290915676111_+f24892b7af.jpeg</picture>
@@ -3358,7 +3358,7 @@
     <price>2179</price>
     <currencyId>UAH</currencyId>
     <categoryId>1176</categoryId>
-    <quantity_in_stock>55</quantity_in_stock>
+    <quantity_in_stock>51</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -6248,7 +6248,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>828</quantity_in_stock>
+    <quantity_in_stock>826</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -6907,34 +6907,13 @@
     <name_ua><![CDATA[Ножиці для живоплоту PowerGear HS72 (1000956)]]></name_ua>
     <description_ua><![CDATA[<p><strong></strong><strong><span style="font-size:18px;">Ножиці для живоплоту PowerGear HS72 1000956</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411501147905)</span> &mdash; практичний садовий інструмент для формування та догляду за живоплотом, кущами й декоративними рослинами. Гострі леза забезпечують чистий зріз, а технологія PowerGear&trade; допомагає зменшити зусилля під час роботи з гілками.</p> <p><strong>Призначення:</strong>&nbsp;підходять для підстригання живоплоту, формування кущів та обрізання молодих пагонів. Зручні для регулярного догляду за декоративними рослинами та підтримання їхньої форми.</p> <p><strong>Конструкція:</strong>&nbsp;ножиці оснащені довгими лезами для швидкого охоплення більшої площі під час підстригання. Механізм PowerGear&trade; оптимізує передачу зусилля та полегшує зріз. Ергономічні рукоятки забезпечують комфортне утримання та контроль інструмента під час роботи.</p> <p><strong>Матеріали:</strong>&nbsp;леза виготовлені з якісної загартованої сталі, стійкої до регулярного використання. Рукоятки виконані з міцного легкого матеріалу, що допомагає зменшити навантаження на руки.</p> <p><strong>Особливості:</strong>&nbsp;ножиці належать до серії PowerGear&trade; та призначені для ефективного підстригання живоплоту. Довжина інструмента &mdash; 57 см. Спеціальна конструкція механізму забезпечує додаткову потужність під час різання та допомагає працювати з меншими зусиллями.</p> <p><strong>Комплектація:</strong>&nbsp;ножиці для живоплоту Fiskars PowerGear HS72 &mdash; 1 шт.</p>]]></description_ua>
    </offer>
-<offer id="1066727105108" group_id="55489" available="true">
-    <url>https://fiskars-gratis.com.ua/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10/</url>
-    <oldprice>3498</oldprice>
-    <price>1999</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1192</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-37698904701762_+a2497125f9.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-58168144542852_+4614cbb679.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-35556107645267_+9678b0ff8e.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-54539833643298_+ce5b4d963f.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-11191125635471_+da3c78c21a.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-28728430251976_+dd74d4c2ab.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-15413006159961_+58c199b6cb.png</picture>
-    <vendorCode>1066727105108</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Набір Fiskars: Лопата совкова PRIMA чорна FSC 1066727 + Сокира теслярська Solid A10 1051085]]></name>
-    <description><![CDATA[<p><strong>Лопата совкова Фіскарс PRIMA чорна FSC+Сокира теслярська Solid A10 - (штрихкод 641150131190)</strong> - <strong>Набір Fiskars </strong>&nbsp;для роботи з деревиною, ґрунтом та сипучими матеріалами. Практичне рішення для саду, дачі, будівельних і господарських робіт.</p> <p><strong>Опис набору Fiskars</strong></p> <p>Набір поєднує теслярську сокиру Fiskars Solid A10 та совкову лопату Fiskars PRIMA. Сокира призначена для роботи з деревиною, обробки та підготовки дерев&#39;яних матеріалів, а лопата допомагає переміщувати ґрунт, пісок, гравій та інші сипучі матеріали. Разом інструменти створюють практичний комплект для різноманітних робіт у приватному господарстві.</p> <p><strong>Що входить у комплект</strong></p> <p>&nbsp;</p> <p><strong>Л<a href="https://fiskars-gratis.com.ua/lopata-sovkova-fiskars-prima-chorna-fsc/">опата совкова Fiskars PRIMA чорна FSC</a></strong></p> <p>Совкова лопата Fiskars PRIMA підходить для переміщення ґрунту, піску, гравію та інших сипучих матеріалів. Чорне полотно та конструкція лопати забезпечують практичність під час садових, будівельних і господарських робіт. Сертифікація FSC підтверджує відповідність деревини вимогам відповідального лісокористування.</p> <p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира Fiskars Solid A10</strong></a></p> <p>Теслярська сокира Fiskars Solid A10 (1051085) призначена для точної обробки деревини, теслярських і столярних робіт. Високовуглецеве сталеве лезо має кут заточування 30&deg;, а руків&#39;я FiberComp&trade; з поліаміду, армованого скловолокном, забезпечує надійний хват і комфорт під час роботи. Довжина сокири &mdash; 445 мм, вага &mdash; 0,98 кг.</p> <p><strong>Застосування</strong></p> <p>Набір підходить для виконання різноманітних робіт у саду, на дачі, у майстерні та приватному господарстві.</p> <ol> <li> <p>Обробка та підготовка деревини.</p> </li> <li> <p>Виконання теслярських і столярних робіт.</p> </li> <li> <p>Переміщення ґрунту, піску та гравію.</p> </li> <li> <p>Робота з сипучими матеріалами.</p> </li> <li> <p>Використання під час садових, будівельних і господарських робіт.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сокири та совкової лопати.</p> </li> <li> <p>Інструменти для різних видів господарських робіт.</p> </li> <li> <p>Надійні матеріали та продумана конструкція.</p> </li> <li> <p>Підходить для використання вдома, на дачі та в саду.</p> </li> <li> <p>Зручне рішення для тих, хто хоче придбати одразу два необхідні інструменти.</p> </li> </ol>]]></description>
-    <name_ua><![CDATA[Набір Fiskars: Лопата совкова PRIMA чорна FSC 1066727 + Сокира теслярська Solid A10 1051085]]></name_ua>
-    <description_ua><![CDATA[<p><strong>Лопата совкова Фіскарс PRIMA чорна FSC+Сокира теслярська Solid A10 - (штрихкод 641150131190)</strong> - <strong>Набір Fiskars </strong>&nbsp;для роботи з деревиною, ґрунтом та сипучими матеріалами. Практичне рішення для саду, дачі, будівельних і господарських робіт.</p> <p><strong>Опис набору Fiskars</strong></p> <p>Набір поєднує теслярську сокиру Fiskars Solid A10 та совкову лопату Fiskars PRIMA. Сокира призначена для роботи з деревиною, обробки та підготовки дерев&#39;яних матеріалів, а лопата допомагає переміщувати ґрунт, пісок, гравій та інші сипучі матеріали. Разом інструменти створюють практичний комплект для різноманітних робіт у приватному господарстві.</p> <p><strong>Що входить у комплект</strong></p> <p>&nbsp;</p> <p><strong>Л<a href="https://fiskars-gratis.com.ua/lopata-sovkova-fiskars-prima-chorna-fsc/">опата совкова Fiskars PRIMA чорна FSC</a></strong></p> <p>Совкова лопата Fiskars PRIMA підходить для переміщення ґрунту, піску, гравію та інших сипучих матеріалів. Чорне полотно та конструкція лопати забезпечують практичність під час садових, будівельних і господарських робіт. Сертифікація FSC підтверджує відповідність деревини вимогам відповідального лісокористування.</p> <p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира Fiskars Solid A10</strong></a></p> <p>Теслярська сокира Fiskars Solid A10 (1051085) призначена для точної обробки деревини, теслярських і столярних робіт. Високовуглецеве сталеве лезо має кут заточування 30&deg;, а руків&#39;я FiberComp&trade; з поліаміду, армованого скловолокном, забезпечує надійний хват і комфорт під час роботи. Довжина сокири &mdash; 445 мм, вага &mdash; 0,98 кг.</p> <p><strong>Застосування</strong></p> <p>Набір підходить для виконання різноманітних робіт у саду, на дачі, у майстерні та приватному господарстві.</p> <ol> <li> <p>Обробка та підготовка деревини.</p> </li> <li> <p>Виконання теслярських і столярних робіт.</p> </li> <li> <p>Переміщення ґрунту, піску та гравію.</p> </li> <li> <p>Робота з сипучими матеріалами.</p> </li> <li> <p>Використання під час садових, будівельних і господарських робіт.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сокири та совкової лопати.</p> </li> <li> <p>Інструменти для різних видів господарських робіт.</p> </li> <li> <p>Надійні матеріали та продумана конструкція.</p> </li> <li> <p>Підходить для використання вдома, на дачі та в саду.</p> </li> <li> <p>Зручне рішення для тих, хто хоче придбати одразу два необхідні інструменти.</p> </li> </ol>]]></description_ua>
-   </offer>
 <offer id="1028376106314" group_id="56489" available="true">
     <url>https://fiskars-gratis.com.ua/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk/</url>
     <oldprice>3698</oldprice>
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-66822550593995_+6a92c49465.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-67903323560117_+97b42a89cf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-94299321922368_+72f76e14e0.png</picture>
@@ -6954,7 +6933,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-54979820415643_+54ab95c7a5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-83642833114852_+1e0f27c8c0.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-35010132069884_+4162aa913e.png</picture>
@@ -7078,7 +7057,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>10</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-66856692547031_+f0de17be15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-52724028681852_+f6ef372b50.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-26853019685921_+84c62f42b9.png</picture>
@@ -7117,7 +7096,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>25</quantity_in_stock>
+    <quantity_in_stock>24</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-86642605311000_+ca12383c19.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-89409643592159_+6bfe4ec5df.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-64265084868992_+0a3e982128.png</picture>
@@ -7161,7 +7140,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>17</quantity_in_stock>
+    <quantity_in_stock>16</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-34700090871095_+ab46608c96.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-15365417385023_+a0255b34ae.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-51419633299471_+ec55a9ae11.png</picture>
@@ -7265,7 +7244,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
@@ -7284,7 +7263,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>14</quantity_in_stock>
+    <quantity_in_stock>11</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-68712988809834_+0b31b52540.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-46234444984194_+df1d982d30.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-66343082443110_+89bfe7cbf2.png</picture>
@@ -7346,7 +7325,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>10</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/21/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskar-nizh-santoku-fiskars-cleaver-all-steel-16-sm-46781554818401_+3fce89da6e.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskar-nizh-santoku-fiskars-cleaver-all-steel-16-sm-89944480502013_+fd933258a5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskar-nizh-santoku-fiskars-cleaver-all-steel-16-sm-62320372408770_+ad3012c005.png</picture>
@@ -7368,7 +7347,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>12</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/22/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30-sm-lopatka-dereviana-dlia-hrylia-norden-1066429-vydelka-dlia-hrylia-norden-grill-shchyptsi-dlia-hrylia-norden-grill-14770034324774_+00541b628f.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30-sm-lopatka-dereviana-dlia-hrylia-norden-1066429-vydelka-dlia-hrylia-norden-grill-shchyptsi-dlia-hrylia-norden-grill-28645700027087_+7b1fa6cbf4.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30-sm-lopatka-dereviana-dlia-hrylia-norden-1066429-vydelka-dlia-hrylia-norden-grill-shchyptsi-dlia-hrylia-norden-grill-37882102102030_+80674c25e3.png</picture>
@@ -8361,6 +8340,27 @@
     <description><![CDATA[<p data-end="350" data-start="20"><strong data-end="77" data-start="20"></strong><strong><span style="font-size:18px;">Ножиці Fiskars Moomin 21cm 1080088</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411801023602)</span> &mdash; універсальні ножиці з колекції Fiskars x Moomin, створені для різноманітних ріжучих робіт удома, в офісі, школі та під час творчості. Модель поєднує точне різання, ергономічну конструкцію та впізнаваний дизайн із персонажами Moomin.&nbsp;</p> <p data-end="559" data-start="352"><strong data-end="368" data-start="352">Призначення:</strong>&nbsp;підходять для різання паперу, картону, пакувальних матеріалів, пластику, тонких шлангів, рослин та інших матеріалів. Ножиці призначені для різноманітних побутових, офісних і творчих завдань.</p> <p data-end="864" data-start="561"><strong data-end="577" data-start="561">Конструкція:</strong>&nbsp;ножиці оснащені точно заточеними лезами, які забезпечують акуратний різ до самого кінчика. Ергономічні ручки забезпечують комфортне утримання та хороший контроль під час роботи. Натяг лез можна регулювати для підтримання оптимальної якості різання.&nbsp;</p> <p data-end="1051" data-start="866"><strong data-end="880" data-start="866">Матеріали:</strong>&nbsp;леза виготовлені з нержавіючої сталі, стійкої до корозії та тривалого використання. Ручки виконані з міцного ударостійкого пластику.&nbsp;</p> <p data-end="1348" data-start="1053"><strong data-end="1069" data-start="1053">Особливості:</strong>&nbsp;модель належить до колекції&nbsp;<strong data-end="1134" data-start="1098">Fiskars x Moomin Festive Moments</strong>. Дизайн натхненний ілюстраціями Туве Янссон. Ножиці підходять для праворуких користувачів, їх можна мити в посудомийній машині. Виготовлені у Фінляндії та протестовані вручну.&nbsp;</p> <p data-end="1403" data-start="1350"><strong data-end="1367" data-start="1350">Комплектація:</strong>&nbsp;ножиці Fiskars Moomin 21 см &mdash; 1 шт.</p>]]></description>
     <name_ua><![CDATA[Ножиці Fiskars Moomin 21cm (1080088)]]></name_ua>
     <description_ua><![CDATA[<p data-end="350" data-start="20"><strong data-end="77" data-start="20"></strong><strong><span style="font-size:18px;">Ножиці Fiskars Moomin 21cm 1080088</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6411801023602)</span> &mdash; універсальні ножиці з колекції Fiskars x Moomin, створені для різноманітних ріжучих робіт удома, в офісі, школі та під час творчості. Модель поєднує точне різання, ергономічну конструкцію та впізнаваний дизайн із персонажами Moomin.&nbsp;</p> <p data-end="559" data-start="352"><strong data-end="368" data-start="352">Призначення:</strong>&nbsp;підходять для різання паперу, картону, пакувальних матеріалів, пластику, тонких шлангів, рослин та інших матеріалів. Ножиці призначені для різноманітних побутових, офісних і творчих завдань.</p> <p data-end="864" data-start="561"><strong data-end="577" data-start="561">Конструкція:</strong>&nbsp;ножиці оснащені точно заточеними лезами, які забезпечують акуратний різ до самого кінчика. Ергономічні ручки забезпечують комфортне утримання та хороший контроль під час роботи. Натяг лез можна регулювати для підтримання оптимальної якості різання.&nbsp;</p> <p data-end="1051" data-start="866"><strong data-end="880" data-start="866">Матеріали:</strong>&nbsp;леза виготовлені з нержавіючої сталі, стійкої до корозії та тривалого використання. Ручки виконані з міцного ударостійкого пластику.&nbsp;</p> <p data-end="1348" data-start="1053"><strong data-end="1069" data-start="1053">Особливості:</strong>&nbsp;модель належить до колекції&nbsp;<strong data-end="1134" data-start="1098">Fiskars x Moomin Festive Moments</strong>. Дизайн натхненний ілюстраціями Туве Янссон. Ножиці підходять для праворуких користувачів, їх можна мити в посудомийній машині. Виготовлені у Фінляндії та протестовані вручну.&nbsp;</p> <p data-end="1403" data-start="1350"><strong data-end="1367" data-start="1350">Комплектація:</strong>&nbsp;ножиці Fiskars Moomin 21 см &mdash; 1 шт.</p>]]></description_ua>
+   </offer>
+<offer id="1066727105108" group_id="55489" available="">
+    <url>https://fiskars-gratis.com.ua/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10/</url>
+    <oldprice>3498</oldprice>
+    <price>1999</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>1192</categoryId>
+    <quantity_in_stock>0</quantity_in_stock>
+    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-37698904701762_+a2497125f9.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-58168144542852_+4614cbb679.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-35556107645267_+9678b0ff8e.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-54539833643298_+ce5b4d963f.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-11191125635471_+da3c78c21a.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-28728430251976_+dd74d4c2ab.png</picture>
+    <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-15413006159961_+58c199b6cb.png</picture>
+    <vendorCode>1066727105108</vendorCode>
+    <vendor>Fiskars</vendor>
+    <name><![CDATA[Набір Fiskars: Лопата совкова PRIMA чорна FSC 1066727 + Сокира теслярська Solid A10 1051085]]></name>
+    <description><![CDATA[<p><strong>Лопата совкова Фіскарс PRIMA чорна FSC+Сокира теслярська Solid A10 - (штрихкод 641150131190)</strong> - <strong>Набір Fiskars </strong>&nbsp;для роботи з деревиною, ґрунтом та сипучими матеріалами. Практичне рішення для саду, дачі, будівельних і господарських робіт.</p> <p><strong>Опис набору Fiskars</strong></p> <p>Набір поєднує теслярську сокиру Fiskars Solid A10 та совкову лопату Fiskars PRIMA. Сокира призначена для роботи з деревиною, обробки та підготовки дерев&#39;яних матеріалів, а лопата допомагає переміщувати ґрунт, пісок, гравій та інші сипучі матеріали. Разом інструменти створюють практичний комплект для різноманітних робіт у приватному господарстві.</p> <p><strong>Що входить у комплект</strong></p> <p>&nbsp;</p> <p><strong>Л<a href="https://fiskars-gratis.com.ua/lopata-sovkova-fiskars-prima-chorna-fsc/">опата совкова Fiskars PRIMA чорна FSC</a></strong></p> <p>Совкова лопата Fiskars PRIMA підходить для переміщення ґрунту, піску, гравію та інших сипучих матеріалів. Чорне полотно та конструкція лопати забезпечують практичність під час садових, будівельних і господарських робіт. Сертифікація FSC підтверджує відповідність деревини вимогам відповідального лісокористування.</p> <p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира Fiskars Solid A10</strong></a></p> <p>Теслярська сокира Fiskars Solid A10 (1051085) призначена для точної обробки деревини, теслярських і столярних робіт. Високовуглецеве сталеве лезо має кут заточування 30&deg;, а руків&#39;я FiberComp&trade; з поліаміду, армованого скловолокном, забезпечує надійний хват і комфорт під час роботи. Довжина сокири &mdash; 445 мм, вага &mdash; 0,98 кг.</p> <p><strong>Застосування</strong></p> <p>Набір підходить для виконання різноманітних робіт у саду, на дачі, у майстерні та приватному господарстві.</p> <ol> <li> <p>Обробка та підготовка деревини.</p> </li> <li> <p>Виконання теслярських і столярних робіт.</p> </li> <li> <p>Переміщення ґрунту, піску та гравію.</p> </li> <li> <p>Робота з сипучими матеріалами.</p> </li> <li> <p>Використання під час садових, будівельних і господарських робіт.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сокири та совкової лопати.</p> </li> <li> <p>Інструменти для різних видів господарських робіт.</p> </li> <li> <p>Надійні матеріали та продумана конструкція.</p> </li> <li> <p>Підходить для використання вдома, на дачі та в саду.</p> </li> <li> <p>Зручне рішення для тих, хто хоче придбати одразу два необхідні інструменти.</p> </li> </ol>]]></description>
+    <name_ua><![CDATA[Набір Fiskars: Лопата совкова PRIMA чорна FSC 1066727 + Сокира теслярська Solid A10 1051085]]></name_ua>
+    <description_ua><![CDATA[<p><strong>Лопата совкова Фіскарс PRIMA чорна FSC+Сокира теслярська Solid A10 - (штрихкод 641150131190)</strong> - <strong>Набір Fiskars </strong>&nbsp;для роботи з деревиною, ґрунтом та сипучими матеріалами. Практичне рішення для саду, дачі, будівельних і господарських робіт.</p> <p><strong>Опис набору Fiskars</strong></p> <p>Набір поєднує теслярську сокиру Fiskars Solid A10 та совкову лопату Fiskars PRIMA. Сокира призначена для роботи з деревиною, обробки та підготовки дерев&#39;яних матеріалів, а лопата допомагає переміщувати ґрунт, пісок, гравій та інші сипучі матеріали. Разом інструменти створюють практичний комплект для різноманітних робіт у приватному господарстві.</p> <p><strong>Що входить у комплект</strong></p> <p>&nbsp;</p> <p><strong>Л<a href="https://fiskars-gratis.com.ua/lopata-sovkova-fiskars-prima-chorna-fsc/">опата совкова Fiskars PRIMA чорна FSC</a></strong></p> <p>Совкова лопата Fiskars PRIMA підходить для переміщення ґрунту, піску, гравію та інших сипучих матеріалів. Чорне полотно та конструкція лопати забезпечують практичність під час садових, будівельних і господарських робіт. Сертифікація FSC підтверджує відповідність деревини вимогам відповідального лісокористування.</p> <p><a href="https://fiskars-gratis.com.ua/sokyra-tesliarskafiskars-solid-a10-1051085/"><strong>Сокира Fiskars Solid A10</strong></a></p> <p>Теслярська сокира Fiskars Solid A10 (1051085) призначена для точної обробки деревини, теслярських і столярних робіт. Високовуглецеве сталеве лезо має кут заточування 30&deg;, а руків&#39;я FiberComp&trade; з поліаміду, армованого скловолокном, забезпечує надійний хват і комфорт під час роботи. Довжина сокири &mdash; 445 мм, вага &mdash; 0,98 кг.</p> <p><strong>Застосування</strong></p> <p>Набір підходить для виконання різноманітних робіт у саду, на дачі, у майстерні та приватному господарстві.</p> <ol> <li> <p>Обробка та підготовка деревини.</p> </li> <li> <p>Виконання теслярських і столярних робіт.</p> </li> <li> <p>Переміщення ґрунту, піску та гравію.</p> </li> <li> <p>Робота з сипучими матеріалами.</p> </li> <li> <p>Використання під час садових, будівельних і господарських робіт.</p> </li> </ol> <p><strong>Основні переваги набору</strong></p> <ol> <li> <p>Практичне поєднання сокири та совкової лопати.</p> </li> <li> <p>Інструменти для різних видів господарських робіт.</p> </li> <li> <p>Надійні матеріали та продумана конструкція.</p> </li> <li> <p>Підходить для використання вдома, на дачі та в саду.</p> </li> <li> <p>Зручне рішення для тих, хто хоче придбати одразу два необхідні інструменти.</p> </li> </ol>]]></description_ua>
    </offer>
   </offers>
  </shop>
