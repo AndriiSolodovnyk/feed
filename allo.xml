@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-20 19:45</date>
+    <date>2026-11-21 09:22</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -6302,7 +6302,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-28728430251976_+dd74d4c2ab.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-15413006159961_+58c199b6cb.png</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1066727105108</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -7864,7 +7864,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-42066089788938_+04073fe35d.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-33714671654514_+88b91d3e81.jpg</image>
             <priceRUAH>599</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1070166</param>
             <param name="Бренд">Fiskars</param>

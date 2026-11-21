@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-20 19:45">
+<yml_catalog date="2026-11-21 09:22">
   <shop>
     <name>Fiskars Gratis</name>
     <company>Fiskars Gratis</company>
@@ -1444,10 +1444,10 @@
         <param name="Код УКТ ЗЕД">8211920000</param>
         <param name="Категорія Хорошоп">FISKARS / Посуд та кухонний інвентар Fiskars / Кухонні ножі</param>
       </offer>
-      <offer id="1070166" available="true">
+      <offer id="1070166" available="false">
         <url>https://fiskars-gratis.com.ua/nizh-dlia-hrybiv-fiskars-21-sm-1070166/</url>
         <price>599</price>
-        <stock_quantity>10</stock_quantity>
+        <stock_quantity>0</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/19/nizh-dlia-hrybiv-fiskars-21-sm-1070166-67183323000267_+700321228a.jpg</picture>
@@ -1492,7 +1492,7 @@
       <offer id="1001319" available="true">
         <url>https://fiskars-gratis.com.ua/nabir-nozhiv-fiskars-control-2-sht-1001319/</url>
         <price>699</price>
-        <stock_quantity>323</stock_quantity>
+        <stock_quantity>322</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-80276608406322_+d89ee1affc.jpg</picture>
@@ -1627,7 +1627,7 @@
       <offer id="1064424" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-turystychnyi-gerber-mansfield-1064424/</url>
         <price>2549</price>
-        <stock_quantity>286</stock_quantity>
+        <stock_quantity>285</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1014</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/31/nizh-turystychnyi-gerber-mansfield-1064424-82788301827483_+69eded9d33.jpg</picture>
@@ -2091,7 +2091,7 @@
       <offer id="1027873" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-skladnyi-herber-flatiron-folder-g10/</url>
         <price>3263</price>
-        <stock_quantity>313</stock_quantity>
+        <stock_quantity>312</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1010</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/7/nizh-skladnyi-herber-flatiron-folder-g10-69264965826188_+ac6a5dbe8c.png</picture>
@@ -2302,7 +2302,7 @@
       <offer id="1057542" available="true">
         <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-koreneplodiv/</url>
         <price>755</price>
-        <stock_quantity>4</stock_quantity>
+        <stock_quantity>3</stock_quantity>
         <currencyId>UAH</currencyId>
         <categoryId>1005</categoryId>
         <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-42899483639817_+d6e48dfb3a.png</picture>
