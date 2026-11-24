@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-23 20:57">
+<yml_catalog date="2026-11-24 05:13">
  <shop>
   <currencies>
    <currency id="UAH" rate="1"/>
@@ -227,7 +227,7 @@
     <price>1069</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/28/vyla-dlia-sina-ergocomfort-90489817686205_+145949ee90.png</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -248,7 +248,7 @@
     <price>2499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1083</categoryId>
-    <quantity_in_stock>494</quantity_in_stock>
+    <quantity_in_stock>359</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/47/sokyra-tesliarskafiskars-solid-a10-1051085-32349492837763_+2f75112269.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/47/sokyra-tesliarskafiskars-solid-a10-1051085-19406112949108_+2d6c5d965d.jpg</picture>
     <dimensions>
@@ -293,7 +293,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1125</categoryId>
-    <quantity_in_stock>497</quantity_in_stock>
+    <quantity_in_stock>498</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-86012777730212_+d64300a136.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-59156442773986_+01158ecd68.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/sekator-ploshchynnyi-fiskars-white-p57-1026916-30705972979269_+f52bebd257.jpg</picture>
@@ -405,7 +405,7 @@
     <price>2699</price>
     <currencyId>UAH</currencyId>
     <categoryId>1126</categoryId>
-    <quantity_in_stock>436</quantity_in_stock>
+    <quantity_in_stock>406</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/4/hilkoriz-fiskars-white-l32-1026930-92647425246952_+3548994504.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/4/hilkoriz-fiskars-white-l32-1026930-88148517336668_+e2edb540b2.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/4/hilkoriz-fiskars-white-l32-1026930-44166924168142_+0f097f2324.jpeg</picture>
@@ -514,7 +514,7 @@
     <price>1399</price>
     <currencyId>UAH</currencyId>
     <categoryId>1086</categoryId>
-    <quantity_in_stock>411</quantity_in_stock>
+    <quantity_in_stock>402</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-92624600895717_+6167d795ea.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-61461375134180_+cfbbcc995c.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/10/pylka-sadova-ruchna-fiskars-solid-sw-16-1028376-74300102728108_+23315283d1.jpg</picture>
@@ -647,7 +647,7 @@
     <price>277</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>52</quantity_in_stock>
+    <quantity_in_stock>51</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/lopatka-dlia-peresadky-fiskars-solid-1025564-47156608600942_+ea51128c87.jpg</picture>
     <dimensions>
      <weight unit="kg">0.5</weight>
@@ -1078,7 +1078,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>3</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/3/pystolet-fiskars-fibercomp-multi-z-shvydkym-ziednuvachem-1057609-24669724926125_+de430c8b86.png</picture>
     <dimensions>
      <weight unit="kg">0.6</weight>
@@ -1634,7 +1634,7 @@
     <price>319</price>
     <currencyId>UAH</currencyId>
     <categoryId>1140</categoryId>
-    <quantity_in_stock>22</quantity_in_stock>
+    <quantity_in_stock>18</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/31/skrebok-avtomobilnyi-fiskars-solid-1019354-46861657243390_+d1c2ae8995.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/31/skrebok-avtomobilnyi-fiskars-solid-1019354-82231664622799_+61bc64ffe5.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/31/skrebok-avtomobilnyi-fiskars-solid-1019354-67176702943325_+7b3f0ff99f.jpg</picture>
@@ -1728,7 +1728,7 @@
     <price>2389</price>
     <currencyId>UAH</currencyId>
     <categoryId>1116</categoryId>
-    <quantity_in_stock>1352</quantity_in_stock>
+    <quantity_in_stock>1322</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/37/multytul-gerber-lockdown-pry-onyx-1059852-20803579743545_+8c789146ec.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/37/multytul-gerber-lockdown-pry-onyx-1059852-87291690752567_+d3650e9977.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/37/multytul-gerber-lockdown-pry-onyx-1059852-42489503284200_+6110eb448b.png</picture>
@@ -1778,7 +1778,7 @@
     <price>2389</price>
     <currencyId>UAH</currencyId>
     <categoryId>1116</categoryId>
-    <quantity_in_stock>13</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-12929657414260_+8063c37daf.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-94803589192986_+99d6282077.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/39/multytul-gerber-armbar-scout4lblsonyx3-12-1064399-85547544830448_+b8495d419b.jpg</picture>
@@ -2098,7 +2098,7 @@
     <price>1900</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>125</quantity_in_stock>
+    <quantity_in_stock>95</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/12/skovoroda-fiskars-handy-28-sm-1024458-35260909044832_+5273e73a6e.jpg</picture>
     <dimensions>
      <weight unit="kg">1.65</weight>
@@ -2119,7 +2119,7 @@
     <price>2618</price>
     <currencyId>UAH</currencyId>
     <categoryId>1094</categoryId>
-    <quantity_in_stock>327</quantity_in_stock>
+    <quantity_in_stock>297</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/13/skovoroda-fiskars-375-anniversary-24cm-1075041-78701288961717_+2ec1bcddae.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/13/skovoroda-fiskars-375-anniversary-24cm-1075041-39386612873535_+461253fa59.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/13/skovoroda-fiskars-375-anniversary-24cm-1075041-36178488189768_+d73d30e555.jpg</picture>
@@ -2208,7 +2208,7 @@
     <price>699</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>322</quantity_in_stock>
+    <quantity_in_stock>323</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-80276608406322_+d89ee1affc.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/nabir-nozhiv-fiskars-control-2-sht-1001319-56203335779112_+b9f714d8a3.jpg</picture>
     <dimensions>
@@ -2230,7 +2230,7 @@
     <price>3999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>563</quantity_in_stock>
+    <quantity_in_stock>530</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-63780900637716_+75525b7782.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/22/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-1000773-98312023505074_+813f2acc62.png</picture>
     <dimensions>
@@ -2252,7 +2252,7 @@
     <price>2249</price>
     <currencyId>UAH</currencyId>
     <categoryId>1119</categoryId>
-    <quantity_in_stock>627</quantity_in_stock>
+    <quantity_in_stock>597</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-46076303649247_+2be344ae48.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-31655412254585_+f7f1b3d9e0.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/24/machete-gerber-compact-clearpath-1024856-80301680838209_+1771102e69.jpg</picture>
@@ -2550,7 +2550,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>11</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-53694152285206_+37c40f9a10.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-85757459351668_+5e352d45ba.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/nozhytsi-dlia-kushchiv-fiskars-white-hs53-podarunok-hilkoriz-bilyi-white-l32-26004454274135_+7b1a04a4da.jpeg</picture>
@@ -2578,7 +2578,7 @@
     <price>2529</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>2</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-20174288914803_+21bb746d43.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-48706311834482_+bb8ee154fc.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/42/skovoroda-fiskars-rotisser-24-sm-podarunok-nabir-nozhiv-v-derevianomu-blotsi-kitchen-devil-61429318340921_+d4775cbd30.jpeg</picture>
@@ -2605,7 +2605,7 @@
     <price>1499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>23</quantity_in_stock>
+    <quantity_in_stock>25</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/44/sekator-ploshchynnyi-fiskars-white-p57-podarunok-lopata-sadova-shtykova-classic-fsc-31311812596551_+66e2a3862a.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/44/sekator-ploshchynnyi-fiskars-white-p57-podarunok-lopata-sadova-shtykova-classic-fsc-57870961286006_+3990412cb5.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/44/sekator-ploshchynnyi-fiskars-white-p57-podarunok-lopata-sadova-shtykova-classic-fsc-48999916034591_+c16509c682.jpeg</picture>
@@ -2633,7 +2633,7 @@
     <price>3999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>28</quantity_in_stock>
+    <quantity_in_stock>29</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-32125989159834_+30647d96da.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-67637309688726_+5f686b7f1a.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-37978057592319_+5ced897da8.jpeg</picture>
@@ -3056,7 +3056,7 @@
     <price>2499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>33</quantity_in_stock>
+    <quantity_in_stock>35</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/21/sokyra-tesliarskafiskars-solid-a10-podarunok-multytul-gerber-lockdown-slim16lbox-16028398386274_+568d7120db.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/sokyra-tesliarskafiskars-solid-a10-podarunok-multytul-gerber-lockdown-slim16lbox-12895555606171_+5bcd1c3abd.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/21/sokyra-tesliarskafiskars-solid-a10-podarunok-multytul-gerber-lockdown-slim16lbox-66553987141464_+d2c4756d63.jpeg</picture>
@@ -3196,7 +3196,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>19</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-56572278643966_+9114879737.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-35424771017291_+aa236078a8.jpeg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/27/lopata-sadova-shtykova-fiskars-classic-fsc-podarunok-sokyra-tesliarskafiskars-solid-a10-89896663174918_+af731c2105.jpeg</picture>
@@ -3448,7 +3448,7 @@
     <price>4949</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>220</quantity_in_stock>
+    <quantity_in_stock>190</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-96933841307303_+2ea2f4228a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-41276274993577_+8061d7a49a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/46/podarunkovyi-nabir-fiskars-norden-chopping-axe-n10-sharpener-1052276-56718764907761_+23de5f1a66.png</picture>
@@ -3473,7 +3473,7 @@
     <price>2179</price>
     <currencyId>UAH</currencyId>
     <categoryId>1176</categoryId>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>45</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-87277609157970_+134b771629.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/48/nozhytsi-fiskars-classic-25-sm-1001538-97195473123615_+325bd2ffed.png</picture>
     <dimensions>
@@ -3496,7 +3496,7 @@
     <price>1549</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>47</quantity_in_stock>
+    <quantity_in_stock>53</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-53859063065044_+b45e38e5f1.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-93548410822903_+accd02aa20.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-65393682270740_+57e1726ea8.png</picture>
@@ -3543,7 +3543,7 @@
     <price>1377</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>30</quantity_in_stock>
+    <quantity_in_stock>31</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-78110306972162_+c520d25b83.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-29526465452975_+4e194a5ba7.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/3/universalni-hrabli-fiskars-solid-1003466-23971255304224_+e384eabfbd.jpg</picture>
@@ -3679,7 +3679,7 @@
     <price>3596</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>648</quantity_in_stock>
+    <quantity_in_stock>618</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/12/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839-45127284275523_+cbe8c8c20e.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/12/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839-66045806837106_+3a369f856b.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/12/pidstavka-dlia-zberihannia-nozhiv-wooden-fiskars-1075839-31485166635165_+a37c59242e.jpg</picture>
@@ -3702,7 +3702,7 @@
     <price>5750</price>
     <currencyId>UAH</currencyId>
     <categoryId>1093</categoryId>
-    <quantity_in_stock>334</quantity_in_stock>
+    <quantity_in_stock>329</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-11480062848910_+77d5d7c5c4.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-27177459571730_+69c3d0dc43.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/13/koshyk-dlia-pryhotuvannia-na-paru-fiskars-norden-grill-30sm-1066431-21053062737135_+770506eb59.jpg</picture>
@@ -3726,7 +3726,7 @@
     <price>499</price>
     <currencyId>UAH</currencyId>
     <categoryId>1177</categoryId>
-    <quantity_in_stock>46</quantity_in_stock>
+    <quantity_in_stock>47</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/14/trymach-dlia-instrumentiv-fiskars-solid-2-hachkamy-5-sht-1057585-91991181957040_+96f115de8d.jpg</picture>
     <dimensions>
      <weight unit="kg">0.6</weight>
@@ -4103,7 +4103,7 @@
     <price>2300</price>
     <currencyId>UAH</currencyId>
     <categoryId>1087</categoryId>
-    <quantity_in_stock>67</quantity_in_stock>
+    <quantity_in_stock>68</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/44/lopata-sadova-klasychna-fiskars-fsc-1071929-72768843280182_+68cf3ee8c9.jpg</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -4384,7 +4384,7 @@
     <price>6089</price>
     <currencyId>UAH</currencyId>
     <categoryId>1072</categoryId>
-    <quantity_in_stock>199</quantity_in_stock>
+    <quantity_in_stock>169</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-46339224894432_+6135572017.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-24265086835934_+17f66091ec.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/9/nizh-santoku-fiskars-cleaver-all-steel-16-sm-74090879002246_+9c4e87df21.png</picture>
@@ -4457,7 +4457,7 @@
     <price>630</price>
     <currencyId>UAH</currencyId>
     <categoryId>1144</categoryId>
-    <quantity_in_stock>18</quantity_in_stock>
+    <quantity_in_stock>17</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-ff-dlia-miakoho-syru-29859177223056_+70b2739ef2.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/15/nizh-ff-dlia-miakoho-syru-44013081673304_+c45e5441ba.png</picture>
     <dimensions>
@@ -4566,7 +4566,7 @@
     <price>3865</price>
     <currencyId>UAH</currencyId>
     <categoryId>1093</categoryId>
-    <quantity_in_stock>455</quantity_in_stock>
+    <quantity_in_stock>445</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33434838095190_+9f34370262.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-60186051108908_+6f09f7c9f8.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/26/shchyptsi-dlia-hrylia-norden-grill-33631942862025_+9ee1c696dc.png</picture>
@@ -4987,7 +4987,7 @@
     <price>1156</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>115</quantity_in_stock>
+    <quantity_in_stock>116</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/48/hrabli-dlia-lystia-fiskars-ergo-94868965266400_+21ce684b0d.png</picture>
     <dimensions>
      <weight unit="kg">2.1</weight>
@@ -5804,7 +5804,7 @@
     <price>399</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>5</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/41/piler-50306433237508_+27d82abc27.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/piler-79911305863373_+13c78b1aae.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/41/piler-40470275572509_+1acf7a042f.png</picture>
@@ -6111,30 +6111,6 @@
     <name_ua><![CDATA[Набір ножів FF з бамбуковою підставкою, 5 шт (1057552)]]></name_ua>
     <description_ua><![CDATA[<p><strong><span style="font-size:18px;">Набір ножів FF з бамбуковою підставкою, 5 шт 1057552</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002012979)</span></p> <p><strong>Набір ножів Fiskars Functional Form з бамбуковою підставкою, 5 шт. (1057552)</strong>&nbsp;&mdash; універсальний комплект кухонних ножів для щоденного приготування їжі. До набору входять п&#39;ять ножів різного призначення та компактна бамбукова підставка для їх зручного зберігання. Леза виготовлені з міцної японської нержавіючої сталі.</p> <p><strong>Призначення:</strong>&nbsp;набір підходить для основних кухонних завдань: нарізання м&#39;яса, овочів, фруктів, хліба, томатів, зелені та інших продуктів. Різні типи ножів дозволяють підібрати оптимальний інструмент залежно від продукту та способу його обробки.</p> <p><strong>Конструкція:</strong>&nbsp;ножі мають ергономічні ручки з точками контакту SoftGrip&trade; та глибоким упором для пальців, що забезпечує комфортне й надійне утримання. Вертикальна підставка має окремі прорізи для ножів і компактну конструкцію, завдяки чому її можна розміщувати навіть під кухонними шафами, що низько висять.</p> <p><strong>Матеріали:</strong>&nbsp;леза виготовлені з японської нержавіючої сталі твердістю 52 HRC. Підставка виконана з бамбука та пластику, сертифікованих FSC&reg;. Ручки ножів виготовлені з міцного пластику з протиковзкими зонами SoftGrip&trade;.</p> <p><strong>Особливості:</strong>&nbsp;набір серії Functional Form містить п&#39;ять найбільш необхідних кухонних ножів. Ножі розроблені у Фінляндії та придатні для миття в посудомийній машині. Бамбукова підставка забезпечує компактне вертикальне зберігання та легкий доступ до кожного ножа.</p> <p><strong>Комплектація:</strong>&nbsp;великий кухарський ніж 20 см, ніж для хліба 21 см, ніж Santoku 16 см, ніж для томатів 12 см, ніж для коренеплодів 11 см, бамбукова підставка.</p>]]></description_ua>
    </offer>
-<offer id="1057542" group_id="61493" available="true">
-    <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-koreneplodiv/</url>
-    <price>755</price>
-    <currencyId>UAH</currencyId>
-    <categoryId>1072</categoryId>
-    <quantity_in_stock>1</quantity_in_stock>
-    <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-42899483639817_+d6e48dfb3a.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-24047610659874_+9b9c93b978.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-62907483771810_+a793041243.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-98821775135999_+3a6b070f6f.png</picture>
-    <picture>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-86948257667255_+48fa32927f.png</picture>
-    <dimensions>
-     <weight unit="kg">0.3</weight>
-     <width unit="cm">10</width>
-     <height unit="cm">3</height>
-     <length unit="cm">22</length>
-    </dimensions>
-    <vendorCode>1057542</vendorCode>
-    <vendor>Fiskars</vendor>
-    <name><![CDATA[Ніж FF для коренеплодів (1057542)]]></name>
-    <description><![CDATA[<p><strong></strong><strong><span style="font-size:18px;">Ніж FF для коренеплодів 1057542</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002012870)</span> &mdash; компактний кухонний ніж для щоденного очищення та нарізання овочів і фруктів. Оснащений міцним лезом із японської нержавіючої сталі та ергономічною ручкою з протиковзким покриттям SoftGrip&trade;.</p> <p><strong>Призначення:</strong>&nbsp;підходить для очищення та нарізання картоплі, моркви, буряка, інших коренеплодів, а також овочів і фруктів. Компактне лезо довжиною 11 см забезпечує зручність під час виконання точних кухонних завдань.</p> <p><strong>Конструкція:</strong>&nbsp;ніж має компактне лезо з двостороннім заточуванням та ергономічну ручку. Глибокий упор для пальця забезпечує надійне утримання та додатковий контроль під час роботи.</p> <p><strong>Матеріали:</strong>&nbsp;лезо виготовлене з японської нержавіючої сталі твердістю 52 HRC. Ручка виготовлена з пластику та має протиковзке покриття SoftGrip&trade;.</p> <p><strong>Особливості:</strong>&nbsp;ніж належить до серії Functional Form, розроблений у Фінляндії та призначений для легкого щоденного використання. Довжина леза &mdash; 11 см, вага &mdash; 58 г. Ніж придатний для миття в посудомийній машині.</p> <p><strong>Комплектація:</strong>&nbsp;ніж для коренеплодів Fiskars Functional Form 11 см &mdash; 1 шт.</p>]]></description>
-    <name_ua><![CDATA[Ніж FF для коренеплодів (1057542)]]></name_ua>
-    <description_ua><![CDATA[<p><strong></strong><strong><span style="font-size:18px;">Ніж FF для коренеплодів 1057542</span></strong> <span style="font-size:12px;font-weight:normal;">(штрихкод - 6424002012870)</span> &mdash; компактний кухонний ніж для щоденного очищення та нарізання овочів і фруктів. Оснащений міцним лезом із японської нержавіючої сталі та ергономічною ручкою з протиковзким покриттям SoftGrip&trade;.</p> <p><strong>Призначення:</strong>&nbsp;підходить для очищення та нарізання картоплі, моркви, буряка, інших коренеплодів, а також овочів і фруктів. Компактне лезо довжиною 11 см забезпечує зручність під час виконання точних кухонних завдань.</p> <p><strong>Конструкція:</strong>&nbsp;ніж має компактне лезо з двостороннім заточуванням та ергономічну ручку. Глибокий упор для пальця забезпечує надійне утримання та додатковий контроль під час роботи.</p> <p><strong>Матеріали:</strong>&nbsp;лезо виготовлене з японської нержавіючої сталі твердістю 52 HRC. Ручка виготовлена з пластику та має протиковзке покриття SoftGrip&trade;.</p> <p><strong>Особливості:</strong>&nbsp;ніж належить до серії Functional Form, розроблений у Фінляндії та призначений для легкого щоденного використання. Довжина леза &mdash; 11 см, вага &mdash; 58 г. Ніж придатний для миття в посудомийній машині.</p> <p><strong>Комплектація:</strong>&nbsp;ніж для коренеплодів Fiskars Functional Form 11 см &mdash; 1 шт.</p>]]></description_ua>
-   </offer>
 <offer id="1057544" group_id="62493" available="true">
     <url>https://fiskars-gratis.com.ua/nizh-ff-dlia-ovochiv-priamyi/</url>
     <price>755</price>
@@ -6288,7 +6264,7 @@
     <price>1599</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>299</quantity_in_stock>
+    <quantity_in_stock>284</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/14/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear-69377146487899_+c7b60afc60.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/14/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear-15054524274374_+a361d8a33b.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/14/nozhytsi-dlia-metalu-z-korotkym-lezom-powergear-59075632773303_+01f07448dd.jpg</picture>
@@ -6363,7 +6339,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>810</quantity_in_stock>
+    <quantity_in_stock>797</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-73482050415767_+7f9d9f3c0a.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-62165238128662_+7b4f17dcbf.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/19/nabir-fiskars-singlestep-hilkoriz-ploshchynnyi-sl28-sekator-ploshchynnyi-p26-85298417820742_+e0b770c847.png</picture>
@@ -6861,7 +6837,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>5</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/43/nozhytsi-fiskars-375-21-sm-52604055440987_+7b6c784840.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/43/nozhytsi-fiskars-375-21-sm-22832355475112_+6aef624f45.png</picture>
     <dimensions>
@@ -6985,7 +6961,7 @@
     <price>599</price>
     <currencyId>UAH</currencyId>
     <categoryId>156333769</categoryId>
-    <quantity_in_stock>82</quantity_in_stock>
+    <quantity_in_stock>83</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-17131597943110_+167e84e65d.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-94903583528626_+4e4f781015.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/49/lopata-fiskars-sovkova-klasychna-fsc-81496573318508_+2bea131b87.png</picture>
@@ -7028,7 +7004,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>14</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-37698904701762_+a2497125f9.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-58168144542852_+4614cbb679.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/2/lopata-sovkova-fiskars-prima-chorna-fscsokyra-tesliarska-solid-a10-35556107645267_+9678b0ff8e.png</picture>
@@ -7193,7 +7169,7 @@
     <price>999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>9</quantity_in_stock>
+    <quantity_in_stock>8</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-66856692547031_+f0de17be15.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-52724028681852_+f6ef372b50.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-26853019685921_+84c62f42b9.png</picture>
@@ -7276,7 +7252,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>15</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-34700090871095_+ab46608c96.jpg</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-15365417385023_+a0255b34ae.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-51419633299471_+ec55a9ae11.png</picture>
@@ -7299,7 +7275,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>12</quantity_in_stock>
+    <quantity_in_stock>13</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-28568877624496_+051bc719db.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-38119201586292_+87d4d88b48.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/12/sokyra-kolun-solid-a18hrabli-universaln-sadovi-solid-50017954335258_+65dcc6bba5.png</picture>
@@ -7380,7 +7356,7 @@
     <price>1999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>4</quantity_in_stock>
+    <quantity_in_stock>3</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-82063784673484_+f66232f806.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-55987521617138_+ce5df357b5.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/17/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-tesliarska-solid-a10-52927516409095_+b8dc6e7163.png</picture>
@@ -7399,7 +7375,7 @@
     <price>2999</price>
     <currencyId>UAH</currencyId>
     <categoryId>1192</categoryId>
-    <quantity_in_stock>6</quantity_in_stock>
+    <quantity_in_stock>4</quantity_in_stock>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-68712988809834_+0b31b52540.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-46234444984194_+df1d982d30.png</picture>
     <picture>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-66343082443110_+89bfe7cbf2.png</picture>

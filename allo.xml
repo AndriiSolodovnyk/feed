@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-23 20:57</date>
+    <date>2026-11-24 05:13</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -5098,7 +5098,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/43/nizh-skladnyi-gerber-quadrant16l-podarunok-multytul-lockdown-slim16lbox-45642795031755_+b9e901d198.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/43/nizh-skladnyi-gerber-quadrant16l-podarunok-multytul-lockdown-slim16lbox-36946216713962_+feb1a6fea0.jpeg</image>
             <priceRUAH>2298</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1066487105983</param>
             <param name="Бренд">Gerber</param>
