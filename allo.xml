@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-24 17:10</date>
+    <date>2026-11-25 02:00</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -800,7 +800,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-65300994722293_+c85142b97c.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/25/lopata-metaleva-shtykova-solid-f-90786615442320_+e1514b37dc.jpg</image>
             <priceRUAH>1299</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1066716</param>
             <param name="Бренд">Fiskars</param>
@@ -1239,7 +1239,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/41/lopata-dlia-rozsady-ergo-83406324739536_+a53dabefd3.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/41/lopata-dlia-rozsady-ergo-72783590107353_+02c3ddf572.png</image>
             <priceRUAH>299</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">300</guarantee>
             <param name="Артикул">1027018</param>
             <param name="Бренд">Fiskars</param>
@@ -5159,7 +5159,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-91615681670084_+a737a1f24e.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-49004994285689_+f048fd9840.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/45/nabir-nozhiv-v-derevianomu-blotsi-fiskars-kitchen-devil-podarunok-skovoroda-steel-28-sm-72080667779526_+c8a40d04a9.jpeg</image>
-            <priceRUAH>3999</priceRUAH>
+            <priceRUAH>2999</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1000773105909</param>
@@ -5385,7 +5385,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/22/pylka-sadova-ruchna-fiskars-solid-sw-16-podarunok-multytul-gerber-lockdown-slim16lbox-85314326682003_+2259ff631d.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/22/pylka-sadova-ruchna-fiskars-solid-sw-16-podarunok-multytul-gerber-lockdown-slim16lbox-30346137605668_+f4f1cf353f.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/22/pylka-sadova-ruchna-fiskars-solid-sw-16-podarunok-multytul-gerber-lockdown-slim16lbox-98353466310534_+8b4342aef6.jpeg</image>
-            <priceRUAH>1599</priceRUAH>
+            <priceRUAH>1699</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1028376105983</param>
@@ -5589,7 +5589,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-45522949929795_+266713f98b.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/28/vyla-sadovi-fiskars-white-podarunok-sokyra-tesliarskafiskars-solid-a10-39611485346034_+53b01f3946.jpeg</image>
             <priceRUAH>1999</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1070715105108</param>
             <param name="Бренд">Fiskars</param>
@@ -5651,7 +5651,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/30/nozhytsi-dlia-travy-fiskars-white-gs41-podarunok-pylka-sadova-ruchna-fiskars-solid-sw-16-67919458624919_+abe9b58708.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/30/nozhytsi-dlia-travy-fiskars-white-gs41-podarunok-pylka-sadova-ruchna-fiskars-solid-sw-16-93501309642014_+95835ce0e1.jpeg</image>
             <image>https://fiskars-gratis.com.ua/content/images/30/nozhytsi-dlia-travy-fiskars-white-gs41-podarunok-pylka-sadova-ruchna-fiskars-solid-sw-16-13946674505195_+bf9e00511f.jpeg</image>
-            <priceRUAH>1499</priceRUAH>
+            <priceRUAH>1799</priceRUAH>
             <stock>В наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1026917102837</param>
@@ -5834,7 +5834,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-93548410822903_+accd02aa20.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-65393682270740_+57e1726ea8.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/1/nozhytsi-dlia-kushchiv-fiskars-white-hs53-1026931-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-1026917-45782481694720_+a3a1761f53.png</image>
-            <priceRUAH>1549</priceRUAH>
+            <priceRUAH>1699</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1026931102691</param>
             <param name="Бренд">Fiskars</param>
@@ -5864,7 +5864,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/2/kotushka-zi-shlanhom-fiskars-waterwheel-s-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-83794167126653_+5dc5b02e83.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/2/kotushka-zi-shlanhom-fiskars-waterwheel-s-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-50249409122293_+1d66110b56.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/2/kotushka-zi-shlanhom-fiskars-waterwheel-s-podarunok-nozhytsi-dlia-travy-fiskars-white-gs41-50090062770436_+2824ea57f9.png</image>
-            <priceRUAH>4953</priceRUAH>
+            <priceRUAH>2999</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1026680102691</param>
             <param name="Бренд">Fiskars</param>
@@ -6077,7 +6077,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/37/trymach-instrumentu-fiskars-15608702031016_+0f4d70c130.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/37/trymach-instrumentu-fiskars-54255456404097_+ba4e1257c7.png</image>
             <priceRUAH>299</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1057584</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -6329,7 +6329,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-62363235538052_+714404abff.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-95090446200314_+f22dbe1efe.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/3/pylka-sadova-ruchna-solid-sw-16-tm-fiskarsnizh-ceviche-9eboxgrnblk-76647408135047_+8534cf73fa.png</image>
-            <priceRUAH>999</priceRUAH>
+            <priceRUAH>1299</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1028376106314</param>
             <param name="Бренд">Fiskars</param>
@@ -6357,7 +6357,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-55469477182580_+2b97dbf28f.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-86427114739844_+558092b185.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/6/sadovyi-sovok-fiskars-srppylka-sadova-ruchna-solid-sw-16-tm-fiskars-44299190617853_+5b7aa5e691.png</image>
-            <priceRUAH>999</priceRUAH>
+            <priceRUAH>1299</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1024706102837</param>
             <param name="Бренд">Fiskars</param>
@@ -6414,7 +6414,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-80238380470812_+8a44bd02d7.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-19865136130160_+087ffc686f.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/9/lopata-sadova-klasychna-fiskars-fscmultytul-lockdown-slim16lbox-98375671659086_+cdf55518bc.png</image>
-            <priceRUAH>999</priceRUAH>
+            <priceRUAH>1299</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1071929105983</param>
             <param name="Бренд">Fiskars</param>
@@ -6645,7 +6645,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/6/sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-45671585672581_+21f69275c1.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/6/sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-43170146989621_+07b90ca828.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/6/sekator-fiskars-softgrip-mmultytul-lockdown-slim16lbox-71668737520432_+3778814986.png</image>
-            <priceRUAH>999</priceRUAH>
+            <priceRUAH>1399</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1024711105983</param>
             <param name="Бренд">Fiskars</param>
@@ -6673,7 +6673,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-81507337455859_+146fb6b8e6.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-59499242964233_+89910852d6.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/7/sekator-fiskars-softgrip-mpylka-sadova-ruchna-solid-sw-16-tm-fiskars-48983114376977_+e79ae7148c.png</image>
-            <priceRUAH>999</priceRUAH>
+            <priceRUAH>1399</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1024711102837</param>
             <param name="Бренд">Fiskars</param>
@@ -6700,7 +6700,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/8/sokyra-tesliarska-solid-a10hrabli-universalni-sadovi-solid-93445579682769_+91332d5eb2.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/8/sokyra-tesliarska-solid-a10hrabli-universalni-sadovi-solid-37933209437371_+6bfea660d7.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/8/sokyra-tesliarska-solid-a10hrabli-universalni-sadovi-solid-12201273432799_+b12be4655e.png</image>
-            <priceRUAH>2499</priceRUAH>
+            <priceRUAH>2599</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1051085100346</param>
             <param name="Бренд">Fiskars</param>
@@ -6729,7 +6729,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-71326109912888_+378c9f0e7f.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-29849883434741_+075252d6f1.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/9/sokyra-kolun-solid-a18-machete-compact-clearpath-65391895480974_+a3ff5dae80.png</image>
-            <priceRUAH>2999</priceRUAH>
+            <priceRUAH>3499</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1052045102485</param>
             <param name="Бренд">Fiskars</param>
@@ -6760,7 +6760,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/10/sokyra-kolun-solid-a18-multytul-lockdown-slim16lbox-53264107130825_+4797c3feaf.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/10/sokyra-kolun-solid-a18-multytul-lockdown-slim16lbox-75721815027496_+ae1c1c81b4.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/10/sokyra-kolun-solid-a18-multytul-lockdown-slim16lbox-64100728155200_+87f9adb336.png</image>
-            <priceRUAH>2999</priceRUAH>
+            <priceRUAH>3499</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1052045105983</param>
             <param name="Бренд">Fiskars</param>
@@ -6791,7 +6791,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-58468799709687_+4cb81d9ce1.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-40237642340344_+3710d3a95f.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/11/sokyra-kolun-solid-a18vyla-sadovi-white-53672018001141_+0e97fc5825.png</image>
-            <priceRUAH>2999</priceRUAH>
+            <priceRUAH>3499</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1052045107071</param>
             <param name="Бренд">Fiskars</param>
@@ -6878,7 +6878,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/14/sokyra-kolun-solid-a18nizh-ceviche-9eboxgrnblk-23849821723757_+81478881a0.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/14/sokyra-kolun-solid-a18nizh-ceviche-9eboxgrnblk-53030515553087_+803c23182a.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/14/sokyra-kolun-solid-a18nizh-ceviche-9eboxgrnblk-71939082610352_+be5c3627b9.png</image>
-            <priceRUAH>2999</priceRUAH>
+            <priceRUAH>3199</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1052045106314</param>
             <param name="Бренд">Fiskars</param>
@@ -6931,7 +6931,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-37842163366507_+3cb25e370f.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-81674711878161_+559bebfbe0.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/16/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13lopata-sadova-klasychna-fiskars-fsc-68242086805915_+d021de7e33.png</image>
-            <priceRUAH>1499</priceRUAH>
+            <priceRUAH>1999</priceRUAH>
             <stock>В наявності</stock>
             <param name="Артикул">1027528107192</param>
             <param name="Бренд">Fiskars</param>
@@ -8525,7 +8525,7 @@
             <url>https://fiskars-gratis.com.ua/nizh-dlia-khliba-norr/</url>
             <image>https://fiskars-gratis.com.ua/content/images/22/nizh-dlia-khliba-norr-97203532936389_+f57684d943.png</image>
             <priceRUAH>2144</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">12</guarantee>
             <param name="Артикул">1016480</param>
             <param name="Бренд">Fiskars</param>
