@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-26 22:52</date>
+    <date>2026-11-27 04:51</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -1909,7 +1909,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/35/79425132619377_+e88a09baf6.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/35/92982241299008_+f71189dd2e.jpg</image>
             <priceRUAH>199</priceRUAH>
-            <stock>Немає в наявності</stock>
+            <stock>В наявності</stock>
             <param name="Артикул">1072100</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -10082,7 +10082,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-98821775135999_+3a6b070f6f.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/4/nizh-ff-dlia-koreneplodiv-86948257667255_+48fa32927f.png</image>
             <priceRUAH>755</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1057542</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
