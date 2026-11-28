@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <price>
-    <date>2026-11-27 23:16</date>
+    <date>2026-11-28 06:54</date>
     <firmName>Fiskars Gratis</firmName>
     <categories>
         <category>
@@ -786,7 +786,7 @@
             <url>https://fiskars-gratis.com.ua/lopata-shtykova-classicpro-chervona/</url>
             <image>https://fiskars-gratis.com.ua/content/images/23/lopata-shtykova-classicpro-chervona-99454331482890_+9871f6dc32.jpeg</image>
             <priceRUAH>899</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <guarantee type="manufacturer">60</guarantee>
             <param name="Артикул">1014775</param>
             <param name="Бренд">Fiskars</param>
@@ -1157,7 +1157,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/40/lopata-roler-dlia-snihu-fiskars-snowxpert-roller-x-series-1057179-16381498126247_+5c89253a93.jpg</image>
             <image>https://fiskars-gratis.com.ua/content/images/40/lopata-roler-dlia-snihu-fiskars-snowxpert-roller-x-series-1057179-92692592880718_+8a05c1bfa9.jpg</image>
             <priceRUAH>3099</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1057179</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -5626,7 +5626,7 @@
             <url>https://fiskars-gratis.com.ua/nozhytsi-dlia-khobbi-13sm/926/</url>
             <image>https://fiskars-gratis.com.ua/content/images/27/nozhytsi-dlia-khobbi-13sm926-80106799645416_+122e3b8fcc.png</image>
             <priceRUAH>499</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1005154</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
@@ -8213,7 +8213,7 @@
             <image>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-38080067969510_+392d8bc469.png</image>
             <image>https://fiskars-gratis.com.ua/content/images/18/suchkoriz-ploshchynnyi-teleskopichnyi-solid-l13sokyra-kolun-solid-a18-88536362254411_+ed063c4ced.png</image>
             <priceRUAH>2999</priceRUAH>
-            <stock>В наявності</stock>
+            <stock>Немає в наявності</stock>
             <param name="Артикул">1027528105204</param>
             <param name="Бренд">Fiskars</param>
             <param name="Оригінальність">Оригінал</param>
